@@ -4,32 +4,9 @@ import json
 import time
 import shutil
 import subprocess
-import re
 import yt_dlp
+import cutlet
 from faster_whisper import WhisperModel
-from pykakasi import kakasi
-
-# Split only on particles (助詞) — not punctuation or te-form て / adjective しい, etc.
-PARTICLE_SPLIT_RE = re.compile(
-    r"("
-    r"から|まで|より|では|には|って|など|とも|だけ|ばかり|"
-    r"は|が|を|に|へ|で|と|も|の|か|ね|よ|"
-    r")"
-)
-
-
-def build_romaji(jp_text: str, kks) -> str:
-    """Romaji with spaces only at particles (wa, ga, wo, ni, de, to, ...) for mobile wraps."""
-    tokens = []
-    for part in PARTICLE_SPLIT_RE.split(jp_text):
-        if not part:
-            continue
-        converted = kks.convert(part)
-        # Concatenate syllables within each chunk; space only between particle splits.
-        chunk = "".join(item["hepburn"] for item in converted if item.get("hepburn"))
-        if chunk:
-            tokens.append(chunk.lower())
-    return " ".join(tokens)
 
 # =====================================================================
 # STEP 1: FIX CUDA/CUBLAS PATH FOR UBUNTU
@@ -144,7 +121,7 @@ def process():
     start_time = time.time()
     segments_jp, _ = model.transcribe("audio_source.m4a", language="ja", vad_filter=True)
     
-    kks = kakasi()
+    cutter = cutlet.Cutlet()
     
     structured_data = []
     
@@ -161,7 +138,7 @@ def process():
         )
         en_text = "".join([s.text for s in en_segments]).strip() or "(Translating...)"
         
-        romaji_text = build_romaji(jp_text, kks)
+        romaji_text = cutter.romaji(jp_text)
         
         segment_audio_filename = f"seg_{idx}.mp3"
         segment_audio_path = os.path.join(audio_out_dir, segment_audio_filename)
