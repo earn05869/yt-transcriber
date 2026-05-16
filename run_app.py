@@ -74,7 +74,9 @@ def manage_storage():
         print(f"🗑️ ลบบทเรียน '{oldest_lesson['title']}' เรียบร้อยเพื่อคืนพื้นที่")
 
 def process():
-    url = input("วางลิงก์ YouTube ที่นี่: ")
+    url = input("วางลิงก์ YouTube ที่นี่: ").strip()
+    start_time_input = input("ระบุเวลาเริ่ม (นาที:วินาที เช่น 1:30) [เว้นว่างถ้าต้องการตั้งแต่ต้น]: ").strip()
+    end_time_input = input("ระบุเวลาจบ (นาที:วินาที เช่น 24:15) [เว้นว่างถ้าต้องการจนจบ]: ").strip()
     
     # ดึงข้อมูลวิดีโอเพื่อเอา ID และ Title
     print("\n[1/5] กำลังดึงข้อมูลวิดีโอ...")
@@ -97,6 +99,18 @@ def process():
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
+
+    # 1.5 Crop Audio if needed
+    if start_time_input or end_time_input:
+        print("\n[2.5] กำลังตัดช่วงเสียง (ข้ามเพลงเปิด/ปิด)...")
+        crop_cmd = ['ffmpeg', '-y']
+        if start_time_input:
+            crop_cmd.extend(['-ss', start_time_input])
+        if end_time_input:
+            crop_cmd.extend(['-to', end_time_input])
+        crop_cmd.extend(['-i', 'audio_source.m4a', '-c', 'copy', 'audio_cropped.m4a'])
+        subprocess.run(crop_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        os.replace('audio_cropped.m4a', 'audio_source.m4a')
 
     # 2. Load Model
     print("\n[3/5] กำลังโหลด Model เข้า RTX 4070...")
@@ -125,7 +139,7 @@ def process():
         en_text = "".join([s.text for s in en_segments]).strip() or "(Translating...)"
         
         result = kks.convert(jp_text)
-        romaji_text = "".join([item['hepburn'] for item in result]).strip().lower()
+        romaji_text = " ".join([item['hepburn'] for item in result]).strip().lower()
         
         segment_audio_filename = f"seg_{idx}.mp3"
         segment_audio_path = os.path.join(audio_out_dir, segment_audio_filename)
