@@ -108,10 +108,6 @@ def process():
     segments_jp, _ = model.transcribe("audio_source.m4a", language="ja", vad_filter=True)
     
     kks = kakasi()
-    kks.setMode("H", "a")
-    kks.setMode("K", "a")
-    kks.setMode("J", "a")
-    converter = kks.getConverter()
     
     structured_data = []
     
@@ -128,7 +124,7 @@ def process():
         )
         en_text = "".join([s.text for s in en_segments]).strip() or "(Translating...)"
         
-        romaji_text = converter.do(jp_text).strip().lower()
+        romaji_text = "".join([item['hepburn'] for item in kks.convert(jp_text)]).strip().lower()
         
         segment_audio_filename = f"seg_{idx}.mp3"
         segment_audio_path = os.path.join(audio_out_dir, segment_audio_filename)
