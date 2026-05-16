@@ -1,107 +1,135 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Anime Learning Hub</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link href="./dist/output.css" rel="stylesheet">
+    <link href="./dist/output.css?v=2" rel="stylesheet">
     <style>
         /* Essential non-tailwind fixes */
-        .view { display: none; animation: fadeIn 0.3s ease-out forwards; }
-        .view.active { display: block; }
+        .view {
+            display: none;
+            animation: fadeIn 0.3s ease-out forwards;
+        }
+
+        .view.active {
+            display: block;
+        }
+
         @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(8px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
     </style>
 </head>
+
 <body class="font-['Inter'] antialiased p-3 sm:p-6 text-zinc-100">
 
-<div id="app" class="max-w-4xl mx-auto relative">
-    <header class="text-center pt-2 sm:pt-6 pb-6 sm:pb-10">
-        <h1 class="text-2xl sm:text-4xl font-bold text-white mb-1 sm:mb-2 tracking-tight">Anime Learning Hub</h1>
-        <p class="text-sm sm:text-base text-zinc-400">Your interactive language repository</p>
-    </header>
+    <div id="app" class="max-w-4xl mx-auto relative">
+        <header class="text-center pt-2 sm:pt-6 pb-6 sm:pb-10">
+            <h1 class="text-2xl sm:text-4xl font-bold text-white mb-1 sm:mb-2 tracking-tight">Anime Learning Hub</h1>
+            <p class="text-sm sm:text-base text-zinc-400">Your interactive language repository</p>
+        </header>
 
-    <!-- Dashboard View -->
-    <div id="dashboard-view" class="view active">
-        <div id="lesson-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
-            <div class="col-span-full text-center py-10 text-blue-400 font-semibold animate-pulse">Loading lessons...</div>
+        <!-- Dashboard View -->
+        <div id="dashboard-view" class="view active">
+            <div id="lesson-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-5">
+                <div class="col-span-full text-center py-10 text-blue-400 font-semibold animate-pulse">Loading
+                    lessons...</div>
+            </div>
+        </div>
+
+        <!-- Lesson View -->
+        <div id="lesson-view" class="view">
+            <div
+                class="flex items-center bg-brand-card/80 backdrop-blur-md border border-brand-border px-3 py-3 sm:px-5 sm:py-4 rounded-xl mb-6 shadow-sm">
+                <button onclick="showDashboard()"
+                    class="flex items-center gap-2 bg-brand-border hover:bg-blue-500 hover:text-white text-zinc-100 px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg text-sm sm:text-base font-medium transition-colors flex-shrink-0">
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 12H5M12 19l-7-7 7-7" />
+                    </svg>
+                    Back
+                </button>
+                <h2 id="lesson-title"
+                    class="ml-3 sm:ml-5 text-base sm:text-xl font-semibold text-white truncate leading-snug">Loading...
+                </h2>
+            </div>
+            <div id="sentence-list" class="space-y-4"></div>
         </div>
     </div>
 
-    <!-- Lesson View -->
-    <div id="lesson-view" class="view">
-        <div class="flex items-center bg-brand-card/80 backdrop-blur-md border border-brand-border px-3 py-3 sm:px-5 sm:py-4 rounded-xl mb-6 shadow-sm">
-            <button onclick="showDashboard()" class="flex items-center gap-2 bg-brand-border hover:bg-blue-500 hover:text-white text-zinc-100 px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg text-sm sm:text-base font-medium transition-colors flex-shrink-0">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-                Back
-            </button>
-            <h2 id="lesson-title" class="ml-3 sm:ml-5 text-base sm:text-xl font-semibold text-white truncate leading-snug">Loading...</h2>
-        </div>
-        <div id="sentence-list" class="space-y-4"></div>
-    </div>
-</div>
+    <script>
+        const dashboardView = document.getElementById('dashboard-view');
+        const lessonView = document.getElementById('lesson-view');
+        const lessonListEl = document.getElementById('lesson-list');
+        const sentenceListEl = document.getElementById('sentence-list');
+        const lessonTitleEl = document.getElementById('lesson-title');
 
-<script>
-    const dashboardView = document.getElementById('dashboard-view');
-    const lessonView = document.getElementById('lesson-view');
-    const lessonListEl = document.getElementById('lesson-list');
-    const sentenceListEl = document.getElementById('sentence-list');
-    const lessonTitleEl = document.getElementById('lesson-title');
+        let currentVideoId = null;
 
-    let currentVideoId = null;
+        async function loadDashboard() {
+            try {
+                const res = await fetch('data/index.json');
+                if (!res.ok) throw new Error('No index found');
+                const data = await res.json();
 
-    async function loadDashboard() {
-        try {
-            const res = await fetch('data/index.json');
-            if (!res.ok) throw new Error('No index found');
-            const data = await res.json();
-            
-            if (data.length === 0) {
-                lessonListEl.innerHTML = '<div class="col-span-full text-center py-16 text-blue-400"><h3 class="text-xl font-bold mb-2">No lessons found</h3><p class="text-sm">Run your python script to add some!</p></div>';
-                return;
-            }
+                if (data.length === 0) {
+                    lessonListEl.innerHTML = '<div class="col-span-full text-center py-16 text-blue-400"><h3 class="text-xl font-bold mb-2">No lessons found</h3><p class="text-sm">Run your python script to add some!</p></div>';
+                    return;
+                }
 
-            lessonListEl.innerHTML = data.reverse().map(lesson => `
+                lessonListEl.innerHTML = data.reverse().map(lesson => `
                 <div class="glass-card cursor-pointer p-5" onclick="openLesson('${lesson.id}', '${lesson.title.replace(/'/g, "\\'")}')">
                     <div class="text-lg font-semibold text-white mb-2 line-clamp-2 leading-tight">${lesson.title}</div>
                     <div class="text-xs text-blue-300 font-medium">${lesson.date}</div>
                 </div>
             `).join('');
-            
-        } catch (err) {
-            console.error(err);
-            lessonListEl.innerHTML = '<div class="col-span-full text-center py-16 text-blue-400"><h3 class="text-xl font-bold mb-2">Welcome!</h3><p class="text-sm">Please run run_app.py to initialize your first lesson.</p></div>';
+
+            } catch (err) {
+                console.error(err);
+                lessonListEl.innerHTML = '<div class="col-span-full text-center py-16 text-blue-400"><h3 class="text-xl font-bold mb-2">Welcome!</h3><p class="text-sm">Please run run_app.py to initialize your first lesson.</p></div>';
+            }
         }
-    }
 
-    async function openLesson(id, title) {
-        currentVideoId = id;
-        lessonTitleEl.textContent = title;
-        sentenceListEl.innerHTML = '<div class="text-center py-10 text-blue-400 font-semibold animate-pulse">Loading sentences...</div>';
-        
-        dashboardView.classList.remove('active');
-        lessonView.classList.add('active');
-        window.scrollTo(0, 0);
+        async function openLesson(id, title) {
+            currentVideoId = id;
+            lessonTitleEl.textContent = title;
+            sentenceListEl.innerHTML = '<div class="text-center py-10 text-blue-400 font-semibold animate-pulse">Loading sentences...</div>';
 
-        try {
-            const res = await fetch(`data/lesson_${id}.json`);
-            if (!res.ok) throw new Error('Lesson data not found');
-            const sentences = await res.json();
-            
-            const progress = JSON.parse(localStorage.getItem(`progress_${id}`) || '{}');
+            dashboardView.classList.remove('active');
+            lessonView.classList.add('active');
+            window.scrollTo(0, 0);
 
-            sentenceListEl.innerHTML = sentences.map(s => `
+            try {
+                const res = await fetch(`data/lesson_${id}.json`);
+                if (!res.ok) throw new Error('Lesson data not found');
+                const sentences = await res.json();
+
+                const progress = JSON.parse(localStorage.getItem(`progress_${id}`) || '{}');
+
+                sentenceListEl.innerHTML = sentences.map(s => `
                 <div class="glass-card sentence-item ${progress[s.id] ? 'opacity-50 !border-green-500' : ''}" id="card-${s.id}">
                     <div class="flex justify-between items-start gap-3 sm:gap-4">
-                        <div class="flex-1 min-w-0 break-words">
-                            <div class="text-[1.2rem] sm:text-[1.4rem] font-bold text-white mb-1.5 leading-snug">${s.jp}</div>
-                            <div class="flex flex-col items-start mb-1.5 w-full">
-                                <div class="max-w-full text-[0.85rem] sm:text-[1rem] text-blue-300 font-mono bg-white/5 px-2 py-1 rounded break-all whitespace-normal">${s.rm}</div>
+                        <div class="flex-1 min-w-0 overflow-hidden">
+                            <div class="text-[1.2rem] sm:text-[1.4rem] font-bold text-white mb-1.5 leading-snug break-anywhere">
+                                ${s.jp}
                             </div>
-                            <div class="text-[0.95rem] sm:text-[1.1rem] text-zinc-400 mt-1">${s.en}</div>
+                            <div class="w-full text-[0.85rem] sm:text-[1rem] text-blue-300 font-mono bg-white/5 px-2 py-1 rounded mb-1.5 break-anywhere">
+                                ${s.rm}
+                            </div>
+                            <div class="text-[0.95rem] sm:text-[1.1rem] text-zinc-400 mt-1 break-anywhere">
+                                ${s.en}
+                            </div>
                         </div>
                         <div class="flex-shrink-0 pt-1">
                             <input type="checkbox" class="custom-checkbox" 
@@ -112,36 +140,37 @@
                     <audio controls preload="none" src="${s.audio}"></audio>
                 </div>
             `).join('');
-            
-        } catch (err) {
-            console.error(err);
-            sentenceListEl.innerHTML = '<div class="text-center py-16 text-red-400">Error loading lesson data.</div>';
-        }
-    }
 
-    function toggleProgress(sentenceId, checkboxElement) {
-        if (!currentVideoId) return;
-        
-        const card = document.getElementById(`card-${sentenceId}`);
-        if (checkboxElement.checked) {
-            card.classList.add('opacity-50', '!border-green-500');
-        } else {
-            card.classList.remove('opacity-50', '!border-green-500');
+            } catch (err) {
+                console.error(err);
+                sentenceListEl.innerHTML = '<div class="text-center py-16 text-red-400">Error loading lesson data.</div>';
+            }
         }
 
-        const progressKey = `progress_${currentVideoId}`;
-        const progress = JSON.parse(localStorage.getItem(progressKey) || '{}');
-        progress[sentenceId] = checkboxElement.checked;
-        localStorage.setItem(progressKey, JSON.stringify(progress));
-    }
+        function toggleProgress(sentenceId, checkboxElement) {
+            if (!currentVideoId) return;
 
-    function showDashboard() {
-        lessonView.classList.remove('active');
-        dashboardView.classList.add('active');
-        currentVideoId = null;
-    }
+            const card = document.getElementById(`card-${sentenceId}`);
+            if (checkboxElement.checked) {
+                card.classList.add('opacity-50', '!border-green-500');
+            } else {
+                card.classList.remove('opacity-50', '!border-green-500');
+            }
 
-    loadDashboard();
-</script>
+            const progressKey = `progress_${currentVideoId}`;
+            const progress = JSON.parse(localStorage.getItem(progressKey) || '{}');
+            progress[sentenceId] = checkboxElement.checked;
+            localStorage.setItem(progressKey, JSON.stringify(progress));
+        }
+
+        function showDashboard() {
+            lessonView.classList.remove('active');
+            dashboardView.classList.add('active');
+            currentVideoId = null;
+        }
+
+        loadDashboard();
+    </script>
 </body>
+
 </html>
