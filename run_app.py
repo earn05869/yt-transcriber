@@ -14,9 +14,15 @@ from pykakasi import kakasi
 if 'VIRTUAL_ENV' in os.environ:
     venv_path = os.environ['VIRTUAL_ENV']
     py_version = f"python{sys.version_info.major}.{sys.version_info.minor}"
-    cublas_path = os.path.join(venv_path, 'lib', py_version, 'site-packages', 'nvidia', 'cublas', 'lib')
-    cudnn_path = os.path.join(venv_path, 'lib', py_version, 'site-packages', 'nvidia', 'cudnn', 'lib')
-    os.environ['LD_LIBRARY_PATH'] = f"{cublas_path}:{cudnn_path}:{os.environ.get('LD_LIBRARY_PATH', '')}"
+    nvidia_base = os.path.join(venv_path, 'lib', py_version, 'site-packages', 'nvidia')
+    cublas_path = os.path.join(nvidia_base, 'cublas', 'lib')
+    cudnn_path = os.path.join(nvidia_base, 'cudnn', 'lib')
+    nvrtc_path = os.path.join(nvidia_base, 'cuda_nvrtc', 'lib')
+    
+    current_ld_path = os.environ.get('LD_LIBRARY_PATH', '')
+    if cublas_path not in current_ld_path:
+        os.environ['LD_LIBRARY_PATH'] = f"{cublas_path}:{cudnn_path}:{nvrtc_path}:{current_ld_path}".strip(':')
+        os.execv(sys.executable, [sys.executable] + sys.argv)
 
 # =====================================================================
 # CONFIGURATION

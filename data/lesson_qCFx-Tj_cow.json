@@ -1,0 +1,2438 @@
+[
+    {
+        "id": 1,
+        "jp": "堀北は生徒会に入ったが、俺に目当たらしい情報が入ることはなかった。",
+        "rm": "horikitahaseitokainiitsutsutaga、orenimeatarashiijouhougairukotohanakatta。",
+        "en": "Horikita entered the student council, but I never got any new information.",
+        "audio": "audio/qCFx-Tj_cow/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "なぐも個人の思惑はさておき、生徒会の運営は至って健全なものらしい。",
+        "rm": "nagumokojinnoomowakuhasateoki、seitokainoun'eihaitatsutekenzennamonorashii。",
+        "en": "Nagumo's selfishness seems to be gone, and the student council's management seems to be in good hands.",
+        "audio": "audio/qCFx-Tj_cow/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "状況が動き出したのは、グループ作りの期限まであと1週間となった週末。",
+        "rm": "joukyougaugokidashitanoha、guruuputsukurinokigenmadeato1shuukantonattashuumatsu。",
+        "en": "The situation began to move, and it was the weekend that was one week away from the beginning of making the group.",
+        "audio": "audio/qCFx-Tj_cow/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "副会長である霧山からの呼び出しだった。",
+        "rm": "fukukaichoudearukiriyamakaranoyobidashidatta。",
+        "en": "It was a call from the vice president, Kiriyama.",
+        "audio": "audio/qCFx-Tj_cow/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "副会長がどんな用件ですか?",
+        "rm": "fukukaichougadonnayoukendesuka?",
+        "en": "Please subscribe to my channel and give it a high rating.",
+        "audio": "audio/qCFx-Tj_cow/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "月末には無人投資権が始まるが、その準備は済んでいるのか?",
+        "rm": "getsumatsunihamujintoushikengahajimaruga、sonojunbihasundeirunoka?",
+        "en": "What do you want me to do? At the end of the month, we'll have an uninhabited island test.",
+        "audio": "audio/qCFx-Tj_cow/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "できることはしてるつもりです。霧山副会長はどうですか?",
+        "rm": "dekirukotohashiterutsumoridesu。kiriyamafukukaichouhadoudesuka?",
+        "en": "Are you prepared for that? I intend to do what I can.",
+        "audio": "audio/qCFx-Tj_cow/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "俺は今回の無人投資権で、個人的な戦いを仕掛けようと思っている。",
+        "rm": "orehakonkainomujintoushikende、kojintekinatatakaiwoshikakeyoutoomotteiru。",
+        "en": "How about you, Vice-Chairman Kiriyama? I'm going to take this time to...",
+        "audio": "audio/qCFx-Tj_cow/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "個人的な戦いですか?",
+        "rm": "kojintekinatatakaidesuka?",
+        "en": "I'm thinking of setting up a trap.",
+        "audio": "audio/qCFx-Tj_cow/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "なぐもとの戦いに敗れて、俺たちはクラスを落とし、あいつは学校全体を障悪しつつある。",
+        "rm": "nagumotonotatakainiyaburete、oretachihakurasuwootoshi、aitsuhagakkouzentaiwoshouwarushitsutsuaru。",
+        "en": "It's a personal battle, is it? We lost the battle against Nagumoto, and we lost our class.",
+        "audio": "audio/qCFx-Tj_cow/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "もはやクラスとしての決着はついてしまった。",
+        "rm": "mohayakurasutoshitenoketchakuhatsuiteshimatta。",
+        "en": "While he was taking care of the entire school.",
+        "audio": "audio/qCFx-Tj_cow/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "ここから何ができるとしたら、個人として決着をつけることだけだ。",
+        "rm": "kokokarananigadekirutoshitara、kojintoshiteketchakuwotsukerukotodakeda。",
+        "en": "I've come to an end as a class member. What can I do from here on out?",
+        "audio": "audio/qCFx-Tj_cow/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "話は分かりました。でも、わざわざ俺に報告するようなことじゃないですよね。",
+        "rm": "hanashihawakarimashita。demo、wazawazaorenihoukokusuruyounakotojanaidesuyone。",
+        "en": "It's just a matter of making a decision as an individual. I understand what you're saying. But...",
+        "audio": "audio/qCFx-Tj_cow/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "場外から邪魔をされたくないということだ。",
+        "rm": "jougaikarajamawosaretakunaitoiukotoda。",
+        "en": "You didn't have to report it to me.",
+        "audio": "audio/qCFx-Tj_cow/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "場外?",
+        "rm": "jougai?",
+        "en": "I don't think so.",
+        "audio": "audio/qCFx-Tj_cow/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "堀北先輩の妹を生徒会に入れたのは、なぐもを監視するためなんだろう。",
+        "rm": "horikitasenpainoimoutowoseitokainiiretanoha、nagumowokanshisurutamenandarou。",
+        "en": "I don't want you to get in my way. Disaster?",
+        "audio": "audio/qCFx-Tj_cow/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "全くないかと言われたら嘘になりますが、理由の大半は別です。堀北が兄貴の通った道を通るためですよ。",
+        "rm": "mattakunaikatoiwaretarausoninarimasuga、riyuunotaihanhabetsudesu。horikitagaanikinokayotsutamichiwotourutamedesuyo。",
+        "en": "The reason why I put my sister in the student council is to keep an eye on Nagumo, isn't it? If you tell me there's no reason, I'd be lying, but most of the reasons are different.",
+        "audio": "audio/qCFx-Tj_cow/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "なら邪魔はしないということだな。",
+        "rm": "narajamahashinaitoiukotodana。",
+        "en": "Horikita walks down the path of his older brother.",
+        "audio": "audio/qCFx-Tj_cow/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "堀北がなぐもを障害だと思わない限りは。",
+        "rm": "horikitaganagumowoshougaidatoomowanaikagiriha。",
+        "en": "I'm just trying to get through. Then I won't get in your way.",
+        "audio": "audio/qCFx-Tj_cow/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "それではダメだ。堀北先輩と通じていたことは、なぐももうすうす察している。",
+        "rm": "soredehadameda。horikitasenpaitotsuujiteitakotoha、nagumomousuususashiteiru。",
+        "en": "As long as Horikita doesn't think Nagumo is an obstacle... Well then...",
+        "audio": "audio/qCFx-Tj_cow/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "ここで余計なことをされたら。",
+        "rm": "kokodeyokeinakotowosaretara。",
+        "en": "Horikita-senpai and 2",
+        "audio": "audio/qCFx-Tj_cow/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "霧山副会長の身が危ない、ですか。",
+        "rm": "kiriyamafukukaichounomigaabunai、desuka。",
+        "en": "Nagumo is also looking for her. If she does anything unnecessary here...",
+        "audio": "audio/qCFx-Tj_cow/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "Aクラスに移籍するチャンスが欲しくなりましたか。",
+        "rm": "akurasuniisekisuruchansugahosshikunarimashitaka。",
+        "en": "The body of Vice-Chairman Kiriyama is in danger.",
+        "audio": "audio/qCFx-Tj_cow/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "Aクラス以外で卒業するのに何の意味がある。",
+        "rm": "akurasuigaidesotsugyousurunoninannoimigaaru。",
+        "en": "That's right.",
+        "audio": "audio/qCFx-Tj_cow/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "無能や変人の集まるBクラスと共に沈んでいくのは、まっぴらごめんだ。",
+        "rm": "munouyahenjinnoatsumarubkurasutotomonishizundeikunoha、mappiragomenda。",
+        "en": "Do you want a boss now? Why do you want to graduate without A-Class?",
+        "audio": "audio/qCFx-Tj_cow/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "霧山。面白い後輩と一緒にいるようだな。",
+        "rm": "kiriyama。omoshiroikouhaitoisshoniiruyoudana。",
+        "en": "The only way to sink with the B-class that gathers incompetent and strange people is with a pile of garbage!",
+        "audio": "audio/qCFx-Tj_cow/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "綾野孝二清高だろう。",
+        "rm": "ayanokoujikiyotakadarou。",
+        "en": "Kiriyama",
+        "audio": "audio/qCFx-Tj_cow/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "そんな男と時間を過ごしても得るものは何もないぞ。",
+        "rm": "sonnaotokotojikanwosugoshitemoerumonohananimonaizo。",
+        "en": "It seems to be with you. Ayano Koji Kiyo-",
+        "audio": "audio/qCFx-Tj_cow/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "お前といるよりは意義がある。",
+        "rm": "omaetoiruyorihaigigaaru。",
+        "en": "I don't want to waste my time with a man like that.",
+        "audio": "audio/qCFx-Tj_cow/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "それを決めるのは綾野孝二だろう。",
+        "rm": "sorewokimerunohaayanokoujidarou。",
+        "en": "There's nothing here.",
+        "audio": "audio/qCFx-Tj_cow/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "あいつは気流員。俺と同じBクラスの人間だ。",
+        "rm": "aitsuhakiryuuin。oretoonajibkurasunoningenda。",
+        "en": "There's a reason for that. Ayano Koushu is the one who decides that.",
+        "audio": "audio/qCFx-Tj_cow/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "応援Aを見ましたよ。",
+        "rm": "ouenawomimashitayo。",
+        "en": "That's Kiryu-in.",
+        "audio": "audio/qCFx-Tj_cow/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "学力・身体能力共にAプラスという高い評価の生徒ですよね。",
+        "rm": "gakuryoku.shintainouryokutomoniapurasutoiutakaihyoukanoseitodesuyone。",
+        "en": "I'm a B-class man. I saw your A.",
+        "audio": "audio/qCFx-Tj_cow/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "成績だけはな。",
+        "rm": "seisekidakehana。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "だがナグモのような後ろ立ては一切ない。",
+        "rm": "daganagumonoyounaushirotatehaissainai。",
+        "en": "It is a student with a high evaluation.",
+        "audio": "audio/qCFx-Tj_cow/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "満足な友人一人いない人間だ。",
+        "rm": "manzokunayuujinhitoriinainingenda。",
+        "en": "The only thing that matters is the results.",
+        "audio": "audio/qCFx-Tj_cow/seg_36.mp3"
+    },
+    {
+        "id": 37,
+        "jp": "そう褒めてくれるな。照れるだろ?",
+        "rm": "souhometekureruna。tererudaro?",
+        "en": "There's no one behind you.",
+        "audio": "audio/qCFx-Tj_cow/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "まともに相手をするだけ時間の無駄だ。",
+        "rm": "matomoniaitewosurudakejikannomudada。",
+        "en": "I'm not alone.",
+        "audio": "audio/qCFx-Tj_cow/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "どうした?",
+        "rm": "doushita?",
+        "en": "Don't shake it.",
+        "audio": "audio/qCFx-Tj_cow/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "こっちにこっちに。",
+        "rm": "kotchinikotchini。",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/qCFx-Tj_cow/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "呼ばれてるが。",
+        "rm": "yobareteruga。",
+        "en": "I just want to be with you.",
+        "audio": "audio/qCFx-Tj_cow/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "来ないならこっちから行くことになるが。",
+        "rm": "konainarakotchikaraikukotoninaruga。",
+        "en": "What's wrong?",
+        "audio": "audio/qCFx-Tj_cow/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "それでもいいのか?",
+        "rm": "soredemoiinoka?",
+        "en": "Don't you want to go?",
+        "audio": "audio/qCFx-Tj_cow/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "こんなのが言ったから、俺はBクラスに甘んじったんだ。",
+        "rm": "konnanogaittakara、orehabkurasuniamanjittanda。",
+        "en": "If you don't come, you'll have to go from here.",
+        "audio": "audio/qCFx-Tj_cow/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "単独行動ばかりで貢献しない、苦手なクラスの異物だ。",
+        "rm": "tandokukoudoubakaridekoukenshinai、nigatenakurasunoibutsuda。",
+        "en": "Are you sure you don't want to die? It's because you said something like this...",
+        "audio": "audio/qCFx-Tj_cow/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "褒め言葉をありがとう。",
+        "rm": "homekotobawoarigatou。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "綾野孝二と話をさせてもらうが、君は邪魔だ。",
+        "rm": "ayanokoujitohanashiwosasetemorauga、kunhajamada。",
+        "en": "As long as you contribute, you'll be a great member of the class! You have the right to praise me.",
+        "audio": "audio/qCFx-Tj_cow/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "さっきの話は忘れるなよ。",
+        "rm": "sakkinohanashihawasurerunayo。",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "場合によっては、俺もお前たちの敵になる。",
+        "rm": "baainiyotteha、oremoomaetachinotekininaru。",
+        "en": "I'm going to talk to Koji Aya, but you...",
+        "audio": "audio/qCFx-Tj_cow/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "立ち話もなんだ。座ろうじゃないか。",
+        "rm": "tachibanashimonanda。suwaroujanaika。",
+        "en": "Don't forget what we talked about earlier.",
+        "audio": "audio/qCFx-Tj_cow/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "はあ。",
+        "rm": "haa。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "それで、俺とどんな話を?",
+        "rm": "sorede、oretodonnahanashiwo?",
+        "en": "I will become your enemy too.",
+        "audio": "audio/qCFx-Tj_cow/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "なんでもいい。君がどんな人間であるか探求できれば。",
+        "rm": "nandemoii。kungadonnaningendearukatankyuudekireba。",
+        "en": "Why don't we sit down for a bit? Yeah... But...",
+        "audio": "audio/qCFx-Tj_cow/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "探求ですか。",
+        "rm": "tankyuudesuka。",
+        "en": "What are you talking about?",
+        "audio": "audio/qCFx-Tj_cow/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "紀隆院先輩がクラスに貢献しないのは、クラスメートに興味がないからですよね。",
+        "rm": "kitakashiinsenpaigakurasunikoukenshinainoha、kurasumeetonikyoumiganaikaradesuyone。",
+        "en": "It doesn't matter. As long as I can find out what kind of person you are. Find out...",
+        "audio": "audio/qCFx-Tj_cow/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "興味がないのは、Aクラスを目指すという、この学校のシステムの方だ。",
+        "rm": "kyoumiganainoha、akurasuwomezasutoiu、konogakkounoshisutemunohouda。",
+        "en": "I see, Kiryu-in-senpai doesn't contribute to the class.",
+        "audio": "audio/qCFx-Tj_cow/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "進路など、自分の実力で同等でもなる。",
+        "rm": "shinronado、jibunnojitsuryokudedoutoudemonaru。",
+        "en": "It's because you're not interested in your ex-girlfriend, right? Interest...",
+        "audio": "audio/qCFx-Tj_cow/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "事前に分かっていたら、ここを選びませんでしたか?",
+        "rm": "jizenniwakatteitara、kokowoerabimasendeshitaka?",
+        "en": "The system of this school that aims for A-Class",
+        "audio": "audio/qCFx-Tj_cow/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "そんなことはない。私はこの学校を気に入っている。",
+        "rm": "sonnakotohanai。watashihakonogakkouwokiniitsuteiru。",
+        "en": "The path is the same as your own abilities.",
+        "audio": "audio/qCFx-Tj_cow/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "ポイント制度も実に心地よいものだ。",
+        "rm": "pointoseidomojitsunikokochiyoimonoda。",
+        "en": "I'm not going to choose this place",
+        "audio": "audio/qCFx-Tj_cow/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "君からの質問ばかりだ。",
+        "rm": "kunkaranoshitsumonbakarida。",
+        "en": "That's not true. I...",
+        "audio": "audio/qCFx-Tj_cow/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "どうして俺なんですか。学力優秀な生徒は山ほどいますよ。",
+        "rm": "doushiteorenandesuka。gakuryokuyuushuunaseitohayamahodoimasuyo。",
+        "en": "I like this school.",
+        "audio": "audio/qCFx-Tj_cow/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "勘だよ。",
+        "rm": "kandayo。",
+        "en": "I'm a strong one.",
+        "audio": "audio/qCFx-Tj_cow/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "私の勘が、君がただものではないと告げている。",
+        "rm": "watashinokanga、kungatadamonodehanaitotsugeteiru。",
+        "en": "I'm getting so many questions from you.",
+        "audio": "audio/qCFx-Tj_cow/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "今度の無人島サバイバルでは、君は一位を狙うつもりでいるのか?",
+        "rm": "kondonomujinshimasabaibarudeha、kunhaichiiwonerautsumorideirunoka?",
+        "en": "There are a lot of students with excellent academic skills.",
+        "audio": "audio/qCFx-Tj_cow/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "一位になりたくない生徒はいないでしょう。",
+        "rm": "ichiininaritakunaiseitohainaideshou。",
+        "en": "That's how I feel.",
+        "audio": "audio/qCFx-Tj_cow/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "紀隆院先輩はクラスに貢献しない。",
+        "rm": "kitakashiinsenpaihakurasunikoukenshinai。",
+        "en": "I'm telling you that it's not real.",
+        "audio": "audio/qCFx-Tj_cow/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "クラスに貢献しない。",
+        "rm": "kurasunikoukenshinai。",
+        "en": "In the next Mujinto Survival...",
+        "audio": "audio/qCFx-Tj_cow/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "君は一位を狙うつもりでいるのか?",
+        "rm": "kunhaichiiwonerautsumorideirunoka?",
+        "en": "Are you going to aim for first place?",
+        "audio": "audio/qCFx-Tj_cow/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "一位になりたくない生徒はいないでしょう。",
+        "rm": "ichiininaritakunaiseitohainaideshou。",
+        "en": "A student who doesn't want to be number one",
+        "audio": "audio/qCFx-Tj_cow/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "紀隆院先輩のような人を除いて。",
+        "rm": "kitakashiinsenpainoyounaninwonozoite。",
+        "en": "Like Kiryuuin-senpai",
+        "audio": "audio/qCFx-Tj_cow/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "一位はともかく、私も上位を狙っている一人だ。",
+        "rm": "ichiihatomokaku、watashimojouiwoneratsuteiruhitorida。",
+        "en": "No.1 is Tomokaku. I also aim for the top.",
+        "audio": "audio/qCFx-Tj_cow/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "上位に入ればプライベートポイントが手に入る。",
+        "rm": "jouiniirebapuraibeetopointogateniiru。",
+        "en": "If you enter the top, you will get a private point.",
+        "audio": "audio/qCFx-Tj_cow/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "手にした金は使ってしまうタイプでね、常に近血なのさ。",
+        "rm": "tenishitakinhatsukatteshimautaipudene、tsunenikinchinanosa。",
+        "en": "I'm the type of person who uses the money I have in my hand, and I'm always stingy.",
+        "audio": "audio/qCFx-Tj_cow/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "今度の特別試験は、学校で一位を決める戦いでもある。",
+        "rm": "kondonotokubetsushikenha、gakkoudeichiiwokimerutatakaidemoaru。",
+        "en": "This time, the special test is to decide who will be the first place in the school.",
+        "audio": "audio/qCFx-Tj_cow/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "君に対する興味が外れるかどうかは、無人島での働きにかかっている。",
+        "rm": "kunnitaisurukyoumigahazurerukadoukaha、mujinshimadenohatarakinikakatteiru。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "先輩の興味から外れることを、どちらかといえば望みたいですね。",
+        "rm": "senpainokyoumikarahazurerukotowo、dochirakatoiebanozomitaidesune。",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "面白いことを言う後輩だ。君と戦えるのを楽しみにしているよ。",
+        "rm": "omoshiroikotowoiukouhaida。kuntotatakaerunowotanoshiminishiteiruyo。",
+        "en": "It's an interesting thing to say, kouhai. I'm looking forward to fighting with you.",
+        "audio": "audio/qCFx-Tj_cow/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "綾野孝二。",
+        "rm": "ayanokouji。",
+        "en": "Ayano Kouji",
+        "audio": "audio/qCFx-Tj_cow/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "おやおや、中堅が飼い主を連れて戻ってきたか?",
+        "rm": "oyaoya、chuukengakainushiwotsuretemodotsutekitaka?",
+        "en": "Oh my, Chuken is taking the owner back?",
+        "audio": "audio/qCFx-Tj_cow/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "なんだと!",
+        "rm": "nandato!",
+        "en": "What did you say?",
+        "audio": "audio/qCFx-Tj_cow/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "おいおい、俺の大切な仲間を傷つけてくれるなよ。",
+        "rm": "oioi、orenotaisetsunanakamawokizutsuketekurerunayo。",
+        "en": "Hey, hey, are you going to hurt my precious friend?",
+        "audio": "audio/qCFx-Tj_cow/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "大切な仲間か。感情が全く困っていなかったぞ。",
+        "rm": "taisetsunanakamaka。kanjougamattakukomatsuteinakattazo。",
+        "en": "My dear friend, huh? You didn't have any feelings for me at all.",
+        "audio": "audio/qCFx-Tj_cow/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "お前にはそう感じるだけだ。",
+        "rm": "omaenihasoukanjirudakeda。",
+        "en": "That's all I feel for you.",
+        "audio": "audio/qCFx-Tj_cow/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "さて、生徒会長が私に何か言おうかな?",
+        "rm": "sate、seitokaichougawatashininanikaioukana?",
+        "en": "I don't know what the student councilor has to say to me.",
+        "audio": "audio/qCFx-Tj_cow/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "もう迎え合うことはないと思っていたが。",
+        "rm": "moumukaeaukotohanaitoomotteitaga。",
+        "en": "I don't think there's anything else I can do for you.",
+        "audio": "audio/qCFx-Tj_cow/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "できれば俺も長いはしたくない。",
+        "rm": "dekirebaoremonagaihashitakunai。",
+        "en": "If possible, I don't want to talk for a long time.",
+        "audio": "audio/qCFx-Tj_cow/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "お前は美人だが可愛げがない。",
+        "rm": "omaehabijindagakawaigeganai。",
+        "en": "You're beautiful, but you're not cute.",
+        "audio": "audio/qCFx-Tj_cow/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "俺はそんな女に興味は持てないからな。",
+        "rm": "orehasonnaonnanikyoumihamotenaikarana。",
+        "en": "I'm not interested in that kind of woman.",
+        "audio": "audio/qCFx-Tj_cow/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "私に可愛げはあるさ。引き出してくれる殿方に巡り会えないだけだ。",
+        "rm": "watashinikawaigehaarusa。hikidashitekurerutonogatanimeguriaenaidakeda。",
+        "en": "I do have a cutie. I just can't meet someone who can pull me out.",
+        "audio": "audio/qCFx-Tj_cow/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "そんなことができる男がいるなら見てみたいさ。",
+        "rm": "sonnakotogadekiruotokogairunaramitemitaisa。",
+        "en": "If there is a man who can do such a thing, I want to see it.",
+        "audio": "audio/qCFx-Tj_cow/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "それは私もだ。",
+        "rm": "sorehawatashimoda。",
+        "en": "Me too.",
+        "audio": "audio/qCFx-Tj_cow/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "なぜ私は持てないのだろうな?",
+        "rm": "nazewatashihamotenainodarouna?",
+        "en": "I don't think I'm popular.",
+        "audio": "audio/qCFx-Tj_cow/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "有能すぎる女は扱いが難しいからな。",
+        "rm": "yuunousugiruonnahaatsukaigamuzukashiikarana。",
+        "en": "It's hard to handle a woman who is too much",
+        "audio": "audio/qCFx-Tj_cow/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "なるほど。優秀すぎることが原因と言うなら実になっとくだ。",
+        "rm": "naruhodo。yuushuusugirukotogagen'intoiunarajitsuninattokuda。",
+        "en": "I see. If being too good is the cause, then I'm really convinced.",
+        "audio": "audio/qCFx-Tj_cow/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "髪の手入れは欠かさないようだな。",
+        "rm": "kaminoteirehakakasanaiyoudana。",
+        "en": "It seems that you don't need to worry about your hair.",
+        "audio": "audio/qCFx-Tj_cow/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "持てて仕方がないだろう。恋愛の方も3年間で上達したのかな?",
+        "rm": "moteteshikataganaidarou。ren'ainohoumo3nenkandejoutatsushitanokana?",
+        "en": "It can't be helped that you're so popular. You've been in love for three years, and you're still in love.",
+        "audio": "audio/qCFx-Tj_cow/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "男と付き合ったこともないお前に恋愛の色派が分かるのか?",
+        "rm": "otokototsukiatsutakotomonaiomaeniren'ainoirohagawakarunoka?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "経験のなさは外べきことじゃない。",
+        "rm": "keikennonasahasotobekikotojanai。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "むしろ私の価値を高めているとも言えるんじゃないか?",
+        "rm": "mushirowatashinokachiwotakameteirutomoierunjanaika?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "相変わらずおかしな思考をしているようだな。",
+        "rm": "aikawarazuokashinashikouwoshiteiruyoudana。",
+        "en": "As always, I'm thinking of something strange...",
+        "audio": "audio/qCFx-Tj_cow/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "霧山から話は聞いた。",
+        "rm": "kiriyamakarahanashihakiita。",
+        "en": "From Kiriyama",
+        "audio": "audio/qCFx-Tj_cow/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "俺にも堀北先輩にも関心を示さなかったお前が、",
+        "rm": "orenimohorikitasenpainimokanshinwoshimesanakattaomaega、",
+        "en": "You didn't show any interest in me or Horikita-senpai.",
+        "audio": "audio/qCFx-Tj_cow/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "綾野孝二に関心を持つとは思わなかったぜ。",
+        "rm": "ayanokoujinikanshinwomotsutohaomowanakattaze。",
+        "en": "I don't think I'm interested in Kouji Aya.",
+        "audio": "audio/qCFx-Tj_cow/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "君も何か勘違いしているようだが、",
+        "rm": "kunmonanikakanchigaishiteiruyoudaga、",
+        "en": "Did you misunderstand something too?",
+        "audio": "audio/qCFx-Tj_cow/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "私は人に無関心な人間ではないぞ。",
+        "rm": "watashihaninnimukanshinnaningendehanaizo。",
+        "en": "I'm a person who doesn't care about others.",
+        "audio": "audio/qCFx-Tj_cow/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "興味のわいた相手には必ず一度は声をかける。",
+        "rm": "kyouminowaitaaitenihakanarazuichidohakoewokakeru。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "お前も堀北学部も一度は関心を持った。",
+        "rm": "omaemohorikitagakubumoichidohakanshinwomotsuta。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "それで綾野孝二はどうだったんだ?",
+        "rm": "soredeayanokoujihadoudattanda?",
+        "en": "So what about Aya no Koji?",
+        "audio": "audio/qCFx-Tj_cow/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "ひとまずは保留だな。",
+        "rm": "hitomazuhahoryuudana。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "一度で関心を失った生徒会長よりは楽しめる。",
+        "rm": "ichidodekanshinwoutsutaseitokaichouyorihatanoshimeru。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "俺にここまで舐めた口を聞けるのはお前だけだ。",
+        "rm": "orenikokomadenametakuchiwokikerunohaomaedakeda。",
+        "en": "You can have more fun than a boss. You can have more fun than a boss.",
+        "audio": "audio/qCFx-Tj_cow/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "その思い上がりを正してやってもいいんだぜ。",
+        "rm": "sonoomoiagariwotadashiteyattemoiindaze。",
+        "en": "You're the only one who can ask that question. That's right.",
+        "audio": "audio/qCFx-Tj_cow/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "負けた時、君が失うものは測り知れないぞ、生徒会長。",
+        "rm": "maketatoki、kungaushinaumonohahakarishirenaizo、seitokaichou。",
+        "en": "I don't mind letting you go. When you lose, you lose.",
+        "audio": "audio/qCFx-Tj_cow/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "言うなれば空気だ。",
+        "rm": "iunarebakuukida。",
+        "en": "I can't believe it.",
+        "audio": "audio/qCFx-Tj_cow/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "君や堀北学部とは、",
+        "rm": "kunyahorikitagakubutoha、",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/qCFx-Tj_cow/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "異なる空気を彼は持っているように感じた。",
+        "rm": "kotonarukuukiwokarehamotsuteiruyounikanjita。",
+        "en": "You are Horikita Manabu.",
+        "audio": "audio/qCFx-Tj_cow/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "抽象的だな。",
+        "rm": "chuushoutekidana。",
+        "en": "He has the air",
+        "audio": "audio/qCFx-Tj_cow/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "だったら試してみればいいじゃないか。",
+        "rm": "dattaratameshitemirebaiijanaika。",
+        "en": "I want to feel like I'm alive",
+        "audio": "audio/qCFx-Tj_cow/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "もちろんそのつもりだ。",
+        "rm": "mochironsonotsumorida。",
+        "en": "You're a strong opponent.",
+        "audio": "audio/qCFx-Tj_cow/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "今度の無人島サバイバルで、",
+        "rm": "kondonomujinshimasabaibarude、",
+        "en": "Why don't you give it a try?",
+        "audio": "audio/qCFx-Tj_cow/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "奴の持つ実力も見られるのかもしれないからな。",
+        "rm": "yatsunomotsujitsuryokumomirarerunokamoshirenaikarana。",
+        "en": "Of course, that's what I'm going to do. This time, I'm going to...",
+        "audio": "audio/qCFx-Tj_cow/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "先ほど綾野孝二清鷹の評価を保留だと言ったが、",
+        "rm": "sakihodoayanokoujikiyoshitakanohyoukawohoryuudatoittaga、",
+        "en": "Maybe I'll be able to see his true power",
+        "audio": "audio/qCFx-Tj_cow/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "面白い生徒だとは思うぞ。",
+        "rm": "omoshiroiseitodatohaomouzo。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "何?",
+        "rm": "nani?",
+        "en": "I said it was a reason, but...",
+        "audio": "audio/qCFx-Tj_cow/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "お前にとって後輩は良き遊び相手か。",
+        "rm": "omaenitottekouhaihayokiasobiaiteka。",
+        "en": "I think you're an interesting student. What?",
+        "audio": "audio/qCFx-Tj_cow/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "本気で挑むなら一位は君で決まりだな。",
+        "rm": "honkideidomunaraichiihakundekimaridana。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "おれは当然一位をとる。",
+        "rm": "orehatouzenichiiwotoru。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "もしくは、",
+        "rm": "moshikuha、",
+        "en": "Are you serious?",
+        "audio": "audio/qCFx-Tj_cow/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "俺に対抗心を燃やしている霧山がな。",
+        "rm": "orenitaikoushinwomoyashiteirukiriyamagana。",
+        "en": "It's all up to you now.",
+        "audio": "audio/qCFx-Tj_cow/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "だが三位までそうの目にするには、",
+        "rm": "dagasan'imadesounomenisuruniha、",
+        "en": "Of course, I'll win the first place.",
+        "audio": "audio/qCFx-Tj_cow/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "あと一組必要になるだろう?",
+        "rm": "atohitokumihitsuyouninarudarou?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "お前がその役目を担え、",
+        "rm": "omaegasonoyakumewotane、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "紀隆衣。",
+        "rm": "kitakashikoromo。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "なるほど、それが目的か。",
+        "rm": "naruhodo、soregamokutekika。",
+        "en": "There's only one group left.",
+        "audio": "audio/qCFx-Tj_cow/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "だが、",
+        "rm": "daga、",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "君には手駒が無収にいるだろう?",
+        "rm": "kunnihategomagamushuuniirudarou?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "やる気はないって。",
+        "rm": "yarukihanaitte。",
+        "en": "I see.",
+        "audio": "audio/qCFx-Tj_cow/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "だが、",
+        "rm": "daga、",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/qCFx-Tj_cow/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "君には手駒が無収にいるだろう?",
+        "rm": "kunnihategomagamushuuniirudarou?",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "やる気はないってことか。",
+        "rm": "yarukihanaittekotoka。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "無駄足にさせてすまないな。",
+        "rm": "mudaashinisasetesumanaina。",
+        "en": "So you're not going to do it?",
+        "audio": "audio/qCFx-Tj_cow/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "お前はそういう奴だ。",
+        "rm": "omaehasouiuyatsuda。",
+        "en": "I'm sorry for making you wait.",
+        "audio": "audio/qCFx-Tj_cow/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "時間の無駄だったな。",
+        "rm": "jikannomudadattana。",
+        "en": "That's what you're like",
+        "audio": "audio/qCFx-Tj_cow/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "わざわざ足を運んでくれた君に、",
+        "rm": "wazawazaashiwohakondekuretakunni、",
+        "en": "It was a waste of time.",
+        "audio": "audio/qCFx-Tj_cow/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "一つだけ助言しよう。",
+        "rm": "hitotsudakejogenshiyou。",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/qCFx-Tj_cow/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "後輩など相手にせず、",
+        "rm": "kouhainadoaitenisezu、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "前だけを見ているべきだ。",
+        "rm": "maedakewomiteirubekida。",
+        "en": "Kouhai",
+        "audio": "audio/qCFx-Tj_cow/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "ていたい思いをすることになる。",
+        "rm": "teitaiomoiwosurukotoninaru。",
+        "en": "You should only look ahead.",
+        "audio": "audio/qCFx-Tj_cow/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "くだらない独り言だぜ。",
+        "rm": "kudaranaihitorigotodaze。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "こんな早くから気飽き盛るか。",
+        "rm": "konnahayakukarakiakimoruka。",
+        "en": "What a stupid lonesome...",
+        "audio": "audio/qCFx-Tj_cow/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "無人島試験が始まって、",
+        "rm": "mujinshimashikengahajimatte、",
+        "en": "That fast?",
+        "audio": "audio/qCFx-Tj_cow/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "ゆっくりする時間もないからな。",
+        "rm": "yukkurisurujikanmonaikarana。",
+        "en": "So it's the Keaki Mall after all.",
+        "audio": "audio/qCFx-Tj_cow/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "市野瀬には、",
+        "rm": "ichinoseniha、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "ずいぶん信頼されているようだが、",
+        "rm": "zuibunshinraisareteiruyoudaga、",
+        "en": "I don't even have time to love you",
+        "audio": "audio/qCFx-Tj_cow/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "本当に信用していいのか?",
+        "rm": "hontounishinyoushiteiinoka?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "同盟こそ解除されたが、",
+        "rm": "doumeikosokaijosaretaga、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "市野瀬を敵だとは思ってない。",
+        "rm": "ichinosewotekidatohaomottenai。",
+        "en": "Can I trust you?",
+        "audio": "audio/qCFx-Tj_cow/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "神崎、",
+        "rm": "kanzaki、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "俺から何かしらの現地を取って、",
+        "rm": "orekarananikashiranogenchiwototsute、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "それを市野瀬に聞かせるつもりか?",
+        "rm": "sorewoichinosenikikaserutsumorika?",
+        "en": "Kanzaki...",
+        "audio": "audio/qCFx-Tj_cow/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "お前は俺たちが考えていたよりも、",
+        "rm": "omaehaoretachigakangaeteitayorimo、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "ずっと鋭い男だったということか。",
+        "rm": "zuttosurudoiotokodattatoiukotoka。",
+        "en": "Morikawa",
+        "audio": "audio/qCFx-Tj_cow/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "Dクラスの役者だったら、",
+        "rm": "dkurasunoyakushadattara、",
+        "en": "You belong to us.",
+        "audio": "audio/qCFx-Tj_cow/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "俺たちにとっては、",
+        "rm": "oretachinitotteha、",
+        "en": "I'll do it forever",
+        "audio": "audio/qCFx-Tj_cow/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "鋭い男だったということか。",
+        "rm": "surudoiotokodattatoiukotoka。",
+        "en": "He was a cruel man.",
+        "audio": "audio/qCFx-Tj_cow/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "Dクラスの躍進の影には、",
+        "rm": "dkurasunoyakushinnokageniha、",
+        "en": "Like D-Class",
+        "audio": "audio/qCFx-Tj_cow/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "お前の存在があったということだな。",
+        "rm": "omaenosonzaigaattatoiukotodana。",
+        "en": "That means you existed.",
+        "audio": "audio/qCFx-Tj_cow/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "どうかな?",
+        "rm": "doukana?",
+        "en": "What do you think?",
+        "audio": "audio/qCFx-Tj_cow/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "ならあえて協力を願いたい。",
+        "rm": "naraaetekyouryokuwonegaitai。",
+        "en": "I'd like to ask for your cooperation.",
+        "audio": "audio/qCFx-Tj_cow/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "市野瀬はお前に強い信頼感を抱いている。",
+        "rm": "ichinosehaomaenitsuyoishinraikanwodaiteiru。",
+        "en": "I have a strong sense of trust in you.",
+        "audio": "audio/qCFx-Tj_cow/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "だからこそ、",
+        "rm": "dakarakoso、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "今の市野瀬ではダメだということを、",
+        "rm": "imanoichinosedehadamedatoiukotowo、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "お前の口から伝えてもらいたいんだ。",
+        "rm": "omaenokuchikaratsutaetemoraitainda。",
+        "en": "I want you to tell me.",
+        "audio": "audio/qCFx-Tj_cow/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "それで市野瀬の考えが変わることを期待すると?",
+        "rm": "soredeichinosenokangaegakawarukotowokitaisuruto?",
+        "en": "That's how I expect Ichinose's thoughts to change.",
+        "audio": "audio/qCFx-Tj_cow/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "そうだ。",
+        "rm": "souda。",
+        "en": "That's right.",
+        "audio": "audio/qCFx-Tj_cow/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "悪いが、その協力はできない。",
+        "rm": "waruiga、sonokyouryokuhadekinai。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "俺は市野瀬のやり方を見ていきたいと思っているからだ。",
+        "rm": "orehaichinosenoyarihouwomiteikitaitoomotteirukarada。",
+        "en": "I can't do it. I want to see how Ichinose does it.",
+        "audio": "audio/qCFx-Tj_cow/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "根本的な話、",
+        "rm": "konpontekinahanashi、",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "自分のクラスは自分で何とかするしかない。",
+        "rm": "jibunnokurasuhajibundenantokasurushikanai。",
+        "en": "This is a story of my own class.",
+        "audio": "audio/qCFx-Tj_cow/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "そうだろう?",
+        "rm": "soudarou?",
+        "en": "I have no choice but to do it.",
+        "audio": "audio/qCFx-Tj_cow/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "甘えた行動だったかもしれない。",
+        "rm": "amaetakoudoudattakamoshirenai。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "俺は自分で一つの答えを出しているつもりでいたわ。",
+        "rm": "orehajibundehitotsunokotaewodashiteirutsumorideitawa。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "それを実行しないで済むならと、",
+        "rm": "sorewojikkoushinaidesumunarato、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "つい楽な方に舵を切ってしまった。",
+        "rm": "tsuirakunahounikajiwokitsuteshimatta。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "これは一体、どんな集まりなんだ?",
+        "rm": "korehaittai、donnaatsumarinanda?",
+        "en": "I got it. What the hell is this?",
+        "audio": "audio/qCFx-Tj_cow/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "どんな集まりなんだ?",
+        "rm": "donnaatsumarinanda?",
+        "en": "What kind of gathering is this?",
+        "audio": "audio/qCFx-Tj_cow/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "どういう料件で呼び出したのか聞かせてもらおう。",
+        "rm": "douiuryoukendeyobidashitanokakikasetemoraou。",
+        "en": "Let me know how you managed to get me here.",
+        "audio": "audio/qCFx-Tj_cow/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "もっとくつろげよう。",
+        "rm": "mottokutsurogeyou。",
+        "en": "I need to relax a bit",
+        "audio": "audio/qCFx-Tj_cow/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "くつろげるはずもない。",
+        "rm": "kutsurogeruhazumonai。",
+        "en": "I should be able to relax.",
+        "audio": "audio/qCFx-Tj_cow/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "お前といるところを見られるだけで厄介だからな。",
+        "rm": "omaetoirutokorowomirarerudakedeyakkaidakarana。",
+        "en": "It's troublesome just to see where you are.",
+        "audio": "audio/qCFx-Tj_cow/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "無人投資権。",
+        "rm": "mujintoushiken。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "Aクラスは何を狙うつもりだ?",
+        "rm": "akurasuhananiwonerautsumorida?",
+        "en": "What are you going to aim for, A-Class?",
+        "audio": "audio/qCFx-Tj_cow/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "何と?",
+        "rm": "nanto?",
+        "en": "What?",
+        "audio": "audio/qCFx-Tj_cow/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "単独でクラスポイントを狙うのか。",
+        "rm": "tandokudekurasupointowoneraunoka。",
+        "en": "Are you going to aim for the cross-point with this?",
+        "audio": "audio/qCFx-Tj_cow/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "それ以外なのかだ。",
+        "rm": "soreigainanokada。",
+        "en": "Is that all you have to say?",
+        "audio": "audio/qCFx-Tj_cow/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "それに市野瀬と柴田が、",
+        "rm": "soreniichinosetoshibataga、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "坂柳と同じグループってのはどうにも気なくせ。",
+        "rm": "sakayanagitoonajiguruuputtenohadounimokinakuse。",
+        "en": "Yusuke and Shibata are in the same group as Sakayanagi.",
+        "audio": "audio/qCFx-Tj_cow/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "手を組んだか?",
+        "rm": "tewokundaka?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "どう解釈するのも自由だが、",
+        "rm": "doukaishakusurunomojiyuudaga、",
+        "en": "How do you interpret it?",
+        "audio": "audio/qCFx-Tj_cow/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "貴様に何一つ教えるつもりはない。",
+        "rm": "kisamaninanihitotsuoshierutsumorihanai。",
+        "en": "But what do you want from me?",
+        "audio": "audio/qCFx-Tj_cow/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "窮屈だな、カツラギー。",
+        "rm": "kyuukutsudana、katsuragii。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "次の特別試験だ。",
+        "rm": "tsuginotokubetsushikenda。",
+        "en": "See you in the next video!",
+        "audio": "audio/qCFx-Tj_cow/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "坂柳を退学させられたら面白いと思わないか?",
+        "rm": "sakayanagiwotaigakusaseraretaraomoshiroitoomowanaika?",
+        "en": "It would be interesting if I could get Sakayanagi to drop out of school.",
+        "audio": "audio/qCFx-Tj_cow/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "何?",
+        "rm": "nani?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "奴がいなくなれば、Aクラスのリーダーは不在になる。",
+        "rm": "yatsugainakunareba、akurasunoriidaahafuzaininaru。",
+        "en": "If the A-Class is gone, the leader of the A-Class will be gone.",
+        "audio": "audio/qCFx-Tj_cow/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "そうなればお前も帰りざけるってわけだ。",
+        "rm": "sounarebaomaemokaerizakeruttewakeda。",
+        "en": "If that's the case, why don't you go home too?",
+        "audio": "audio/qCFx-Tj_cow/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "どんな企みか知らんが、不可能なことだ。",
+        "rm": "donnatakuramikashiranga、fukanounakotoda。",
+        "en": "I don't know what you're up to.",
+        "audio": "audio/qCFx-Tj_cow/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "坂柳は潤沢なポイントによる退学救済に加えて、",
+        "rm": "sakayanagihajuntakunapointoniyorutaigakukyuusainikuwaete、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "プロテクトポイントも行使できる。",
+        "rm": "purotekutopointomokoushidekiru。",
+        "en": "PROTECT POINT",
+        "audio": "audio/qCFx-Tj_cow/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "確かに。",
+        "rm": "tashikani。",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "奴を退学させようと思ったら、",
+        "rm": "yatsuwotaigakusaseyoutoomottara、",
+        "en": "I'm going to get rid of him.",
+        "audio": "audio/qCFx-Tj_cow/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "最低でも二度刺す必要があるからな。",
+        "rm": "saiteidemonidosasuhitsuyougaarukarana。",
+        "en": "So, even if it's the lowest, there's a need to do it twice.",
+        "audio": "audio/qCFx-Tj_cow/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "まあ、次の試験だってのは冗談だ。",
+        "rm": "maa、tsuginoshikendattenohajoudanda。",
+        "en": "See you in the next video!",
+        "audio": "audio/qCFx-Tj_cow/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "無人島サバイバルは敵を蹴落とすものじゃなく、",
+        "rm": "mujinshimasabaibaruhakanawoshuuotosumonojanaku、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "自力で這い上がるものだからな。",
+        "rm": "jirikidehaiagarumonodakarana。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "重要なのは、2年のクラスポイントを奪われないことだ。",
+        "rm": "juuyounanoha、2nennokurasupointowoubawarenaikotoda。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "そのためには味方を作っておくことが必要だろ。",
+        "rm": "sonotamenihamikatawotsukutsuteokukotogahitsuyoudaro。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "まさか俺に協力しろとでも言うつもりか?",
+        "rm": "masakaorenikyouryokushirotodemoiutsumorika?",
+        "en": "I'm sure you need it. Don't tell me you're going to...",
+        "audio": "audio/qCFx-Tj_cow/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "お前だけじゃない。そこでぼーっと聞いてるお前もだぜ。",
+        "rm": "omaedakejanai。sokodeboottokiiteruomaemodaze。",
+        "en": "You're not the only one who's going to say that, you're not the only one who's going to say that.",
+        "audio": "audio/qCFx-Tj_cow/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "綾野幸司。",
+        "rm": "ayanokouji。",
+        "en": "You too.",
+        "audio": "audio/qCFx-Tj_cow/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "俺もか。",
+        "rm": "oremoka。",
+        "en": "...Kouji.",
+        "audio": "audio/qCFx-Tj_cow/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "意味もなく声かけるわけねえだろ。",
+        "rm": "imimonakukoekakeruwakeneedaro。",
+        "en": "Me too.",
+        "audio": "audio/qCFx-Tj_cow/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "数学の才能は非凡なようだが、",
+        "rm": "suugakunosainouhahibonnayoudaga、",
+        "en": "There's no way I'm going to lose.",
+        "audio": "audio/qCFx-Tj_cow/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "責任者だと言えるのか?",
+        "rm": "sekininshadatoierunoka?",
+        "en": "What is the talent of math?",
+        "audio": "audio/qCFx-Tj_cow/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "何も知らない以上無理もない話だが、",
+        "rm": "nanimoshiranaiijoumurimonaihanashidaga、",
+        "en": "Can you say that I'm responsible for this?",
+        "audio": "audio/qCFx-Tj_cow/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "俺の戦略は間違っちゃいない。",
+        "rm": "orenosenryakuhamachigatsuchainai。",
+        "en": "I don't know anything about it, so I won't force myself to tell you.",
+        "audio": "audio/qCFx-Tj_cow/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "こいつは俺を一度倒した男なんだからな。",
+        "rm": "koitsuhaorewoichidotaoshitaotokonandakarana。",
+        "en": "My strategy is wrong.",
+        "audio": "audio/qCFx-Tj_cow/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "それは本当のことなのか?",
+        "rm": "sorehahontounokotonanoka?",
+        "en": "This guy beat me once",
+        "audio": "audio/qCFx-Tj_cow/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "認めちまえよ、綾野幸司。",
+        "rm": "mitomechimaeyo、ayanokouji。",
+        "en": "That's the real...",
+        "audio": "audio/qCFx-Tj_cow/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "認めたとして、俺が協力するとでも?",
+        "rm": "mitometatoshite、oregakyouryokusurutodemo?",
+        "en": "Just admit it, Koji Ayano.",
+        "audio": "audio/qCFx-Tj_cow/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "まあ、簡単にはいかねえだろうな。",
+        "rm": "maa、kantannihaikaneedarouna。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "信じられん。",
+        "rm": "shinjiraren。",
+        "en": "Yeah.",
+        "audio": "audio/qCFx-Tj_cow/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "去年の無人島以来、",
+        "rm": "kyonennomujinshimairai、",
+        "en": "It won't be easy.",
+        "audio": "audio/qCFx-Tj_cow/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "お前らAクラスは俺との契約のために、",
+        "rm": "omaeraakurasuhaoretonokeiyakunotameni、",
+        "en": "I can't believe it. It seems that...",
+        "audio": "audio/qCFx-Tj_cow/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "毎月せっせと退勤を運んでることを忘れたのか?",
+        "rm": "maitsukisessetotaikinwohakonderukotowowasuretanoka?",
+        "en": "There was no serious conversation from the beginning.",
+        "audio": "audio/qCFx-Tj_cow/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "居心地悪いに決まってるよな。",
+        "rm": "igokochiwaruinikimatteruyona。",
+        "en": "From now on, your A-Class is a contract with me.",
+        "audio": "audio/qCFx-Tj_cow/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "だが追い目もあって、復讐もできやしね。",
+        "rm": "dagaoimemoatte、fukushuumodekiyashine。",
+        "en": "That's why I carry a lot of money every month.",
+        "audio": "audio/qCFx-Tj_cow/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "Bクラスに来いよ、カツラギ。",
+        "rm": "bkurasunikoiyo、katsuragi。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "お前は俺の戦略だ。",
+        "rm": "omaehaorenosenryakuda。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "俺の戦略だ。",
+        "rm": "orenosenryakuda。",
+        "en": "I can't do it either.",
+        "audio": "audio/qCFx-Tj_cow/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "Bクラスに来いよ、カツラギ。",
+        "rm": "bkurasunikoiyo、katsuragi。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "足りない金は出してやる。",
+        "rm": "tarinaikinhadashiteyaru。",
+        "en": "Tatsuragi... That idiot... Isn't that enough?",
+        "audio": "audio/qCFx-Tj_cow/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "だとしても、俺がAクラスの地位を捨てるとでも?",
+        "rm": "datoshitemo、oregaakurasunochiiwosuterutodemo?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "坂柳は遠くないうちに、俺が引きずり下ろす。",
+        "rm": "sakayanagihatookunaiuchini、oregahikizurikudarosu。",
+        "en": "While Sakayanagi is not far away...",
+        "audio": "audio/qCFx-Tj_cow/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "そうなれば、あのクラスは落ちるだけだ。",
+        "rm": "sounareba、anokurasuhaochirudakeda。",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "これは見覚えあるよな。",
+        "rm": "korehamioboearuyona。",
+        "en": "Thank you for watching.",
+        "audio": "audio/qCFx-Tj_cow/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "お前と去年結んだ例の契約書だ。",
+        "rm": "omaetokyonenmusundareinokeiyakushoda。",
+        "en": "The relationship I had with you last year",
+        "audio": "audio/qCFx-Tj_cow/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "坂柳と交渉して、こいつを500万で手放すことにしたのさ。",
+        "rm": "sakayanagitokoushoushite、koitsuwo500mandetebanasukotonishitanosa。",
+        "en": "That's the contract. Yeah, I'll negotiate with Sakayanagi.",
+        "audio": "audio/qCFx-Tj_cow/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "こんなチャンスは二度と訪れないさ。",
+        "rm": "konnachansuhanidotootozurenaisa。",
+        "en": "I've decided to let go of 5 million yen.",
+        "audio": "audio/qCFx-Tj_cow/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "なぜ俺のような人間にそこまでする?",
+        "rm": "nazeorenoyounaningennisokomadesuru?",
+        "en": "This chance will never come again.",
+        "audio": "audio/qCFx-Tj_cow/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "ずいぶんと自己評価が低いじゃねえか。",
+        "rm": "zuibuntojikohyoukagahikuijaneeka。",
+        "en": "Why would a person like me have to go that far?",
+        "audio": "audio/qCFx-Tj_cow/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "まあ、確かに安い買い物じゃねえがな。",
+        "rm": "maa、tashikaniyasuikaimonojaneegana。",
+        "en": "You have a very low self-esteem, don't you?",
+        "audio": "audio/qCFx-Tj_cow/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "残りのポイントもクラスの連中から徴収済みだ。",
+        "rm": "nokorinopointomokurasunorenchuukarachoushuusumida。",
+        "en": "It's certainly not cheap shopping",
+        "audio": "audio/qCFx-Tj_cow/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "さっさとサインしろよ。",
+        "rm": "sassatosainshiroyo。",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "本気のようだな。",
+        "rm": "honkinoyoudana。",
+        "en": "Hurry up and sign it.",
+        "audio": "audio/qCFx-Tj_cow/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "これも運命と思って受け入れろよ。",
+        "rm": "koremounmeitoomotteukeireroyo。",
+        "en": "Looks like he's serious.",
+        "audio": "audio/qCFx-Tj_cow/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "俺に何を求める?",
+        "rm": "oreninaniwomotomeru?",
+        "en": "Think of it as fate and accept it.",
+        "audio": "audio/qCFx-Tj_cow/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "好きに意見を言って構わないのか?",
+        "rm": "sukiniikenwoittekamawanainoka?",
+        "en": "What do you want from me?",
+        "audio": "audio/qCFx-Tj_cow/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "好きにしろよ。",
+        "rm": "sukinishiroyo。",
+        "en": "If you like, please give me your opinion.",
+        "audio": "audio/qCFx-Tj_cow/seg_260.mp3"
+    },
+    {
+        "id": 261,
+        "jp": "てめえの堅苦しい意見も、たまには役立つこともあるだろう。",
+        "rm": "temeenokatakurushiiikenmo、tamanihayakutatsukotomoarudarou。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_261.mp3"
+    },
+    {
+        "id": 262,
+        "jp": "ところで、綾野幸司、お前何してんだ?",
+        "rm": "tokorode、ayanokouji、omaenanishitenda?",
+        "en": "There must be something useful in this world. By the way...",
+        "audio": "audio/qCFx-Tj_cow/seg_262.mp3"
+    },
+    {
+        "id": 263,
+        "jp": "え?",
+        "rm": "e?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_263.mp3"
+    },
+    {
+        "id": 264,
+        "jp": "いや、ふとコーヒーを3、4倍くらいに寄食してみたら、",
+        "rm": "iya、futokoohiiwo3、4baikurainikishokushitemitara、",
+        "en": "What are you doing? Huh? No... Fu...",
+        "audio": "audio/qCFx-Tj_cow/seg_264.mp3"
+    },
+    {
+        "id": 265,
+        "jp": "どんな味がするのかと思って。",
+        "rm": "donnaajigasurunokatoomotte。",
+        "en": "3-4 times thicker than coffee",
+        "audio": "audio/qCFx-Tj_cow/seg_265.mp3"
+    },
+    {
+        "id": 266,
+        "jp": "変わってるな、綾野幸司。",
+        "rm": "kawatteruna、ayanokouji。",
+        "en": "What does it taste like?",
+        "audio": "audio/qCFx-Tj_cow/seg_266.mp3"
+    },
+    {
+        "id": 267,
+        "jp": "え?",
+        "rm": "e?",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/qCFx-Tj_cow/seg_267.mp3"
+    },
+    {
+        "id": 268,
+        "jp": "それで綾野幸司はどうするつもりだ?",
+        "rm": "soredeayanokoujihadousurutsumorida?",
+        "en": "You've changed, Koji Ayano.",
+        "audio": "audio/qCFx-Tj_cow/seg_268.mp3"
+    },
+    {
+        "id": 269,
+        "jp": "Dクラスの生徒をグループに入れれば、報酬は半減する。",
+        "rm": "dkurasunoseitowoguruupuniirereba、houshuuhahangensuru。",
+        "en": "... So what are you going to do about Aya's construction?",
+        "audio": "audio/qCFx-Tj_cow/seg_269.mp3"
+    },
+    {
+        "id": 270,
+        "jp": "グループに入れるとは言ってねえだろ。",
+        "rm": "guruupuniirerutohaitteneedaro。",
+        "en": "If you put a student in a group...",
+        "audio": "audio/qCFx-Tj_cow/seg_270.mp3"
+    },
+    {
+        "id": 271,
+        "jp": "お前の引き当てた試練のカードをこっちに売れよ。",
+        "rm": "omaenohikiatetashirennokaadowokotchiniureyo。",
+        "en": "I didn't say I'd be in the group.",
+        "audio": "audio/qCFx-Tj_cow/seg_271.mp3"
+    },
+    {
+        "id": 272,
+        "jp": "ひとつ条件を。",
+        "rm": "hitotsujoukenwo。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_272.mp3"
+    },
+    {
+        "id": 273,
+        "jp": "そちらで持ってる半減のカードと、",
+        "rm": "sochirademotsuteruhangennokaadoto、",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_273.mp3"
+    },
+    {
+        "id": 274,
+        "jp": "うちのクラスで持ってる半減のカード。",
+        "rm": "uchinokurasudemotsuteruhangennokaado。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_274.mp3"
+    },
+    {
+        "id": 275,
+        "jp": "もしKがペナルティを受けても、",
+        "rm": "moshikgapenaruteiwouketemo、",
+        "en": "Thank you for watching!",
+        "audio": "audio/qCFx-Tj_cow/seg_275.mp3"
+    },
+    {
+        "id": 276,
+        "jp": "半減を使えば、安全権に抑えられる。",
+        "rm": "hangenwotsukaeba、anzenkenniosaerareru。",
+        "en": "Replace the cards in the bin you have in your class with the cards in the bin you have in your class.",
+        "audio": "audio/qCFx-Tj_cow/seg_276.mp3"
+    },
+    {
+        "id": 277,
+        "jp": "決まりだな。",
+        "rm": "kimaridana。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_277.mp3"
+    },
+    {
+        "id": 278,
+        "jp": "グループ、どうするつもりなんだ?",
+        "rm": "guruupu、dousurutsumorinanda?",
+        "en": "Even if you receive a penalty, you can use half of it.",
+        "audio": "audio/qCFx-Tj_cow/seg_278.mp3"
+    },
+    {
+        "id": 279,
+        "jp": "もうすぐ締め切りだぞ。",
+        "rm": "mousugushimekiridazo。",
+        "en": "You can be held back by the security guards.",
+        "audio": "audio/qCFx-Tj_cow/seg_279.mp3"
+    },
+    {
+        "id": 280,
+        "jp": "単独で行動するほうが、臨機応変に対応できる。",
+        "rm": "tandokudekoudousuruhouga、rinkiouhennitaioudekiru。",
+        "en": "It's decided. Group, what are you going to do?",
+        "audio": "audio/qCFx-Tj_cow/seg_280.mp3"
+    },
+    {
+        "id": 281,
+        "jp": "だが、万が一体調を崩せばその時点で失格。",
+        "rm": "daga、mangaichitaichouwokuzusebasonojitendeshikkaku。",
+        "en": "We're almost out of time. You'd better act on your own.",
+        "audio": "audio/qCFx-Tj_cow/seg_281.mp3"
+    },
+    {
+        "id": 282,
+        "jp": "大量のペナルティで退学になるぞ。",
+        "rm": "tairyounopenaruteidetaigakuninaruzo。",
+        "en": "I can respond to any emergency. However...",
+        "audio": "audio/qCFx-Tj_cow/seg_282.mp3"
+    },
+    {
+        "id": 283,
+        "jp": "あなたの体調を崩すことによって、",
+        "rm": "anatanotaichouwokuzusukotoniyotte、",
+        "en": "If you accidentally break your body, you'll be disqualified at that point.",
+        "audio": "audio/qCFx-Tj_cow/seg_283.mp3"
+    },
+    {
+        "id": 284,
+        "jp": "大量のペナルティで退学になるぞ。",
+        "rm": "tairyounopenaruteidetaigakuninaruzo。",
+        "en": "I'm going to quit school with a lot of penalties.",
+        "audio": "audio/qCFx-Tj_cow/seg_284.mp3"
+    },
+    {
+        "id": 285,
+        "jp": "あなただって現状、誰ともグループを組んでないじゃない?",
+        "rm": "anatadattegenjou、daretomoguruupuwokundenaijanai?",
+        "en": "You're not currently in a group with anyone, are you?",
+        "audio": "audio/qCFx-Tj_cow/seg_285.mp3"
+    },
+    {
+        "id": 286,
+        "jp": "俺とお前じゃ大リスクが異なる。",
+        "rm": "oretoomaejadairisukugakotonaru。",
+        "en": "The risk is different between you and me.",
+        "audio": "audio/qCFx-Tj_cow/seg_286.mp3"
+    },
+    {
+        "id": 287,
+        "jp": "去年お前は、無人島試験前に体調を崩した。",
+        "rm": "kyonenomaeha、mujinshimashikenmaenitaichouwokuzushita。",
+        "en": "Last year, you were unwell before the test.",
+        "audio": "audio/qCFx-Tj_cow/seg_287.mp3"
+    },
+    {
+        "id": 288,
+        "jp": "できれば二人グループを作って、保険を打っておくべきだ。",
+        "rm": "dekirebafutariguruupuwotsukutsute、hokenwoutsuteokubekida。",
+        "en": "That's right. If possible, we should create a group of two and take care of them.",
+        "audio": "audio/qCFx-Tj_cow/seg_288.mp3"
+    },
+    {
+        "id": 289,
+        "jp": "でも、クラスで残ったのはあなたと後援時君だけじゃない?",
+        "rm": "demo、kurasudenokotsutanohaanatatokouentokikundakejanai?",
+        "en": "But you and Koenji are not the only ones left in the class.",
+        "audio": "audio/qCFx-Tj_cow/seg_289.mp3"
+    },
+    {
+        "id": 290,
+        "jp": "別クラスに一人だけ思い当たる不死がある。",
+        "rm": "betsukurasunihitoridakeomoiatarufushigaaru。",
+        "en": "There is only one person who comes to mind in another class",
+        "audio": "audio/qCFx-Tj_cow/seg_290.mp3"
+    },
+    {
+        "id": 291,
+        "jp": "はぁ?私にホリキタと組めって言いたいの?",
+        "rm": "haa?watashinihorikitatokumetteiitaino?",
+        "en": "What? You want to say that I'm horikita and kume?",
+        "audio": "audio/qCFx-Tj_cow/seg_291.mp3"
+    },
+    {
+        "id": 292,
+        "jp": "ま、そういうことになるな。",
+        "rm": "ma、souiukotoninaruna。",
+        "en": "Well, I guess that's what's going to happen.",
+        "audio": "audio/qCFx-Tj_cow/seg_292.mp3"
+    },
+    {
+        "id": 293,
+        "jp": "身体能力に関しては問題ないけれど、それ以外には少々不満があるわね。",
+        "rm": "shintainouryokunikanshitehamondainaikeredo、soreigainihashoushoufumangaaruwane。",
+        "en": "There's no problem with physical abilities, but I'm a little dissatisfied with the rest.",
+        "audio": "audio/qCFx-Tj_cow/seg_293.mp3"
+    },
+    {
+        "id": 294,
+        "jp": "って、あんたも何勝手なこと言ってんの?",
+        "rm": "tte、antamonanikattenakotoittenno?",
+        "en": "Tch, what are you talking about?",
+        "audio": "audio/qCFx-Tj_cow/seg_294.mp3"
+    },
+    {
+        "id": 295,
+        "jp": "石崎も知ってて手を貸したってわけ。",
+        "rm": "ishizakimoshittetetewokashitattewake。",
+        "en": "Ishizaki also took the initiative knowingly.",
+        "audio": "audio/qCFx-Tj_cow/seg_295.mp3"
+    },
+    {
+        "id": 296,
+        "jp": "いいじゃねえか、他に組んでくれる奴いないんだからよ。",
+        "rm": "iijaneeka、hokanikundekureruyatsuinaindakarayo。",
+        "en": "It's fine. There's no one else to help us out.",
+        "audio": "audio/qCFx-Tj_cow/seg_296.mp3"
+    },
+    {
+        "id": 297,
+        "jp": "私はこいつも嫌いだけど、それ以上にホリキタが大嫌いなのよ。",
+        "rm": "watashihakoitsumokiraidakedo、soreijounihorikitagadaikirainanoyo。",
+        "en": "I hate this guy too, but I hate Horikita more than that!",
+        "audio": "audio/qCFx-Tj_cow/seg_297.mp3"
+    },
+    {
+        "id": 298,
+        "jp": "絶対に組まない。",
+        "rm": "zettainikumanai。",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_298.mp3"
+    },
+    {
+        "id": 299,
+        "jp": "あら、まだ私は組むと言った覚えはないけれど。",
+        "rm": "ara、madawatashihakumutoittaoboehanaikeredo。",
+        "en": "Oh, I don't remember saying that I'm going to marry you yet.",
+        "audio": "audio/qCFx-Tj_cow/seg_299.mp3"
+    },
+    {
+        "id": 300,
+        "jp": "はぁ?どういう意味よ?",
+        "rm": "haa?douiuimiyo?",
+        "en": "What? What do you mean?",
+        "audio": "audio/qCFx-Tj_cow/seg_300.mp3"
+    },
+    {
+        "id": 301,
+        "jp": "あなたは余り者で一人になった。",
+        "rm": "anatahaamarimonodehitorininatta。",
+        "en": "What do you mean? You've become too much of a loner.",
+        "audio": "audio/qCFx-Tj_cow/seg_301.mp3"
+    },
+    {
+        "id": 302,
+        "jp": "でも私は一人で戦おうと思っていた。",
+        "rm": "demowatashihahitoridesenoutoomotteita。",
+        "en": "But I wanted to fight alone.",
+        "audio": "audio/qCFx-Tj_cow/seg_302.mp3"
+    },
+    {
+        "id": 303,
+        "jp": "同じ一人見でも状況はまるで違うのよ。",
+        "rm": "onajihitorimidemojoukyouhamarudechigaunoyo。",
+        "en": "Even if you're the same person, the situation is completely different.",
+        "audio": "audio/qCFx-Tj_cow/seg_303.mp3"
+    },
+    {
+        "id": 304,
+        "jp": "こっちだって望んで一人でやんのよ。",
+        "rm": "kotchidattenozondehitorideyannoyo。",
+        "en": "It's not like that. I don't even want to do it alone.",
+        "audio": "audio/qCFx-Tj_cow/seg_304.mp3"
+    },
+    {
+        "id": 305,
+        "jp": "つか、あんたも一人でやるなら丁度いいじゃない?",
+        "rm": "tsuka、antamohitorideyarunarachoudoiijanai?",
+        "en": "Hey, if you're going to do it alone, it's just right.",
+        "audio": "audio/qCFx-Tj_cow/seg_305.mp3"
+    },
+    {
+        "id": 306,
+        "jp": "勝負よ、ホリキタ。",
+        "rm": "shoubuyo、horikita。",
+        "en": "Let's do this, Horikita!",
+        "audio": "audio/qCFx-Tj_cow/seg_306.mp3"
+    },
+    {
+        "id": 307,
+        "jp": "一ついいかしら。",
+        "rm": "hitotsuiikashira。",
+        "en": "I wonder if there's one thing that's good about it.",
+        "audio": "audio/qCFx-Tj_cow/seg_307.mp3"
+    },
+    {
+        "id": 308,
+        "jp": "どうしたあなたは私に対抗心を燃やすの?",
+        "rm": "doushitaanatahawatashinitaikoushinwomoyasuno?",
+        "en": "What's wrong with you? Why are you so against me?",
+        "audio": "audio/qCFx-Tj_cow/seg_308.mp3"
+    },
+    {
+        "id": 309,
+        "jp": "ありあう機会はあったけれど、特別なものはなかったはず。",
+        "rm": "ariaukikaihaattakeredo、tokubetsunamonohanakattahazu。",
+        "en": "There was a chance to meet, but nothing special.",
+        "audio": "audio/qCFx-Tj_cow/seg_309.mp3"
+    },
+    {
+        "id": 310,
+        "jp": "そう思ってるのはあんただけよ。",
+        "rm": "souomotterunohaantadakeyo。",
+        "en": "You're the only one who thinks that way.",
+        "audio": "audio/qCFx-Tj_cow/seg_310.mp3"
+    },
+    {
+        "id": 311,
+        "jp": "どうやら時間の無駄だったよね。",
+        "rm": "douyarajikannomudadattayone。",
+        "en": "It seems like I wasted too much time.",
+        "audio": "audio/qCFx-Tj_cow/seg_311.mp3"
+    },
+    {
+        "id": 312,
+        "jp": "待ちなさいよ!勝負受けるの?受けないの?",
+        "rm": "machinasaiyo!shoubuukeruno?ukenaino?",
+        "en": "Wait! Are you going to accept the challenge or not?",
+        "audio": "audio/qCFx-Tj_cow/seg_312.mp3"
+    },
+    {
+        "id": 313,
+        "jp": "私は個人プレイにこだわってるわけじゃない。",
+        "rm": "watashihakojinpureinikodawatteruwakejanai。",
+        "en": "I'm not particular about my personal play.",
+        "audio": "audio/qCFx-Tj_cow/seg_313.mp3"
+    },
+    {
+        "id": 314,
+        "jp": "試験が始まれば臨機応変に合流することも選択する。",
+        "rm": "shikengahajimarebarinkiouhennigouryuusurukotomosentakusuru。",
+        "en": "If the trial begins, I will choose to meet with Rinki Ohen.",
+        "audio": "audio/qCFx-Tj_cow/seg_314.mp3"
+    },
+    {
+        "id": 315,
+        "jp": "ダサいダサくないで特別試験をしてるわけじゃないもの。",
+        "rm": "dasaidasakunaidetokubetsushikenwoshiteruwakejanaimono。",
+        "en": "It's not like I'm doing a special test because I'm not lame or lame.",
+        "audio": "audio/qCFx-Tj_cow/seg_315.mp3"
+    },
+    {
+        "id": 316,
+        "jp": "私がグループを組んだとしても、負けないように努力しなさい。",
+        "rm": "watashigaguruupuwokundatoshitemo、makenaiyounidoryokushinasai。",
+        "en": "Even if I form a group, try not to lose.",
+        "audio": "audio/qCFx-Tj_cow/seg_316.mp3"
+    },
+    {
+        "id": 317,
+        "jp": "それで勝ったのなら、少しは認めてあげる。",
+        "rm": "soredekatsutanonara、sukoshihamitometeageru。",
+        "en": "If that's why you won, I'll give you a bit of recognition.",
+        "audio": "audio/qCFx-Tj_cow/seg_317.mp3"
+    },
+    {
+        "id": 318,
+        "jp": "上等じゃない。",
+        "rm": "joutoujanai。",
+        "en": "It's perfect.",
+        "audio": "audio/qCFx-Tj_cow/seg_318.mp3"
+    },
+    {
+        "id": 319,
+        "jp": "一学期の修行式はあっけないほど早く訪れ、過ぎ去った。",
+        "rm": "ichigakkinoshugyoushikihaakkenaihodohayakuotozure、sugisatsuta。",
+        "en": "The end of the first semester came as fast as it could, and passed by.",
+        "audio": "audio/qCFx-Tj_cow/seg_319.mp3"
+    },
+    {
+        "id": 320,
+        "jp": "そして俺たちは、いよいよ無人島サバイバル試験出発の日を迎える。",
+        "rm": "soshiteoretachiha、iyoiyomujinshimasabaibarushikenshuppatsunonichiwomukaeru。",
+        "en": "And finally, the day will come for us to embark on the survival test of the unmanned island.",
+        "audio": "audio/qCFx-Tj_cow/seg_320.mp3"
+    },
+    {
+        "id": 321,
+        "jp": "お前たちが特別試験を受けるのは、これが初めてじゃない。",
+        "rm": "omaetachigatokubetsushikenwoukerunoha、koregahajimetejanai。",
+        "en": "This is not the first time you've been given a special test.",
+        "audio": "audio/qCFx-Tj_cow/seg_321.mp3"
+    },
+    {
+        "id": 322,
+        "jp": "一年以上もこの学校で苦難と戦い続け、そして乗り越えてきた。",
+        "rm": "ichinen'ijoumokonogakkoudekunantotatakaitsuzuke、soshitenorikoetekita。",
+        "en": "I've been fighting in this school for more than a year, and I've overcome it.",
+        "audio": "audio/qCFx-Tj_cow/seg_322.mp3"
+    },
+    {
+        "id": 323,
+        "jp": "だが今回は、これまでのどの試験よりも厳しいものになる。",
+        "rm": "dagakonkaiha、koremadenodonoshikenyorimoikameshiimononinaru。",
+        "en": "But this time, it will be more difficult than any other test so far.",
+        "audio": "audio/qCFx-Tj_cow/seg_323.mp3"
+    },
+    {
+        "id": 324,
+        "jp": "お前たちに一つだけ、私から願い事をしておく。",
+        "rm": "omaetachinihitotsudake、watashikaranegaigotowoshiteoku。",
+        "en": "I have one thing to ask of you.",
+        "audio": "audio/qCFx-Tj_cow/seg_324.mp3"
+    },
+    {
+        "id": 325,
+        "jp": "できれば、誰一人懸けることなく、もう一度この教室に戻ってきてくれ。",
+        "rm": "dekireba、darehitorikakerukotonaku、mouichidokonokyoushitsunimodotsutekitekure。",
+        "en": "If you can, come back to this classroom without leaving anyone behind.",
+        "audio": "audio/qCFx-Tj_cow/seg_325.mp3"
+    },
+    {
+        "id": 326,
+        "jp": "オリキタガール、試験のことで少しいいかね?",
+        "rm": "orikitagaaru、shikennokotodesukoshiiikane?",
+        "en": "I'm here, girl. I'd like to talk to you about something important.",
+        "audio": "audio/qCFx-Tj_cow/seg_326.mp3"
+    },
+    {
+        "id": 327,
+        "jp": "珍しいわね。ついにあなたも自発的に協力してくれる気になったのかしら。",
+        "rm": "mezurashiiwane。tsuinianatamojihatsutekinikyouryokushitekurerukininattanokashira。",
+        "en": "That's unusual. I wonder if you've finally decided to help me out on your own.",
+        "audio": "audio/qCFx-Tj_cow/seg_327.mp3"
+    },
+    {
+        "id": 328,
+        "jp": "半分正解としておこう。今回上位3グループに与えられるクラスポイントを、君は喉から手が出るほど欲している。",
+        "rm": "hanbunseikaitoshiteokou。konkaijoui3guruupuniataerarerukurasupointowo、kunhanodokarategaderuhodohosshiteiru。",
+        "en": "I'll give you half of the correct answer. This time, the class points given to the top three groups, you are so thirsty that your hand comes out of your throat.",
+        "audio": "audio/qCFx-Tj_cow/seg_328.mp3"
+    },
+    {
+        "id": 329,
+        "jp": "当然でしょ。",
+        "rm": "touzendesho。",
+        "en": "Of course.",
+        "audio": "audio/qCFx-Tj_cow/seg_329.mp3"
+    },
+    {
+        "id": 330,
+        "jp": "そこで提案しようじゃないか。",
+        "rm": "sokodeteianshiyoujanaika。",
+        "en": "Why don't you make a proposal there?",
+        "audio": "audio/qCFx-Tj_cow/seg_330.mp3"
+    },
+    {
+        "id": 331,
+        "jp": "もし私が高成績を残したなら、卒業までの間、私の完全なるフリーダムを約束してほしい。",
+        "rm": "moshiwatashigatakanarisekiwonokoshitanara、sotsugyoumadenokan、watashinokanzennarufuriidamuwoyakusokushitehoshii。",
+        "en": "If I leave a high score, I want you to promise me my complete freedom until I graduate.",
+        "audio": "audio/qCFx-Tj_cow/seg_331.mp3"
+    },
+    {
+        "id": 332,
+        "jp": "なんとも思い切った提案ね。あなたの好き勝手を許し続けろと言うの?",
+        "rm": "nantomoomoikitsutateianne。anatanosukikattewoyurushitsuzukerotoiuno?",
+        "en": "(Translating...)",
+        "audio": "audio/qCFx-Tj_cow/seg_332.mp3"
+    },
+    {
+        "id": 333,
+        "jp": "エグザクトリー、これは卒業までの前菓子のようなものだよ。",
+        "rm": "eguzakutorii、korehasotsugyoumadenomaekashinoyounamonodayo。",
+        "en": "Exactly. This is like a prelude to your graduation.",
+        "audio": "audio/qCFx-Tj_cow/seg_333.mp3"
+    },
+    {
+        "id": 334,
+        "jp": "さすがのあなたも危機感を覚えていたようね。",
+        "rm": "sasuganoanatamokikikanwooboeteitayoune。",
+        "en": "As expected, you seem to have a sense of danger",
+        "audio": "audio/qCFx-Tj_cow/seg_334.mp3"
+    },
+    {
+        "id": 335,
+        "jp": "悪いけれど、そこそこの活躍というのは割に合わないわ。",
+        "rm": "waruikeredo、sokosokonokatsuyakutoiunohawariniawanaiwa。",
+        "en": "Hmph. I'm sorry, but I don't think it's appropriate to be so active.",
+        "audio": "audio/qCFx-Tj_cow/seg_335.mp3"
+    },
+    {
+        "id": 336,
+        "jp": "では、交渉決裂ということかな?",
+        "rm": "deha、koushouketsuretsutoiukotokana?",
+        "en": "Well then, the negotiation is over",
+        "audio": "audio/qCFx-Tj_cow/seg_336.mp3"
+    },
+    {
+        "id": 337,
+        "jp": "いいえ、高成績なんて曖昧なものではダメよ。",
+        "rm": "iie、takanarisekinanteaimainamonodehadameyo。",
+        "en": "No, high grades are no good.",
+        "audio": "audio/qCFx-Tj_cow/seg_337.mp3"
+    },
+    {
+        "id": 338,
+        "jp": "単独で学年1位を取ること。",
+        "rm": "tandokudegakunen1kuraiwotorukoto。",
+        "en": "To win the first place in the school year by yourself.",
+        "audio": "audio/qCFx-Tj_cow/seg_338.mp3"
+    },
+    {
+        "id": 339,
+        "jp": "もしそれができなかった場合は、その次の特別試験でもクラスに協力すると約束してもらうわ。",
+        "rm": "moshisoregadekinakattabaaiha、sonotsuginotokubetsushikendemokurasunikyouryokusurutoyakusokushitemorauwa。",
+        "en": "If you can't do it, promise me that you'll cooperate with the class in the next special test.",
+        "audio": "audio/qCFx-Tj_cow/seg_339.mp3"
+    },
+    {
+        "id": 340,
+        "jp": "ふっふっふ、なるほどいいとも。その条件を呑もうじゃないか。",
+        "rm": "fuffuffu、naruhodoiitomo。sonojoukenwonomoujanaika。",
+        "en": "Fufufu, I get it, my friend. Let's take that condition.",
+        "audio": "audio/qCFx-Tj_cow/seg_340.mp3"
+    },
+    {
+        "id": 341,
+        "jp": "交渉成立だな、堀北が。",
+        "rm": "koushouseiritsudana、horikitaga。",
+        "en": "It's a successful negotiation, Horikita.",
+        "audio": "audio/qCFx-Tj_cow/seg_341.mp3"
+    },
+    {
+        "id": 342,
+        "jp": "もう7月も後半、ずいぶんと暑くなりましたね。",
+        "rm": "mou7gatsumokouhan、zuibuntoatsukunarimashitane。",
+        "en": "To be continued... It's already the second half of July. It's gotten pretty hot, hasn't it?",
+        "audio": "audio/qCFx-Tj_cow/seg_342.mp3"
+    },
+    {
+        "id": 343,
+        "jp": "坂柳理事長の不正疑惑もそろそろ晴れる頃ですし、私が代理を続けていくことも難しい。",
+        "rm": "sakayanagirijichounofuseigiwakumosorosoroharerugorodesushi、watashigadairiwotsuzuketeikukotomomuzukashii。",
+        "en": "It's about time for President Sakayanagi to make a statement, and it'll be difficult for me to continue to represent him.",
+        "audio": "audio/qCFx-Tj_cow/seg_343.mp3"
+    },
+    {
+        "id": 344,
+        "jp": "だからこそ、最後に大きな花火を用意しました。",
+        "rm": "dakarakoso、saigoniookinahanabiwoyouishimashita。",
+        "en": "That's why I prepared a big fire at the end.",
+        "audio": "audio/qCFx-Tj_cow/seg_344.mp3"
+    },
+    {
+        "id": 345,
+        "jp": "いかなる手段を用いても、綾野孝二清高をこの学校から追い出していただきたい。いいですね。",
+        "rm": "ikanarushudanwomochiitemo、ayanokoujikiyotakawokonogakkoukaraoidashiteitadakitai。iidesune。",
+        "en": "No matter what method you use, I want you to get Kiyotaka Ayano out of this school. Very well.",
+        "audio": "audio/qCFx-Tj_cow/seg_345.mp3"
+    },
+    {
+        "id": 346,
+        "jp": "もう、迷いはありません。",
+        "rm": "mou、mayoihaarimasen。",
+        "en": "I won't hesitate anymore. I'm looking forward to it.",
+        "audio": "audio/qCFx-Tj_cow/seg_346.mp3"
+    },
+    {
+        "id": 347,
+        "jp": "奈々瀬翼さん。",
+        "rm": "nanasetsubasasan。",
+        "en": "Nanase Tsubasa-san",
+        "audio": "audio/qCFx-Tj_cow/seg_347.mp3"
+    },
+    {
+        "id": 348,
+        "jp": "はい。",
+        "rm": "hai。",
+        "en": "Yes.",
+        "audio": "audio/qCFx-Tj_cow/seg_348.mp3"
+    }
+]
