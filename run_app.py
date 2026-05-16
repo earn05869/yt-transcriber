@@ -9,29 +9,26 @@ import yt_dlp
 from faster_whisper import WhisperModel
 from pykakasi import kakasi
 
-# Split before/after particles so romaji wraps cleanly on mobile (longest match first).
+# Split only on particles (助詞) — not punctuation or te-form て / adjective しい, etc.
 PARTICLE_SPLIT_RE = re.compile(
     r"("
     r"から|まで|より|では|には|って|など|とも|だけ|ばかり|"
-    r"は|が|を|に|へ|で|と|も|の|か|ね|よ|や|ば|て|し|"
-    r"|[、。！？…，．!?]"
+    r"は|が|を|に|へ|で|と|も|の|か|ね|よ|"
     r")"
 )
 
 
 def build_romaji(jp_text: str, kks) -> str:
-    """Romaji with spaces at particles (wa, ni, wo, ga, de, etc.) for mobile line breaks."""
+    """Romaji with spaces only at particles (wa, ga, wo, ni, de, to, ...) for mobile wraps."""
     tokens = []
     for part in PARTICLE_SPLIT_RE.split(jp_text):
-        part = part.strip()
         if not part:
             continue
         converted = kks.convert(part)
-        chunk = " ".join(
-            item["hepburn"] for item in converted if item.get("hepburn")
-        ).strip().lower()
+        # Concatenate syllables within each chunk; space only between particle splits.
+        chunk = "".join(item["hepburn"] for item in converted if item.get("hepburn"))
         if chunk:
-            tokens.append(chunk)
+            tokens.append(chunk.lower())
     return " ".join(tokens)
 
 # =====================================================================
