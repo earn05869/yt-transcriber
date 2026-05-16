@@ -119,22 +119,19 @@
 
                 sentenceListEl.innerHTML = sentences.map(s => `
                 <div class="glass-card sentence-item ${progress[s.id] ? 'opacity-50 !border-green-500' : ''}" id="card-${s.id}">
-                    <div class="flex justify-between items-center gap-3 sm:gap-4">
+                    <div class="flex justify-between items-start gap-3 sm:gap-4">
                         <div class="flex-1 min-w-0 break-words">
                             <div class="text-[1.2rem] sm:text-[1.4rem] font-bold text-white mb-1.5 leading-snug">${s.jp}</div>
                             <div class="inline-block text-[0.85rem] sm:text-[1rem] text-blue-300 font-mono mb-1.5 bg-white/5 px-2 py-1 rounded">${s.rm}</div>
                             <div class="text-[0.95rem] sm:text-[1.1rem] text-zinc-400 mt-1">${s.en}</div>
                         </div>
-                        <div class="flex-shrink-0 flex flex-col items-center gap-4">
-                            <button onclick="playAudio('audio-${s.id}')" class="w-8 h-8 flex items-center justify-center bg-blue-500 text-white rounded-full hover:bg-blue-400 transition-colors shadow" title="Play Audio">
-                                <svg class="w-4 h-4 ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
-                            </button>
+                        <div class="flex-shrink-0 pt-1">
                             <input type="checkbox" class="custom-checkbox" 
                                    onchange="toggleProgress(${s.id}, this)" 
                                    ${progress[s.id] ? 'checked' : ''}>
                         </div>
                     </div>
-                    <audio id="audio-${s.id}" preload="none" src="${s.audio}" style="display: none;"></audio>
+                    <audio controls preload="none" src="${s.audio}"></audio>
                 </div>
             `).join('');
 
@@ -165,17 +162,6 @@
             dashboardView.classList.add('active');
             currentVideoId = null;
             document.querySelectorAll('audio').forEach(a => a.pause());
-        }
-
-        function playAudio(audioId) {
-            const audio = document.getElementById(audioId);
-            if (audio) {
-                document.querySelectorAll('audio').forEach(a => {
-                    if (a.id !== audioId) a.pause();
-                });
-                audio.currentTime = 0;
-                audio.play().catch(e => console.error("Error playing audio:", e));
-            }
         }
 
         loadDashboard();
