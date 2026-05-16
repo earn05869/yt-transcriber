@@ -699,6 +699,10 @@ body {
   overflow: hidden;
 }
 
+.overflow-x-auto {
+  overflow-x: auto;
+}
+
 .truncate {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -707,6 +711,10 @@ body {
 
 .whitespace-normal {
   white-space: normal;
+}
+
+.whitespace-nowrap {
+  white-space: nowrap;
 }
 
 .break-words {
