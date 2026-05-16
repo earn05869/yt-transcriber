@@ -1,0 +1,22 @@
+# Environments
+venv/
+env/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+npm-debug.log
+
+# System
+.DS_Store
+
+# Temp Media
+audio_source.*
+*.m4a
+*.webm
+*.mp4
