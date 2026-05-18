@@ -29,6 +29,124 @@ if 'VIRTUAL_ENV' in os.environ:
 # =====================================================================
 MAX_AUDIO_FOLDER_SIZE_MB = 500  # กำหนดลิมิตพื้นที่โฟลเดอร์ audio (MB) เพื่อไม่ให้เกินโควต้า GitHub
 
+# Extra audio before/after each Whisper segment so clips do not cut off endings (e.g. "desu").
+SEGMENT_PAD_START_SEC = 0.28
+SEGMENT_PAD_END_SEC = 0.62
+# Second translate attempt uses a wider window if the first looks like a hallucination.
+TRANSLATE_RETRY_EXTRA_PAD_SEC = 0.45
+
+# VAD: slightly longer silence required to split + more speech padding = smoother, longer chunks.
+VAD_PARAMETERS = {
+    "min_silence_duration_ms": 2400,
+    "speech_pad_ms": 720,
+}
+
+# Substrings that usually mean Whisper guessed wrong on a short clip (not real dialogue).
+_BAD_EN_SUBSTRINGS = (
+    "thanks for watching",
+    "thank you for watching",
+    "please subscribe",
+    "like and subscribe",
+    "don't forget to subscribe",
+    "see you next",
+    "see you in the next",
+    "goodbye everyone",
+    "translating...",
+    "(translating",
+    "http://",
+    "https://",
+    "www.",
+    "subtitle",
+    "subtitles by",
+    "captions by",
+    "amara.org",
+)
+
+_TRANSLATE_PROMPT = (
+    "Faithful English translation of spoken Japanese dialogue from anime or TV. "
+    "Ignore music, outros, and channel promos. Translate only what is spoken."
+)
+
+
+def _get_audio_duration_seconds(path):
+    try:
+        out = subprocess.check_output(
+            [
+                "ffprobe",
+                "-v",
+                "error",
+                "-show_entries",
+                "format=duration",
+                "-of",
+                "default=noprint_wrappers=1:nokey=1",
+                path,
+            ],
+            stderr=subprocess.DEVNULL,
+            text=True,
+        )
+        return float(out.strip())
+    except (subprocess.CalledProcessError, ValueError, OSError):
+        return None
+
+
+def _is_bad_english_translation(text):
+    if not text or not text.strip():
+        return True
+    lower = text.lower()
+    if lower.strip() in ("(translating...)", "translating..."):
+        return True
+    return any(s in lower for s in _BAD_EN_SUBSTRINGS)
+
+
+def _translate_clip(model, audio_path, clip_start, clip_end, initial_prompt=None):
+    kwargs = {
+        "task": "translate",
+        "language": "ja",
+        "clip_timestamps": f"{clip_start},{clip_end}",
+    }
+    if initial_prompt:
+        kwargs["initial_prompt"] = initial_prompt
+    segments, _ = model.transcribe(audio_path, **kwargs)
+    return "".join(s.text for s in segments).strip()
+
+
+def _primary_clip_bounds(source_duration, seg_start, seg_end):
+    """Time range used for MP3 export (and first translate pass)."""
+    if source_duration is None:
+        source_duration = float("inf")
+    t0 = max(0.0, seg_start - SEGMENT_PAD_START_SEC)
+    t1 = min(source_duration, seg_end + SEGMENT_PAD_END_SEC)
+    if t1 <= t0:
+        t1 = min(source_duration, seg_end + 0.05)
+        t0 = max(0.0, seg_start - 0.05)
+    return t0, t1
+
+
+def _translate_segment_english(model, audio_path, source_duration, seg_start, seg_end):
+    """Translate: first pass matches audio padding; retry uses wider clip + prompt if output looks wrong."""
+    t0, t1 = _primary_clip_bounds(source_duration, seg_start, seg_end)
+    en = _translate_clip(model, audio_path, t0, t1)
+
+    if _is_bad_english_translation(en):
+        if source_duration is None:
+            source_duration = float("inf")
+        t0 = max(0.0, seg_start - SEGMENT_PAD_START_SEC - TRANSLATE_RETRY_EXTRA_PAD_SEC)
+        t1 = min(
+            source_duration,
+            seg_end + SEGMENT_PAD_END_SEC + TRANSLATE_RETRY_EXTRA_PAD_SEC,
+        )
+        if t1 <= t0:
+            t1 = min(source_duration, seg_end + 0.05)
+            t0 = max(0.0, seg_start - 0.05)
+        en = _translate_clip(
+            model, audio_path, t0, t1, initial_prompt=_TRANSLATE_PROMPT
+        )
+
+    if _is_bad_english_translation(en):
+        return ""
+
+    return en
+
 def get_folder_size(folder):
     total_size = 0
     for dirpath, _, filenames in os.walk(folder):
@@ -112,6 +230,8 @@ def process():
         subprocess.run(crop_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         os.replace('audio_cropped.m4a', 'audio_source.m4a')
 
+    source_duration = _get_audio_duration_seconds("audio_source.m4a")
+
     # 2. Load Model
     print("\n[3/5] กำลังโหลด Model เข้า RTX 4070...")
     model = WhisperModel("medium", device="cuda", compute_type="float16")
@@ -119,7 +239,12 @@ def process():
     # 3. Transcribe
     print("\n[4/5] กำลังแกะไทม์ไลน์และประมวลผลเสียง...")
     start_time = time.time()
-    segments_jp, _ = model.transcribe("audio_source.m4a", language="ja", vad_filter=True)
+    segments_jp, _ = model.transcribe(
+        "audio_source.m4a",
+        language="ja",
+        vad_filter=True,
+        vad_parameters=VAD_PARAMETERS,
+    )
     
     cutter = cutlet.Cutlet()
     
@@ -131,25 +256,35 @@ def process():
         if not jp_text:
             continue
             
-        en_segments, _ = model.transcribe(
-            "audio_source.m4a", 
-            task="translate", 
-            clip_timestamps=f"{seg.start},{seg.end}"
+        en_text = _translate_segment_english(
+            model, "audio_source.m4a", source_duration, seg.start, seg.end
         )
-        en_text = "".join([s.text for s in en_segments]).strip() or "(Translating...)"
-        
+
         romaji_text = cutter.romaji(jp_text)
-        
+
         segment_audio_filename = f"seg_{idx}.mp3"
         segment_audio_path = os.path.join(audio_out_dir, segment_audio_filename)
-        
-        # บีบอัดเสียง Mono 32kbps ตามโครงสร้างใหม่
-        duration = seg.end - seg.start
+
+        clip_t0, clip_t1 = _primary_clip_bounds(source_duration, seg.start, seg.end)
+        clip_duration = clip_t1 - clip_t0
+
+        # บีบอัดเสียง Mono 32kbps (ช่วงเวลาขยายก่อน/หลังเล็กน้อยเพื่อไม่ตัดท้ายประโยค)
         ffmpeg_cmd = [
-            'ffmpeg', '-y', '-ss', str(seg.start), '-t', str(duration),
-            '-i', 'audio_source.m4a', 
-            '-acodec', 'libmp3lame', '-ac', '1', '-b:a', '32k',
-            segment_audio_path
+            "ffmpeg",
+            "-y",
+            "-ss",
+            str(clip_t0),
+            "-t",
+            str(clip_duration),
+            "-i",
+            "audio_source.m4a",
+            "-acodec",
+            "libmp3lame",
+            "-ac",
+            "1",
+            "-b:a",
+            "32k",
+            segment_audio_path,
         ]
         subprocess.run(ffmpeg_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         
