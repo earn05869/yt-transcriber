@@ -1,0 +1,2984 @@
+[
+    {
+        "id": 1,
+        "jp": "古典部が復活してから1ヶ月",
+        "rm": "Koten bu ga fukkatsu shite kara 1 kagetsu",
+        "en": "It's been a month since Kotenbu came back to life.",
+        "audio": "audio/FdI_ofyuH5Y/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "ここ地学準備室は俺の中で",
+        "rm": "Koko chigaku junbishitsu wa ore no naka de",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "思ったより気安い場所となっていた",
+        "rm": "Omotta yori kiyasui basho to natte ita",
+        "en": "It became a place that was easier to come to than I thought.",
+        "audio": "audio/FdI_ofyuH5Y/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "放課後に退屈を感じればそこを訪れる",
+        "rm": "Houkago ni taikutsu wo kanjireba soko wo otozureru",
+        "en": "If you feel bored after school, you can visit there.",
+        "audio": "audio/FdI_ofyuH5Y/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "につまんでください",
+        "rm": "Ni tsumande kudasai",
+        "en": "Please, take it. Please, take it. This is a gift from my house. Please take it as you like.",
+        "audio": "audio/FdI_ofyuH5Y/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "サンキュー",
+        "rm": "Thank you",
+        "en": "Thank you",
+        "audio": "audio/FdI_ofyuH5Y/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "一緒にいて疲れないのであれば",
+        "rm": "Issho ni ite tsukarenai no de areba",
+        "en": "I wish I could be with you and never get tired of you.",
+        "audio": "audio/FdI_ofyuH5Y/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "俺はもともと人嫌いというわけではない",
+        "rm": "Ore wa motomoto hitogirai to iu wake de wa nai",
+        "en": "I'm not a person who hates people.",
+        "audio": "audio/FdI_ofyuH5Y/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "1年に2回植えるやつか",
+        "rm": "1 nen ni 2 kai ueru yatsu ka",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "それは2問作です",
+        "rm": "Sore wa 2monsaku desu",
+        "en": "That's a double-edged sword.",
+        "audio": "audio/FdI_ofyuH5Y/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "ひょっとしてダジャレですか?",
+        "rm": "Hyotto shite dajare desu ka?",
+        "en": "... Is this some kind of joke?",
+        "audio": "audio/FdI_ofyuH5Y/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "聞くな",
+        "rm": "Kiku na",
+        "en": "Don't listen to me.",
+        "audio": "audio/FdI_ofyuH5Y/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "いやそうじゃなくてですね",
+        "rm": "Iya sou ja nakute desu ne",
+        "en": "No, it's not that!",
+        "audio": "audio/FdI_ofyuH5Y/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "不毛なのか",
+        "rm": "Fumou na no ka",
+        "en": "Right?",
+        "audio": "audio/FdI_ofyuH5Y/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "そうです不毛です",
+        "rm": "Sou desu fumou desu",
+        "en": "Is that so? Yes, it's impossible!",
+        "audio": "audio/FdI_ofyuH5Y/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "何が",
+        "rm": "Nan ga",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "この放課後がです",
+        "rm": "Kono houkago ga desu",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "目的なき日々は生産的じゃありません",
+        "rm": "Mokuteki naki hibi wa seisanteki ja arimasen",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "おせつごもっとも",
+        "rm": "Osetsu gomottomo",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "でお前は何かこの古典部に求めるものがあるとでも",
+        "rm": "De omae wa nan ka kono koten bu ni motomeru mono ga aru to de mo",
+        "en": "So, do you have anything you want from this store?",
+        "audio": "audio/FdI_ofyuH5Y/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "あります",
+        "rm": "Arimasu",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "おお",
+        "rm": "Oo",
+        "en": "I will.",
+        "audio": "audio/FdI_ofyuH5Y/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "でもそれは一身上の都合です",
+        "rm": "De mo sore wa isshinjou no tsugou desu",
+        "en": "Oh.",
+        "audio": "audio/FdI_ofyuH5Y/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "前にも聞いたぞ",
+        "rm": "Mae ni mo kiita zo",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "今は古典部のことを言ってるんです",
+        "rm": "Ima wa koten bu no koto wo itteru n desu",
+        "en": "I'm talking about the store department right now.",
+        "audio": "audio/FdI_ofyuH5Y/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "部活動ですから活動しなければいけません",
+        "rm": "Bu katsudou desukara katsudou shinakereba ikemasen",
+        "en": "It's a club activity, so I have to do it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "目的がない",
+        "rm": "Mokuteki ga nai",
+        "en": "I don't have a goal",
+        "audio": "audio/FdI_ofyuH5Y/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "いえあります",
+        "rm": "I e arimasu",
+        "en": "Yes. No, I have one.",
+        "audio": "audio/FdI_ofyuH5Y/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "10月の文化祭に文集を出します",
+        "rm": "10 gatsu no bunkasai ni bunshuu wo dashimasu",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "文集",
+        "rm": "Bunshuu",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "BUNSHU",
+        "audio": "audio/FdI_ofyuH5Y/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "やめよう手間がかかりすぎる",
+        "rm": "Yameyou tema ga kakari sugiru",
+        "en": "Yes? Let's stop. It'll take too long.",
+        "audio": "audio/FdI_ofyuH5Y/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "いえ文集でないとダメなんです",
+        "rm": "I e bunshuu de naito dame na n desu",
+        "en": "No, I have to do the analysis!",
+        "audio": "audio/FdI_ofyuH5Y/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "文化祭に一枚噛みたいなら",
+        "rm": "Bunkasai ni ichimai kamitainara",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "他にも方法はあるだろう",
+        "rm": "Hoka ni mo houhou wa arudarou",
+        "en": "If you want to see it, there are other ways.",
+        "audio": "audio/FdI_ofyuH5Y/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "模擬店とか",
+        "rm": "Mogiten to ka",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_36.mp3"
+    },
+    {
+        "id": 37,
+        "jp": "神子文化祭は伝統的に模擬店禁止だそうです",
+        "rm": "Kamiko bunkasai wa dentouteki ni mogiten kinshi da sou desu",
+        "en": "Kamiko culture festival is said to be traditionally prohibited in Mogi-ten.",
+        "audio": "audio/FdI_ofyuH5Y/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "それに文集のための予算が出てますし",
+        "rm": "Sore ni bunshuu no tame no yosan ga detemasushi",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "ごもんの先生からも頼まれています",
+        "rm": "Gomon no sensei kara mo tanomarete imasu",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "また",
+        "rm": "Mata",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "文集は40年以上の伝統があるので",
+        "rm": "Bunshuu wa 40 nen ijou no dentou ga aru no de",
+        "en": "Also, the book has a history of more than 40 years...",
+        "audio": "audio/FdI_ofyuH5Y/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "途絶えさせたくないそうです",
+        "rm": "Todae sasetaku nai sou desu",
+        "en": "I have a video, so I don't want you to watch it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "そういう事情があるなら先に言え",
+        "rm": "Sou iu jijou ga arunara saki ni ie",
+        "en": "If you have such a situation, say it first.",
+        "audio": "audio/FdI_ofyuH5Y/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "分かったやるよ",
+        "rm": "Wakatta yaru yo",
+        "en": "Okay, I'll do it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Y-Yes!",
+        "audio": "audio/FdI_ofyuH5Y/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "それでその文集ってのはどんな内容なんだ",
+        "rm": "Sore de sono bunshuu tte no wa donna naiyou na n da",
+        "en": "So what kind of content is that analysis?",
+        "audio": "audio/FdI_ofyuH5Y/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "おいおい",
+        "rm": "Oi oi",
+        "en": "I don't know. Hey, hey...",
+        "audio": "audio/FdI_ofyuH5Y/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "これから調べればいいと思ってました",
+        "rm": "Kore kara shirabereba ii to omottemashita",
+        "en": "I'm sorry. I thought I'd look into it from now on.",
+        "audio": "audio/FdI_ofyuH5Y/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "とにかくバックナンバーがあれば",
+        "rm": "Tonikaku back number ga areba",
+        "en": "Anyway, if you have a back number...",
+        "audio": "audio/FdI_ofyuH5Y/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "今日のとっかかりはつかめると思います",
+        "rm": "Kyou no tokkakari wa tsukameru to omoimasu",
+        "en": "I think you can catch the catch today",
+        "audio": "audio/FdI_ofyuH5Y/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "ないな",
+        "rm": "Nai na",
+        "en": "Let's look for it! It's not here...",
+        "audio": "audio/FdI_ofyuH5Y/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "出るんですか",
+        "rm": "Deru n desu ka",
+        "en": "Let's go to the library. Let's go. What are you doing?",
+        "audio": "audio/FdI_ofyuH5Y/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "おれきさんも行くんです",
+        "rm": "Orekisan mo iku n desu",
+        "en": "I'm going too, Orekki-san. Come on.",
+        "audio": "audio/FdI_ofyuH5Y/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "気がすすまん",
+        "rm": "Ki ga susuman",
+        "en": "I can't breathe.",
+        "audio": "audio/FdI_ofyuH5Y/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "今日は金曜だから",
+        "rm": "Kyou wa kin'you dakara",
+        "en": "Because today is Friday.",
+        "audio": "audio/FdI_ofyuH5Y/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "図書登板は多分",
+        "rm": "Tosho touban wa tabun",
+        "en": "Well, I guess I'll have to wait and see.",
+        "audio": "audio/FdI_ofyuH5Y/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "あれおれきじゃない",
+        "rm": "Are oreki ja nai",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "久しぶりね会いたくなかったわ",
+        "rm": "Hisashiburi ne aitaku nakatta wa",
+        "en": "It's been a while. I didn't want to see you.",
+        "audio": "audio/FdI_ofyuH5Y/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "よーいばら会いに来てやったぜ",
+        "rm": "Yooi bara ai ni kite yatta ze",
+        "en": "Yo, Ibara. I'm here to see you.",
+        "audio": "audio/FdI_ofyuH5Y/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "ここは教養の聖域よ",
+        "rm": "Koko wa kyouyou no seiiki yo",
+        "en": "This is the holy land of Kyoyo.",
+        "audio": "audio/FdI_ofyuH5Y/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "あんたには似合わないんじゃない",
+        "rm": "Anta ni wa niawanai n ja nai",
+        "en": "Don't you think it doesn't suit you?",
+        "audio": "audio/FdI_ofyuH5Y/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "なら自分にはお似合いだってのか",
+        "rm": "Nara jibun ni wa oniai da tte no ka",
+        "en": "So you're saying I'm a good match for you?",
+        "audio": "audio/FdI_ofyuH5Y/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "ご立派なことで",
+        "rm": "Gorippa na koto de",
+        "en": "It's a great thing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "あい変わらず最低ね",
+        "rm": "Aikawarazu saitei ne",
+        "en": "It's so annoying, isn't it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "日焼かしに来たなら帰りなさいよ",
+        "rm": "Hiyake ka shi ni kitanara kaeri nasai yo",
+        "en": "If you're here to relax, then go home. Um...",
+        "audio": "audio/FdI_ofyuH5Y/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "やあ方太郎",
+        "rm": "Yaa Hou Tarou",
+        "en": "Hey, Hotaro!",
+        "audio": "audio/FdI_ofyuH5Y/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "奇遇だね",
+        "rm": "Kiguu da ne",
+        "en": "What a coincidence!",
+        "audio": "audio/FdI_ofyuH5Y/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "あい変わらず仲がいいじゃないか",
+        "rm": "Aikawarazu naka ga iija nai ka",
+        "en": "As usual, we're on good terms, aren't we?",
+        "audio": "audio/FdI_ofyuH5Y/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "さすがはかぶら屋中ベストカップル",
+        "rm": "Sasuga wa kaburaya chuubest couple",
+        "en": "As expected of the best couple in Kaburaya!",
+        "audio": "audio/FdI_ofyuH5Y/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "ふざけんな",
+        "rm": "Fuzaken na",
+        "en": "Don't mess with me!",
+        "audio": "audio/FdI_ofyuH5Y/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "こんな陰気な男",
+        "rm": "Konna inki na otoko",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "なめくじのほうがまだましよ",
+        "rm": "Namekuji no hou ga mada mashi yo",
+        "en": "It's better to use a toothpick",
+        "audio": "audio/FdI_ofyuH5Y/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "なめくじ",
+        "rm": "Namekuji",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "だいたいふくちゃん",
+        "rm": "Daitai fukuchan",
+        "en": "It's usually Fuku-chan.",
+        "audio": "audio/FdI_ofyuH5Y/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "私の気持ちを知っててよくそうな冗談が言えるわね",
+        "rm": "Watakushi no kimochi wo shittete yoku sou na joudan ga ieru wa ne",
+        "en": "You know how I feel, so you can joke around like that.",
+        "audio": "audio/FdI_ofyuH5Y/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "あはごめんねまやか",
+        "rm": "A wa gomen ne ma ya ka",
+        "en": "Ah, I'm sorry, Mayuka.",
+        "audio": "audio/FdI_ofyuH5Y/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "傷ついちゃった",
+        "rm": "Kizutsuichatta",
+        "en": "Did you get hurt?",
+        "audio": "audio/FdI_ofyuH5Y/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "あんたはそうやって冗談めかしてごまかすんだから",
+        "rm": "Anta wa sou yatte joudanmekashite gomakasu n dakara",
+        "en": "That's how you trick me into making fun of me.",
+        "audio": "audio/FdI_ofyuH5Y/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "ほんといい加減にしてよね",
+        "rm": "Honto ii kagen ni shite yo ne",
+        "en": "Really, that's enough! What kind of girl is she?",
+        "audio": "audio/FdI_ofyuH5Y/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "関係なんですか",
+        "rm": "Kankei na n desu ka",
+        "en": "Are you a middle schooler?",
+        "audio": "audio/FdI_ofyuH5Y/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "中学の頃から里市に惚れてるんだ",
+        "rm": "Chuugaku no koro kara Sato shi ni horeteru n da",
+        "en": "I've been in love with Satoshi since I was a kid.",
+        "audio": "audio/FdI_ofyuH5Y/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "ま",
+        "rm": "Ma",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "ごほん",
+        "rm": "Gohon",
+        "en": "5 books!",
+        "audio": "audio/FdI_ofyuH5Y/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "ちたんださん",
+        "rm": "Chi ta n dasan",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "こちらは茨まやか",
+        "rm": "Kochira wa ubara ma ya ka",
+        "en": "This is Mayaka Ibara.",
+        "audio": "audio/FdI_ofyuH5Y/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "僕らと同じかぶら屋中出身だ",
+        "rm": "Bokura to onaji kaburaya chuushusshin da",
+        "en": "I'm from the same Kaburaya area.",
+        "audio": "audio/FdI_ofyuH5Y/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "よろしく",
+        "rm": "Yoroshiku",
+        "en": "Thanks for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "まやか",
+        "rm": "Ma ya ka",
+        "en": "Mayaka!",
+        "audio": "audio/FdI_ofyuH5Y/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "こちらはちたんだエルさん",
+        "rm": "Kochira hachi ta n da Erusan",
+        "en": "This is Chitanda L-san.",
+        "audio": "audio/FdI_ofyuH5Y/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "僕がこないだ入部した古典部の部長だよ",
+        "rm": "Boku ga konaida nyuubu shita koten bu no buchou da yo",
+        "en": "I'm the head of the Cotem department who joined the Nubestar the other day.",
+        "audio": "audio/FdI_ofyuH5Y/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "こちらこそよろしくお願いします",
+        "rm": "Kochira koso yoroshiku onegai shimasu",
+        "en": "I'm looking forward to working with you.",
+        "audio": "audio/FdI_ofyuH5Y/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "それより2人そろって何のようだい",
+        "rm": "Sore yori 2nin sorotte nan no you da i",
+        "en": "What's the difference between two people?",
+        "audio": "audio/FdI_ofyuH5Y/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "部活の文集って置いてありますか",
+        "rm": "Bukatsu no bunshuu tte oite arimasu ka",
+        "en": "Ah, that's right. Um, Hibara-san, there's something I'd like to ask you. Yes? Do you have a group chat here?",
+        "audio": "audio/FdI_ofyuH5Y/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "全部",
+        "rm": "Zenbu",
+        "en": "It's from my old shop. Your old shop?",
+        "audio": "audio/FdI_ofyuH5Y/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "なかったと思うけど",
+        "rm": "Nakatta to omoukedo",
+        "en": "I don't think there was...",
+        "audio": "audio/FdI_ofyuH5Y/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "表にないなら書庫かしら",
+        "rm": "Hyou ni nainara shoko kashira",
+        "en": "But if it's not on the table, I wonder if it's a shoko.",
+        "audio": "audio/FdI_ofyuH5Y/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "なんで文集を",
+        "rm": "Nan de bunshuu wo",
+        "en": "Is that so? Why are you reading it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "文化祭で文集を作ることになったので",
+        "rm": "Bunkasai de bunshuu wo tsukuru koto ni natta no de",
+        "en": "I'm going to make an essay at Wankasai, so please look forward to it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "一度以前の文集を見ていこうと思いまして",
+        "rm": "Ichi do izen no bunshuu wo mite ikou to omoimashite",
+        "en": "I thought it would be good to see the previous analysis",
+        "audio": "audio/FdI_ofyuH5Y/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "へえ",
+        "rm": "Hee",
+        "en": "Ehh...",
+        "audio": "audio/FdI_ofyuH5Y/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "館野祭に出品するんだ",
+        "rm": "Tatenosai ni shuppin suru n da",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "大太郎がよく承知したね",
+        "rm": "Daitarou ga yoku shouchi shita ne",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "ほとんど自己承諾だったけどな",
+        "rm": "Hotondo jiko shoudaku dattakedo na",
+        "en": "Well, it was mostly self-sacrifice, though.",
+        "audio": "audio/FdI_ofyuH5Y/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "館野祭?",
+        "rm": "Tateno matsuri?",
+        "en": "Konyosoi",
+        "audio": "audio/FdI_ofyuH5Y/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "聞いたことない",
+        "rm": "Kiita koto nai",
+        "en": "Have you ever heard of it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "上甲文化祭の続章だよ",
+        "rm": "Joukou bunkasai no zokushou da yo",
+        "en": "It's a continuation of the Kamiko Culture Festival.",
+        "audio": "audio/FdI_ofyuH5Y/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "またお前の考えた続章じゃないだろうな",
+        "rm": "Mata omae no kangaeta zokushou ja naidarou na",
+        "en": "It's not what you think again, is it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "本当さ",
+        "rm": "Hontou sa",
+        "en": "Really?",
+        "audio": "audio/FdI_ofyuH5Y/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "主芸部の先輩はみんな館野祭って呼んでるよ",
+        "rm": "Shu gei bu no senpai wa minna Tatenosai tte yonderu yo",
+        "en": "That's right, the seniors of the main game club are all called Kanyasai.",
+        "audio": "audio/FdI_ofyuH5Y/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "まやかは",
+        "rm": "Maya ka wa",
+        "en": "See you in the next video!",
+        "audio": "audio/FdI_ofyuH5Y/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "まうけんでも館野祭って言ってるわ",
+        "rm": "Ma uke n de mo Tatenosai tte itteru wa",
+        "en": "I'm telling you, it's easy to buy at the supermarket.",
+        "audio": "audio/FdI_ofyuH5Y/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "館野",
+        "rm": "Tateno",
+        "en": "Please subscribe to my channel and give it a high rating.",
+        "audio": "audio/FdI_ofyuH5Y/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "どういう字を書くんですか",
+        "rm": "Dou iu ji wo kaku n desu ka",
+        "en": "What kind of character are you going to draw?",
+        "audio": "audio/FdI_ofyuH5Y/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "わからないんだ",
+        "rm": "Wakaranai n da",
+        "en": "I don't know",
+        "audio": "audio/FdI_ofyuH5Y/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "聞いてまわったりはしたんだけどね",
+        "rm": "Kiite mawat tari wa shita n dakedo ne",
+        "en": "Well, I did ask around, but...",
+        "audio": "audio/FdI_ofyuH5Y/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "まあ多分",
+        "rm": "Maa tabun",
+        "en": "Well, maybe.",
+        "audio": "audio/FdI_ofyuH5Y/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "上山高校文化祭が上山祭になって",
+        "rm": "Ueyama koukou bunkasai ga Kaminoyama matsuri ni natte",
+        "en": "The Kamiyama High School Cultural Festival has become the Kamiyama Festival.",
+        "audio": "audio/FdI_ofyuH5Y/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "館山祭",
+        "rm": "Tateyama matsuri",
+        "en": "Kanyamasu",
+        "audio": "audio/FdI_ofyuH5Y/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "館野祭",
+        "rm": "Tatenosai",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "ってところかと思ってるんだけど",
+        "rm": "Tte tokoro ka to omotteru n dakedo",
+        "en": "That's what I think.",
+        "audio": "audio/FdI_ofyuH5Y/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "それでちたんださん",
+        "rm": "Sore de chi ta n dasan",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "文集は書庫を探せばあるかもしれないけど",
+        "rm": "Bunshuu wa shoko wo sagaseba aru ka mo shirenaikedo",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "ちょっとお師匠の先生が会議で席を外してるから",
+        "rm": "Chotto oshishou no sensei ga kaigi de seki wo hazushiterukara",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "今入れないのよ",
+        "rm": "Ima irenai no yo",
+        "en": "I can't go in right now because I'm taking off my glasses.",
+        "audio": "audio/FdI_ofyuH5Y/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "あと30分もすれば戻ってくると思うけど",
+        "rm": "Ato 30 fun mo sureba modotte kuru to omoukedo",
+        "en": "I think he'll be back in 30 minutes.",
+        "audio": "audio/FdI_ofyuH5Y/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "待つ?",
+        "rm": "Matsu?",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "どうします?",
+        "rm": "Dou shimasu?",
+        "en": "Wait? What should I do?",
+        "audio": "audio/FdI_ofyuH5Y/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "待つか",
+        "rm": "Matsu ka",
+        "en": "Let's wait.",
+        "audio": "audio/FdI_ofyuH5Y/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "あんたは帰ってもいいのに",
+        "rm": "Anta wa kaette mo ii no ni",
+        "en": "You can go home now.",
+        "audio": "audio/FdI_ofyuH5Y/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "へえ",
+        "rm": "Hee",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "お",
+        "rm": "O",
+        "en": "Bye!",
+        "audio": "audio/FdI_ofyuH5Y/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "待て大太郎",
+        "rm": "Mate daitarou",
+        "en": "Wait, Hotaro!",
+        "audio": "audio/FdI_ofyuH5Y/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "まやかさっきの話2人にも聞いてもらったらどうだい",
+        "rm": "Maya ka sakki no hanashi 2nin ni mo kiite morattara dou da i",
+        "en": "Mayuka, did you guys hear what I said just now?",
+        "audio": "audio/FdI_ofyuH5Y/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "What do you think?",
+        "audio": "audio/FdI_ofyuH5Y/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "そうね",
+        "rm": "Sou ne",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "オレキー",
+        "rm": "Ore key",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "たまには頭を働かせてみる気はない?",
+        "rm": "Tamani wa atama wo hatarakasete miru ki wa nai?",
+        "en": "Oreki! Sometimes I try to make my head work...",
+        "audio": "audio/FdI_ofyuH5Y/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "ない",
+        "rm": "Nai",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "どういう",
+        "rm": "Dou iu",
+        "en": "What are you talking about?",
+        "audio": "audio/FdI_ofyuH5Y/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "愛なき愛読書の話さ",
+        "rm": "Ai naki aidokusho no hanasa",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "愛なき愛読書?",
+        "rm": "Ai naki aidokusho?",
+        "en": "That's what I'm talking about. While I'm crying...",
+        "audio": "audio/FdI_ofyuH5Y/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "なんとも奇妙な話でね",
+        "rm": "Nan to mo kimyou na hanashi de ne",
+        "en": "What a strange story...",
+        "audio": "audio/FdI_ofyuH5Y/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "どう考えても辻妻が合わなくて",
+        "rm": "Dou kangaete mo tsujitsuma ga awanakute",
+        "en": "No matter how much I think about it, I can't get along with Tsujitsuma.",
+        "audio": "audio/FdI_ofyuH5Y/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "まやかと首をひねっていたところなんだ",
+        "rm": "Ma ya ka to kubi wo hinette ita tokoro na n da",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "私が当番で金曜放課後ここに来るとね",
+        "rm": "Watakushi ga touban de kin'you houkago koko ni kuruto ne",
+        "en": "Let me hear it!",
+        "audio": "audio/FdI_ofyuH5Y/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "毎週同じ本が返却されてるのよ",
+        "rm": "Maishuu onaji hon ga henkyaku sareteru no yo",
+        "en": "If you come here, every week the same book will be reprinted",
+        "audio": "audio/FdI_ofyuH5Y/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "今日で5週連続",
+        "rm": "Kyou de 5 shuu renzoku",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "これだけでも変な話でしょ",
+        "rm": "Kore dake de mo hen na hanashi desho",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "これがその本",
+        "rm": "Kore ga sono hon",
+        "en": "Right?",
+        "audio": "audio/FdI_ofyuH5Y/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "でかい",
+        "rm": "Dekai",
+        "en": "This is the book. Wow, it's beautiful.",
+        "audio": "audio/FdI_ofyuH5Y/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "ちょっと中を見てもいいですか?",
+        "rm": "Chotto naka wo mite mo ii desu ka?",
+        "en": "It's huge.",
+        "audio": "audio/FdI_ofyuH5Y/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "どうぞ",
+        "rm": "Douzo",
+        "en": "You can look inside.",
+        "audio": "audio/FdI_ofyuH5Y/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "これを毎週借りる奴がいてもおかしくはないな",
+        "rm": "Kore wo maishuu kariru yatsu ga ite mo okashiku wa nai na",
+        "en": "Here you go. You too, Orekki-san. He's just an ordinary school teacher. It seems to be quite difficult to read this. Even if there's someone who borrow this every week...",
+        "audio": "audio/FdI_ofyuH5Y/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "あんたここで本借りたことないでしょ",
+        "rm": "Anta koko de hon karita koto naidesho",
+        "en": "I don't think it's a good idea. Hey, do you want to borrow books here?",
+        "audio": "audio/FdI_ofyuH5Y/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "うちの図書室の貸し出し期間は2週間なの",
+        "rm": "Uchi no toshoshitsu no kashidashi kikan wa 2 shuukan na no",
+        "en": "I don't think I've ever done that. Our library's loan period is two weeks...",
+        "audio": "audio/FdI_ofyuH5Y/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "だから毎週借りる必要はないのよ",
+        "rm": "Dakara maishuu kariru hitsuyou wa nai no yo",
+        "en": "That's why I borrow it every week",
+        "audio": "audio/FdI_ofyuH5Y/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "なのにこの本は毎週返却されるんだってさ",
+        "rm": "Na no ni kono hon wa maishuu henkyaku sareru n da tte sa",
+        "en": "There's no need to do that. Even so, this book is being reprinted every week.",
+        "audio": "audio/FdI_ofyuH5Y/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "誰が借りたかはわかるんですか?",
+        "rm": "Dare ga karita ka wa wakaru n desu ka?",
+        "en": "I don't know who borrowed it, but I don't know who borrowed it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "まちろん",
+        "rm": "Ma chiro n",
+        "en": "Of course!",
+        "audio": "audio/FdI_ofyuH5Y/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "裏に貸し出しリストがあるから見てて",
+        "rm": "Ura ni kashidashi list ga arukara mitete",
+        "en": "There is a list of loans on the back, so please take a look. Oh, Areki-san, please take a look.",
+        "audio": "audio/FdI_ofyuH5Y/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "毎週違う人が借りてます",
+        "rm": "Maishuu chigau hito ga karitemasu",
+        "en": "A different person is borrowing every week.",
+        "audio": "audio/FdI_ofyuH5Y/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "しかも全員その日のうちに返してます",
+        "rm": "Shikamo zen'in sono hi no uchi ni kaeshitemasu",
+        "en": "Moreover, everyone is returning to that day.",
+        "audio": "audio/FdI_ofyuH5Y/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "そうなのよ",
+        "rm": "Sou na no yo",
+        "en": "That's right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "貸し出しと返却が同じ日で5週連続",
+        "rm": "Kashidashi to henkyaku ga onaji hi de 5 shuu renzoku",
+        "en": "I borrowed money from him and changed jobs 5 times in a row on the same day.",
+        "audio": "audio/FdI_ofyuH5Y/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "時間も分かってて",
+        "rm": "Jikan mo wakattete",
+        "en": "I know the time, too.",
+        "audio": "audio/FdI_ofyuH5Y/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "5人とも昼休みを借りて放課後に返してるの",
+        "rm": "5nintomo hiruyasumi wo karite houkago ni kaeshiteru no",
+        "en": "I borrowed a day off from the five of them and returned it to them after school.",
+        "audio": "audio/FdI_ofyuH5Y/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "どうだい?気になるだろう?",
+        "rm": "Dou da i? ki ni narudarou?",
+        "en": "How is it? You're curious, aren't you?",
+        "audio": "audio/FdI_ofyuH5Y/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "ええ",
+        "rm": "Ee",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "さとしこうなることを見越して呼び止めたな",
+        "rm": "Satoshi kou naru koto wo mikoshite yobitometa na",
+        "en": "I... I'm curious! Let's think about it for a bit, Urek-san. Damn it, Satoshi. You made me wait for this to happen.",
+        "audio": "audio/FdI_ofyuH5Y/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "オレキさんは鍵のこととか秘密クラブとか",
+        "rm": "Orekisan wa kagi no koto to ka himitsu club to ka",
+        "en": "Areki-san, would you like to go to a secret club or something?",
+        "audio": "audio/FdI_ofyuH5Y/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "あんなに見事に解いてくれたじゃないですか",
+        "rm": "Anna ni migoto ni toite kuretaja nai desu ka",
+        "en": "You did such a great job in solving it!",
+        "audio": "audio/FdI_ofyuH5Y/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "なにっすそれ",
+        "rm": "Nani ssu sore",
+        "en": "What is that?",
+        "audio": "audio/FdI_ofyuH5Y/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "ホータローの興味深い一面にまつわる話さ",
+        "rm": "Hou Tarou no kyoumi fukai ichi men ni matsuwaru hanashi sa",
+        "en": "This is a story about Koutaro's interesting side.",
+        "audio": "audio/FdI_ofyuH5Y/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "やめろ人聞きの悪い",
+        "rm": "Yamero hitogiki no warui",
+        "en": "Stop it, you bad person!",
+        "audio": "audio/FdI_ofyuH5Y/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "とにかく気になるんです",
+        "rm": "Tonikaku ki ni naru n desu",
+        "en": "Anyway, I'm curious about...",
+        "audio": "audio/FdI_ofyuH5Y/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "ならんならん",
+        "rm": "Nara n nara n",
+        "en": "It won't work! It will!",
+        "audio": "audio/FdI_ofyuH5Y/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "オレキ静かにチタンダさんも",
+        "rm": "Ore ki shizuka ni Chitandasan mo",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "うかつだった",
+        "rm": "Ukatsu datta",
+        "en": "You too, Kanda-san. Yes? Yeah. It was an accident.",
+        "audio": "audio/FdI_ofyuH5Y/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "これ以上の拒絶や言い逃れは",
+        "rm": "Kore ijou no kyozetsu ya iinogare wa",
+        "en": "I don't want you to say anything more than that.",
+        "audio": "audio/FdI_ofyuH5Y/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "むしろエネルギー効率が悪い",
+        "rm": "Mushiro energy kouritsu ga warui",
+        "en": "That is, rather, the energy efficiency...",
+        "audio": "audio/FdI_ofyuH5Y/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "ならば",
+        "rm": "Naraba",
+        "en": "I'm sorry.",
+        "audio": "audio/FdI_ofyuH5Y/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "そうだな",
+        "rm": "Sou da na",
+        "en": "If that's the case... That's right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "少し考えてみるか",
+        "rm": "Sukoshi kangaete miru ka",
+        "en": "Let me think about it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "あんまり",
+        "rm": "Anmari",
+        "en": "Yes! Fuku-chan, was I smart? Not really...",
+        "audio": "audio/FdI_ofyuH5Y/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "でもこういう役に立たないことだと",
+        "rm": "De mo kou iu yaku ni tatanai koto da to",
+        "en": "But this kind of useless...",
+        "audio": "audio/FdI_ofyuH5Y/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "時々役に立つんだ",
+        "rm": "Jiji yaku ni tatsu n da",
+        "en": "It can be useful sometimes",
+        "audio": "audio/FdI_ofyuH5Y/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "お前ら言いたい放題だな",
+        "rm": "Omaera iitai houdai da na",
+        "en": "You guys can say whatever you want",
+        "audio": "audio/FdI_ofyuH5Y/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "5週間連続で別の人間がこの本を借り",
+        "rm": "5 shuukan renzoku de betsu no ningen ga kono hon wo kari",
+        "en": "I'm looking forward to it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "その日のうちに返す",
+        "rm": "Sono hi no uchi ni kaesu",
+        "en": "I will return it to that day.",
+        "audio": "audio/FdI_ofyuH5Y/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "これを偶然だと言い張るのは簡単だが",
+        "rm": "Kore wo guuzen da to iiharu no wa kantan daga",
+        "en": "It's easy to say that this is a coincidence, but...",
+        "audio": "audio/FdI_ofyuH5Y/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "チタンダは納得しないだろう",
+        "rm": "Titan da/de wa nattoku shinaidarou",
+        "en": "Well, Chitanda wouldn't be convinced.",
+        "audio": "audio/FdI_ofyuH5Y/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "大事なのは真実ではない",
+        "rm": "Daiji na no wa shinjitsu de wa nai",
+        "en": "The important thing is the truth.",
+        "audio": "audio/FdI_ofyuH5Y/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "チタンダが納得することなのだ",
+        "rm": "Titan da/de ga nattoku suru koto na no da",
+        "en": "It's not that. It's just that Chitanda is convinced.",
+        "audio": "audio/FdI_ofyuH5Y/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "さて",
+        "rm": "Sate",
+        "en": "Well then...",
+        "audio": "audio/FdI_ofyuH5Y/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "昼休みに借りて放課後に返していては",
+        "rm": "Hiruyasumi ni karite houkago ni kaeshite ite wa",
+        "en": "I borrowed it for lunch and returned it after school.",
+        "audio": "audio/FdI_ofyuH5Y/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "とてもこれを読む暇などなかろうし",
+        "rm": "Totemo kore wo yomu hima nado nakaroushi",
+        "en": "I won't have the time to read this.",
+        "audio": "audio/FdI_ofyuH5Y/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "家に持ち帰らないなら",
+        "rm": "Ie ni mochikaeranainara",
+        "en": "If you don't take it home...",
+        "audio": "audio/FdI_ofyuH5Y/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "借りずに図書室で読めばいい",
+        "rm": "Karizu ni toshoshitsu de yomeba ii",
+        "en": "You can read it in the library.",
+        "audio": "audio/FdI_ofyuH5Y/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "結論",
+        "rm": "Ketsuron",
+        "en": "The End",
+        "audio": "audio/FdI_ofyuH5Y/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "この本は図書の本文を果たすために",
+        "rm": "Kono hon wa tosho no honbun wo hatasu tame ni",
+        "en": "This book is a copy of the main book of the library.",
+        "audio": "audio/FdI_ofyuH5Y/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "使用されているのではない",
+        "rm": "Shiyou sarete iru no de wa nai",
+        "en": "It's not being used for that purpose.",
+        "audio": "audio/FdI_ofyuH5Y/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "とすると",
+        "rm": "To suru to",
+        "en": "And then...",
+        "audio": "audio/FdI_ofyuH5Y/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "本を読む以外に使うとしたらどう使う",
+        "rm": "Hon wo yomu igai ni tsukau to shitara dou tsukau",
+        "en": "How would you use a book if you were to use it other than reading it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "何冊か詰めば枕にいいかも",
+        "rm": "Nansatsu ka tsumeba makura ni ii ka mo",
+        "en": "How many books should I put on my pillow?",
+        "audio": "audio/FdI_ofyuH5Y/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "腕につければ盾になるね",
+        "rm": "Ude ni tsukereba tate ni naru ne",
+        "en": "If you put it on your arm, it will be vertical.",
+        "audio": "audio/FdI_ofyuH5Y/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "もっと真面目に考えてくれ",
+        "rm": "Motto majime ni kangaete kure",
+        "en": "Think more seriously.",
+        "audio": "audio/FdI_ofyuH5Y/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "そうですよ",
+        "rm": "Sou desu yo",
+        "en": "That's right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "こういう本ならではの使い道があるはずです",
+        "rm": "Kou iu hon narade wa no tsukaimichi ga aru hazu desu",
+        "en": "There must be a way to use these books.",
+        "audio": "audio/FdI_ofyuH5Y/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "じゃあチタンダさんはどう思う",
+        "rm": "Jaa Chitandasan wa dou omou",
+        "en": "What do you think, Chitanda-san?",
+        "audio": "audio/FdI_ofyuH5Y/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "そうですね",
+        "rm": "Sou desu ne",
+        "en": "You're right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "重ねれば浅漬けがつかります",
+        "rm": "Kasanereba asazuke ga tsukarimasu",
+        "en": "If you put them together, the morning drink will be used.",
+        "audio": "audio/FdI_ofyuH5Y/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "お前らにはもう聞かない",
+        "rm": "Omaera ni wa mou kikanai",
+        "en": "I won't listen to you anymore.",
+        "audio": "audio/FdI_ofyuH5Y/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "チタンダって本当に成績優秀なのか",
+        "rm": "Titan da tte hontou ni seiseki yuushuu na no ka",
+        "en": "Does Chiton really have good grades?",
+        "audio": "audio/FdI_ofyuH5Y/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "ただの天然にしか思えんのだが",
+        "rm": "Tada no tennen ni shika omoen no daga",
+        "en": "I can only think of it as a natural thing, but...",
+        "audio": "audio/FdI_ofyuH5Y/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "視点を変えよう",
+        "rm": "Shiten wo kaeyou",
+        "en": "Let's change our point of view.",
+        "audio": "audio/FdI_ofyuH5Y/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "毎週別の人間が借りているのはどういうわけか",
+        "rm": "Maishuubetsu no ningen ga karite iru no wa dou iu wake ka",
+        "en": "What's the reason that a different person is borrowing from you every week?",
+        "audio": "audio/FdI_ofyuH5Y/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "名前から見て全員女だな",
+        "rm": "Namae kara mite zen'in onna da na",
+        "en": "They all look like a woman by the name.",
+        "audio": "audio/FdI_ofyuH5Y/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "考えられるのは二つ",
+        "rm": "Kangaerareru no wa futatsu",
+        "en": "There are two things I can think of.",
+        "audio": "audio/FdI_ofyuH5Y/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "彼女らに共通点はないが",
+        "rm": "Kanojora ni kyoutsuu ten wa naiga",
+        "en": "They don't have anything in common, but...",
+        "audio": "audio/FdI_ofyuH5Y/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "この本を金曜日の午後に使うことが",
+        "rm": "Kono hon wo kin'you hi no gogo ni tsukau koto ga",
+        "en": "This book will be used on Friday afternoon.",
+        "audio": "audio/FdI_ofyuH5Y/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "流行っている場合",
+        "rm": "Hayatte iru baai",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "そして彼女らはグループでその本を使用し",
+        "rm": "Soshite kanojora wa group de sono hon wo shiyou shi",
+        "en": "She uses this book as a group.",
+        "audio": "audio/FdI_ofyuH5Y/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "当番制で順番に借りて使っている場合だ",
+        "rm": "Toubansei de junban ni karite tsukatte iru baai da",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "こんな感じ",
+        "rm": "Konna kanji",
+        "en": "It's so popular. It's like a fortune-telling book. It looks like this.",
+        "audio": "audio/FdI_ofyuH5Y/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "今週のあなたのラッキーアイテムは学校紙",
+        "rm": "Konshuu no anata no lucky item wa gakkoushi",
+        "en": "Your lucky item this week is a school uniform!",
+        "audio": "audio/FdI_ofyuH5Y/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "金曜日の午後に借りて",
+        "rm": "Kin'you hi no gogo ni karite",
+        "en": "See you in the next video!",
+        "audio": "audio/FdI_ofyuH5Y/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "その日のうちに返すと",
+        "rm": "Sono hi no uchi ni kaesu to",
+        "en": "I will return it to you on that day!",
+        "audio": "audio/FdI_ofyuH5Y/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "彼氏とうまくいくかも",
+        "rm": "Kareshi to umaku iku ka mo",
+        "en": "I might be able to get along with my boyfriend!",
+        "audio": "audio/FdI_ofyuH5Y/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "なんて",
+        "rm": "Nante",
+        "en": "Just kidding!",
+        "audio": "audio/FdI_ofyuH5Y/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "馬鹿馬鹿しい",
+        "rm": "Bakabakashii",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "それに5週連続だぞ",
+        "rm": "Sore ni 5 shuu renzoku da zo",
+        "en": "Besides, it's 5 weeks in a row.",
+        "audio": "audio/FdI_ofyuH5Y/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "言ってみただけだよ",
+        "rm": "Itte mita dake da yo",
+        "en": "I just said it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "共通点は全員が女",
+        "rm": "Kyoutsuu ten wa zen'in ga onna",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "それと2年生クラスは違う",
+        "rm": "Sore to 2 nensei class wa chigau",
+        "en": "A woman and a 2nd grader living together",
+        "audio": "audio/FdI_ofyuH5Y/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "みんな女なのは何か理由があるのかしら",
+        "rm": "Minna onna na no wa nan ka riyuu ga aru no kashira",
+        "en": "Is there a reason why everyone is a woman?",
+        "audio": "audio/FdI_ofyuH5Y/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "なんとも言えんな",
+        "rm": "Nan to mo ien na",
+        "en": "I can't say anything.",
+        "audio": "audio/FdI_ofyuH5Y/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "全校から無作為に5人選んで",
+        "rm": "Zenkou kara musakui ni 5nin erande",
+        "en": "5 people from the front to the back",
+        "audio": "audio/FdI_ofyuH5Y/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "それが全員女である可能性は十分ある",
+        "rm": "Sore ga zen'in onna de aru kanousei wa juubun aru",
+        "en": "The possibility that all of them are women is enough.",
+        "audio": "audio/FdI_ofyuH5Y/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "それと同性で群れるのも",
+        "rm": "Sore to dousei de mureru no mo",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "珍しいことじゃないよね",
+        "rm": "Mezurashii koto ja nai yo ne",
+        "en": "It's not a rare thing to do, is it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "何かの合図ってのはどうだ?",
+        "rm": "Nan ka no aizu tte no wa dou da?",
+        "en": "What kind of signal is that?",
+        "audio": "audio/FdI_ofyuH5Y/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "例えば本を表にして返してあったらカ",
+        "rm": "Tatoeba hon wo hyou ni shite kaeshite attara ka",
+        "en": "Please subscribe to my channel and give it a high rating.",
+        "audio": "audio/FdI_ofyuH5Y/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "裏ならフカとか",
+        "rm": "Ura nara fuka to ka",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "うん",
+        "rm": "Un",
+        "en": "URONAROF",
+        "audio": "audio/FdI_ofyuH5Y/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "表裏で合図ってのはないと思うわよ",
+        "rm": "Hyouri de aizu tte no wa nai to omou wa yo",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "ほら",
+        "rm": "Hora",
+        "en": "There's no such thing as a sign",
+        "audio": "audio/FdI_ofyuH5Y/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "なるほど",
+        "rm": "Naruhodo",
+        "en": "I think so.",
+        "audio": "audio/FdI_ofyuH5Y/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "これじゃ表も裏も分からないね",
+        "rm": "Kore ja hyou mo ura mo wakaranai ne",
+        "en": "I see. This is more than enough. I see. This is more than enough.",
+        "audio": "audio/FdI_ofyuH5Y/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "まあ",
+        "rm": "Maa",
+        "en": "I have no idea what's going on.",
+        "audio": "audio/FdI_ofyuH5Y/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "おれきがいくら知恵を絞ってもそんなところよ",
+        "rm": "Oreki ga ikura chie wo shibotte mo sonna tokoro yo",
+        "en": "Hmm... Well, no matter how strong Orek is...",
+        "audio": "audio/FdI_ofyuH5Y/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "私とふくちゃんだって散々考えたんだから",
+        "rm": "Watakushi to Fukuchan da tte sanzan kangaeta n dakara",
+        "en": "But that's the way it is. Fuku-chan and I thought about it a lot.",
+        "audio": "audio/FdI_ofyuH5Y/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "何?",
+        "rm": "Nan?",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "何か匂いがします",
+        "rm": "Nan ka nioi ga shimasu",
+        "en": "W-What?",
+        "audio": "audio/FdI_ofyuH5Y/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "そう?",
+        "rm": "Sou?",
+        "en": "Something smells...",
+        "audio": "audio/FdI_ofyuH5Y/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "何も匂わないけど",
+        "rm": "Nan mo niowanaikedo",
+        "en": "I have a bad feeling about this. Really?",
+        "audio": "audio/FdI_ofyuH5Y/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "何も匂わないけど?",
+        "rm": "Nan mo niowanaikedo?",
+        "en": "It doesn't smell like anything.",
+        "audio": "audio/FdI_ofyuH5Y/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "いいえ確かに",
+        "rm": "Iie tashika ni",
+        "en": "No, that's true!",
+        "audio": "audio/FdI_ofyuH5Y/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "何かの刺激臭です",
+        "rm": "Nan ka no shigekishuu desu",
+        "en": "It's some kind of stimulant.",
+        "audio": "audio/FdI_ofyuH5Y/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "シンナーのような間違いありません",
+        "rm": "Thinner no you na machigai arimasen",
+        "en": "There's no doubt that it's Shinnoh!",
+        "audio": "audio/FdI_ofyuH5Y/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "まあでもちたんださんがこうまで断言するなら",
+        "rm": "Maa de mochita n dasan ga kou made dangen surunara",
+        "en": "Well, but Chitanda-san said it like this...",
+        "audio": "audio/FdI_ofyuH5Y/seg_260.mp3"
+    },
+    {
+        "id": 261,
+        "jp": "勘違いじゃなさそうだね",
+        "rm": "Kanchigai ja nasa sou da ne",
+        "en": "I don't think it's a misunderstanding.",
+        "audio": "audio/FdI_ofyuH5Y/seg_261.mp3"
+    },
+    {
+        "id": 262,
+        "jp": "とすれば",
+        "rm": "To sureba",
+        "en": "If that's the case...",
+        "audio": "audio/FdI_ofyuH5Y/seg_262.mp3"
+    },
+    {
+        "id": 263,
+        "jp": "大太郎その顔は何か分かったね",
+        "rm": "Daitarou sono kao wa nan ka wakatta ne",
+        "en": "Otaro, what's with that face?",
+        "audio": "audio/FdI_ofyuH5Y/seg_263.mp3"
+    },
+    {
+        "id": 264,
+        "jp": "本当に?",
+        "rm": "Hontou ni?",
+        "en": "Got it? Really?",
+        "audio": "audio/FdI_ofyuH5Y/seg_264.mp3"
+    },
+    {
+        "id": 265,
+        "jp": "まあな確定はできんが",
+        "rm": "Maa na kakutei wa dekinga",
+        "en": "Well, I can't be sure.",
+        "audio": "audio/FdI_ofyuH5Y/seg_265.mp3"
+    },
+    {
+        "id": 266,
+        "jp": "ちたんだ運動する気はないか?",
+        "rm": "Chi ta n da undou suru ki wa nai ka?",
+        "en": "Hey, Chitanda, do you want to work out?",
+        "audio": "audio/FdI_ofyuH5Y/seg_266.mp3"
+    },
+    {
+        "id": 267,
+        "jp": "言ってほしいところがあるんだが",
+        "rm": "Itte hoshii tokoro ga aru n daga",
+        "en": "There's something I want you to tell me.",
+        "audio": "audio/FdI_ofyuH5Y/seg_267.mp3"
+    },
+    {
+        "id": 268,
+        "jp": "わかりました",
+        "rm": "Wakarimashita",
+        "en": "Understood!",
+        "audio": "audio/FdI_ofyuH5Y/seg_268.mp3"
+    },
+    {
+        "id": 269,
+        "jp": "いや俺は行かずにお前だけで",
+        "rm": "Iya ore wa ikazu ni omae dake de",
+        "en": "No, I'm not going. You're the only one...",
+        "audio": "audio/FdI_ofyuH5Y/seg_269.mp3"
+    },
+    {
+        "id": 270,
+        "jp": "私と",
+        "rm": "Watakushi to",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_270.mp3"
+    },
+    {
+        "id": 271,
+        "jp": "それは",
+        "rm": "Sore wa",
+        "en": "Only me? Why? That's...",
+        "audio": "audio/FdI_ofyuH5Y/seg_271.mp3"
+    },
+    {
+        "id": 272,
+        "jp": "その通りだよちたんださん",
+        "rm": "Sono toori da yo chi ta n dasan",
+        "en": "That's right, Chis-",
+        "audio": "audio/FdI_ofyuH5Y/seg_272.mp3"
+    },
+    {
+        "id": 273,
+        "jp": "大太郎に使われるなんてあっちゃいけない",
+        "rm": "Daitarou ni tsukawareru nante accha ikenai",
+        "en": "What did you do? How could you be used by Otaro?",
+        "audio": "audio/FdI_ofyuH5Y/seg_273.mp3"
+    },
+    {
+        "id": 274,
+        "jp": "大太郎は使ってこそ役に立つんだから",
+        "rm": "Daitarou wa tsukatte koso yaku ni tatsu n dakara",
+        "en": "I can't do it! Using Otaro will be of use to me!",
+        "audio": "audio/FdI_ofyuH5Y/seg_274.mp3"
+    },
+    {
+        "id": 275,
+        "jp": "随分な言い草だな",
+        "rm": "Zuibun na iigusa da na",
+        "en": "It's pretty good.",
+        "audio": "audio/FdI_ofyuH5Y/seg_275.mp3"
+    },
+    {
+        "id": 276,
+        "jp": "いいえ私はどこかに行くなら一緒かと思っただけです",
+        "rm": "Iie watakushi wa doko ka ni ikunara issho ka to omotta dake desu",
+        "en": "It's a nice place. No, I thought it would be the same if I went somewhere.",
+        "audio": "audio/FdI_ofyuH5Y/seg_276.mp3"
+    },
+    {
+        "id": 277,
+        "jp": "なるほどね",
+        "rm": "Naruhodo ne",
+        "en": "Oh, I see.",
+        "audio": "audio/FdI_ofyuH5Y/seg_277.mp3"
+    },
+    {
+        "id": 278,
+        "jp": "では行きましょうかおれきさん",
+        "rm": "De wa ikimashou ka orekisan",
+        "en": "Then, let's go!",
+        "audio": "audio/FdI_ofyuH5Y/seg_278.mp3"
+    },
+    {
+        "id": 279,
+        "jp": "わかったよ",
+        "rm": "Wakatta yo",
+        "en": "Orekki-san! Welcome. Welcome to our store. We have prepared two courses for you. Which one would you like? This way, please. Orekki-san? I got it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_279.mp3"
+    },
+    {
+        "id": 280,
+        "jp": "今日は雨で体育がつぶれたからな",
+        "rm": "Kyou wa ame de taiiku ga tsuburetakara na",
+        "en": "Oh, it rained today and the gym was destroyed.",
+        "audio": "audio/FdI_ofyuH5Y/seg_280.mp3"
+    },
+    {
+        "id": 281,
+        "jp": "箇所分エネルギーはまだ残ってる",
+        "rm": "Kasho bun energy wa mada nokotteru",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_281.mp3"
+    },
+    {
+        "id": 282,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "I'll take it. Okay!",
+        "audio": "audio/FdI_ofyuH5Y/seg_282.mp3"
+    },
+    {
+        "id": 283,
+        "jp": "どんだけ限られたエネルギーなのよあんたは",
+        "rm": "Don dake kagirareta energy na no yo anta wa",
+        "en": "What kind of limited energy is that?",
+        "audio": "audio/FdI_ofyuH5Y/seg_283.mp3"
+    },
+    {
+        "id": 284,
+        "jp": "ほっとけ",
+        "rm": "Hottoke",
+        "en": "Who are you? Leave me alone.",
+        "audio": "audio/FdI_ofyuH5Y/seg_284.mp3"
+    },
+    {
+        "id": 285,
+        "jp": "じゃあ行くか",
+        "rm": "Jaa iku ka",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_285.mp3"
+    },
+    {
+        "id": 286,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Shall we go? Yes!",
+        "audio": "audio/FdI_ofyuH5Y/seg_286.mp3"
+    },
+    {
+        "id": 287,
+        "jp": "待って",
+        "rm": "Matte",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_287.mp3"
+    },
+    {
+        "id": 288,
+        "jp": "私も行く",
+        "rm": "Watakushi mo iku",
+        "en": "I'm going too",
+        "audio": "audio/FdI_ofyuH5Y/seg_288.mp3"
+    },
+    {
+        "id": 289,
+        "jp": "ちょっと気になるし",
+        "rm": "Chotto ki ni narushi",
+        "en": "I'm a little curious.",
+        "audio": "audio/FdI_ofyuH5Y/seg_289.mp3"
+    },
+    {
+        "id": 290,
+        "jp": "ふくちゃん",
+        "rm": "Fukuchan",
+        "en": "Fuku-chan!",
+        "audio": "audio/FdI_ofyuH5Y/seg_290.mp3"
+    },
+    {
+        "id": 291,
+        "jp": "ちょっと留守番お願いね",
+        "rm": "Chotto rusu ban onegai ne",
+        "en": "Can you please turn the volume down a little?",
+        "audio": "audio/FdI_ofyuH5Y/seg_291.mp3"
+    },
+    {
+        "id": 292,
+        "jp": "だって図書等番放り出しておけないでしょ",
+        "rm": "Da tte toshotou ban houridashite okenaidesho",
+        "en": "But you can't just throw out the books, can you?",
+        "audio": "audio/FdI_ofyuH5Y/seg_292.mp3"
+    },
+    {
+        "id": 293,
+        "jp": "じゃあなさとし",
+        "rm": "Jaa nasa to shi",
+        "en": "Really? See you, Satoshi.",
+        "audio": "audio/FdI_ofyuH5Y/seg_293.mp3"
+    },
+    {
+        "id": 294,
+        "jp": "留守番よろしく",
+        "rm": "Rusu ban yoroshiku",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_294.mp3"
+    },
+    {
+        "id": 295,
+        "jp": "それでおれきさん",
+        "rm": "Sore de orekisan",
+        "en": "Thank you for watching!",
+        "audio": "audio/FdI_ofyuH5Y/seg_295.mp3"
+    },
+    {
+        "id": 296,
+        "jp": "美術室だ",
+        "rm": "Bijutsushitsu da",
+        "en": "Tareki-san, where are you going? To the art room.",
+        "audio": "audio/FdI_ofyuH5Y/seg_296.mp3"
+    },
+    {
+        "id": 297,
+        "jp": "向こうの校舎ね",
+        "rm": "Mukou no kousha ne",
+        "en": "It's the other side.",
+        "audio": "audio/FdI_ofyuH5Y/seg_297.mp3"
+    },
+    {
+        "id": 298,
+        "jp": "そう遠いだから行きたくなかったんだ",
+        "rm": "Sou tooidakara ikitaku nakatta n da",
+        "en": "Yeah, it's far away. That's why I didn't want to go.",
+        "audio": "audio/FdI_ofyuH5Y/seg_298.mp3"
+    },
+    {
+        "id": 299,
+        "jp": "あんたここに何が",
+        "rm": "Anta koko ni nan ga",
+        "en": "You're such a troublemaker. What's going on there?",
+        "audio": "audio/FdI_ofyuH5Y/seg_299.mp3"
+    },
+    {
+        "id": 300,
+        "jp": "その前に整理だ",
+        "rm": "Sono mae ni seiri da",
+        "en": "Before that, I need to sort things out.",
+        "audio": "audio/FdI_ofyuH5Y/seg_300.mp3"
+    },
+    {
+        "id": 301,
+        "jp": "あの本の使い道だが休み時間にあんなでかいものを使う女子はまずいないだろう",
+        "rm": "Ano hon no tsukaimichi daga yasumi jikan ni anna de kaimono wo tsukau joshi wa mazu inaidarou",
+        "en": "It's the way to use that book, but I don't think there are any girls who use such a big thing during the break time.",
+        "audio": "audio/FdI_ofyuH5Y/seg_301.mp3"
+    },
+    {
+        "id": 302,
+        "jp": "となれば考えられるのは授業だ",
+        "rm": "To nareba kangaerareru no wa jugyou da",
+        "en": "If that's the case, it's only a matter of time before we can think about it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_302.mp3"
+    },
+    {
+        "id": 303,
+        "jp": "学年が同じでクラスが別の生徒が関係する授業といえばなんだ",
+        "rm": "Gakunen ga onaji de class ga betsu no seito ga kankei suru jugyou to ieba nan da",
+        "en": "It's the same school year, but the class is related to another student, so what is it? It's a science or art subject, isn't it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_303.mp3"
+    },
+    {
+        "id": 304,
+        "jp": "そう",
+        "rm": "Sou",
+        "en": "That's right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_304.mp3"
+    },
+    {
+        "id": 305,
+        "jp": "あの5人は",
+        "rm": "Ano 5nin wa",
+        "en": "Those five people...",
+        "audio": "audio/FdI_ofyuH5Y/seg_305.mp3"
+    },
+    {
+        "id": 306,
+        "jp": "毎週授業の前に当番を決めて借りに来てたんだ",
+        "rm": "Maishuu jugyou no mae ni touban wo kimete kari ni kiteta n da",
+        "en": "Every week, before class, I decided on a night to come and borrow it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_306.mp3"
+    },
+    {
+        "id": 307,
+        "jp": "毎週ってのがわからないわね",
+        "rm": "Maishuu tte no ga wakaranai wa ne",
+        "en": "I don't know if it's every week.",
+        "audio": "audio/FdI_ofyuH5Y/seg_307.mp3"
+    },
+    {
+        "id": 308,
+        "jp": "貸し出し期間は2週間だから",
+        "rm": "Kashidashi kikan wa 2 shuukan dakara",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_308.mp3"
+    },
+    {
+        "id": 309,
+        "jp": "あんなでかい本持っておくより毎週返しておくほうが楽だろ",
+        "rm": "Anna dekai hon motte oku yori maishuu kaeshite oku hou ga raku daro",
+        "en": "Isn't it easier to return it every week than to keep such a big book?",
+        "audio": "audio/FdI_ofyuH5Y/seg_309.mp3"
+    },
+    {
+        "id": 310,
+        "jp": "ああそうね",
+        "rm": "Aa sou ne",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_310.mp3"
+    },
+    {
+        "id": 311,
+        "jp": "どうしたの",
+        "rm": "Dou shita no",
+        "en": "That's right. What's wrong? It really smells the same. Really?",
+        "audio": "audio/FdI_ofyuH5Y/seg_311.mp3"
+    },
+    {
+        "id": 312,
+        "jp": "中を見ればわかる",
+        "rm": "Naka wo mireba wakaru",
+        "en": "If you look inside, you'll see.",
+        "audio": "audio/FdI_ofyuH5Y/seg_312.mp3"
+    },
+    {
+        "id": 313,
+        "jp": "本の使い道はあれだ",
+        "rm": "Hon no tsukaimichi wa are da",
+        "en": "That's the way to use a book.",
+        "audio": "audio/FdI_ofyuH5Y/seg_313.mp3"
+    },
+    {
+        "id": 314,
+        "jp": "2年D、E、F組の合同授業",
+        "rm": "2 nen D, E, F kumi no goudou jugyou",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_314.mp3"
+    },
+    {
+        "id": 315,
+        "jp": "芸術科目美術家で制作された絵",
+        "rm": "Geijutsu kamoku bijutsuka de seisaku sareta e",
+        "en": "A picture made by an art major and an art major.",
+        "audio": "audio/FdI_ofyuH5Y/seg_315.mp3"
+    },
+    {
+        "id": 316,
+        "jp": "この想定なら絵のモチーフにぴったりだ",
+        "rm": "Kono soutei nara e no motif ni pittari da",
+        "en": "If that's the case, it's perfect for the motif of the painting. It was the smell of paint, wasn't it? What should I do?",
+        "audio": "audio/FdI_ofyuH5Y/seg_316.mp3"
+    },
+    {
+        "id": 317,
+        "jp": "どうしてわかったの",
+        "rm": "Dou shite wakatta no",
+        "en": "How did you know?",
+        "audio": "audio/FdI_ofyuH5Y/seg_317.mp3"
+    },
+    {
+        "id": 318,
+        "jp": "どうしてって",
+        "rm": "Dou shitette",
+        "en": "What's wrong with you?",
+        "audio": "audio/FdI_ofyuH5Y/seg_318.mp3"
+    },
+    {
+        "id": 319,
+        "jp": "ただのひらめき",
+        "rm": "Tada no hirameki",
+        "en": "It's just a flicker.",
+        "audio": "audio/FdI_ofyuH5Y/seg_319.mp3"
+    },
+    {
+        "id": 320,
+        "jp": "ただの運だろ",
+        "rm": "Tada no un daro",
+        "en": "It's just luck, isn't it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_320.mp3"
+    },
+    {
+        "id": 321,
+        "jp": "いやー見事見事",
+        "rm": "Iyaa migoto migoto",
+        "en": "Well done!",
+        "audio": "audio/FdI_ofyuH5Y/seg_321.mp3"
+    },
+    {
+        "id": 322,
+        "jp": "さすがに絵のモチーフに使ったなんて想像もつかなかったよ",
+        "rm": "Sasuga ni e no motif ni tsukatta nante souzou mo tsukanakatta yo",
+        "en": "I didn't expect to use it as a motif for a painting.",
+        "audio": "audio/FdI_ofyuH5Y/seg_322.mp3"
+    },
+    {
+        "id": 323,
+        "jp": "なんであんなのがわかるの",
+        "rm": "Nan de anna no ga wakaru no",
+        "en": "How do you know that?",
+        "audio": "audio/FdI_ofyuH5Y/seg_323.mp3"
+    },
+    {
+        "id": 324,
+        "jp": "オレキ変",
+        "rm": "Ore ki hen",
+        "en": "It's strange.",
+        "audio": "audio/FdI_ofyuH5Y/seg_324.mp3"
+    },
+    {
+        "id": 325,
+        "jp": "何を言う",
+        "rm": "Nan wo yuu",
+        "en": "What are you talking about?",
+        "audio": "audio/FdI_ofyuH5Y/seg_325.mp3"
+    },
+    {
+        "id": 326,
+        "jp": "俺ほど平均的な人間はいない",
+        "rm": "Ore hodo heikinteki na ningen wa inai",
+        "en": "There's no one more average than me.",
+        "audio": "audio/FdI_ofyuH5Y/seg_326.mp3"
+    },
+    {
+        "id": 327,
+        "jp": "さてどうだろうね",
+        "rm": "Sate dou darou ne",
+        "en": "What do you think?",
+        "audio": "audio/FdI_ofyuH5Y/seg_327.mp3"
+    },
+    {
+        "id": 328,
+        "jp": "でも本当にオレキさんには驚かされました",
+        "rm": "De mo hontou ni Orekisan ni wa odorokasaremashita",
+        "en": "But I was really surprised by Mr. Orekki.",
+        "audio": "audio/FdI_ofyuH5Y/seg_328.mp3"
+    },
+    {
+        "id": 329,
+        "jp": "オレキさんの頭の中には私も興味あります",
+        "rm": "Orekisan no atama no naka ni wa watakushi mo kyoumi arimasu",
+        "en": "I'm also interested in Orek-san's head",
+        "audio": "audio/FdI_ofyuH5Y/seg_329.mp3"
+    },
+    {
+        "id": 330,
+        "jp": "興味が",
+        "rm": "Kyoumi ga",
+        "en": "Are you interested?",
+        "audio": "audio/FdI_ofyuH5Y/seg_330.mp3"
+    },
+    {
+        "id": 331,
+        "jp": "ええ",
+        "rm": "Ee",
+        "en": "What?",
+        "audio": "audio/FdI_ofyuH5Y/seg_331.mp3"
+    },
+    {
+        "id": 332,
+        "jp": "一度切り開いて中を見てみたいくらいです",
+        "rm": "Ichi do kirihiraite naka wo mite mitai kurai desu",
+        "en": "I want to open it up and take a look inside.",
+        "audio": "audio/FdI_ofyuH5Y/seg_332.mp3"
+    },
+    {
+        "id": 333,
+        "jp": "大した脳みそじゃないぞ",
+        "rm": "Taishita nou miso ja nai zo",
+        "en": "It's not a big brain.",
+        "audio": "audio/FdI_ofyuH5Y/seg_333.mp3"
+    },
+    {
+        "id": 334,
+        "jp": "学業優秀なお前が見ても得るものはない",
+        "rm": "Gakugyou yuushuu na omae ga mite mo eru mono wa nai",
+        "en": "There is nothing you can get even if you are an excellent student.",
+        "audio": "audio/FdI_ofyuH5Y/seg_334.mp3"
+    },
+    {
+        "id": 335,
+        "jp": "へー学業優秀なの",
+        "rm": "Hee gakugyou yuushuu na no",
+        "en": "I don't have one. Oh, so you're good at school?",
+        "audio": "audio/FdI_ofyuH5Y/seg_335.mp3"
+    },
+    {
+        "id": 336,
+        "jp": "そうそう中間テストはまだだけど",
+        "rm": "Sou sou chuukan test wa mada dakedo",
+        "en": "That's right. The midterm test is not over yet, though.",
+        "audio": "audio/FdI_ofyuH5Y/seg_336.mp3"
+    },
+    {
+        "id": 337,
+        "jp": "きっと学年でもトップクラスの成績をとるよ",
+        "rm": "Kitto gakunen de mo top class no seiseki wo toru yo",
+        "en": "I'm sure you'll get a top grade even in your school years.",
+        "audio": "audio/FdI_ofyuH5Y/seg_337.mp3"
+    },
+    {
+        "id": 338,
+        "jp": "いいえ",
+        "rm": "Iie",
+        "en": "Yeah!",
+        "audio": "audio/FdI_ofyuH5Y/seg_338.mp3"
+    },
+    {
+        "id": 339,
+        "jp": "いくら成績がとれても",
+        "rm": "Ikura seiseki ga torete mo",
+        "en": "No matter how good I am...",
+        "audio": "audio/FdI_ofyuH5Y/seg_339.mp3"
+    },
+    {
+        "id": 340,
+        "jp": "それはパーツの集合体にすぎません",
+        "rm": "Sore wa parts no shuugou tai ni sugimasen",
+        "en": "It's just a collection of parts.",
+        "audio": "audio/FdI_ofyuH5Y/seg_340.mp3"
+    },
+    {
+        "id": 341,
+        "jp": "私はそういうパーツではなく",
+        "rm": "Watakushi wa sou iu parts de wa naku",
+        "en": "I'm not that kind of part",
+        "audio": "audio/FdI_ofyuH5Y/seg_341.mp3"
+    },
+    {
+        "id": 342,
+        "jp": "思考を生み出すシステムが知りたいんです",
+        "rm": "Shikou wo umidasu system ga shiritai n desu",
+        "en": "I want to know the system that creates thoughts.",
+        "audio": "audio/FdI_ofyuH5Y/seg_342.mp3"
+    },
+    {
+        "id": 343,
+        "jp": "はぁ",
+        "rm": "Ha",
+        "en": "Ha...",
+        "audio": "audio/FdI_ofyuH5Y/seg_343.mp3"
+    },
+    {
+        "id": 344,
+        "jp": "というかこいつの嗅覚の方が",
+        "rm": "To iu ka koitsu no kyuukaku no hou ga",
+        "en": "Or rather, this one's curve is...",
+        "audio": "audio/FdI_ofyuH5Y/seg_344.mp3"
+    },
+    {
+        "id": 345,
+        "jp": "オレにはようほど謎なんだが",
+        "rm": "Ore ni hayou hodo nazo na n daga",
+        "en": "It's a mystery to me, but... If it's you...",
+        "audio": "audio/FdI_ofyuH5Y/seg_345.mp3"
+    },
+    {
+        "id": 346,
+        "jp": "もしかしたら",
+        "rm": "Moshi ka shitara",
+        "en": "Could it be that...",
+        "audio": "audio/FdI_ofyuH5Y/seg_346.mp3"
+    },
+    {
+        "id": 347,
+        "jp": "うん",
+        "rm": "Un",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_347.mp3"
+    },
+    {
+        "id": 348,
+        "jp": "あっいいえ",
+        "rm": "Ai iie",
+        "en": "Ah, no...",
+        "audio": "audio/FdI_ofyuH5Y/seg_348.mp3"
+    },
+    {
+        "id": 349,
+        "jp": "なんでも",
+        "rm": "Nan de mo",
+        "en": "...anything.",
+        "audio": "audio/FdI_ofyuH5Y/seg_349.mp3"
+    },
+    {
+        "id": 350,
+        "jp": "まあとにかくなかなか面白い時間を過ごさせてもらったよ",
+        "rm": "Maa tonikaku nakanaka omoshiroi jikan wo sugosasete moratta yo",
+        "en": "Well, anyway, I had a pretty interesting time.",
+        "audio": "audio/FdI_ofyuH5Y/seg_350.mp3"
+    },
+    {
+        "id": 351,
+        "jp": "チタンダさんは",
+        "rm": "Chi Tandasan wa",
+        "en": "Mr. Standa",
+        "audio": "audio/FdI_ofyuH5Y/seg_351.mp3"
+    },
+    {
+        "id": 352,
+        "jp": "もちろん楽しかったです",
+        "rm": "Mochiron tanoshikatta desu",
+        "en": "Of course, it was fun!",
+        "audio": "audio/FdI_ofyuH5Y/seg_352.mp3"
+    },
+    {
+        "id": 353,
+        "jp": "時間を短く感じました",
+        "rm": "Jikan wo mijikaku kanjimashita",
+        "en": "I felt that the time was short.",
+        "audio": "audio/FdI_ofyuH5Y/seg_353.mp3"
+    },
+    {
+        "id": 354,
+        "jp": "私は何時間かかってもわからなかったのに",
+        "rm": "Watakushi wa nan jikan kakatte mo wakaranakatta no ni",
+        "en": "I didn't even know how many hours it would take.",
+        "audio": "audio/FdI_ofyuH5Y/seg_354.mp3"
+    },
+    {
+        "id": 355,
+        "jp": "くやしい",
+        "rm": "Kuyashii",
+        "en": "It's so frustrating!",
+        "audio": "audio/FdI_ofyuH5Y/seg_355.mp3"
+    },
+    {
+        "id": 356,
+        "jp": "だから言ったじゃないか",
+        "rm": "Dakara ittaja nai ka",
+        "en": "That's why I told you.",
+        "audio": "audio/FdI_ofyuH5Y/seg_356.mp3"
+    },
+    {
+        "id": 357,
+        "jp": "時々役だって",
+        "rm": "Tokidoki yakudatte",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_357.mp3"
+    },
+    {
+        "id": 358,
+        "jp": "でもオレ気に負けるのは納得いかない",
+        "rm": "De mo orege ni makeru no wa nattoku ikanai",
+        "en": "But I can't accept losing to Orek!",
+        "audio": "audio/FdI_ofyuH5Y/seg_358.mp3"
+    },
+    {
+        "id": 359,
+        "jp": "やっぱりくやしい",
+        "rm": "Yappari kuyashii",
+        "en": "I knew it!",
+        "audio": "audio/FdI_ofyuH5Y/seg_359.mp3"
+    },
+    {
+        "id": 360,
+        "jp": "まあまあまあ",
+        "rm": "Maa maamaa",
+        "en": "Well, well...",
+        "audio": "audio/FdI_ofyuH5Y/seg_360.mp3"
+    },
+    {
+        "id": 361,
+        "jp": "違う",
+        "rm": "Chigau",
+        "en": "That's not it.",
+        "audio": "audio/FdI_ofyuH5Y/seg_361.mp3"
+    },
+    {
+        "id": 362,
+        "jp": "ここが違う",
+        "rm": "Koko ga chigau",
+        "en": "This place is different.",
+        "audio": "audio/FdI_ofyuH5Y/seg_362.mp3"
+    },
+    {
+        "id": 363,
+        "jp": "こんな風に俺はならない",
+        "rm": "Konna fuu ni ore wa naranai",
+        "en": "I'm not going to be like this.",
+        "audio": "audio/FdI_ofyuH5Y/seg_363.mp3"
+    },
+    {
+        "id": 364,
+        "jp": "何が違う",
+        "rm": "Nan ga chigau",
+        "en": "What's the difference?",
+        "audio": "audio/FdI_ofyuH5Y/seg_364.mp3"
+    },
+    {
+        "id": 365,
+        "jp": "そうなんだよね",
+        "rm": "Sou na n da yo ne",
+        "en": "What do you mean, what do you mean? That's right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_365.mp3"
+    },
+    {
+        "id": 366,
+        "jp": "ごく稀にひらめく一瞬の輝きか",
+        "rm": "Goku mare ni hirameku isshun no kagayaki ka",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_366.mp3"
+    },
+    {
+        "id": 367,
+        "jp": "はたまた",
+        "rm": "Hatamata",
+        "en": "See you next time!",
+        "audio": "audio/FdI_ofyuH5Y/seg_367.mp3"
+    },
+    {
+        "id": 368,
+        "jp": "帰っちゃダメです",
+        "rm": "Kaeccha dame desu",
+        "en": "Don't go home!",
+        "audio": "audio/FdI_ofyuH5Y/seg_368.mp3"
+    },
+    {
+        "id": 369,
+        "jp": "なんで",
+        "rm": "Nan de",
+        "en": "Why?",
+        "audio": "audio/FdI_ofyuH5Y/seg_369.mp3"
+    },
+    {
+        "id": 370,
+        "jp": "ああ文集",
+        "rm": "Aa bunshuu",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_370.mp3"
+    },
+    {
+        "id": 371,
+        "jp": "そうです先生は待たないと",
+        "rm": "Sou desu sensei wa matanai to",
+        "en": "That's right. We have to wait for the teacher.",
+        "audio": "audio/FdI_ofyuH5Y/seg_371.mp3"
+    },
+    {
+        "id": 372,
+        "jp": "ホータローって時々抜けてるんだよね",
+        "rm": "Hou Tarou tte tokidoki nuketeru n da yo ne",
+        "en": "Ohtaro is sometimes out of the game.",
+        "audio": "audio/FdI_ofyuH5Y/seg_372.mp3"
+    },
+    {
+        "id": 373,
+        "jp": "時々",
+        "rm": "Tokidoki",
+        "en": "My heart is pounding...",
+        "audio": "audio/FdI_ofyuH5Y/seg_373.mp3"
+    },
+    {
+        "id": 374,
+        "jp": "課題評価じゃない",
+        "rm": "Kadai hyouka ja nai",
+        "en": "Isn't that too much of an evaluation?",
+        "audio": "audio/FdI_ofyuH5Y/seg_374.mp3"
+    },
+    {
+        "id": 375,
+        "jp": "茨さん",
+        "rm": "Ubarasan",
+        "en": "Ibarashi",
+        "audio": "audio/FdI_ofyuH5Y/seg_375.mp3"
+    },
+    {
+        "id": 376,
+        "jp": "ご苦労様もう帰っていわよ",
+        "rm": "Gokurousama mou kaette i wa yo",
+        "en": "Thank you for your hard work. You can go home now.",
+        "audio": "audio/FdI_ofyuH5Y/seg_376.mp3"
+    },
+    {
+        "id": 377,
+        "jp": "はい戻ってたんですか糸井川先生",
+        "rm": "Hai modotteta n desu ka ito Ikawa sensei",
+        "en": "Yes, I'm back, Ito Egawa-sensei.",
+        "audio": "audio/FdI_ofyuH5Y/seg_377.mp3"
+    },
+    {
+        "id": 378,
+        "jp": "先生",
+        "rm": "Sensei",
+        "en": "Sensei...",
+        "audio": "audio/FdI_ofyuH5Y/seg_378.mp3"
+    },
+    {
+        "id": 379,
+        "jp": "古典部の福部里氏です",
+        "rm": "Koten bu no Fukube Satoshi desu",
+        "en": "My name is Satoshi Fukubei, and I am the head of the Koten department.",
+        "audio": "audio/FdI_ofyuH5Y/seg_379.mp3"
+    },
+    {
+        "id": 380,
+        "jp": "文集を作るためにバックナンバーを探しているんですが",
+        "rm": "Bunshuu wo tsukuru tame ni back number wo sagashite iru n desuga",
+        "en": "I'm looking for a back number to make a text.",
+        "audio": "audio/FdI_ofyuH5Y/seg_380.mp3"
+    },
+    {
+        "id": 381,
+        "jp": "書庫を調べてもいいですか",
+        "rm": "Shoko wo shirabete mo ii desu ka",
+        "en": "You can look it up in the library.",
+        "audio": "audio/FdI_ofyuH5Y/seg_381.mp3"
+    },
+    {
+        "id": 382,
+        "jp": "古典部",
+        "rm": "Koten bu",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_382.mp3"
+    },
+    {
+        "id": 383,
+        "jp": "文集",
+        "rm": "Bunshuu",
+        "en": "Bunshu?",
+        "audio": "audio/FdI_ofyuH5Y/seg_383.mp3"
+    },
+    {
+        "id": 384,
+        "jp": "あなたたち古典部なの",
+        "rm": "Anatatachi koten bu na no",
+        "en": "You guys are nothing to me.",
+        "audio": "audio/FdI_ofyuH5Y/seg_384.mp3"
+    },
+    {
+        "id": 385,
+        "jp": "そう",
+        "rm": "Sou",
+        "en": "That's right.",
+        "audio": "audio/FdI_ofyuH5Y/seg_385.mp3"
+    },
+    {
+        "id": 386,
+        "jp": "残念だけど文集のバックナンバーは書庫にはないわ",
+        "rm": "Zannen dakedo bunshuu no back number wa shoko ni wa nai wa",
+        "en": "It's a pity, but the back number of the analysis is not in the book.",
+        "audio": "audio/FdI_ofyuH5Y/seg_386.mp3"
+    },
+    {
+        "id": 387,
+        "jp": "見落とすということは",
+        "rm": "Miotosu to iu koto wa",
+        "en": "What do you mean by looking down on me?",
+        "audio": "audio/FdI_ofyuH5Y/seg_387.mp3"
+    },
+    {
+        "id": 388,
+        "jp": "あったらさすがに覚えてるわ",
+        "rm": "Attara sasuga ni oboeteru wa",
+        "en": "I'll remember it if we meet again.",
+        "audio": "audio/FdI_ofyuH5Y/seg_388.mp3"
+    },
+    {
+        "id": 389,
+        "jp": "じゃあ失礼するわね",
+        "rm": "Jaa shitsurei suru wa ne",
+        "en": "See you next time!",
+        "audio": "audio/FdI_ofyuH5Y/seg_389.mp3"
+    },
+    {
+        "id": 390,
+        "jp": "すいませんでした",
+        "rm": "Suimasendeshita",
+        "en": "Oh, I'm sorry.",
+        "audio": "audio/FdI_ofyuH5Y/seg_390.mp3"
+    },
+    {
+        "id": 391,
+        "jp": "だそうだよ下んださん",
+        "rm": "Da sou da yo shita n dasan",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_391.mp3"
+    },
+    {
+        "id": 392,
+        "jp": "これは困りました",
+        "rm": "Kore wa komarimashita",
+        "en": "This is a problem.",
+        "audio": "audio/FdI_ofyuH5Y/seg_392.mp3"
+    },
+    {
+        "id": 393,
+        "jp": "そのうち見つかるさ",
+        "rm": "Sono uchi mitsukaru sa",
+        "en": "What's going on?",
+        "audio": "audio/FdI_ofyuH5Y/seg_393.mp3"
+    },
+    {
+        "id": 394,
+        "jp": "おれきどう",
+        "rm": "Ore ki dou",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_394.mp3"
+    },
+    {
+        "id": 395,
+        "jp": "問題解いて気分はすっきりってとこかしら",
+        "rm": "Mondai toite kibun wa sukkiri tte toko kashira",
+        "en": "I wonder if you feel refreshed after solving the problem?",
+        "audio": "audio/FdI_ofyuH5Y/seg_395.mp3"
+    },
+    {
+        "id": 396,
+        "jp": "別に",
+        "rm": "Betsu ni",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_396.mp3"
+    },
+    {
+        "id": 397,
+        "jp": "あっそう",
+        "rm": "As sou",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/FdI_ofyuH5Y/seg_397.mp3"
+    },
+    {
+        "id": 398,
+        "jp": "仕方ありません帰りましょう",
+        "rm": "Shikata arimasen kaerimashou",
+        "en": "I see. It can't be helped. Let's go home.",
+        "audio": "audio/FdI_ofyuH5Y/seg_398.mp3"
+    },
+    {
+        "id": 399,
+        "jp": "今日は収穫もありましたし",
+        "rm": "Kyou wa shuukaku mo arimashitashi",
+        "en": "I have a harvest today",
+        "audio": "audio/FdI_ofyuH5Y/seg_399.mp3"
+    },
+    {
+        "id": 400,
+        "jp": "なんだそれ",
+        "rm": "Nan da sore",
+        "en": "What's that?",
+        "audio": "audio/FdI_ofyuH5Y/seg_400.mp3"
+    },
+    {
+        "id": 401,
+        "jp": "いえ維新社の都合です",
+        "rm": "I e ishin sha no tsugou desu",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_401.mp3"
+    },
+    {
+        "id": 402,
+        "jp": "またそれか",
+        "rm": "Mata sore ka",
+        "en": "That again...",
+        "audio": "audio/FdI_ofyuH5Y/seg_402.mp3"
+    },
+    {
+        "id": 403,
+        "jp": "おれきさんならもしかしたら",
+        "rm": "Orekisan nara moshi ka shitara",
+        "en": "That's right. If it's you, Oruki-san, then...",
+        "audio": "audio/FdI_ofyuH5Y/seg_403.mp3"
+    },
+    {
+        "id": 404,
+        "jp": "おれきです",
+        "rm": "Oreki desu",
+        "en": "Maybe...",
+        "audio": "audio/FdI_ofyuH5Y/seg_404.mp3"
+    },
+    {
+        "id": 405,
+        "jp": "もしもし",
+        "rm": "Moshimoshi",
+        "en": "Thank you for watching.",
+        "audio": "audio/FdI_ofyuH5Y/seg_405.mp3"
+    },
+    {
+        "id": 406,
+        "jp": "ちたんだ",
+        "rm": "Chi ta n da",
+        "en": "Hello? It's Chitanda. Chitanda?",
+        "audio": "audio/FdI_ofyuH5Y/seg_406.mp3"
+    },
+    {
+        "id": 407,
+        "jp": "あのすみません",
+        "rm": "Ano sumimasen",
+        "en": "Um, excuse me...",
+        "audio": "audio/FdI_ofyuH5Y/seg_407.mp3"
+    },
+    {
+        "id": 408,
+        "jp": "もしかしてお休みでしたか",
+        "rm": "Moshi ka shite oyasumi deshita ka",
+        "en": "Did you have a good night's sleep?",
+        "audio": "audio/FdI_ofyuH5Y/seg_408.mp3"
+    },
+    {
+        "id": 409,
+        "jp": "まあな",
+        "rm": "Maa na",
+        "en": "I guess so.",
+        "audio": "audio/FdI_ofyuH5Y/seg_409.mp3"
+    },
+    {
+        "id": 410,
+        "jp": "姉貴の電話かと思った",
+        "rm": "Aneki no denwa ka to omotta",
+        "en": "I thought it was my sister's phone.",
+        "audio": "audio/FdI_ofyuH5Y/seg_410.mp3"
+    },
+    {
+        "id": 411,
+        "jp": "で",
+        "rm": "De",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_411.mp3"
+    },
+    {
+        "id": 412,
+        "jp": "日曜なんかにどうした",
+        "rm": "Nichiyou nanka ni dou shita",
+        "en": "What did you do on Sunday?",
+        "audio": "audio/FdI_ofyuH5Y/seg_412.mp3"
+    },
+    {
+        "id": 413,
+        "jp": "すみません",
+        "rm": "Sumimasen",
+        "en": "I'm sorry.",
+        "audio": "audio/FdI_ofyuH5Y/seg_413.mp3"
+    },
+    {
+        "id": 414,
+        "jp": "できれば今日お会いしたいんですけど",
+        "rm": "Dekireba kyou oai shitai n desukedo",
+        "en": "I'd like to see you today if possible.",
+        "audio": "audio/FdI_ofyuH5Y/seg_414.mp3"
+    },
+    {
+        "id": 415,
+        "jp": "おれきさんに",
+        "rm": "Orekisan ni",
+        "en": "To Oreki-san...",
+        "audio": "audio/FdI_ofyuH5Y/seg_415.mp3"
+    },
+    {
+        "id": 416,
+        "jp": "おり行ってお話ししたいことがあるんです",
+        "rm": "Ori itte ohanashi shitai koto ga aru n desu",
+        "en": "I want to go down and talk to you.",
+        "audio": "audio/FdI_ofyuH5Y/seg_416.mp3"
+    },
+    {
+        "id": 417,
+        "jp": "それで何か用だったか",
+        "rm": "Sore de nan ka you datta ka",
+        "en": "It's late. It's late. I'm sorry for calling you. Oh. So, did you need something?",
+        "audio": "audio/FdI_ofyuH5Y/seg_417.mp3"
+    },
+    {
+        "id": 418,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Yes?",
+        "audio": "audio/FdI_ofyuH5Y/seg_418.mp3"
+    },
+    {
+        "id": 419,
+        "jp": "何のためにこの店まで呼び出したのかって聞いてるんだ",
+        "rm": "Nan no tame ni kono mise made yobidashita no ka tte kiiteru n da",
+        "en": "I'm asking you why you called me to this store.",
+        "audio": "audio/FdI_ofyuH5Y/seg_419.mp3"
+    },
+    {
+        "id": 420,
+        "jp": "カール",
+        "rm": "Karl",
+        "en": "The one who designated this store is Mr. Oruki. I'm going home.",
+        "audio": "audio/FdI_ofyuH5Y/seg_420.mp3"
+    },
+    {
+        "id": 421,
+        "jp": "貴重な日曜日だぞ",
+        "rm": "Kichou na nichiyou hi da zo",
+        "en": "W-wait a minute! It's a precious Sunday.",
+        "audio": "audio/FdI_ofyuH5Y/seg_421.mp3"
+    },
+    {
+        "id": 422,
+        "jp": "お前と漫才するために浪費などできん",
+        "rm": "Omae to manzai suru tame ni rouhi nado dekin",
+        "en": "(Translating...)",
+        "audio": "audio/FdI_ofyuH5Y/seg_422.mp3"
+    },
+    {
+        "id": 423,
+        "jp": "緊張ね",
+        "rm": "Kinchou ne",
+        "en": "I'm sorry. I'm nervous. Nervous, huh?",
+        "audio": "audio/FdI_ofyuH5Y/seg_423.mp3"
+    },
+    {
+        "id": 424,
+        "jp": "おれに告白でも",
+        "rm": "Ore ni kokuhaku de mo",
+        "en": "Even if you confess to me...",
+        "audio": "audio/FdI_ofyuH5Y/seg_424.mp3"
+    },
+    {
+        "id": 425,
+        "jp": "するつもりか",
+        "rm": "Suru tsumori ka",
+        "en": "Are you going to do it?",
+        "audio": "audio/FdI_ofyuH5Y/seg_425.mp3"
+    },
+    {
+        "id": 426,
+        "jp": "どうかもしれません",
+        "rm": "Dou ka mo shiremasen",
+        "en": "... ... ... ... ... ...",
+        "audio": "audio/FdI_ofyuH5Y/seg_426.mp3"
+    }
+]
