@@ -1,9 +1,1822 @@
 [
     {
         "id": 1,
+        "jp": "こんにちは。あなたって古典部だったんですか?おれきさん。",
+        "rm": "Konnichiha. anata tte koten bu datta n desu ka? orekisan.",
+        "en": "Hello. Are you a regular here, Oreki-san?",
+        "audio": "audio/YcPKEHy8how/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "ん、誰だ?",
+        "rm": "N, dare da?",
+        "en": "Who are you?",
+        "audio": "audio/YcPKEHy8how/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "わかりませんか?チタンダです。チタンダエルです。",
+        "rm": "Wakarimasen ka? Titan da/de desu. chitandaeru desu.",
+        "en": "Don't you get it? It's a Chitanda. It's Chitanda L.",
+        "audio": "audio/YcPKEHy8how/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "すまん、全然わからないんだが。",
+        "rm": "Suman, zenzen wakaranai n daga.",
+        "en": "I'm sorry, I don't understand at all.",
+        "audio": "audio/YcPKEHy8how/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "おれきほうたろうさんですよね。一年B組の。",
+        "rm": "Oreki hou tarousan desu yo ne. ichi nen B kumi no.",
+        "en": "It's Houtarou Orekki, right? Class B for a year.",
+        "audio": "audio/YcPKEHy8how/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "ああ。",
+        "rm": "Aa.",
+        "en": "Yeah.",
+        "audio": "audio/YcPKEHy8how/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "私、一年A組なんです。",
+        "rm": "Watakushi, ichi nen A kumi na n desu.",
+        "en": "My name is Eikumi Ichinui.",
+        "audio": "audio/YcPKEHy8how/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "あのな、それじゃあ説明になってな…A組?選択科目か。",
+        "rm": "Ano na, sore jaa setsumei ni natte na...A kumi? sentaku kamoku ka.",
+        "en": "Well then, I can't explain it- Class A? The laundry department?",
+        "audio": "audio/YcPKEHy8how/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "もしかして、音楽の授業で一緒だったか?",
+        "rm": "Moshi ka shite, ongaku no jugyou de issho datta ka?",
+        "en": "Was it the same as the music class?",
+        "audio": "audio/YcPKEHy8how/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "はい。",
+        "rm": "Hai.",
+        "en": "Yes!",
+        "audio": "audio/YcPKEHy8how/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "まだ一回しかやってない授業だぞ。どんな記憶力だ。",
+        "rm": "Mada ichi kai shika yattenai jugyou da zo. donna kiokuryoku da.",
+        "en": "I've only done this class once, what kind of memory do I have?",
+        "audio": "audio/YcPKEHy8how/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "ああ、それでチタンダさん。なぜこの部屋に?",
+        "rm": "Aa, sore de Chitandasan. naze kono heya ni?",
+        "en": "Ah, so Chitanda-san, why are you in this room?",
+        "audio": "audio/YcPKEHy8how/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "はい。ってので、ご挨拶に伺ったんです。",
+        "rm": "Hai. tte no de, goaisatsu ni ukagatta n desu.",
+        "en": "Yes, ma'am. I went into the store, so I wanted to say hello. I went into the store, so I wanted to say hello. The store?",
+        "audio": "audio/YcPKEHy8how/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "なんでまた?",
+        "rm": "Nan de mata?",
+        "en": "Why again?",
+        "audio": "audio/YcPKEHy8how/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "あんな都合がありまして。おれきさんは?",
+        "rm": "Anna tsugou ga arimashite. orekisan wa?",
+        "en": "There was a sudden coincidence, and Orekki-san was...",
+        "audio": "audio/YcPKEHy8how/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "いや、部員がいるなら大いに結構。",
+        "rm": "Iya, buin ga irunara ooini kekkou.",
+        "en": "No, if there's a subordinate, it's pretty good.",
+        "audio": "audio/YcPKEHy8how/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "あねき、喜べ。古典部はめでたく存続したぞ。",
+        "rm": "A ne ki, yorokobe. koten bu wa medetaku sonzoku shita zo.",
+        "en": "Big sister, be happy. The Koten club has been blessed.",
+        "audio": "audio/YcPKEHy8how/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "じゃあ、俺はこれで。",
+        "rm": "Jaa, ore wa kore de.",
+        "en": "Well, that's it for me.",
+        "audio": "audio/YcPKEHy8how/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "もうお帰りですか?",
+        "rm": "Mou okaeri desu ka?",
+        "en": "Are you back already?",
+        "audio": "audio/YcPKEHy8how/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "ああ、頑張れよ。あと閉じまりも頼む。",
+        "rm": "Aa, ganbare yo. ato toji marimo tanomu.",
+        "en": "Yeah, do your best. I'm counting on you, Tojimari.",
+        "audio": "audio/YcPKEHy8how/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "I can't close the door.",
+        "audio": "audio/YcPKEHy8how/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "なんで?",
+        "rm": "Nan de?",
+        "en": "Why?",
+        "audio": "audio/YcPKEHy8how/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "鍵を持ってませんから。",
+        "rm": "Kagi wo mottemasenkara.",
+        "en": "I don't have the key.",
+        "audio": "audio/YcPKEHy8how/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "ああ。はい。",
+        "rm": "Aa. hai.",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/YcPKEHy8how/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "どうしておれきさんはそれを持ってるんですか?",
+        "rm": "Dou shite orekisan wa sore wo motteru n desu ka?",
+        "en": "Why do you have that?",
+        "audio": "audio/YcPKEHy8how/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "どうしてって。鍵がなければロックされた教室には入れないだろう。",
+        "rm": "Dou shitette. kagi ga nakereba rokku sareta kyoushitsu ni wa irenaidarou.",
+        "en": "Why? If I don't have the key, I can't enter the locked classroom.",
+        "audio": "audio/YcPKEHy8how/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "そういうお前。あ、失礼。チタンダさんはなんでこの部屋に入れたんだ?",
+        "rm": "Sou iu omae. a, shitsurei. Chitandasan wa nan de kono heya ni ireta n da?",
+        "en": "By the way, why did Chitanda-san enter this room?",
+        "audio": "audio/YcPKEHy8how/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "鍵がかかってなかったからです。",
+        "rm": "Kagi ga kakattenakattakara desu.",
+        "en": "Because it wasn't locked.",
+        "audio": "audio/YcPKEHy8how/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "おれが来たときは閉まってたけど。",
+        "rm": "Ore ga kita toki wa shimattetakedo.",
+        "en": "When I came here, it was closed, but...",
+        "audio": "audio/YcPKEHy8how/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "閉まってたって、そのドアがですか?",
+        "rm": "Shimatteta tte, sono door ga desu ka?",
+        "en": "Oh no, is it that video?",
+        "audio": "audio/YcPKEHy8how/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "そうだが。",
+        "rm": "Sou daga.",
+        "en": "That's right, but...",
+        "audio": "audio/YcPKEHy8how/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "ということは、私は閉じ込められていたってことですね。",
+        "rm": "To iu koto wa, watakushi wa tojikomerarete ita tte koto desu ne.",
+        "en": "That means, I was locked up, right?",
+        "audio": "audio/YcPKEHy8how/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "お前が鍵をかけたんだろ、内側から。",
+        "rm": "Omae ga kagi wo kaketa n daro, uchigawa kara.",
+        "en": "You locked the door from the inside, didn't you?",
+        "audio": "audio/YcPKEHy8how/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "そんなことはしていません。",
+        "rm": "Sonna koto wa shite imasen.",
+        "en": "I didn't do anything like that!",
+        "audio": "audio/YcPKEHy8how/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "だが、鍵はおれが持ってる。お前以外に誰がロックできるんだ?",
+        "rm": "Daga, kagi wa ore ga motteru. omae igai ni dare ga lock dekiru n da?",
+        "en": "But I have the key. Who else can lock the door?",
+        "audio": "audio/YcPKEHy8how/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "ところでそちらはお友達ですか?",
+        "rm": "Tokoro de sochira wa otomodachi desu ka?",
+        "en": "By the way, are you her friend?",
+        "audio": "audio/YcPKEHy8how/seg_36.mp3"
+    },
+    {
+        "id": 37,
         "jp": "え?",
         "rm": "E?",
         "en": "What?",
-        "audio": "audio/YcPKEHy8how/seg_1.mp3"
+        "audio": "audio/YcPKEHy8how/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "佐藤氏。",
+        "rm": "Satoushi.",
+        "en": "See you next time!",
+        "audio": "audio/YcPKEHy8how/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "Yes.",
+        "audio": "audio/YcPKEHy8how/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "いや、ごめんごめん。盗み聞きのつもりはなかったんだけど。",
+        "rm": "Iya, gomen gomen. nusumigiki no tsumori wa nakatta n dakedo.",
+        "en": "Oh, I'm sorry. I didn't mean to steal it.",
+        "audio": "audio/YcPKEHy8how/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "つもりじゃないだろ。",
+        "rm": "Tsumori ja naidaro.",
+        "en": "I don't think so.",
+        "audio": "audio/YcPKEHy8how/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "そうは言ってもさ、木関のごとき放太郎が夕暮れ迫る教室の窓際で、女の子と二人ってのが下から見えちゃったら、気になるのが当然ってもんだよ。",
+        "rm": "Sou wa itte mo sa, kizeki no gotokippanashi tarou ga yuugure semaru kyoushitsu no madogiwa de, onnanoko to futari tte no ga shita kara miechattara, ki ni naru no ga touzen tte mon da yo.",
+        "en": "Even if you say so, it's only natural that you'd be interested if you could see a girl and two girls at the window of the classroom where the sunset is approaching like a tombstone.",
+        "audio": "audio/YcPKEHy8how/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "放課後の大勢を邪魔する気はなかったし、出馬互めなんて未経験で。",
+        "rm": "Houkago no oozei wo jama suru ki wa nakattashi, shutsuba tagaime nante mikeiken de.",
+        "en": "I didn't want to get in the way of Ose after school, and I've never been to Deba Gome...",
+        "audio": "audio/YcPKEHy8how/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "あの、あの、私。",
+        "rm": "Ano, ano, watakushi.",
+        "en": "Um, um, I...",
+        "audio": "audio/YcPKEHy8how/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "本気で言ってるのか?",
+        "rm": "Honki de itteru no ka?",
+        "en": "Are you serious?",
+        "audio": "audio/YcPKEHy8how/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "まさか、ジョークだよ。",
+        "rm": "Masaka, joke da yo.",
+        "en": "Don't tell me it's a joke. Is that so?",
+        "audio": "audio/YcPKEHy8how/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "すまんな。こいつはこういうやつなんだ。",
+        "rm": "Suman na. koitsu wa kou iu yatsu na n da.",
+        "en": "I'm sorry. This is what he's like.",
+        "audio": "audio/YcPKEHy8how/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "ジョークは即興に限る。加工を残せば嘘になるってね。これ僕のモットー。",
+        "rm": "Joke wa sokkyou ni kagiru. kakou wo nokoseba uso ni naru tte ne. kore boku no motto.",
+        "en": "Jokes are limited to improvisation. If you leave the processing, it becomes a lie. This is my motto.",
+        "audio": "audio/YcPKEHy8how/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "な、こちらは?",
+        "rm": "Na, kochira wa?",
+        "en": "Oh, Orekki-san, what about this one?",
+        "audio": "audio/YcPKEHy8how/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "こいつは福部佐藤氏。エセ水人だ。",
+        "rm": "Koitsu wa Fukube Satoushi. ese suijin da.",
+        "en": "This is Satoshi Fukubei, an SS agent.",
+        "audio": "audio/YcPKEHy8how/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "うん。",
+        "rm": "Un.",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/YcPKEHy8how/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "エセ?",
+        "rm": "Ese?",
+        "en": "Shut up!",
+        "audio": "audio/YcPKEHy8how/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "うまい!ナイスな紹介だよ、放太郎。はじめまして。",
+        "rm": "Umai! nice na shoukai da yo, hou Tarou. hajimemashite.",
+        "en": "Good job! That was a nice introduction, Houtarou. Nice to meet you.",
+        "audio": "audio/YcPKEHy8how/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "えっと。",
+        "rm": "Etto.",
+        "en": "Umm...",
+        "audio": "audio/YcPKEHy8how/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "チタンダエルです。",
+        "rm": "Chitandaeru desu.",
+        "en": "This is Chitanda L.",
+        "audio": "audio/YcPKEHy8how/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "チ、チタンダさん?チタンダさんってあのチタンダさんですか?",
+        "rm": "Chi, Chitandasan? Chitandasan tte ano chi Tandasan desu ka?",
+        "en": "Ch-Chitanda-san? Is Chitanda-san that Chitanda-san?",
+        "audio": "audio/YcPKEHy8how/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "どうかしたのか?",
+        "rm": "Dou ka shita no ka?",
+        "en": "Did something happen?",
+        "audio": "audio/YcPKEHy8how/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "放太郎、チタンダ家の名前を聞いたことがないのかい?",
+        "rm": "Hou Tarou, Titan da/deka no namae wo kiita koto ga nai no ka i?",
+        "en": "Houtarou, have you ever heard of the Chitandake family?",
+        "audio": "audio/YcPKEHy8how/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "神山市に休暇名化は少なくないけど。",
+        "rm": "Kamiyama shi ni kyuuka meika wa sukunaku naikedo.",
+        "en": "Kamiyama City doesn't have a lot of holidaymakers, but...",
+        "audio": "audio/YcPKEHy8how/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "桁上がりの4名化といえば、その筋じゃ有名だよ。",
+        "rm": "Ketaagari no 4 meika to ieba, sono suji ja yuumei da yo.",
+        "en": "If I had to pick 4 people, that number would be the most famous.",
+        "audio": "audio/YcPKEHy8how/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "アレックス神社の十門寺家、諸師サルスベリ家、豪能チタンダ家、山持ちの万人橋家さ。",
+        "rm": "Arekkusu jinja no juu mon jike, shoshi sarusuberika, gou nou Titan da/deka, yamamochi no bannin hashika sa.",
+        "en": "Alex Shrine's Jumon-jike, Shoshi-sarsuberike, Gouno-chitanda-ke, and Yamamochi's Manin-bashi-ke!",
+        "audio": "audio/YcPKEHy8how/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "数字が一桁ずつ上がっていくから、人読んで桁上がりの4名化。",
+        "rm": "Suuji ga ichi keta zutsu agatte ikukara, hito yonde ketaagari no 4 meika.",
+        "en": "The numbers are going up one by one, so it's four out of the four people who got the numbers up.",
+        "audio": "audio/YcPKEHy8how/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "本当か。",
+        "rm": "Hontou ka.",
+        "en": "Really?",
+        "audio": "audio/YcPKEHy8how/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "名化かどうかは知りませんが、そういう言い方は初めて聞きました。",
+        "rm": "Meika ka dou ka wa shirimasenga, sou iu iikata wa hajimete kikimashita.",
+        "en": "I don't know about the manufacturer, but this is the first time I've heard that kind of expression.",
+        "audio": "audio/YcPKEHy8how/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "作ったな。",
+        "rm": "Tsukutta na.",
+        "en": "I made it.",
+        "audio": "audio/YcPKEHy8how/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "たまには低少者になりたい時もあるさ。",
+        "rm": "Tamani wa teishoumono ni naritai toki mo aru sa.",
+        "en": "There are times when you want to be a sponsor.",
+        "audio": "audio/YcPKEHy8how/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "でも、本当に桁上がりですね。",
+        "rm": "De mo, hontou ni ketaagari desu ne.",
+        "en": "But, it really is a kick-ass, isn't it?",
+        "audio": "audio/YcPKEHy8how/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "感心するなよ。つけあがるから。",
+        "rm": "Kanshin suru na yo. tsukeagarukara.",
+        "en": "Don't worry about it. I'm going to put it on.",
+        "audio": "audio/YcPKEHy8how/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "しかもそのチタンダ家の長女は、成績優秀、美目修麗、真相の家人として知られているんだ。",
+        "rm": "Shikamo sono Titan da/deka no choujo wa, seiseki yuushuu, bime Osamu Rei, shinsou no kenin to shite shirarete iru n da.",
+        "en": "Moreover, the daughter of the Chitanda family is known for her excellent grades and beautiful eyes.",
+        "audio": "audio/YcPKEHy8how/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "中学時代、県内模式の成績優秀者で、よく名前を見かけたよ。",
+        "rm": "Chuugaku jidai, kennai moshiki no seiseki yuushuusha de, yoku namae wo mikaketa yo.",
+        "en": "I'm glad I found a name for myself as the top student in the prefecture during my middle school days.",
+        "audio": "audio/YcPKEHy8how/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "ほほ?そんなに?",
+        "rm": "Hoho? sonna ni?",
+        "en": "Oho? What's that?",
+        "audio": "audio/YcPKEHy8how/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "たまたまです。試験なんてただの要領ですし。",
+        "rm": "Tamatama desu. shiken nante tada no youryou desushi.",
+        "en": "It's just a coincidence, exams are just for fun.",
+        "audio": "audio/YcPKEHy8how/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "これは失礼。ところで話は聞かせてもらったよ。実に興味深いね。",
+        "rm": "Kore wa shitsurei. tokoro de hanashi wa kikasete moratta yo. jitsu ni kyoumi bukai ne.",
+        "en": "This is rude. By the way, I heard the story. It's really interesting.",
+        "audio": "audio/YcPKEHy8how/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "何がだ?",
+        "rm": "Nan ga da?",
+        "en": "What is it?",
+        "audio": "audio/YcPKEHy8how/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "チタンダさんがこの部屋に閉じ込められていたことさ。",
+        "rm": "Chi Tandasan ga kono heya ni tojikomerarete ita koto sa.",
+        "en": "Mr.Standa was locked up in this room.",
+        "audio": "audio/YcPKEHy8how/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "あっ、そうでした!来た時、この部屋の鍵は開いていました。",
+        "rm": "A,, sou deshita! kita toki, kono heya no kagi wa hiraite imashita.",
+        "en": "Oh, that's right! When I came, the key to this room was open.",
+        "audio": "audio/YcPKEHy8how/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "でも、後から来たオレキさんは、鍵が閉まってたと言ってます。不思議です。",
+        "rm": "De mo, ato kara kita Orekisan wa, kagi ga shimatteta to ittemasu. fushigi desu.",
+        "en": "But the person who came after me said that the key was locked. It's strange.",
+        "audio": "audio/YcPKEHy8how/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "どこがだ?自分で閉めたことを忘れたんだろう。",
+        "rm": "Doko ga da? jibun de shimeta koto wo wasureta n darou.",
+        "en": "It's Tokugawa. He must have forgotten that he was the one who closed it.",
+        "audio": "audio/YcPKEHy8how/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "いや、カミコウのドアは中も外も鍵でしかロックできないようになっているんだ。",
+        "rm": "Iya, kami kou no door wa naka mo soto mo kagi de shika lock dekinai you ni natte iru n da.",
+        "en": "No, the door to Kamiko can only be locked with the key inside and outside.",
+        "audio": "audio/YcPKEHy8how/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "チタンダさんが中から鍵をかけることは不可能ってことだよ。",
+        "rm": "Chi Tandasan ga naka kara kagi wo kakeru koto wa fukanou tte koto da yo.",
+        "en": "It means that it's impossible for you to open the door from the inside. This is...",
+        "audio": "audio/YcPKEHy8how/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "相変わらず無駄に白式だな。",
+        "rm": "Aikawarazu muda ni shiro shiki da na.",
+        "en": "As always, it's a waste of time.",
+        "audio": "audio/YcPKEHy8how/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "データベースと言ってほしいね。",
+        "rm": "Database to itte hoshii ne.",
+        "en": "I want you to call it a database.",
+        "audio": "audio/YcPKEHy8how/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "まあ、鍵のことは何かの間違いだろう。オレは帰るぞ。",
+        "rm": "Maa, kagi no koto wa nan ka no machigai darou. ore wa kaeru zo.",
+        "en": "Well, the key must be some kind of mistake. I'm going home.",
+        "audio": "audio/YcPKEHy8how/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "なんだ?",
+        "rm": "Nan da?",
+        "en": "Please wait, Oregi-san! What is it?",
+        "audio": "audio/YcPKEHy8how/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "もし閉じ込められたのじゃなければ、どうしてこの教室に入ることができたんでしょう。",
+        "rm": "Moshi tojikomerareta no ja nakereba, dou shite kono kyoushitsu ni hairu koto ga dekita n deshou.",
+        "en": "I wonder why I was locked up. If I hadn't been locked up, why would I have been able to enter this classroom?",
+        "audio": "audio/YcPKEHy8how/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "誰に何かの間違いだと言うのは、誰の想いを間違いでしょうか。",
+        "rm": "Dare ni nan ka no machigai da to iu no wa, dare no omoi wo machigai deshou ka.",
+        "en": "Is it wrong to say that he made a mistake?",
+        "audio": "audio/YcPKEHy8how/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "そうだな、面白い。少し考えてみるか。",
+        "rm": "Sou da na, omoshiroi. sukoshi kangaete miru ka.",
+        "en": "Please, think about it, Orekki-san. Orekki-san... I'm curious! That's right, it's interesting. I'll think about it for a bit.",
+        "audio": "audio/YcPKEHy8how/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "チタンダさん、ちょっと待ってあげて。",
+        "rm": "Chi Tandasan, chotto matte agete.",
+        "en": "Ah! Thank you very much! Oreki-san, do you have something in mind? Miss Shitanda, please wait a moment.",
+        "audio": "audio/YcPKEHy8how/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "僕は単なるデータベースだから結論を出せないけど、ポータローは違う。",
+        "rm": "Boku wa tannaru database dakara ketsuron wo dasenaikedo, Poe Tarou wa chigau.",
+        "en": "I'm just a database, so I can't come up with a conclusion, but Ohtaro is different.",
+        "audio": "audio/YcPKEHy8how/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "一旦考え出せば、それなりに当てにはなるよ。",
+        "rm": "Ittan kangaedaseba, sorenari ni ate ni wa naru yo.",
+        "en": "Once you think about it, you'll be able to handle it.",
+        "audio": "audio/YcPKEHy8how/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "やかましい。さて、この部屋に入ったのはいつだ?他に何か気づいたことは?",
+        "rm": "Yakamashii. sate, kono heya ni haitta no wa itsu da? hoka ni nan ka kizuita koto wa?",
+        "en": "How annoying. Now then... When did you enter this room? I think it was three minutes before you came. Did you notice anything else?",
+        "audio": "audio/YcPKEHy8how/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "そういえば、さっきから足元でガタコト音がしてます。",
+        "rm": "Sou ieba, sakki kara ashimoto de gata koto oto ga shitemasu.",
+        "en": "Come to think of it, I've been hearing a rattling sound under my feet for a while now.",
+        "audio": "audio/YcPKEHy8how/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "え、僕には聞こえないけど。",
+        "rm": "E, boku ni wa kikoenaikedo.",
+        "en": "Huh? I can't hear you.",
+        "audio": "audio/YcPKEHy8how/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "聞こえますよ、ほら。",
+        "rm": "Kikoemasu yo, hora.",
+        "en": "I can hear you, see?",
+        "audio": "audio/YcPKEHy8how/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "チタンダさん耳いいね。",
+        "rm": "Chi Tandasan mimi ii ne.",
+        "en": "Shitanda-san, your ears are so nice.",
+        "audio": "audio/YcPKEHy8how/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "何かわかったの、ポータロー?",
+        "rm": "Nan ka wakatta no, Poe Tarou?",
+        "en": "Yeah. Did you find anything, Hotaro?",
+        "audio": "audio/YcPKEHy8how/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "まあな、ちょうど下の階で再現されてるだろう。",
+        "rm": "Maa na, choudo shita no kizahashi de saigen sareterudarou.",
+        "en": "Well, it's probably being reproduced in the lower part of the video.",
+        "audio": "audio/YcPKEHy8how/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "ありがと。",
+        "rm": "Arigato.",
+        "en": "Here we go. One, two, three, four.",
+        "audio": "audio/YcPKEHy8how/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "あの作業の間に、チタンダさんは治学準備室に入って、運悪く鍵を閉められたってことだね。",
+        "rm": "Ano sagyou no aida ni, Chitandasan wa chigaku junbishitsu ni haitte, un waruku kagi wo shimerareta tte koto da ne.",
+        "en": "During that process, Ms. Chitanda entered the study room and locked the door with bad luck.",
+        "audio": "audio/YcPKEHy8how/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "貸し出し用の鍵は俺が持ってる。あとはマスターキーだけだが、これは生徒が使えない。",
+        "rm": "Kashidashiyou no kagi wa ore ga motteru. ato wa master key dake daga, kore wa seito ga tsukaenai.",
+        "en": "I have the key for lending. The rest is just the master key, but the student can't use it.",
+        "audio": "audio/YcPKEHy8how/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "だから…",
+        "rm": "Dakara...",
+        "en": "So that's why you're a civil servant... But you've noticed it, haven't you?",
+        "audio": "audio/YcPKEHy8how/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "別に、まあ室内にいながら、どうしてチタンダさんがロックの音に気づかなかったのかってのだけは、俺にもわからんがね。",
+        "rm": "Betsu ni, maa shitsunai ni inagara, dou shite Chitandasan ga rokku no oto ni kizukanakatta no ka tte no dake wa, ore ni mo wakaranga ne.",
+        "en": "Well, I don't know why Chitanda-san didn't notice the sound of the rock while he was in the room.",
+        "audio": "audio/YcPKEHy8how/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "ああ、それでしたら、あの建物を見ていたんです。",
+        "rm": "Aa, sore deshitara, ano tatemono wo mite ita n desu.",
+        "en": "Ah, if that's the case... I was looking at that building.",
+        "audio": "audio/YcPKEHy8how/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "古いね。",
+        "rm": "Furui ne.",
+        "en": "It's old.",
+        "audio": "audio/YcPKEHy8how/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "そうなのか?",
+        "rm": "Sou na no ka?",
+        "en": "Is that so?",
+        "audio": "audio/YcPKEHy8how/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "ああ、ズバ抜けて。",
+        "rm": "Aa, zubanukete.",
+        "en": "Yeah, let's get out of here.",
+        "audio": "audio/YcPKEHy8how/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "うーん。",
+        "rm": "Uun.",
+        "en": "Hmm... By the way, you haven't said your greetings yet, have you?",
+        "audio": "audio/YcPKEHy8how/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "挨拶?",
+        "rm": "Aisatsu?",
+        "en": "Greeting?",
+        "audio": "audio/YcPKEHy8how/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "これから古典部で一緒に活動していくんですから。",
+        "rm": "Kore kara koten bu de issho ni katsudou shite iku n desukara.",
+        "en": "What? We're going to be working together at the shop from now on.",
+        "audio": "audio/YcPKEHy8how/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "一緒に?",
+        "rm": "Issho ni?",
+        "en": "Let's do it together.",
+        "audio": "audio/YcPKEHy8how/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "福部さんはどうですか?古典部。",
+        "rm": "Fukubesan wa dou desu ka? koten bu.",
+        "en": "How about you, Fukube-san? Go-tenbu!",
+        "audio": "audio/YcPKEHy8how/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "いいね。今日は面白かったし。総務委員と手芸部の掛け持ちになっちゃうけど。うん、入るよ。ポータローもね、入部届けももう書いてるんだし。",
+        "rm": "Ii ne. kyou wa omoshirokattashi. soumu iin to shugei bu no kakemochi ni nacchaukedo. un, hairu yo. Poe Tarou mo ne, nyuubu todoke mo mou kaiteru n dashi.",
+        "en": "Nice. It was fun today. I'm going to be the assistant director and head of the department. Yeah, I'm going in. Otaro too. I've already written the entry form.",
+        "audio": "audio/YcPKEHy8how/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "そうなんですか?",
+        "rm": "Sou na n desu ka?",
+        "en": "Is that so?",
+        "audio": "audio/YcPKEHy8how/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "いや、それはだな。",
+        "rm": "Iya, sore wa da na.",
+        "en": "Well, that's true.",
+        "audio": "audio/YcPKEHy8how/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "お願いしますね。",
+        "rm": "Onegai shimasu ne.",
+        "en": "Yes. Yes, that's right. I'm counting on you from now on.",
+        "audio": "audio/YcPKEHy8how/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "こちらこそ。ポータローもよろしく。",
+        "rm": "Kochira koso. Poe Tarou mo yoroshiku.",
+        "en": "I'll be in your care, too, Otaro. How's that?",
+        "audio": "audio/YcPKEHy8how/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "部長を決めないといけませんね。どうしましょう。",
+        "rm": "Buchou wo kimenaito ikemasen ne. dou shimashou.",
+        "en": "We have to decide what to do. Let's do it!",
+        "audio": "audio/YcPKEHy8how/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "そうだね。ポータローはその手は全然向いてないんだよ。",
+        "rm": "Sou da ne. Poe Tarou wa sono te wa zenzen muitenai n da yo.",
+        "en": "That's right, Ohtaro is not suitable for that kind of thing.",
+        "audio": "audio/YcPKEHy8how/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "姉貴よ、満足か。伝統ある古典部の復活。そして、さようなら。俺の安寧と省エネの日々。",
+        "rm": "Aneki yo, manzoku ka. dentou aru koten bu no fukkatsu. soshite, sayounara. ore no annei to shouene no hibi.",
+        "en": "My sister, are you satisfied? The revival of the traditional Koten Bu. And goodbye. The days of my safety and support.",
+        "audio": "audio/YcPKEHy8how/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "いや、まだ別れは言わない。俺は安寧を諦めない。省エネのために全力を尽くそう。問題は…。",
+        "rm": "Iya, mada wakare wa iwanai. ore wa annei wo akiramenai. shouene no tame ni zenryoku wo tsukusou. mondai wa....",
+        "en": "No, I won't say goodbye yet. I won't give up on my safety. I'll do my best for the sake of the Shouen. The problem is...",
+        "audio": "audio/YcPKEHy8how/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "このお嬢様だ。",
+        "rm": "Kono ojousama da.",
+        "en": "This young lady.",
+        "audio": "audio/YcPKEHy8how/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "昨日の放課後のことだ。一年生の女子が特別堂の4階に行った。その時音楽室から月光の美しい旋律が聞こえてきた。校舎を染める真っ赤な夕日。そのうるわしい音色は…。",
+        "rm": "Kinou no houkago no koto da. ichi nensei no joshi ga tokubetsudou no 4 kai ni itta. sono toki ongakushitsu kara gekkou no utsukushii senritsu ga kikoete kita. kousha wo someru makka na yuuhi. sono uruwashii neiro wa....",
+        "en": "After school yesterday, a first-year girl went to the 4th floor of the special tower. At that time, the beautiful moonlight was heard from the music room. The red sunset that dyes the school building. What a beautiful color.",
+        "audio": "audio/YcPKEHy8how/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "意義あり。昨日は雨で夕日は見えなかった。",
+        "rm": "Igi ari. kinou wa ame de yuuhi wa mienakatta.",
+        "en": "Meaningful. I couldn't see the sunset because of the rain yesterday.",
+        "audio": "audio/YcPKEHy8how/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "そう。じっとりと降り続く雨。そして迫る夕闇。肌に絡みつく不快感とノイズのような雨音。",
+        "rm": "Sou. jittori to ori tsuzuku ame. soshite semaru yuuyami. hada ni karamitsuku fukai kan to noise no you na amaoto.",
+        "en": "That's right. The rain continues to fall, and the twilight approaches. The deepness entwined with the skin, and the noise-like sound of the rain.",
+        "audio": "audio/YcPKEHy8how/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "いい加減だな。",
+        "rm": "Ii kagen da na.",
+        "en": "That's enough.",
+        "audio": "audio/YcPKEHy8how/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "音色に誘われ音楽室に入ると、途端に音は鳴りやんだ。ピアノの蓋は上がっているのに、ピアニストはいない。カーテンが締め切られて部屋は暗い。そして彼女は見た。",
+        "rm": "Neiro ni sasoware ongakushitsu ni hairuto, totan ni oto wa nariyanda. piano no futa wa agatte iru no ni, pianist wa inai. curtain ga shimekirarete heya wa kurai. soshite kanojo wa mita.",
+        "en": "When I was invited to the music room, the sound suddenly stopped. The piano lid was open, but the pianist was not there. The curtain was closed, the room was dark, and I saw her.",
+        "audio": "audio/YcPKEHy8how/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "長い乱れ髪を顔に晴らし、全身はぐったりとしそちからなくて、目は暖々とちばしった女性が、肩わらから彼女をじっと見つめているのが…。",
+        "rm": "Nagai midaregami wo kao ni harashi, zenshin wa guttari to shi sochi kara nakute, me wa dan to chibashitta josei ga, kata wara kara kanojo wo jitto mitsumete iru no ga....",
+        "en": "Thank you for watching!",
+        "audio": "audio/YcPKEHy8how/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "そう。この神山高校にはかつて、全国大会を前にして無念の自己主を遂げたピアノ部員が…。",
+        "rm": "Sou. kono Kamiyama koukou ni wa katsute, zenkoku taikai wo mae ni shite munen no jiko shu wo togeta piano buin ga....",
+        "en": "Damn it! This Kamiyama Kouken is a piano queen who went to the national tournament and broke her self-esteem!",
+        "audio": "audio/YcPKEHy8how/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "いたのか?",
+        "rm": "Ita no ka?",
+        "en": "Were you there?",
+        "audio": "audio/YcPKEHy8how/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "あ。さあ、いたかもしれないけど、僕は知らないね。",
+        "rm": "A. saa, ita ka mo shirenaikedo, boku wa shiranai ne.",
+        "en": "Well, maybe he was there, but I don't know.",
+        "audio": "audio/YcPKEHy8how/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "だと思った。",
+        "rm": "Da to omotta.",
+        "en": "That's what I thought.",
+        "audio": "audio/YcPKEHy8how/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "それにしても意外だね。フォータローが宿題を忘れて居残りなんて。",
+        "rm": "Sore ni shite mo igai da ne. footaroo ga shukudai wo wasurete inokori nante.",
+        "en": "Even so, it's surprising. Forotaro forgot his homework and is still here.",
+        "audio": "audio/YcPKEHy8how/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "書いたさ、昨日。持ってくるの忘れたんだ。おかげでこうして、同じ作文を書きながらヨタ話を聞かされている。",
+        "rm": "Kaita sa, kinou. motte kuru no wasureta n da. okage de kou shite, onaji sakubun wo kakinagara yota hanashi wo kikasarete iru.",
+        "en": "I wrote it yesterday. I forgot to bring it. Thanks to you, I was told a good story while writing the same work.",
+        "audio": "audio/YcPKEHy8how/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "なるほどね。ちなみに、乱れ髪のお化けは本当にいたそうだよ。今日の昼休み、英組では話題になってたみたいだしね。",
+        "rm": "Naruhodo ne. chinami ni, midaregami no obake wa hontou ni ita sou da yo. kyou no hiruyasumi, ei kumi de wa wadai ni natteta mitai dashi ne.",
+        "en": "I see. By the way, I heard that there really was a ghost with a messy hair. It seems that it was a hot topic in Class A during today's lunch break.",
+        "audio": "audio/YcPKEHy8how/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "あとはこの噂がどう広がっていくか。これが重要なんだ。神山高校にもあった七不思議、その二!ってね。",
+        "rm": "Ato wa kono uwasa ga dou hirogatte iku ka. kore ga juuyou na n da. Kamiyama koukou ni mo atta nana fushigi, sono ni! tte ne.",
+        "en": "The rest is how this rumor spreads. This is what's important. The Seven Mysteries of Kamiyama High School. Part 2. See you.",
+        "audio": "audio/YcPKEHy8how/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "さち当たっては僕のD組に到達するまで何日かかるかだ。",
+        "rm": "Sa chi atatte wa boku no D kumi ni toutatsu suru made nan nichi kakaru ka da.",
+        "en": "How many days will it take me to get to my D class?",
+        "audio": "audio/YcPKEHy8how/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "ん?ちょっと待て。今の話、いつ、どこで、誰から聞いたんだ?",
+        "rm": "N? chotto mate. ima no hanashi, itsu, doko de, dare kara kiita n da?",
+        "en": "Wait a minute, who told you that?",
+        "audio": "audio/YcPKEHy8how/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "さっき、部室で。ちたんださんから。",
+        "rm": "Sakki, bushitsu de. chi ta n dasan kara.",
+        "en": "Let's start with Mr. Chitanda from the club room.",
+        "audio": "audio/YcPKEHy8how/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "七不思議その二ってことは、その一もあるんだよな。聞かせてくれないか。",
+        "rm": "Nana fushigi sono ni tte koto wa, sono ichi mo aru n da yo na. kikasete kurenai ka.",
+        "en": "The seven mysteries are two, so there's also the first one. Will you let me hear it?",
+        "audio": "audio/YcPKEHy8how/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "お疲れ様。ごめんね。総務委員会としては、こういう面倒な手続きもお願いしないといけなくて。",
+        "rm": "Otsukaresama. gomen ne. soumu iin kai to shite wa, kou iu mendou na tetsuzuki mo onegai shinaito ikenakute.",
+        "en": "Thank you for your hard work. I'm sorry. As the executive committee, I have to ask for such a troublesome continuation.",
+        "audio": "audio/YcPKEHy8how/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "いいえ、私も部長を引き受けていますから。",
+        "rm": "Iie, watakushi mo buchou wo hikiukete imasukara.",
+        "en": "No, I'm also taking on the role of the head of the department.",
+        "audio": "audio/YcPKEHy8how/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "オレキさん!",
+        "rm": "Orekisan!",
+        "en": "I'm here!",
+        "audio": "audio/YcPKEHy8how/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "いいところに来た。",
+        "rm": "Ii tokoro ni kita.",
+        "en": "I came to the right place.",
+        "audio": "audio/YcPKEHy8how/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "Huh?",
+        "audio": "audio/YcPKEHy8how/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "今、サトシから妙な噂を聞いたんだ。",
+        "rm": "Ima, Satoshi kara myou na uwasa wo kiita n da.",
+        "en": "I just heard a strange rumor from Satoshi.",
+        "audio": "audio/YcPKEHy8how/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "レズミの…",
+        "rm": "Lesbian mi no...",
+        "en": "Oh, that's right. During lunch break...",
+        "audio": "audio/YcPKEHy8how/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "秘密クラブの勧誘メモの話なんだが、知ってたのか?",
+        "rm": "Himitsu club no kan'yuu memo no hanashi na n daga, shitteta no ka?",
+        "en": "It's about the secret club's official note, but did you know about it?",
+        "audio": "audio/YcPKEHy8how/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "秘密クラブ?",
+        "rm": "Himitsu club?",
+        "en": "Secret collaboration?",
+        "audio": "audio/YcPKEHy8how/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "サトシ、話してやってくれよ。",
+        "rm": "Satoshi, hanashite yatte kure yo.",
+        "en": "Satoshi, let me go.",
+        "audio": "audio/YcPKEHy8how/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "うん。",
+        "rm": "Un.",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/YcPKEHy8how/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "じゃあ、お聞き願おうかな。秘密クラブの一席を。",
+        "rm": "Jaa, okiki negaou ka na. himitsu club no isseki wo.",
+        "en": "Well then, I guess I'll listen to a secret club's story.",
+        "audio": "audio/YcPKEHy8how/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "はい。",
+        "rm": "Hai.",
+        "en": "Yes!",
+        "audio": "audio/YcPKEHy8how/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "うむ。総務委員会で聞いた話なんだ。",
+        "rm": "Umu. soumu iin kai de kiita hanashi na n da.",
+        "en": "Ahem, that's what I heard from the board of directors.",
+        "audio": "audio/YcPKEHy8how/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "なにせ上山高校には部活が多い。だから勧誘ポスターの数も当然多くなって、学校中の掲示板がポスターで埋め尽くされる。",
+        "rm": "Nanise Kaminoyama koukou ni wa bukatsu ga ooi. dakara kan'yuu poster no kazu mo touzen ooku natte, gakkouchuu no keijiban ga poster de ume tsukusareru.",
+        "en": "After all, Kamiyama High School has a lot of club activities, so of course the number of postcards is increasing, and posters are filled with posters all over the school.",
+        "audio": "audio/YcPKEHy8how/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "総務委員会は無許可なポスターやメモを見つけ次第、剥がしているんだ。",
+        "rm": "Soumu iin kai wa mukyoka na poster ya memo wo mitsuke shidai, hagashite iru n da.",
+        "en": "The board of directors will remove any unauthorized posters or memos they find.",
+        "audio": "audio/YcPKEHy8how/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "ところが、毎年たった一枚、どこの部活のものかも分からない勧誘メモが出るらしい。",
+        "rm": "Tokoro ga, maitoshi tatta ichimai, doko no bukatsu no mono ka mo wakaranai kan'yuu memo ga derurashii.",
+        "en": "By the way, every year, there's only one I don't even know which club it belongs to, but it seems to give me a simple note.",
+        "audio": "audio/YcPKEHy8how/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "去年はノートの切れ端みたいな紙に、集合場所と日事が書いてあったそうだよ。",
+        "rm": "Kyonen wa note no kirehashi mitai na kami ni, shuugou basho to hi koto ga kaite atta sou da yo.",
+        "en": "This year, it was like the end of a notebook. It said the meeting place and date.",
+        "audio": "audio/YcPKEHy8how/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "どうやら総務委員会も把握していない秘密クラブがあって、ひっそりと募集をかけているらしいんだ。",
+        "rm": "Dou yara soumu iin kai mo haaku shite inai himitsu club ga atte, hissori to boshuu wo kakete irurashii n da.",
+        "en": "It seems that there is a secret club that the Ministry of Health and Welfare does not understand, and it seems that they are secretly asking for it.",
+        "audio": "audio/YcPKEHy8how/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "活動目的も部員も不明だけど、奴らは実在する。その名前とは?",
+        "rm": "Katsudou mokuteki mo buin mo fumei dakedo, yatsura wa jitsuzai suru. sono namae to wa?",
+        "en": "The purpose of their activities is unknown, but they exist. What is their name?",
+        "audio": "audio/YcPKEHy8how/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "その名前とは?",
+        "rm": "Sono namae to wa?",
+        "en": "What's that name?",
+        "audio": "audio/YcPKEHy8how/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "ジョロウグモの会。",
+        "rm": "Jorou gumo no kai.",
+        "en": "Zoro-Gumorokai",
+        "audio": "audio/YcPKEHy8how/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "ジョロウグモ?",
+        "rm": "Jorou gumo?",
+        "en": "Jarogman...",
+        "audio": "audio/YcPKEHy8how/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "総務委員長のタラベ先輩は去年、回収したメモを頼りに、ジョロウグモの会に接触しようとしたらしい。",
+        "rm": "Soumu iinchou no tarabe senpai wa kyonen, kaishuu shita memo wo tayori ni, jorou gumo no kai ni sesshoku shiyou to shitarashii.",
+        "en": "Tarabe-senpai, the head of the office, tried to get in touch with the Jorogumo clan by relying on the collected notes last year.",
+        "audio": "audio/YcPKEHy8how/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "でも、うまくいかなかった。結局、名前だけのいたずらメモだと結論したそうだよ。",
+        "rm": "De mo, umaku ikanakatta. kekkyoku, namae dake no itazura memo da to ketsuron shita sou da yo.",
+        "en": "But it didn't go well. In the end, he concluded that it was a prank memo with just a name.",
+        "audio": "audio/YcPKEHy8how/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "ところが。",
+        "rm": "Tokoro ga.",
+        "en": "That's about it.",
+        "audio": "audio/YcPKEHy8how/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "ところが?",
+        "rm": "Tokoro ga?",
+        "en": "My heart...",
+        "audio": "audio/YcPKEHy8how/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "卒業式の日、ある卒業生がタラベ先輩に言ったんだ。",
+        "rm": "Sotsugyou shiki no hi, aru sotsugyousei ga ta Rabe senpai ni itta n da.",
+        "en": "On the day of the graduation ceremony, a graduate said to Tanabe-senpai...",
+        "audio": "audio/YcPKEHy8how/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "僕がジョロウグモの会の会長だった。次期会長にもよろしくしてやってくれ。もし君が、そいつを見つけ出せたらの話だが。",
+        "rm": "Boku ga jorou gumo no kai no kaichou datta. jiki kaichou ni mo yoroshiku shite yatte kure. moshi kimi ga, soitsu wo mitsuke dasetara no hanashi daga.",
+        "en": "I was the chairman of the Jorogumo Association. Please take care of the chairman of the Jiki Association, too. If you can find him, that's what I'm talking about.",
+        "audio": "audio/YcPKEHy8how/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "今年もきっとどこかに募集が出ているだろうね。今のところ発見にはいたってないけど。",
+        "rm": "Kotoshi mo kitto doko ka ni boshuu ga dete irudarou ne. ima no tokoro hakken ni wa itatte naikedo.",
+        "en": "I'm sure they're looking for her somewhere this year, too. I haven't found her yet, though.",
+        "audio": "audio/YcPKEHy8how/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "一枚だけのメモ。ジョロウグモの会。",
+        "rm": "Ichimai dake no memo. jorou gumo no kai.",
+        "en": "Just one memo... A dragon's shell... I'm curious! Okay!",
+        "audio": "audio/YcPKEHy8how/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "そう言うと思ってた。だからいいところに来たと言ったんだ。",
+        "rm": "Sou yuu to omotteta. dakara ii tokoro ni kita to itta n da.",
+        "en": "That's what I thought. That's why I said I came to a good place.",
+        "audio": "audio/YcPKEHy8how/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "と言いますと?",
+        "rm": "To iimasuto?",
+        "en": "What does that mean?",
+        "audio": "audio/YcPKEHy8how/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "もちろん探すんだよ、そのメモ。",
+        "rm": "Mochiron sagasu n da yo, sono memo.",
+        "en": "Of course, you have to look for that memo. Yes!",
+        "audio": "audio/YcPKEHy8how/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "掲示板は全部で30カ所だね。",
+        "rm": "Keijiban wa zenbu de 30 kasho da ne.",
+        "en": "There's a total of 30 bulletin boards in here. Are you really going to search all of them?",
+        "audio": "audio/YcPKEHy8how/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "まさか、一番ありそうなのはどこか考えた方が早い。",
+        "rm": "Masaka, ichiban ari sou na no wa doko ka kangaeta hou ga hayai.",
+        "en": "I don't think it's faster to think about something that's most likely to happen.",
+        "audio": "audio/YcPKEHy8how/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "なるほど。",
+        "rm": "Naruhodo.",
+        "en": "I see.",
+        "audio": "audio/YcPKEHy8how/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "どういう条件の場所だと思う?",
+        "rm": "Dou iu jouken no basho da to omou?",
+        "en": "What kind of place do you think it is?",
+        "audio": "audio/YcPKEHy8how/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "もし私だったら、やっぱりできるだけ目立たない校舎の隅の掲示板に貼ると思います。",
+        "rm": "Moshi watakushi dattara, yappari dekiru dake medatanai kousha no sumi no keijiban ni haru to omoimasu.",
+        "en": "If it were me, I'd stick it on the bulletin board at the corner of the building that doesn't stand out as much as possible.",
+        "audio": "audio/YcPKEHy8how/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "それは違うな。",
+        "rm": "Sore wa chigau na.",
+        "en": "That's not what I meant.",
+        "audio": "audio/YcPKEHy8how/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "違いますか?",
+        "rm": "Chigaimasu ka?",
+        "en": "Am I wrong?",
+        "audio": "audio/YcPKEHy8how/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "もし勘誘メモが貼られているとするなら、それは一階証拠口の掲示板だ。",
+        "rm": "Moshi kan yuu memo ga hararete iru to surunara, sore wa ichi kai shouko kuchi no keijiban da.",
+        "en": "If the official note is pasted, it is a bulletin board of the first evidence.",
+        "audio": "audio/YcPKEHy8how/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "え?一番目立つところじゃないですか?",
+        "rm": "E? ichiban medatsu tokoro ja nai desu ka?",
+        "en": "Eh? Isn't this the most noticeable place?",
+        "audio": "audio/YcPKEHy8how/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "まあまあ、チタンダさん。大太郎には何か考えがあるらしいよ。",
+        "rm": "Maamaa, Chitandasan. daitarou ni wa nan ka kangae ga arurashii yo.",
+        "en": "Well, well, Chitanda-san, it seems that Ohtaro has some kind of idea. Well...",
+        "audio": "audio/YcPKEHy8how/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "改めて見ると、やっぱりすごいね。神山高校。",
+        "rm": "Aratamete miruto, yappari sugoi ne. Kamiyama koukou.",
+        "en": "Looking at it again, it's amazing, Kamiyama High School.",
+        "audio": "audio/YcPKEHy8how/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "本当ですね。水国バグに漫画圏面体が床部に立つテクニック。",
+        "rm": "Hontou desu ne. mizukoku bug ni mangaken mentei ga yuka bu ni tatsu technic.",
+        "en": "It's true. The water is like a manga book. It's like a manga book.",
+        "audio": "audio/YcPKEHy8how/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "掲示板の関係が見えません。",
+        "rm": "Keijiban no kankei ga miemasen.",
+        "en": "I can't see the gauge light. Orekki-san, what's wrong? No...",
+        "audio": "audio/YcPKEHy8how/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "溢れ出る活力に充てられて。",
+        "rm": "Afurederu katsuryoku ni aterarete.",
+        "en": "I was hit by the overflowing power.",
+        "audio": "audio/YcPKEHy8how/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "省エネの大太郎には理解不能な世界だろうね。",
+        "rm": "Shouene no daitarou ni wa rikai funou na sekai darou ne.",
+        "en": "I'm sure it's an incomprehensible world for Shouen-e's Houtarou.",
+        "audio": "audio/YcPKEHy8how/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "それにここは新入生がまず見る掲示板だ。つまり激戦区だよ。",
+        "rm": "Sore ni koko wa shinnyuusei ga mazu miru keijiban da. tsumari gekisenku da yo.",
+        "en": "Also, this is the first time a newcomer sees the bulletin board. In other words, it's a battlefield!",
+        "audio": "audio/YcPKEHy8how/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "激戦?なるほど。これだけたくさん貼ってあれば、無許可の掲示物も目立ちませんね。",
+        "rm": "Gekisen? naruhodo. kore dake takusan hatte areba, mukyoka no keiji mono mo medachimasen ne.",
+        "en": "A war... Ah, I see! With this much, the unauthorized items won't stand out.",
+        "audio": "audio/YcPKEHy8how/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "それもある。",
+        "rm": "Sore mo aru.",
+        "en": "That's also possible.",
+        "audio": "audio/YcPKEHy8how/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "それも?別の理由があるんですか?",
+        "rm": "Sore mo? betsu no riyuu ga aru n desu ka?",
+        "en": "That too? Is there another reason?",
+        "audio": "audio/YcPKEHy8how/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "まあな、とにかく探してみよう。",
+        "rm": "Maa na, tonikaku sagashite miyou.",
+        "en": "Well, anyway, let's look for it.",
+        "audio": "audio/YcPKEHy8how/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "はい!グローバルアクト部、ディベート部、100人一種部なんてのもあるんですね。",
+        "rm": "Hai! global act bu, debate bu, 100nin isshu bu nante no mo aru n desu ne.",
+        "en": "Yes! There's also the Global Act Club, Debate Club, and the 100-person group, right?",
+        "audio": "audio/YcPKEHy8how/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "あ、占い研究会。私の友達がここに入ったんです。",
+        "rm": "A, uranai kenkyuu kai. watakushi no tomodachi ga koko ni haitta n desu.",
+        "en": "Oh, it's the fortune-telling lab. My friend is in here.",
+        "audio": "audio/YcPKEHy8how/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "はぁ。",
+        "rm": "Ha.",
+        "en": "Huh?",
+        "audio": "audio/YcPKEHy8how/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "創局部、大警部、美術部。",
+        "rm": "Hajime kyokubu, daikeibu, bijutsu bu.",
+        "en": "The music department, the music department, the art department",
+        "audio": "audio/YcPKEHy8how/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "んー、ジョロウグモの会のメモはないようですね。",
+        "rm": "Nn, jorou gumo no kai no memo wa nai you desu ne.",
+        "en": "There seems to be no note of the Jorogumo meeting.",
+        "audio": "audio/YcPKEHy8how/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "どうかな。見ただけでわかるようになってるかどうかは、ちょっとわからないね。",
+        "rm": "Dou ka na. mita dake de wakaru you ni natteru ka dou ka wa, chotto wakaranai ne.",
+        "en": "I don't know. I don't know if you can tell just by looking at it.",
+        "audio": "audio/YcPKEHy8how/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "あっ、どう?",
+        "rm": "A,, dou?",
+        "en": "What do you mean?",
+        "audio": "audio/YcPKEHy8how/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "総務員の目を盗むには何か工夫があるかもしれないなと思ってね。",
+        "rm": "Soumuin no me wo nusumu ni wa nan ka kufuu ga aru ka mo shirenai na to omotte ne.",
+        "en": "I thought it might be a good idea to steal the eyes of the officer.",
+        "audio": "audio/YcPKEHy8how/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "工夫ですか?",
+        "rm": "Kufuu desu ka?",
+        "en": "Is it a trick?",
+        "audio": "audio/YcPKEHy8how/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "まあ、あるならいずれ見つかるよ。",
+        "rm": "Maa, arunara izure mitsukaru yo.",
+        "en": "Well, if you have it, you'll find it eventually.",
+        "audio": "audio/YcPKEHy8how/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "あったぞ。",
+        "rm": "Atta zo.",
+        "en": "I found it.",
+        "audio": "audio/YcPKEHy8how/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "えっ!?",
+        "rm": "E!!?",
+        "en": "Huh? There it is. I thought I'd hide it in a place with less people.",
+        "audio": "audio/YcPKEHy8how/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "それは一年生の発想だ。不慣れな奴ほど気を照らう。",
+        "rm": "Sore wa ichi nensei no hassou da. funare na yatsu hodo ki wo terau.",
+        "en": "That's the idea of a first-year student. The more he gets used to it, the more he wants to do it.",
+        "audio": "audio/YcPKEHy8how/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "気の利いた秘密クラブなら堂々と裏を書いてくると睨んだんだ。",
+        "rm": "Ki no kiita himitsu club nara doudou to ura wo kaite kuru to niranda n da.",
+        "en": "If it's a secret club you're interested in, just write it on the back.",
+        "audio": "audio/YcPKEHy8how/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "驚きがして、なぜか驚きがありません。",
+        "rm": "Odoroki ga shite, naze ka odoroki ga arimasen.",
+        "en": "That's true, but it's strange. When I hear that, I feel like it's natural, and somehow I'm not surprised.",
+        "audio": "audio/YcPKEHy8how/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "総務委員会許可員なし。仕事するね。",
+        "rm": "Soumu iin kai kyokain nashi. shigoto suru ne.",
+        "en": "I'm not allowed to be a member of the board of directors. I'm going to work.",
+        "audio": "audio/YcPKEHy8how/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "さて、俺は昨晩職員室に出してそのまま帰るよ。",
+        "rm": "Sate, ore wa sakuban shokuinshitsu ni dashite sono mama kaeru yo.",
+        "en": "Now then, I'm going to go back to the office and change my clothes.",
+        "audio": "audio/YcPKEHy8how/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "そうだね。僕も帰ろうかな。",
+        "rm": "Sou da ne. boku mo kaerou ka na.",
+        "en": "That's right. I should go home too.",
+        "audio": "audio/YcPKEHy8how/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "ってのひとほど気を照らう。覚えておきますね。",
+        "rm": "Tte no hito hodo ki wo terau. oboete okimasu ne.",
+        "en": "I understand. Well then, it's time to say goodbye. The more you get used to it, the more you'll remember it.",
+        "audio": "audio/YcPKEHy8how/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "不思議をもって不思議を誠摩の経。お見事なんだよ。",
+        "rm": "Fushigi wo motte fushigi wo makoto ? no kyou. omigoto na n da yo.",
+        "en": "Thank you for watching!",
+        "audio": "audio/YcPKEHy8how/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "世話になったな。なんだかあいつが来そうな予感がしたんだ。",
+        "rm": "Sewa ni natta na. nan da ka aitsu ga ki sou na yokan ga shita n da.",
+        "en": "I had a feeling that he would come to take care of me.",
+        "audio": "audio/YcPKEHy8how/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "それであんなメモや画表を用意したと。まあ、結果どんぴしゃだったね。",
+        "rm": "Sore de anna memo ya ga hyou wo youi shita to. maa, kekka donpisha datta ne.",
+        "en": "That's why I prepared a memo and a picture book. Well, the result was a complete failure.",
+        "audio": "audio/YcPKEHy8how/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "でもホータロウ、あそこまで手の込んだ真似をして、イヤノの謎から話を逸らせたかったのはなぜだい。",
+        "rm": "De mo hootarou, asoko made te no konda mane wo shite, iya no no nazo kara hanashi wo hayarasetakatta no wa naze da i.",
+        "en": "But, Houtarou, why did you try to stop me from telling you about the mystery of Yano after all that you've done?",
+        "audio": "audio/YcPKEHy8how/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "まさかそっちには歯が立たないから、なんて言わないよね。",
+        "rm": "Masaka sotchi ni wa ha ga tatanaikara, nante iwanai yo ne.",
+        "en": "Don't tell me you don't have any teeth on you, do you?",
+        "audio": "audio/YcPKEHy8how/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "音楽室は遠いからな。",
+        "rm": "Ongakushitsu wa tooikara na.",
+        "en": "The music room is far away.",
+        "audio": "audio/YcPKEHy8how/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "それだけ?",
+        "rm": "Sore dake?",
+        "en": "That's all?",
+        "audio": "audio/YcPKEHy8how/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "それだけだ。まっすぐ昇降口まで行って、蕎麦の職員室に作文を出して、そのまま帰りたかった。",
+        "rm": "Sore dake da. massugu shoukou kuchi made itte, soba no shokuinshitsu ni sakubun wo dashite, sono mama kaeritakatta.",
+        "en": "That's all I had to do. I went straight to the evidence room and wrote a letter to the staff at Soba, and I wanted to go home like that.",
+        "audio": "audio/YcPKEHy8how/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "なるほど。わかった。",
+        "rm": "Naruhodo. wakatta.",
+        "en": "I see. I understand.",
+        "audio": "audio/YcPKEHy8how/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "ホータロウだよ、やっぱり。",
+        "rm": "Hou Tarou da yo, yappari.",
+        "en": "It's Ohtaro, after all. I'm curious!",
+        "audio": "audio/YcPKEHy8how/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "やらなければいけないことなら、手身近にだ。",
+        "rm": "Yaranakereba ikenai koto nara, te mizika nida.",
+        "en": "If there's something I have to do, I'll do it quickly.",
+        "audio": "audio/YcPKEHy8how/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "ホータロウ、それは良くないね。",
+        "rm": "Hou Tarou, sore wa yoku nai ne.",
+        "en": "Ohtaro, that's not good.",
+        "audio": "audio/YcPKEHy8how/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "もっとお披露するなら、堂々と胸を張って言うべきだ。",
+        "rm": "Motto ohirou surunara, doudou to mune wo hatte yuubekida.",
+        "en": "If you want to show off even more, you should be proud of yourself.",
+        "audio": "audio/YcPKEHy8how/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "今のホータロウは単に言い訳をしたようにしか聞こえない。",
+        "rm": "Ima no hootarou wa tanni iiwake wo shita you ni shika kikoenai.",
+        "en": "I can only hear what you just said, Houtarou.",
+        "audio": "audio/YcPKEHy8how/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "不思議を不思議で迎え撃つ。",
+        "rm": "Fushigi wo fushigi de mukaeutsu.",
+        "en": "I'll face the mystery with the mystery.",
+        "audio": "audio/YcPKEHy8how/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "うん、僕好みだ。いい変化級だよ。",
+        "rm": "Un, boku konomi da. ii henkakyuu da yo.",
+        "en": "Yeah, it's just my taste. It's a good change of pace.",
+        "audio": "audio/YcPKEHy8how/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "だけどね、ホータロウ、それはホータロウ好みじゃないよ。",
+        "rm": "Dakedo ne, hou Tarou, sore wa hootarou konomi ja nai yo.",
+        "en": "But you know, Houtarou, that's not your cup of tea.",
+        "audio": "audio/YcPKEHy8how/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "シタンダさんが来た時、どうして単に知らんと言わなかったんだい?",
+        "rm": "Shitandasan ga kita toki, dou shite tanni shiran to iwanakatta n da i?",
+        "en": "Why didn't you just say you didn't know when Mr. Shitanda came?",
+        "audio": "audio/YcPKEHy8how/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "そこが今日のホータロウの根本的な間違いだよ。",
+        "rm": "Soko ga kyou no hootarou no konponteki na machigai da yo.",
+        "en": "That's the fundamental mistake you made today, Koutaro.",
+        "audio": "audio/YcPKEHy8how/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "実際ホータロウはずっとそうしてきたじゃないか。",
+        "rm": "Jissai hootarou wa zutto sou shite kitaja nai ka.",
+        "en": "That's what you've been doing all this time, haven't you?",
+        "audio": "audio/YcPKEHy8how/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "そうかもな。",
+        "rm": "Sou ka mo na.",
+        "en": "I think so.",
+        "audio": "audio/YcPKEHy8how/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "不慣れな奴ほど気を照らう。",
+        "rm": "Funare na yatsu hodo ki wo terau.",
+        "en": "The more you don't get used to it, the more you try to do it.",
+        "audio": "audio/YcPKEHy8how/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "今日のホータロウがまさしくそれだよ。",
+        "rm": "Kyou no hootarou ga masashiku sore da yo.",
+        "en": "That's exactly what today's Hotaro is about.",
+        "audio": "audio/YcPKEHy8how/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "シタンダさんがいるっていう状況に、まだ全然慣れてない。",
+        "rm": "Shitandasan ga iru tte iu joukyou ni, mada zenzen naretenai.",
+        "en": "I'm still not used to the situation where Miss Standa is here.",
+        "audio": "audio/YcPKEHy8how/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "だからあんなまわりくどいことをするのさ。",
+        "rm": "Dakara anna mawarikudoi koto wo suru no sa.",
+        "en": "That's why you're doing such a mean thing.",
+        "audio": "audio/YcPKEHy8how/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "ホータロウは今日、シタンダさんを拒絶したつもりかもしれない。",
+        "rm": "Hou Tarou wa kyou, Shitandasan wo kyozetsu shita tsumori ka mo shirenai.",
+        "en": "Ohtaro might have rejected Miss Chitanda today.",
+        "audio": "audio/YcPKEHy8how/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "でもね。",
+        "rm": "De mo ne.",
+        "en": "But...",
+        "audio": "audio/YcPKEHy8how/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "拒絶したかったわけじゃない。",
+        "rm": "Kyozetsu shitakatta wake ja nai.",
+        "en": "I didn't mean to reject you.",
+        "audio": "audio/YcPKEHy8how/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "もちろんそうさ。",
+        "rm": "Mochiron sou sa.",
+        "en": "Of course.",
+        "audio": "audio/YcPKEHy8how/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "あれは現状に対するただの保留だね。",
+        "rm": "Are wa genjou ni taisuru tada no horyuu da ne.",
+        "en": "That's just an act against the current situation, isn't it?",
+        "audio": "audio/YcPKEHy8how/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "保留?そうか。",
+        "rm": "Horyuu? sou ka.",
+        "en": "Horyu? I see.",
+        "audio": "audio/YcPKEHy8how/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "保留か。",
+        "rm": "Horyuu ka.",
+        "en": "Koryu, huh?",
+        "audio": "audio/YcPKEHy8how/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "ところで音楽室の件はどういうことだったんだと思う?",
+        "rm": "Tokoro de ongakushitsu no ken wa dou iu koto datta n da to omou?",
+        "en": "By the way, what do you think about the music room?",
+        "audio": "audio/YcPKEHy8how/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "ああ、そのお化けとやらは髪が乱れて目がちばしってたんだろう。目起きのように。",
+        "rm": "Aa, sono obake to yara wa kami ga midarete me ga chibashitteta n darou. me oki no you ni.",
+        "en": "Yeah, that ghost was blinded by the sight of the god, just like a dream.",
+        "audio": "audio/YcPKEHy8how/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "あ、そうか。",
+        "rm": "A, sou ka.",
+        "en": "Oh, I see.",
+        "audio": "audio/YcPKEHy8how/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "ピアノ部員は眠かったから寝ていた。",
+        "rm": "Piano buin wa nemukattakara nete ita.",
+        "en": "I was sleeping because I was sleepy.",
+        "audio": "audio/YcPKEHy8how/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "拷問が閉まる6時前に目が覚めるようにCDプレイヤーに月光を入れてタイマーをセットしていた。",
+        "rm": "Goumon ga shimaru 6 ji mae ni me ga sameru you ni CD player ni gekkou wo irete timer wo set shite ita.",
+        "en": "As if to wake up before 6 o'clock when the gate closes, I set the timer with moonlight on the CD player.",
+        "audio": "audio/YcPKEHy8how/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "そんなとこだろう。",
+        "rm": "Sonna toko darou.",
+        "en": "I'm sure it's something like that.",
+        "audio": "audio/YcPKEHy8how/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "なるほどね。確かに行けばわかる。",
+        "rm": "Naruhodo ne. tashika ni ikeba wakaru.",
+        "en": "I see. I'll find out when I get there.",
+        "audio": "audio/YcPKEHy8how/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "ピアノプレイヤーに設定が残ってるだろうし。",
+        "rm": "Piano player ni settei ga nokotterudaroushi.",
+        "en": "I'm sure the player still has the settings.",
+        "audio": "audio/YcPKEHy8how/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "音楽室は遠いからな。",
+        "rm": "Ongakushitsu wa tooikara na.",
+        "en": "The music room is far away.",
+        "audio": "audio/YcPKEHy8how/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "わかったって。ただね、ホタロウ。",
+        "rm": "Wakattatte. tada ne, jota law.",
+        "en": "Got it. See you later, Houtarou.",
+        "audio": "audio/YcPKEHy8how/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "ん?",
+        "rm": "N?",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/YcPKEHy8how/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "音楽室まで行ってたほうが、ゆくゆくは省エネにつながったような気がするんだ。",
+        "rm": "Ongakushitsu made itteta hou ga, yukuyuku wa shouene ni tsunagatta you na ki ga suru n da.",
+        "en": "I feel like going to the music room is more likely to lead to the show.",
+        "audio": "audio/YcPKEHy8how/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "今日の屈択は意外と高くつくかもしれない。",
+        "rm": "Kyou no kutsutaku wa igai to takaku tsuku ka mo shirenai.",
+        "en": "Today's price tag might be a bit higher than I expected.",
+        "audio": "audio/YcPKEHy8how/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "おっと!今日のこと、僕は貸しにする気はないよ!",
+        "rm": "Otto! kyou no koto, boku wa kashi ni suru ki wa nai yo!",
+        "en": "Oops. Kotaro, I'm not going to lend you anything today.",
+        "audio": "audio/YcPKEHy8how/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "じゃあ。",
+        "rm": "Jaa.",
+        "en": "Let's go!",
+        "audio": "audio/YcPKEHy8how/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "保留か。",
+        "rm": "Horyuu ka.",
+        "en": "(Translating...)",
+        "audio": "audio/YcPKEHy8how/seg_260.mp3"
     }
 ]
