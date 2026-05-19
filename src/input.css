@@ -14,7 +14,8 @@
   }
 
   .glass-card:hover {
-    @apply -translate-y-1 border-blue-500/40 shadow-[0_8px_20px_rgba(59, 130, 246, 0.1)];
+    @apply -translate-y-1 border-blue-500/40;
+    box-shadow: 0 8px 20px rgba(59, 130, 246, 0.1);
   }
 
   /* Custom Audio Controls */
@@ -37,7 +38,8 @@
   }
 
   .custom-checkbox:checked {
-    @apply bg-green-500 border-green-500 scale-110 shadow-[0_0_12px_rgba(34, 197, 94, 0.4)];
+    @apply bg-green-500 border-green-500 scale-110;
+    box-shadow: 0 0 12px rgba(34, 197, 94, 0.4);
   }
 
   .custom-checkbox:checked::after {
@@ -56,6 +58,108 @@
 
   .sentence-item:hover::before {
     @apply opacity-100;
+  }
+
+  /* Blur Scroll — only the active row stays sharp */
+  #sentence-list.blur-scroll-active .sentence-item {
+    @apply cursor-pointer;
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item .sentence-text {
+    @apply transition-[filter,opacity] duration-300 ease-out;
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item:not(.sentence-item--active) .sentence-text {
+    filter: blur(6px);
+    opacity: 0.38;
+    user-select: none;
+    pointer-events: none;
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item.sentence-item--past .sentence-text {
+    filter: blur(10px);
+    opacity: 0.22;
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item.sentence-item--active {
+    @apply border-blue-500/50 z-[1];
+    box-shadow: 0 0 24px rgba(59, 130, 246, 0.12);
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item.sentence-item--active::before {
+    @apply opacity-100;
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item.sentence-item--text-hidden .sentence-text {
+    visibility: hidden;
+    filter: none;
+    opacity: 0;
+  }
+
+  #sentence-list.blur-scroll-active .sentence-item.sentence-item--text-hidden.sentence-item--active::after {
+    content: 'Press H to reveal';
+    @apply block text-center text-sm text-zinc-500 py-6 font-medium;
+  }
+
+  .study-kbd {
+    @apply inline-flex items-center justify-center min-w-[1.4rem] px-1.5 py-0.5 mx-0.5 rounded border border-brand-border bg-brand-bg text-zinc-300 font-mono text-[0.7rem] font-semibold;
+  }
+
+  /* Sticky study controls (mobile / narrow screens) */
+  .study-mobile-bar {
+    @apply fixed bottom-0 left-0 right-0 z-50 sm:hidden;
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+
+  .study-mobile-bar__inner {
+    @apply max-w-4xl mx-auto px-3 pt-2 pb-3 border-t border-brand-border bg-brand-card/95 backdrop-blur-xl;
+    box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.35);
+  }
+
+  .study-mobile-bar__progress {
+    @apply text-center text-xs font-semibold text-blue-300 mb-2 tabular-nums;
+  }
+
+  .study-mobile-bar__controls {
+    @apply flex items-center justify-center gap-2;
+  }
+
+  .study-mobile-btn {
+    @apply flex items-center justify-center w-12 h-12 rounded-xl border border-brand-border bg-brand-bg text-zinc-100 transition-all duration-200 active:scale-95;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .study-mobile-btn:disabled {
+    @apply opacity-30 pointer-events-none;
+  }
+
+  .study-mobile-btn--primary {
+    @apply w-14 h-14 border-blue-500/50 bg-blue-600 text-white;
+    box-shadow: 0 0 20px rgba(59, 130, 246, 0.35);
+  }
+
+  .study-mobile-btn--active {
+    @apply border-blue-400/60 bg-blue-500/20 text-blue-200;
+  }
+
+  @media (max-width: 639px) {
+    body.lesson-study-active #sentence-list.blur-scroll-active {
+      @apply pb-28;
+    }
+
+    body.lesson-study-active #sentence-list.blur-scroll-active .sentence-item {
+      scroll-margin-top: 5rem;
+      scroll-margin-bottom: 7.5rem;
+    }
+
+    body.lesson-study-active #sentence-list.blur-scroll-active .sentence-item audio {
+      display: none;
+    }
+
+    #sentence-list.blur-scroll-active .sentence-item.sentence-item--text-hidden.sentence-item--active::after {
+      content: 'Tap the eye button to reveal';
+    }
   }
 }
 

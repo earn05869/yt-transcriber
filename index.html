@@ -64,8 +64,53 @@
                     class="ml-3 sm:ml-5 text-base sm:text-xl font-semibold text-white truncate leading-snug">Loading...
                 </h2>
             </div>
+            <div id="study-hints"
+                class="hidden mb-4 px-3 py-2 sm:px-4 sm:py-3 rounded-lg border border-brand-border bg-brand-card/60 text-xs sm:text-sm text-zinc-400">
+                <div class="hidden sm:flex flex-wrap gap-x-4 gap-y-1">
+                    <span><kbd class="study-kbd">↑</kbd><kbd class="study-kbd">↓</kbd> row</span>
+                    <span><kbd class="study-kbd">Space</kbd> play</span>
+                    <span><kbd class="study-kbd">H</kbd> hide text</span>
+                </div>
+                <p class="sm:hidden m-0">Tap a row to focus · use the bar below to play, hide text, and move</p>
+            </div>
             <div id="sentence-list" class="space-y-4"></div>
         </div>
+
+        <nav id="study-mobile-bar" class="study-mobile-bar hidden" aria-label="Study controls">
+            <div class="study-mobile-bar__inner">
+                <p id="study-progress-text" class="study-mobile-bar__progress">1 / 1</p>
+                <div class="study-mobile-bar__controls">
+                    <button type="button" id="study-btn-prev" class="study-mobile-btn" aria-label="Previous sentence">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M18 15l-6-6-6 6" />
+                        </svg>
+                    </button>
+                    <button type="button" id="study-btn-play" class="study-mobile-btn study-mobile-btn--primary" aria-label="Play audio">
+                        <svg id="study-icon-play" width="26" height="26" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                            <path d="M8 5v14l11-7z" />
+                        </svg>
+                        <svg id="study-icon-pause" class="hidden" width="26" height="26" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                            <path d="M6 5h4v14H6V5zm8 0h4v14h-4V5z" />
+                        </svg>
+                    </button>
+                    <button type="button" id="study-btn-hide" class="study-mobile-btn" aria-label="Hide text" aria-pressed="false">
+                        <svg id="study-icon-eye" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+                            <circle cx="12" cy="12" r="3" />
+                        </svg>
+                        <svg id="study-icon-eye-off" class="hidden" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24" />
+                            <line x1="1" y1="1" x2="23" y2="23" />
+                        </svg>
+                    </button>
+                    <button type="button" id="study-btn-next" class="study-mobile-btn" aria-label="Next sentence">
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <path d="M6 9l6 6 6-6" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </nav>
     </div>
 
     <script>
@@ -74,8 +119,21 @@
         const lessonListEl = document.getElementById('lesson-list');
         const sentenceListEl = document.getElementById('sentence-list');
         const lessonTitleEl = document.getElementById('lesson-title');
+        const studyHintsEl = document.getElementById('study-hints');
+        const studyMobileBarEl = document.getElementById('study-mobile-bar');
+        const studyProgressTextEl = document.getElementById('study-progress-text');
+        const studyBtnPrev = document.getElementById('study-btn-prev');
+        const studyBtnNext = document.getElementById('study-btn-next');
+        const studyBtnPlay = document.getElementById('study-btn-play');
+        const studyBtnHide = document.getElementById('study-btn-hide');
+        const studyIconPlay = document.getElementById('study-icon-play');
+        const studyIconPause = document.getElementById('study-icon-pause');
+        const studyIconEye = document.getElementById('study-icon-eye');
+        const studyIconEyeOff = document.getElementById('study-icon-eye-off');
 
         let currentVideoId = null;
+        let sentenceIds = [];
+        let activeSentenceIndex = 0;
 
         async function loadDashboard() {
             try {
@@ -102,6 +160,7 @@
         }
 
         async function openLesson(id, title) {
+            teardownStudyMode();
             currentVideoId = id;
             lessonTitleEl.textContent = title;
             sentenceListEl.innerHTML = '<div class="text-center py-10 text-blue-400 font-semibold animate-pulse">Loading sentences...</div>';
@@ -117,10 +176,11 @@
 
                 const progress = JSON.parse(localStorage.getItem(`progress_${id}`) || '{}');
 
+                sentenceIds = sentences.map(s => s.id);
                 sentenceListEl.innerHTML = sentences.map(s => `
-                <div class="glass-card sentence-item ${progress[s.id] ? 'opacity-50 !border-green-500' : ''}" id="card-${s.id}">
+                <div class="glass-card sentence-item ${progress[s.id] ? '!border-green-500' : ''}" id="card-${s.id}" data-sentence-id="${s.id}" tabindex="-1">
                     <div class="flex justify-between items-start gap-3 sm:gap-4">
-                        <div class="flex-1 min-w-0 overflow-hidden">
+                        <div class="flex-1 min-w-0 overflow-hidden sentence-text">
                             <div class="text-[1.2rem] sm:text-[1.4rem] font-bold text-white mb-1.5 leading-snug break-anywhere">
                                 ${s.jp}
                             </div>
@@ -141,10 +201,199 @@
                 </div>
             `).join('');
 
+                initStudyMode();
+
             } catch (err) {
                 console.error(err);
                 sentenceListEl.innerHTML = '<div class="text-center py-16 text-red-400">Error loading lesson data.</div>';
+                teardownStudyMode();
             }
+        }
+
+        function getSentenceCard(sentenceId) {
+            return document.getElementById(`card-${sentenceId}`);
+        }
+
+        function getActiveAudio() {
+            if (!sentenceIds.length) return null;
+            const card = getSentenceCard(sentenceIds[activeSentenceIndex]);
+            return card ? card.querySelector('audio') : null;
+        }
+
+        function updateBlurScrollState() {
+            if (!sentenceIds.length) return;
+
+            sentenceIds.forEach((id, index) => {
+                const card = getSentenceCard(id);
+                if (!card) return;
+
+                card.classList.remove(
+                    'sentence-item--active',
+                    'sentence-item--past',
+                    'sentence-item--future'
+                );
+
+                if (index < activeSentenceIndex) {
+                    card.classList.add('sentence-item--past');
+                } else if (index > activeSentenceIndex) {
+                    card.classList.add('sentence-item--future');
+                } else {
+                    card.classList.add('sentence-item--active');
+                }
+            });
+
+            const activeCard = getSentenceCard(sentenceIds[activeSentenceIndex]);
+            if (activeCard) {
+                activeCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+
+            updateStudyMobileUI();
+        }
+
+        function updateStudyMobileUI() {
+            if (!sentenceIds.length) return;
+
+            const total = sentenceIds.length;
+            studyProgressTextEl.textContent = `${activeSentenceIndex + 1} / ${total}`;
+
+            studyBtnPrev.disabled = activeSentenceIndex === 0;
+            studyBtnNext.disabled = activeSentenceIndex === total - 1;
+
+            const card = getSentenceCard(sentenceIds[activeSentenceIndex]);
+            const textHidden = card?.classList.contains('sentence-item--text-hidden');
+
+            studyBtnHide.setAttribute('aria-pressed', String(textHidden));
+            studyBtnHide.classList.toggle('study-mobile-btn--active', textHidden);
+            studyIconEye.classList.toggle('hidden', textHidden);
+            studyIconEyeOff.classList.toggle('hidden', !textHidden);
+            studyBtnHide.setAttribute('aria-label', textHidden ? 'Show text' : 'Hide text');
+
+            const audio = getActiveAudio();
+            const playing = !!(audio && !audio.paused && !audio.ended);
+            studyIconPlay.classList.toggle('hidden', playing);
+            studyIconPause.classList.toggle('hidden', !playing);
+            studyBtnPlay.setAttribute('aria-label', playing ? 'Pause audio' : 'Play audio');
+        }
+
+        function setActiveSentenceIndex(nextIndex) {
+            if (!sentenceIds.length) return;
+            const clamped = Math.max(0, Math.min(nextIndex, sentenceIds.length - 1));
+            if (clamped === activeSentenceIndex) return;
+
+            document.querySelectorAll('#sentence-list audio').forEach(a => a.pause());
+
+            activeSentenceIndex = clamped;
+            document.querySelectorAll('.sentence-item--text-hidden').forEach(card => {
+                card.classList.remove('sentence-item--text-hidden');
+            });
+            updateBlurScrollState();
+        }
+
+        function moveActiveRow(delta) {
+            setActiveSentenceIndex(activeSentenceIndex + delta);
+        }
+
+        function toggleActiveTextHidden() {
+            const card = getSentenceCard(sentenceIds[activeSentenceIndex]);
+            if (!card) return;
+            card.classList.toggle('sentence-item--text-hidden');
+            updateStudyMobileUI();
+        }
+
+        function playActiveAudio() {
+            const audio = getActiveAudio();
+            if (!audio) return;
+
+            if (audio.paused) {
+                document.querySelectorAll('#sentence-list audio').forEach(a => {
+                    if (a !== audio) a.pause();
+                });
+                audio.play().catch(() => {});
+            } else {
+                audio.pause();
+            }
+            updateStudyMobileUI();
+        }
+
+        function isTypingTarget(el) {
+            if (!el) return false;
+            const tag = el.tagName;
+            return tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || el.isContentEditable;
+        }
+
+        function onStudyKeydown(event) {
+            if (!lessonView.classList.contains('active') || !sentenceIds.length) return;
+            if (isTypingTarget(event.target)) return;
+
+            const key = event.key;
+
+            if (key === ' ' || key === 'Spacebar') {
+                event.preventDefault();
+                playActiveAudio();
+                return;
+            }
+
+            if (key === 'ArrowDown') {
+                event.preventDefault();
+                moveActiveRow(1);
+                return;
+            }
+
+            if (key === 'ArrowUp') {
+                event.preventDefault();
+                moveActiveRow(-1);
+                return;
+            }
+
+            if (key === 'h' || key === 'H') {
+                event.preventDefault();
+                toggleActiveTextHidden();
+            }
+        }
+
+        function initStudyMode() {
+            activeSentenceIndex = 0;
+            sentenceListEl.classList.add('blur-scroll-active');
+            studyHintsEl.classList.remove('hidden');
+            studyMobileBarEl.classList.remove('hidden');
+            document.body.classList.add('lesson-study-active');
+
+            sentenceIds.forEach(id => {
+                const card = getSentenceCard(id);
+                if (!card) return;
+                card.classList.remove('sentence-item--text-hidden');
+                card.addEventListener('click', onSentenceCardClick);
+            });
+
+            updateBlurScrollState();
+        }
+
+        function onSentenceCardClick(event) {
+            if (event.target.closest('input, audio, button, a')) return;
+            const card = event.currentTarget;
+            const id = Number(card.dataset.sentenceId);
+            const index = sentenceIds.indexOf(id);
+            if (index >= 0) setActiveSentenceIndex(index);
+        }
+
+        function teardownStudyMode() {
+            sentenceListEl.classList.remove('blur-scroll-active');
+            studyHintsEl.classList.add('hidden');
+            studyMobileBarEl.classList.add('hidden');
+            document.body.classList.remove('lesson-study-active');
+            document.querySelectorAll('#sentence-list audio').forEach(a => a.pause());
+            sentenceIds = [];
+            activeSentenceIndex = 0;
+
+            document.querySelectorAll('.sentence-item').forEach(card => {
+                card.removeEventListener('click', onSentenceCardClick);
+                card.classList.remove(
+                    'sentence-item--active',
+                    'sentence-item--past',
+                    'sentence-item--future',
+                    'sentence-item--text-hidden'
+                );
+            });
         }
 
         function toggleProgress(sentenceId, checkboxElement) {
@@ -152,9 +401,9 @@
 
             const card = document.getElementById(`card-${sentenceId}`);
             if (checkboxElement.checked) {
-                card.classList.add('opacity-50', '!border-green-500');
+                card.classList.add('!border-green-500');
             } else {
-                card.classList.remove('opacity-50', '!border-green-500');
+                card.classList.remove('!border-green-500');
             }
 
             const progressKey = `progress_${currentVideoId}`;
@@ -164,11 +413,28 @@
         }
 
         function showDashboard() {
+            teardownStudyMode();
             lessonView.classList.remove('active');
             dashboardView.classList.add('active');
             currentVideoId = null;
         }
 
+        studyBtnPrev.addEventListener('click', () => moveActiveRow(-1));
+        studyBtnNext.addEventListener('click', () => moveActiveRow(1));
+        studyBtnPlay.addEventListener('click', playActiveAudio);
+        studyBtnHide.addEventListener('click', toggleActiveTextHidden);
+
+        sentenceListEl.addEventListener('play', (e) => {
+            if (e.target.tagName === 'AUDIO') updateStudyMobileUI();
+        }, true);
+        sentenceListEl.addEventListener('pause', (e) => {
+            if (e.target.tagName === 'AUDIO') updateStudyMobileUI();
+        }, true);
+        sentenceListEl.addEventListener('ended', (e) => {
+            if (e.target.tagName === 'AUDIO') updateStudyMobileUI();
+        }, true);
+
+        document.addEventListener('keydown', onStudyKeydown);
         loadDashboard();
     </script>
 </body>
