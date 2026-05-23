@@ -1,0 +1,2501 @@
+[
+    {
+        "id": 1,
+        "jp": "バラ色…か。",
+        "rm": "Barairo... ka.",
+        "en": "The color of the rose, huh?",
+        "audio": "audio/a8NPY0xQJ-M/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "あれが、バラ色なんだろうか。",
+        "rm": "Are ga, barairo na n darou ka.",
+        "en": "I wonder if that's the rose-colored one.",
+        "audio": "audio/a8NPY0xQJ-M/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "過去を探求するチタンだ。",
+        "rm": "Kako wo tankyuu suru Titan da.",
+        "en": "...I don't know. It's the Chitanda that investigates the past. The Kanyasai...",
+        "audio": "audio/a8NPY0xQJ-M/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "関野祭を守った関谷淳。",
+        "rm": "Sekino matsuri wo mamotta Sekiya Atsushi.",
+        "en": "Jun Seki-tani, who protected the Kanyasai.",
+        "audio": "audio/a8NPY0xQJ-M/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "あんな風に俺はなりたいのか?",
+        "rm": "Anna fuu ni ore wa naritai no ka?",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "本当にバラ色になりたいのか?",
+        "rm": "Hontou ni barairo ni naritai no ka?",
+        "en": "Do you really want to turn into a rose-colored person? I don't know...",
+        "audio": "audio/a8NPY0xQJ-M/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "そもそもバラ色とはなんだ?",
+        "rm": "Somosomo barairo to wa nan da?",
+        "en": "What is rose color in the first place? I don't know... Rose...",
+        "audio": "audio/a8NPY0xQJ-M/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "バラ色と言ったら姉貴もそうだ。",
+        "rm": "Barairo to ittara aneki mo sou da.",
+        "en": "If you say it's rose-colored, it's the same for my sister. I'm sure...",
+        "audio": "audio/a8NPY0xQJ-M/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "きっと10年後、この毎日のことを押し…",
+        "rm": "Kitto 10 nengo, kono mainichi no koto wo oshi...",
+        "en": "I'm sure 10 years from now, this everyday life will be over.",
+        "audio": "audio/a8NPY0xQJ-M/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "25歳の俺は10年前をどう振り返っているだろう。",
+        "rm": "25sai no ore wa 10 nen mae wo dou furikaette irudarou.",
+        "en": "It won't end like this, huh... How do I look back on 10 years ago when I was 25 years old?",
+        "audio": "audio/a8NPY0xQJ-M/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "関谷淳は押しまなかったはずだ。",
+        "rm": "Sekiya Atsushi wa oshi ma nakatta hazu da.",
+        "en": "Sekitani Jun must have done a good job.",
+        "audio": "audio/a8NPY0xQJ-M/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "はい、俺木です。",
+        "rm": "Hai, ore ki desu.",
+        "en": "Yes, it's a broken machine. What?",
+        "audio": "audio/a8NPY0xQJ-M/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "あれ、方太郎?",
+        "rm": "Are, Hou Tarou?",
+        "en": "Huh? Houtarou? It's my sister.",
+        "audio": "audio/a8NPY0xQJ-M/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "あの木か。生きてたのか?",
+        "rm": "Ano ki ka. ikiteta no ka?",
+        "en": "My sister, huh? Is she still alive? How rude.",
+        "audio": "audio/a8NPY0xQJ-M/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "失礼ね。",
+        "rm": "Shitsurei ne.",
+        "en": "You're so rude. I'm the one who...",
+        "audio": "audio/a8NPY0xQJ-M/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "私が強盗の一人や二人を相手に殺されると思ってるの?",
+        "rm": "Watakushi ga goutou no hitori ya futari wo aite ni korosareru to omotteru no?",
+        "en": "Do you think I'll be killed by one or two robbers?",
+        "audio": "audio/a8NPY0xQJ-M/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "やっぱりそういう目に会ってたのか。",
+        "rm": "Yappari sou iu me ni atteta no ka.",
+        "en": "I knew it was a dream. Yesterday...",
+        "audio": "audio/a8NPY0xQJ-M/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "昨日プリシチナに入ったところ。",
+        "rm": "Kinou purishichina ni haitta tokoro.",
+        "en": "The place where I entered the Pristina yesterday. Chikin.",
+        "audio": "audio/a8NPY0xQJ-M/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "資金、健康ともに問題なし。",
+        "rm": "Shikin, kenkou tomo ni mondai nashi.",
+        "en": "There is no problem with money and health. Next time...",
+        "audio": "audio/a8NPY0xQJ-M/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "次はサライボに入ったら手紙を書くわ。",
+        "rm": "Tsugi wa sara ibo ni haittara tegami wo kaku wa.",
+        "en": "Next time, I'll write you a letter when I get to Saraibo.",
+        "audio": "audio/a8NPY0xQJ-M/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "以上、報告終わり。",
+        "rm": "Ijou, houkoku owari.",
+        "en": "I'll write a letter. That's it for the report.",
+        "audio": "audio/a8NPY0xQJ-M/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "で、そっちはどう?",
+        "rm": "De, sotchi wa dou?",
+        "en": "What about you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "あ、文集を作ってる評価。",
+        "rm": "A, bunshuu wo tsukutteru hyouka.",
+        "en": "What do you think? I'm making a text.",
+        "audio": "audio/a8NPY0xQJ-M/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "ああ、評価ね。",
+        "rm": "Aa, hyouka ne.",
+        "en": "Eval, what do you think? Oh, I think it's good.",
+        "audio": "audio/a8NPY0xQJ-M/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "関谷淳のことを調べたよ。",
+        "rm": "Sekiya Atsushi no koto wo shirabeta yo.",
+        "en": "I did some research on Sekitani Jun.",
+        "audio": "audio/a8NPY0xQJ-M/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "関谷淳?懐かしい名前ね。",
+        "rm": "Sekiya Atsushi? natsukashii namae ne.",
+        "en": "I did some research. Jun Sekitani? That's a nostalgic name.",
+        "audio": "audio/a8NPY0xQJ-M/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "ええ、今でも伝わってるんだ。",
+        "rm": "Ee, ima de mo tsutawatteru n da.",
+        "en": "It's a nice name, isn't it? Yeah, I can still hear it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "じゃあまだ関谷祭は禁句なの?",
+        "rm": "Jaa mada Sekiyasai wa kinku na no?",
+        "en": "It's still being transmitted. So, the vegetable market is still closed?",
+        "audio": "audio/a8NPY0xQJ-M/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "なんだって?",
+        "rm": "Nan da tte?",
+        "en": "What did you say?",
+        "audio": "audio/a8NPY0xQJ-M/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "あれも悲劇よね。嫌だったわ。",
+        "rm": "Are mo higeki yo ne. iya datta wa.",
+        "en": "What did you say? That was a tragedy too, right? I didn't like it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "禁句?悲劇?嫌だった。",
+        "rm": "Kinku? higeki? iya datta.",
+        "en": "I didn't like it. I didn't like the drama. Wait a minute.",
+        "audio": "audio/a8NPY0xQJ-M/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "ちょっと待てよ。関谷淳の話だぞ。",
+        "rm": "Chotto mate yo. Sekiya Atsushi no hanashi da zo.",
+        "en": "Hey, wait a minute. It's about Sekitani Jun.",
+        "audio": "audio/a8NPY0xQJ-M/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "分かってるわよ。",
+        "rm": "Wakatteru wa yo.",
+        "en": "It's a serious matter. I know.",
+        "audio": "audio/a8NPY0xQJ-M/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "優しい英雄でしょ?",
+        "rm": "Yasashii eiyuu desho?",
+        "en": "You're a kind hero, aren't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "あんたこそ分かってんの?",
+        "rm": "Anta koso wakatten no?",
+        "en": "You know that, don't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "いや、どうも分かってないらしい。",
+        "rm": "Iya, dou mo wakattenairashii.",
+        "en": "No, he doesn't seem to understand anything.",
+        "audio": "audio/a8NPY0xQJ-M/seg_36.mp3"
+    },
+    {
+        "id": 37,
+        "jp": "姉貴、聞かせてくれ。関谷淳のことを。",
+        "rm": "Aneki, kikasete kure. Sekiya Atsushi no koto wo.",
+        "en": "I'm sorry, I don't understand. Please tell me about Jun Sekitani. I don't have time for that!",
+        "audio": "audio/a8NPY0xQJ-M/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "そんな暇はない!",
+        "rm": "Sonna hima wa nai!",
+        "en": "I don't have time for that! See ya!",
+        "audio": "audio/a8NPY0xQJ-M/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "このクソ姉貴!",
+        "rm": "Kono kusoaneki!",
+        "en": "You damn big sister!",
+        "audio": "audio/a8NPY0xQJ-M/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "チタンダたちに披露した俺の説、あれは、",
+        "rm": "Titan da/detachi ni hirou shita ore no setsu, are wa,",
+        "en": "The theory I showed to Chitanda and the others, that is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "間違っているか不十分だったんだ。",
+        "rm": "Machigatte iru ka fujuubun datta n da.",
+        "en": "I was not sure if I was wrong or not",
+        "audio": "audio/a8NPY0xQJ-M/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "もし生きていたとしたら、",
+        "rm": "Moshi ikite ita to shitara,",
+        "en": "I was in a bad mood. If I had been alive, I would have been in a bad mood. I would have been in a bad mood.",
+        "audio": "audio/a8NPY0xQJ-M/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "関谷淳は高校時代を惜しまないだろうか。",
+        "rm": "Sekiya Atsushi wa koukou jidai wo oshimanaidarou ka.",
+        "en": "I wonder if Sektanijun will not end the high school era.",
+        "audio": "audio/a8NPY0xQJ-M/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "惜しむはずがないと思っていた。",
+        "rm": "Oshimu hazu ga nai to omotte ita.",
+        "en": "I thought there was no way I could feel sorry for her.",
+        "audio": "audio/a8NPY0xQJ-M/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "自らの、そして仲間たちの情熱に順次で高校去った英雄は、",
+        "rm": "Mizukara no, soshite nakamatachi no jounetsu ni junji de koukou satta eiyuu wa,",
+        "en": "And the hero who left high school in the order of his own and the passion of his friends...",
+        "audio": "audio/a8NPY0xQJ-M/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "その自己犠牲を悔やんでいるはずもない。",
+        "rm": "Sono jiko gisei wo kuyande iru hazu mo nai.",
+        "en": "The hero who died should not be regretting his own sacrifice.",
+        "audio": "audio/a8NPY0xQJ-M/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "どこかでそう思い込んでいた。",
+        "rm": "Doko ka de sou omoikonde ita.",
+        "en": "There is no reason to believe it. I was thinking about it somewhere.",
+        "audio": "audio/a8NPY0xQJ-M/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "たかが文化祭で学校を終われ、人生の局面を変えられて、",
+        "rm": "Taka ga bunkasai de gakkou wo oware, jinsei no kyokumen wo kaerarete,",
+        "en": "But is that really true? I was only able to finish school at a cultural festival and change the course of my life.",
+        "audio": "audio/a8NPY0xQJ-M/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "高校生活といえばバラ色だ。",
+        "rm": "Koukou seikatsu to ieba barairo da.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "だがその高校生活を途中で打ち切ってしまうほどの強烈なバラ色は、",
+        "rm": "Daga sono koukou seikatsu wo tochuu de uchikitte shimau hodo no kyouretsu na barairo wa,",
+        "en": "However, the strong color of the rose that would cut off the high school life on the way...",
+        "audio": "audio/a8NPY0xQJ-M/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "それでもバラ色と呼べるのだろうか。",
+        "rm": "Sore de mo barairo to yoberu no darou ka.",
+        "en": "I wonder if I can still call myself a rose-colored person.",
+        "audio": "audio/a8NPY0xQJ-M/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "そんなはずはない。",
+        "rm": "Sonna hazu wa nai.",
+        "en": "It can't be... It's my friend's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "仲間のために順次で全てを許す、",
+        "rm": "Nakama no tame ni junji de subete wo yurusu,",
+        "en": "For the sake of my friends, I will do my best to forgive them all.",
+        "audio": "audio/a8NPY0xQJ-M/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "そんな英雄が早々いてたまるもんか。",
+        "rm": "Sonna eiyuu ga hayabaya ite tamaru mon ka.",
+        "en": "I will forgive everything. I can't believe a hero like that would do such a thing. Besides, my big sister...",
+        "audio": "audio/a8NPY0xQJ-M/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "それに姉貴はあれを悲劇と呼んだ。",
+        "rm": "Sore ni aneki wa are wo higeki to yonda.",
+        "en": "And my sister called it a tragedy.",
+        "audio": "audio/a8NPY0xQJ-M/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "関谷淳の高校生活は本当にバラ色だったのか。",
+        "rm": "Sekiya Atsushi no koukou seikatsu wa hontou ni barairo datta no ka.",
+        "en": "Is Sekitani Jun's high school life really a rose-colored one? Tsuki...",
+        "audio": "audio/a8NPY0xQJ-M/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "突き止めてやる。",
+        "rm": "Tsukitomete yaru.",
+        "en": "I'll stop you.",
+        "audio": "audio/a8NPY0xQJ-M/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "まやかも方太郎に呼ばれたのかい?",
+        "rm": "Maya ka mo Hou Tarou ni yobareta no ka i?",
+        "en": "Oh, Fuku-chan. Hey. Did Mayaka get called by Hotaro too? Yeah.",
+        "audio": "audio/a8NPY0xQJ-M/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "うん、話があるから放課後部室に来いって。",
+        "rm": "Un, hanashi ga arukara houka koubushitsu ni koi tte.",
+        "en": "Yeah, I have something to tell you, so come to the club room after school. That Houtarou-",
+        "audio": "audio/a8NPY0xQJ-M/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "あの方太郎がわざわざ人を呼び出すなんて、",
+        "rm": "Ano Hou Tarou ga wazawaza hito wo yobidasu nante,",
+        "en": "I can't believe that Houtarou called someone here.",
+        "audio": "audio/a8NPY0xQJ-M/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "僕の記憶では前例がないことだね。",
+        "rm": "Boku no kioku de wa zenrei ga nai koto da ne.",
+        "en": "I don't remember anything like that. I...",
+        "audio": "audio/a8NPY0xQJ-M/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "私万件のほうも忙しいのに。",
+        "rm": "Watakushi man ken no hou mo isogashii no ni.",
+        "en": "I'm more busy than you are.",
+        "audio": "audio/a8NPY0xQJ-M/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "こんにちは。",
+        "rm": "Konnichiha.",
+        "en": "Hello.",
+        "audio": "audio/a8NPY0xQJ-M/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "昨日はありがとうございました。",
+        "rm": "Kinou wa arigatou gozaimashita.",
+        "en": "Thank you for yesterday.",
+        "audio": "audio/a8NPY0xQJ-M/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "うん、私も楽しかったから。",
+        "rm": "Un, watakushi mo tanoshikattakara.",
+        "en": "No, it was fun for me too.",
+        "audio": "audio/a8NPY0xQJ-M/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "それより方太郎は?",
+        "rm": "Sore yori Hou Tarou wa?",
+        "en": "Anyway, where's Houtarou? Um...",
+        "audio": "audio/a8NPY0xQJ-M/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "あの。",
+        "rm": "Ano.",
+        "en": "Excuse me.",
+        "audio": "audio/a8NPY0xQJ-M/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "来たみたいだね。",
+        "rm": "Kita mitai da ne.",
+        "en": "Oh, looks like they're here. They're all here.",
+        "audio": "audio/a8NPY0xQJ-M/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "揃ってるな。",
+        "rm": "Sorotteru na.",
+        "en": "They're all here.",
+        "audio": "audio/a8NPY0xQJ-M/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "話って何を?",
+        "rm": "Hanashi tte nan wo?",
+        "en": "What are you talking about? Yesterday's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "昨日の件で補足することがある。",
+        "rm": "Kinou no ken de hosoku suru koto ga aru.",
+        "en": "I have something to tell you about yesterday.",
+        "audio": "audio/a8NPY0xQJ-M/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "これで決着になると思う。",
+        "rm": "Kore de ketchaku ni naru to omou.",
+        "en": "I have a plan. I think this will be the end of it. What?",
+        "audio": "audio/a8NPY0xQJ-M/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "は?",
+        "rm": "Ha?",
+        "en": "Huh?",
+        "audio": "audio/a8NPY0xQJ-M/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "あんたね。",
+        "rm": "Anta ne.",
+        "en": "You...",
+        "audio": "audio/a8NPY0xQJ-M/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "うん。",
+        "rm": "Un.",
+        "en": "Oh, Ruki-san",
+        "audio": "audio/a8NPY0xQJ-M/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "おれきさん、私、この件については、",
+        "rm": "Orekisan, watakushi, kono ken ni tsuite wa,",
+        "en": "Reki-san, I still don't know anything about this sword...",
+        "audio": "audio/a8NPY0xQJ-M/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "まだ知らなければならないことがあるようです。",
+        "rm": "Mada shiranakereba naranai koto ga aru you desu.",
+        "en": "There seems to be something we still need to know. Don't worry.",
+        "audio": "audio/a8NPY0xQJ-M/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "大丈夫。",
+        "rm": "Daijoubu.",
+        "en": "Don't worry, most of the time...",
+        "audio": "audio/a8NPY0xQJ-M/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "大抵のことは今日補足できるはずだ。",
+        "rm": "Taitei no koto wa kyou hosoku dekiru hazu da.",
+        "en": "You should be able to keep track of most of the things today. Yes, sir. What's wrong?",
+        "audio": "audio/a8NPY0xQJ-M/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "どういうこと、おれき?",
+        "rm": "Dou iu koto, oreki?",
+        "en": "What do you mean, Reki? What do you mean you're late?",
+        "audio": "audio/a8NPY0xQJ-M/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "補足って何よ?",
+        "rm": "Hosoku tte nan yo?",
+        "en": "What do you mean by slow? Slow is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "補足は補足だ。",
+        "rm": "Hosoku wa hosoku da.",
+        "en": "The delay is a delay. It's incomplete.",
+        "audio": "audio/a8NPY0xQJ-M/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "不完全だったものを完全に近づけるための、",
+        "rm": "Fukanzen datta mono wo kanzen ni chikazukeru tame no,",
+        "en": "It's a follow-up work to bring the imperfect things closer to perfection.",
+        "audio": "audio/a8NPY0xQJ-M/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "後付け作業だ。",
+        "rm": "Atozuke sagyou da.",
+        "en": "It's a post-processing work. It's a post-processing work.",
+        "audio": "audio/a8NPY0xQJ-M/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "不完全?",
+        "rm": "Fukanzen?",
+        "en": "Incomplete?",
+        "audio": "audio/a8NPY0xQJ-M/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "方太郎の説が間違ってたってことかい?",
+        "rm": "Hou Tarou no setsu ga machigatteta tte koto ka i?",
+        "en": "Does that mean Ohtaro's theory was wrong? I don't know.",
+        "audio": "audio/a8NPY0xQJ-M/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "わからん。",
+        "rm": "Wakaran.",
+        "en": "I don't know.",
+        "audio": "audio/a8NPY0xQJ-M/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "方向が間違っていたのか、",
+        "rm": "Houkou ga machigatte ita no ka,",
+        "en": "Did I go in the wrong direction?",
+        "audio": "audio/a8NPY0xQJ-M/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "踏み込みが足りなかったのか。",
+        "rm": "Fumikomi ga tarinakatta no ka.",
+        "en": "Was it not enough to step in? I don't know.",
+        "audio": "audio/a8NPY0xQJ-M/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "わからんって。",
+        "rm": "Wakaran tte.",
+        "en": "I don't get it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "なのに私たちを呼び出したの?",
+        "rm": "Na no ni watakushitachi wo yobidashita no?",
+        "en": "Why did you call us out?",
+        "audio": "audio/a8NPY0xQJ-M/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "信じらない。",
+        "rm": "Shinjira nai.",
+        "en": "I don't believe it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "まあ聞け。",
+        "rm": "Maa kike.",
+        "en": "Come on, listen to me.",
+        "audio": "audio/a8NPY0xQJ-M/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "もっと評価を大事にするべきだった。",
+        "rm": "Motto hyouka wo daiji ni surubekidatta.",
+        "en": "I should have taken more care of the evaluation. Sektani-",
+        "audio": "audio/a8NPY0xQJ-M/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "関谷淳の物語は英雄誕なんかじゃなかったと、",
+        "rm": "Sekiya Atsushi no monogatari wa eiyuu Tan nanka ja nakatta to,",
+        "en": "It is clear that the story of Sekitani Jun was not about a hero.",
+        "audio": "audio/a8NPY0xQJ-M/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "はっきり条文に書いてある。",
+        "rm": "Hakkiri joubun ni kaite aru.",
+        "en": "It's clearly written in the script. That's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "それは、昨日話して除外したじゃないか。",
+        "rm": "Sore wa, kinou hanashite jogai shitaja nai ka.",
+        "en": "That's because we talked about it yesterday and removed it, didn't we?",
+        "audio": "audio/a8NPY0xQJ-M/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "あくまで書き手の新章だからって。",
+        "rm": "Akumade kakite no shinshou dakara tte.",
+        "en": "It's just a scratch on the back of my hand. Yeah.",
+        "audio": "audio/a8NPY0xQJ-M/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "ああ。",
+        "rm": "Aa.",
+        "en": "Yeah, but the possibility of a mislead...",
+        "audio": "audio/a8NPY0xQJ-M/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "だがミスリードの可能性もある。",
+        "rm": "Daga mislead no kanousei mo aru.",
+        "en": "But there's a possibility of a mislead. Ah, that's not...",
+        "audio": "audio/a8NPY0xQJ-M/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "そんなこと言ってたら。",
+        "rm": "Sonna koto ittetara.",
+        "en": "You shouldn't have said that... And then...",
+        "audio": "audio/a8NPY0xQJ-M/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "それから、この争いも犠牲も、",
+        "rm": "Sore kara, kono arasoi mo gisei mo,",
+        "en": "That's not what I was saying.",
+        "audio": "audio/a8NPY0xQJ-M/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "先輩のあの微笑みさえもの下り、",
+        "rm": "Senpai no ano hohoemi sae mo no kudari,",
+        "en": "This struggle and sacrifice, even that smile of Senpai's, it's all in vain. This sacrifice, it's all in vain.",
+        "audio": "audio/a8NPY0xQJ-M/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "この犠牲は犠牲でいいのか?",
+        "rm": "Kono gisei wa gisei de ii no ka?",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "生贄とも読めるよな。",
+        "rm": "Ikenietomo yomeru yo na.",
+        "en": "You can read it as Ikenie, right? Ikenie is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "生贄は違う字でしょ?",
+        "rm": "Ikenie wa chigau ji desho?",
+        "en": "Living is a different word, isn't it? Living is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "生きるって字で始まる。",
+        "rm": "Ikiru tte ji de hajimaru.",
+        "en": "It starts with the letter Ikiru. No, Gis...",
+        "audio": "audio/a8NPY0xQJ-M/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "いえ、犠牲と書いても生贄と読めます。",
+        "rm": "Ie, gisei to kaite mo ikenie to yomemasu.",
+        "en": "No, even if you write it as a sacrifice, you can read it as a sacrifice. This is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "本来両者は同じものです。",
+        "rm": "Honrai ryousha wa onaji mono desu.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "さすがは成績上位者、話が早い。",
+        "rm": "Sasuga wa seiseki jouisha, hanashi ga hayai.",
+        "en": "As expected of a high-ranking doctor, you talk fast. How to read...",
+        "audio": "audio/a8NPY0xQJ-M/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "読み方に別解があるのは分かったよ。",
+        "rm": "Yomikata ni bekkai ga aru no wa wakatta yo.",
+        "en": "I know there's a difference in the way you read it, but...",
+        "audio": "audio/a8NPY0xQJ-M/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "でも、本当はどう読むのが正解かなんて、",
+        "rm": "De mo, hontou wa dou yomu no ga seikai ka nante,",
+        "en": "But I don't know how to read it correctly.",
+        "audio": "audio/a8NPY0xQJ-M/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "それこそ書いた本人じゃないと、",
+        "rm": "Sore koso kaita honnin ja naito,",
+        "en": "I don't know if it's correct or not, but it can't be said that it wasn't written by the author.",
+        "audio": "audio/a8NPY0xQJ-M/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "分かるはずもないだろう。",
+        "rm": "Wakaru hazu mo naidarou.",
+        "en": "There's no way I'd know if it wasn't for you.",
+        "audio": "audio/a8NPY0xQJ-M/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "そうとも、本人に聞けばいい。",
+        "rm": "Sou to mo, honnin ni kikeba ii.",
+        "en": "That's right. You should ask him yourself.",
+        "audio": "audio/a8NPY0xQJ-M/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "本人?",
+        "rm": "Honnin?",
+        "en": "What?",
+        "audio": "audio/a8NPY0xQJ-M/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "助文を書いた本人さ。",
+        "rm": "Jobun wo kaita honnin sa.",
+        "en": "Translate only what is spoken.",
+        "audio": "audio/a8NPY0xQJ-M/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "氷山陽子。",
+        "rm": "Hyouzan youshi.",
+        "en": "I'm Yoko Goriama, 45 years old.",
+        "audio": "audio/a8NPY0xQJ-M/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "45年前に高校1年生で、現在は60か61。",
+        "rm": "45 nen mae ni koukou 1 nensei de, genzai wa 60 ka 61.",
+        "en": "45 years ago, I was in the first year of high school, and now I'm in my 60s or 61s.",
+        "audio": "audio/a8NPY0xQJ-M/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "探したんですか?その人?",
+        "rm": "Sagashita n desu ka? sono hito?",
+        "en": "Did you look for that person?",
+        "audio": "audio/a8NPY0xQJ-M/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "探すまでもない。すぐそばにいる。",
+        "rm": "Sagasu made mo nai. sugu soba ni iru.",
+        "en": "That person? I don't have to look for him. He's right next to me. That's right.",
+        "audio": "audio/a8NPY0xQJ-M/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "そうだな、図書院。",
+        "rm": "Sou da na, toshoin.",
+        "en": "That's right, Toshio-in.",
+        "audio": "audio/a8NPY0xQJ-M/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "そう。",
+        "rm": "Sou.",
+        "en": "Oh, is that so? Yes. What do you mean?",
+        "audio": "audio/a8NPY0xQJ-M/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "そうって?",
+        "rm": "Sou tte?",
+        "en": "What are you talking about?",
+        "audio": "audio/a8NPY0xQJ-M/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "何が?",
+        "rm": "Nan ga?",
+        "en": "My master's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "うちの師匠の…",
+        "rm": "Uchi no shishou no...",
+        "en": "My master, Ito Egawa...",
+        "audio": "audio/a8NPY0xQJ-M/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "伊藤井川先生ね。",
+        "rm": "Itou Ikawa sensei ne.",
+        "en": "Ito Egawa-sensei, right? Ito Egawa-sensei...",
+        "audio": "audio/a8NPY0xQJ-M/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "伊藤井川陽子先生。",
+        "rm": "Itou Igawa Youko sensei.",
+        "en": "Yoko Itoigawa-sensei...",
+        "audio": "audio/a8NPY0xQJ-M/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "旧姓が氷山なのね。",
+        "rm": "Kyuusei ga hyouzan na no ne.",
+        "en": "The emergency is in Kouriyama, right? That's right.",
+        "audio": "audio/a8NPY0xQJ-M/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "そうだ。",
+        "rm": "Sou da.",
+        "en": "That's right...",
+        "audio": "audio/a8NPY0xQJ-M/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "あの養うって字の陽子はなかなかないだろう。",
+        "rm": "Ano yashinau tte ji no Youko wa nakanaka naidarou.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "まして、伊藤井川先生は、",
+        "rm": "Mashite, Itou Ikawa sensei wa,",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "歳の頃も完全に適合する。",
+        "rm": "Toshi no koro mo kanzen ni tekigou suru.",
+        "en": "It's a perfect match for the age.",
+        "audio": "audio/a8NPY0xQJ-M/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "加えて、俺たちが古典部と知った時の、",
+        "rm": "Kuwaete, oretachi ga koten bu to shitta toki no,",
+        "en": "In addition, when we found out that it was a small store...",
+        "audio": "audio/a8NPY0xQJ-M/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "あの反応だ。",
+        "rm": "Ano hannou da.",
+        "en": "That's the reaction I got when I saw it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "やっぱりオレキって変だよ。",
+        "rm": "Yappari oReki tte hen da yo.",
+        "en": "I knew it, Orek is a weirdo.",
+        "audio": "audio/a8NPY0xQJ-M/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "ずっと先生の近くにいた、",
+        "rm": "Zutto sensei no chikaku ni ita,",
+        "en": "That's weird, I've been near you all the time",
+        "audio": "audio/a8NPY0xQJ-M/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "私でも言われるまで気づかなかったわ。",
+        "rm": "Watakushi de mo iwareru made kizukanakatta wa.",
+        "en": "I didn't even notice until I was told that I was close to the teacher.",
+        "audio": "audio/a8NPY0xQJ-M/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "本当にちーちゃんに頭ん中覗いてもらえば?",
+        "rm": "Hontou nichi-chan ni atama n naka nozoite moraeba?",
+        "en": "Ah, can I really have Chie-chan look inside my head?",
+        "audio": "audio/a8NPY0xQJ-M/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "前にも言ったが、",
+        "rm": "Mae ni mo ittaga,",
+        "en": "Driver? I told you before, but...",
+        "audio": "audio/a8NPY0xQJ-M/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "ひらめきばかりは運が絡むからな。",
+        "rm": "Hirameki bakari wa un ga karamukara na.",
+        "en": "I said it before, but fortune is entwined with the twinkling.",
+        "audio": "audio/a8NPY0xQJ-M/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "それでチタンダに解剖されてはたまらん。",
+        "rm": "Sore de Titan da/de ni kaibou sarete wa tamaran.",
+        "en": "Yeah, that's why I can't stand being cured by Chitanda.",
+        "audio": "audio/a8NPY0xQJ-M/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "じゃあ、伊藤井川先生にお話を伺えば…",
+        "rm": "Jaa, Itou Ikawa sensei ni ohanashi wo ukagaeba...",
+        "en": "W-Well then, if I ask Mr. Itoigawa about it...",
+        "audio": "audio/a8NPY0xQJ-M/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "45年前のことはわかる。",
+        "rm": "45 nen mae no koto wa wakaru.",
+        "en": "If you ask me... I know what happened 45 years ago. What...",
+        "audio": "audio/a8NPY0xQJ-M/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "なんでアレが英雄誕じゃなかったのか。",
+        "rm": "Nan de are ga eiyuu Tan ja nakatta no ka.",
+        "en": "Why wasn't he a hero?",
+        "audio": "audio/a8NPY0xQJ-M/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "なんであんな表紙なのか。",
+        "rm": "Nan de anna hyoushi na no ka.",
+        "en": "Why is the cover like that?",
+        "audio": "audio/a8NPY0xQJ-M/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "なんで評価なんて奇妙なタイトルなのか。",
+        "rm": "Nan de hyouka nante kimyou na title na no ka.",
+        "en": "Why is it called a title? Why is it called a title?",
+        "audio": "audio/a8NPY0xQJ-M/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "そして、お前のおじのことも。",
+        "rm": "Soshite, omae no oji no koto mo.",
+        "en": "Is that so? And about your uncle...",
+        "audio": "audio/a8NPY0xQJ-M/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "でも、本当に伊藤井川先生がそうだって証拠はあるのかい?",
+        "rm": "De mo, hontou ni Itou Ikawa sensei ga sou da tte shouko wa aru no ka i?",
+        "en": "But, do you really have evidence that Mr. Itoigawa is like that? Nuka-",
+        "audio": "audio/a8NPY0xQJ-M/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "ぬかりはない。",
+        "rm": "Nukari wa nai.",
+        "en": "What? I don't have a clue.",
+        "audio": "audio/a8NPY0xQJ-M/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "実はもう確認を取った。",
+        "rm": "Jitsu wa mou kakunin wo totta.",
+        "en": "I didn't say anything. Actually, I already confirmed it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "本人に?",
+        "rm": "Honnin ni?",
+        "en": "He took a picture of you. He took a picture of me? Yes.",
+        "audio": "audio/a8NPY0xQJ-M/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "ああ、2年生の頃は部長を務めていたとさ。",
+        "rm": "Aa, 2 nensei no koro wa buchou wo tsutomete ita to sa.",
+        "en": "Yes, he worked as a manager when he was in the 2nd grade.",
+        "audio": "audio/a8NPY0xQJ-M/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "話を聞くアポも取ってある。",
+        "rm": "Hanashi wo kiku appointment mo totte aru.",
+        "en": "It is said that he was a chief of staff. There is also an app that listens to the story.",
+        "audio": "audio/a8NPY0xQJ-M/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "さあ、そろそろ時間だ。",
+        "rm": "Saa, sorosoro jikan da.",
+        "en": "Well, it's about time.",
+        "audio": "audio/a8NPY0xQJ-M/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "図書室へ行こう。",
+        "rm": "Toshoshitsu e ikou.",
+        "en": "Let's go to the library.",
+        "audio": "audio/a8NPY0xQJ-M/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "やけに張り切ってるじゃな。",
+        "rm": "Yake ni harikitteruja na.",
+        "en": "I'm pretty sure you're gonna be able to do it. You're pretty pumped up, aren't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "あ、古典部ね。",
+        "rm": "A, koten bu ne.",
+        "en": "I'm not sure. You're right. Mr. Itoigawa! Ah, the store department.",
+        "audio": "audio/a8NPY0xQJ-M/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "ごめんなさい、少し仕事が残ってるの。",
+        "rm": "Gomen nasai, sukoshi shigoto ga nokotteru no.",
+        "en": "I'm sorry, I still have some work to do.",
+        "audio": "audio/a8NPY0xQJ-M/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "話はここでもいいかしら?",
+        "rm": "Hanashi wa koko de mo ii kashira?",
+        "en": "Can we talk here?",
+        "audio": "audio/a8NPY0xQJ-M/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "私、手伝います。",
+        "rm": "Watakushi, tetsudaimasu.",
+        "en": "Can I sit here? I'll help you.",
+        "audio": "audio/a8NPY0xQJ-M/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "ありがとう、茨さん。",
+        "rm": "Arigatou, ubarasan.",
+        "en": "I'll help you. Thank you, Ibarasan.",
+        "audio": "audio/a8NPY0xQJ-M/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "何か私に聞きたいことがあるそうね。",
+        "rm": "Nan ka watakushi ni kikitai koto ga aru sou ne.",
+        "en": "I have something I want to ask you.",
+        "audio": "audio/a8NPY0xQJ-M/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "はい。",
+        "rm": "Hai.",
+        "en": "I heard you have something to tell me. Yes.",
+        "audio": "audio/a8NPY0xQJ-M/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "はい、その前にもう一度こいつらの前で確認したいんですが、",
+        "rm": "Hai, sono mae ni mou ichi do koitsura no mae de kakunin shitai n desuga,",
+        "en": "Yes. Before that, I want to check in front of them again, but the thread is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "伊藤井川先生の急性は氷山ですね。",
+        "rm": "Itou Ikawa sensei no kyuusei wa hyouzan desu ne.",
+        "en": "Itoigawa-sensei's savior is Kouriyama, isn't it?",
+        "audio": "audio/a8NPY0xQJ-M/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "はい。",
+        "rm": "Hai.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "じゃあ、これを書いたのは先生ですね。",
+        "rm": "Jaa, kore wo kaita no wa sensei desu ne.",
+        "en": "So, the one who wrote this is the teacher, right?",
+        "audio": "audio/a8NPY0xQJ-M/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "でも驚いたわ。",
+        "rm": "De mo odoroita wa.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "まだそんなものが残ってたのね。",
+        "rm": "Mada sonna mono ga nokotteta no ne.",
+        "en": "There's still something like that left, isn't there? What do you care?",
+        "audio": "audio/a8NPY0xQJ-M/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "何を聞きたいかは大体わかったわ。",
+        "rm": "Nan wo kikitai ka wa daitai wakatta wa.",
+        "en": "I know what you want to know. You two...",
+        "audio": "audio/a8NPY0xQJ-M/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "あなたたち、45年前のあの運動のことを知りたいのね。",
+        "rm": "Anatatachi, 45 nen mae no ano undou no koto wo shiritai no ne.",
+        "en": "You want to know about that movement from 45 years ago, don't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "ビンゴだ。",
+        "rm": "Bingo da.",
+        "en": "Bingo.",
+        "audio": "audio/a8NPY0xQJ-M/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "やはりこの人は知っている。",
+        "rm": "Yahari kono hito wa shitte iru.",
+        "en": "I knew it. I knew this person would do it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "でも、どうして今更あんな昔のことを?",
+        "rm": "De mo, dou shite imasara anna mukashi no koto wo?",
+        "en": "But why are you still talking about the old days?",
+        "audio": "audio/a8NPY0xQJ-M/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "もう忘れられたことだと思っていたわ。",
+        "rm": "Mou wasurerareta koto da to omotte ita wa.",
+        "en": "I thought I'd forgotten about it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "ええ。",
+        "rm": "Ee.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "このチタンダが妙なことを気にする好奇心の猛獣でなければ、",
+        "rm": "Kono Titan da/de ga myou na koto wo ki ni suru koukishin no moujuu de nakereba,",
+        "en": "Yes, unless this Chitanda is curious about something strange...",
+        "audio": "audio/a8NPY0xQJ-M/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "俺たちも気づかなかったでしょ。",
+        "rm": "Oretachi mo kizukanakattadesho.",
+        "en": "If not, we wouldn't have noticed it either.",
+        "audio": "audio/a8NPY0xQJ-M/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "好奇心の猛獣?",
+        "rm": "Koukishin no moujuu?",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "すいません、猛者でした。",
+        "rm": "Suimasen, mosa deshita.",
+        "en": "Moju? Sorry, it was Moja.",
+        "audio": "audio/a8NPY0xQJ-M/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "そ、そんな、猛…",
+        "rm": "So, sonna, Takeshi...",
+        "en": "I-it can't be... It's not a prince...",
+        "audio": "audio/a8NPY0xQJ-M/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "あなたは、どうしてあの運動に興味を持ったのかしら?",
+        "rm": "Anata wa, dou shite ano undou ni kyoumi wo motta no kashira?",
+        "en": "You're a princess? Why are you interested in that sport?",
+        "audio": "audio/a8NPY0xQJ-M/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "関谷淳が、私のおじだからです。",
+        "rm": "Sekiya Atsushi ga, watakushi no oji dakara desu.",
+        "en": "It's because Sekitani Jun is my prince.",
+        "audio": "audio/a8NPY0xQJ-M/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "あら、そうなの。",
+        "rm": "Ara, sou na no.",
+        "en": "Oh, I see.",
+        "audio": "audio/a8NPY0xQJ-M/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "関谷淳さん、懐かしい名前ね。",
+        "rm": "Sekiya Atsushisan, natsukashii namae ne.",
+        "en": "It's a nostalgic name, isn't it?",
+        "audio": "audio/a8NPY0xQJ-M/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "お元気なのかしら?",
+        "rm": "Ogenki na no kashira?",
+        "en": "I wonder if you're doing well.",
+        "audio": "audio/a8NPY0xQJ-M/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "インドで行方不明になりました。",
+        "rm": "India de yukue fumei ni narimashita.",
+        "en": "I don't know. He disappeared in India. I see.",
+        "audio": "audio/a8NPY0xQJ-M/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "いつか、もう一度お会いしたいと思っていたのに。",
+        "rm": "Itsu ka, mou ichi do oai shitai to omotte ita no ni.",
+        "en": "I wanted to see you again one day.",
+        "audio": "audio/a8NPY0xQJ-M/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "私も、もう一度会いたいと思っています。",
+        "rm": "Watakushi mo, mou ichi do aitai to omotte imasu.",
+        "en": "I want to see you again.",
+        "audio": "audio/a8NPY0xQJ-M/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "教えてください。",
+        "rm": "Oshiete kudasai.",
+        "en": "I'll be waiting for you. Itoigawa-sensei, please tell me!",
+        "audio": "audio/a8NPY0xQJ-M/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "45年前、何があったんですか?",
+        "rm": "45 nen mae, nan ga atta n desu ka?",
+        "en": "Please take a look. What happened 45 years ago?",
+        "audio": "audio/a8NPY0xQJ-M/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "星の事件は、どうして英雄誕じゃなかったんですか?",
+        "rm": "Hoshi no jiken wa, dou shite eiyuu Tan ja nakatta n desu ka?",
+        "en": "Why wasn't the star incident a hero?",
+        "audio": "audio/a8NPY0xQJ-M/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "どうして古典部の文集は評価なんですか?",
+        "rm": "Dou shite koten bu no bunshuu wa hyouka na n desu ka?",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "オレキさんの推測は、どこまで正しかったんですか?",
+        "rm": "Orekisan no suisoku wa, doko made tadashikatta n desu ka?",
+        "en": "Is that so? How correct was Orekki's guess?",
+        "audio": "audio/a8NPY0xQJ-M/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "オレキ君の推測、何のことかしら?",
+        "rm": "ORekikun no suisoku, nan no koto kashira?",
+        "en": "What does Orekki think he's talking about? Teacher!",
+        "audio": "audio/a8NPY0xQJ-M/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "先生!",
+        "rm": "Sensei!",
+        "en": "Sensei!",
+        "audio": "audio/a8NPY0xQJ-M/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "オレキは断片的な資料を繋ぎ合わせて、",
+        "rm": "Ore ki wa danpenteki na shiryou wo tsunagiawasete,",
+        "en": "Sensei, Orekki is connected to a short story, and...",
+        "audio": "audio/a8NPY0xQJ-M/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "45年前に起きたことを推測したんです。",
+        "rm": "45 nen mae ni okita koto wo suisoku shita n desu.",
+        "en": "and guess what happened 45 years ago.",
+        "audio": "audio/a8NPY0xQJ-M/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "ちょっと、こいつの話を聞いてやってください。",
+        "rm": "Chotto, koitsu no hanashi wo kiite yatte kudasai.",
+        "en": "Please listen to what he has to say.",
+        "audio": "audio/a8NPY0xQJ-M/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "じゃあ、その話は書室で聞きましょうか。",
+        "rm": "Jaa, sono hanashi wa shoshitsu de kikimashou ka.",
+        "en": "Then, let's hear that story in the library.",
+        "audio": "audio/a8NPY0xQJ-M/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "なるほどね。",
+        "rm": "Naruhodo ne.",
+        "en": "I see. So...",
+        "audio": "audio/a8NPY0xQJ-M/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "それで、彼の退学は10月にズレ込んだと考えたのね。",
+        "rm": "Sore de, kare no taigaku wa 10 gatsu ni zurekonda to kangaeta no ne.",
+        "en": "So that's why you thought his graduation was postponed to October, didn't you? Yes.",
+        "audio": "audio/a8NPY0xQJ-M/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "はい。オレの推測は以上です。",
+        "rm": "Hai. ore no suisoku wa ijou desu.",
+        "en": "Yes, that's all for my guess.",
+        "audio": "audio/a8NPY0xQJ-M/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "この資料だけで、今の話を組み立てたっていうの?",
+        "rm": "Kono shiryou dake de, ima no hanashi wo kumitateta tte iu no?",
+        "en": "You just made up this story with this material? This guy's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "こいつらの推論をまとめただけです。",
+        "rm": "Koitsura no suiron wo matometa dake desu.",
+        "en": "I just summed up their theories.",
+        "audio": "audio/a8NPY0xQJ-M/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "あきれたものね。",
+        "rm": "Akireta mono ne.",
+        "en": "You gave up, didn't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "検討違いですか?",
+        "rm": "Kentou chigai desu ka?",
+        "en": "Is this a different subject? No, it's not.",
+        "audio": "audio/a8NPY0xQJ-M/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "いや、見てきたようだわ。",
+        "rm": "Iya, mite kita you da wa.",
+        "en": "No, I think I've seen him before. Orekki-kun...",
+        "audio": "audio/a8NPY0xQJ-M/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "オレキ君の話したことは、ほとんど事実よ。",
+        "rm": "ORekikun no hanashita koto wa, hotondo jijitsu yo.",
+        "en": "What Orekki said is almost true. On top of that...",
+        "audio": "audio/a8NPY0xQJ-M/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "この上、何を私に聞くことがあるのかしら?",
+        "rm": "Kono ue, nan wo watakushi ni kiku koto ga aru no kashira?",
+        "en": "Is there anything you want to ask me? I don't know.",
+        "audio": "audio/a8NPY0xQJ-M/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "さあ、でもホータローが、なんだか不十分なところがあるって言うんですけど。",
+        "rm": "Saa, de mo hootaroo ga, nan da ka fujuubun na tokoro ga aru tte iu n desukedo.",
+        "en": "I don't know, but I heard that there's something wrong with you, Houtarou. I'm...",
+        "audio": "audio/a8NPY0xQJ-M/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "オレが聞きたいのは、ひとつです。",
+        "rm": "Ore ga kikitai no wa, hitotsu desu.",
+        "en": "There's one thing I want to ask you, Jun Sekitani.",
+        "audio": "audio/a8NPY0xQJ-M/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "関谷純は、望んで全生徒の盾になったんですか?",
+        "rm": "Sekiya Jun wa, nozonde zenseito no tate ni natta n desu ka?",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "全生徒の代表として、英雄らしく胸を張り、",
+        "rm": "Zenseito no daihyou to shite, eiyuurashiku mune wo hari,",
+        "en": "As a representative of all students, I am proud to be a hero. I am a rose-colored child.",
+        "audio": "audio/a8NPY0xQJ-M/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "バラ色の高校生活に順次で学校去ったんですか?",
+        "rm": "Barairo no koukou seikatsu ni junji de gakkou satta n desu ka?",
+        "en": "Did you drop out of school in order to live in a rose-colored high school? Really?",
+        "audio": "audio/a8NPY0xQJ-M/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "本当に、見透かされてるようね。",
+        "rm": "Hontou ni, misukasareteru you ne.",
+        "en": "It really looks like you've been over-watching me. Yeah, it's been a long time.",
+        "audio": "audio/a8NPY0xQJ-M/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "ずいぶん昔の話だけど、今でもよく覚えているわ。",
+        "rm": "Zuibun mukashi no hanashi dakedo, ima de mo yoku oboete iru wa.",
+        "en": "It's a very old story, but I still remember it well.",
+        "audio": "audio/a8NPY0xQJ-M/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "その頃、上山高校の文化祭って言えば、",
+        "rm": "Sono koro, Ueyama koukou no bunkasai tte ieba,",
+        "en": "At that time, the Kamiyama High School Cultural Festival was everyone's favorite.",
+        "audio": "audio/a8NPY0xQJ-M/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "みんなの生きる目標みたいなものだった。",
+        "rm": "Minna no ikiru mokuhyou mitai na mono datta.",
+        "en": "It was like a goal for everyone to live. At that time, all over Japan...",
+        "audio": "audio/a8NPY0xQJ-M/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "日本中にうねっていたエネルギーが、",
+        "rm": "Nipponchuu ni unette ita energy ga,",
+        "en": "日本中に埋ねっていたエネルギーが 上甲では文化されていた",
+        "audio": "audio/a8NPY0xQJ-M/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "上校では文化祭で形になってたっていうところかしら。",
+        "rm": "Joukou de wa bunkasai de katachi ni natteta tte iu tokoro kashira.",
+        "en": "In Kamiko, it was formed in a cultural festival, I guess.",
+        "audio": "audio/a8NPY0xQJ-M/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "でも、私が入学した年は、",
+        "rm": "De mo, watakushi ga nyuugaku shita toshi wa,",
+        "en": "But the year I entered the school, I was too active.",
+        "audio": "audio/a8NPY0xQJ-M/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "運動が行き過ぎて、ほとんど暴動みたいになっていたわ。",
+        "rm": "Undou ga iki sugite, hotondo boudou mitai ni natte ita wa.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "その年、当時の校長先生が葉っぱを掛けたらしいの。",
+        "rm": "Sono toshi, touji no kouchou sensei ga happa wo kaketarashii no.",
+        "en": "That year, it was said that the headmaster at that time put a leaf on it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "寒村の寺小屋に甘んじてはいけないって。",
+        "rm": "Kanson no tera koya ni amanjite wa ikenai tte.",
+        "en": "I told them that they shouldn't be too fond of the old-fashioned terracotta shop. But they all...",
+        "audio": "audio/a8NPY0xQJ-M/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "それをみんなは、文化祭潰しだと思ったのね。",
+        "rm": "Sore wo minna wa, bunkasai tsubushi da to omotta no ne.",
+        "en": "And everyone thought it was a cultural festival, right? The cultural festival's schedule...",
+        "audio": "audio/a8NPY0xQJ-M/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "文化祭の日程を、これまでの5日間から2日にするって一方的に通達されて、",
+        "rm": "Bunkasai no nittei wo, kore made no 5 kakan kara 2ka ni suru tte ippouteki ni tsuutatsu sarete,",
+        "en": "The festival is scheduled to be held from the 5th to the 2nd day of the year.",
+        "audio": "audio/a8NPY0xQJ-M/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "それが引き金になって、大騒ぎに発展した。",
+        "rm": "Sore ga hikigane ni natte, oosawagi ni hatten shita.",
+        "en": "Translated in one way or another, it became a hot topic and developed into a big buzz.",
+        "audio": "audio/a8NPY0xQJ-M/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "学校中がピリピリしていたわ。",
+        "rm": "Gakkouchuu ga piripiri shite ita wa.",
+        "en": "It has developed into art. The entire school was excited about it. The Harigami and Enjetsukai.",
+        "audio": "audio/a8NPY0xQJ-M/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "文化祭の日程は、",
+        "rm": "Bunkasai no nittei wa,",
+        "en": "Please do not re-upload or re-upload this video.",
+        "audio": "audio/a8NPY0xQJ-M/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "学生側の統一意志を表明しようってところまで運動は進んだわ。",
+        "rm": "Gakusei gawa no touitsu ishi wo hyoumei shiyou tte tokoro made undou wa susunda wa.",
+        "en": "The movement went as far as to express the student's will to unify.",
+        "audio": "audio/a8NPY0xQJ-M/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "真剣だったんですね。",
+        "rm": "Shinken datta n desu ne.",
+        "en": "You were serious, weren't you? Well, we were just...",
+        "audio": "audio/a8NPY0xQJ-M/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "まあ、今の僕たちじゃ想像もつかない世界だよね。",
+        "rm": "Maa, ima no bokutachi ja souzou mo tsukanai sekai da yo ne.",
+        "en": "It's a world that we can't even imagine right now, isn't it? Such a rip-",
+        "audio": "audio/a8NPY0xQJ-M/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "そんな立派な話じゃないわ。",
+        "rm": "Sonna rippa na hanashi ja nai wa.",
+        "en": "It's not such a great story. In short, it's about ourselves.",
+        "audio": "audio/a8NPY0xQJ-M/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "要は、自分たちのおもちゃを取り上げられて、",
+        "rm": "You wa, jibuntachi no omocha wo toriagerarete,",
+        "en": "It was like they were taking our toys and playing with them.",
+        "audio": "audio/a8NPY0xQJ-M/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "ダダをこねてたようなものだから。",
+        "rm": "Dada wo koneteta you na mono dakara.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "そんな!",
+        "rm": "Sonna!",
+        "en": "Well, I guess I can say it now.",
+        "audio": "audio/a8NPY0xQJ-M/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "今だから言えることでしょうけどね。",
+        "rm": "Ima dakara ieru koto deshoukedo ne.",
+        "en": "I'm sure I can say that. So...",
+        "audio": "audio/a8NPY0xQJ-M/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "それで、文化祭祝賞への反対運動が組織されたんだけど、",
+        "rm": "Sore de, bunkasai shuku shou e no hantai undou ga soshiki sareta n dakedo,",
+        "en": "And so, the opposition movement to the cultural festival was organized.",
+        "audio": "audio/a8NPY0xQJ-M/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "リーダーには誰も立候補しなかった。",
+        "rm": "Leader ni wa dare mo rikkouho shinakatta.",
+        "en": "No one voted for the leader.",
+        "audio": "audio/a8NPY0xQJ-M/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "処罰が怖かったのね。情けない話だけど。",
+        "rm": "Shobatsu ga kowakatta no ne. nasakenai hanashi dakedo.",
+        "en": "The punishment was scary. It's a pathetic story, though. That's where...",
+        "audio": "audio/a8NPY0xQJ-M/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "そこで貧乏くじを引かされたのが、チタンダさんのおじさん、",
+        "rm": "Soko de binbou kuji wo hikasareta no ga, Chitandasan no ojisan,",
+        "en": "That's where Chitanda's uncle, Sekita, was forced to be poor.",
+        "audio": "audio/a8NPY0xQJ-M/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "関谷淳さんよ。",
+        "rm": "Sekiya Atsushisan yo.",
+        "en": "Seki-tan and Jun-san.",
+        "audio": "audio/a8NPY0xQJ-M/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "実際の運営は、別の人がやってたんだけど、",
+        "rm": "Jissai no un'ei wa, betsu no hito ga yatteta n dakedo,",
+        "en": "The real operation was done by someone else, but that person...",
+        "audio": "audio/a8NPY0xQJ-M/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "その人、表に名前を出さなかった。",
+        "rm": "Sono hito, hyou ni namae wo dasanakatta.",
+        "en": "He didn't say his name in front of everyone. In the end...",
+        "audio": "audio/a8NPY0xQJ-M/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "結局、文化祭の祝賞計画はつぶれるんだけど、",
+        "rm": "Kekkyoku, bunkasai no shuku shou keikaku wa tsubureru n dakedo,",
+        "en": "I'm sorry, I don't know what you're talking about. I'm sorry, I don't know what you're talking about.",
+        "audio": "audio/a8NPY0xQJ-M/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "熱に浮かされて、激しく盛り上がった反対運動で、",
+        "rm": "Netsu ni ukasarete, hageshiku moriagatta hantai undou de,",
+        "en": "I was so excited by the heat that I did the opposite movement.",
+        "audio": "audio/a8NPY0xQJ-M/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "私たちはやりすぎた。",
+        "rm": "Watakushitachi wa yari sugita.",
+        "en": "We've done too much. We've done too much.",
+        "audio": "audio/a8NPY0xQJ-M/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "運動の中で、学生は授業のボイコットを打っていて、",
+        "rm": "Undou no naka de, gakusei wa jugyou no boycott wo utte ite,",
+        "en": "In the middle of the sport, the students play the boycott of the class.",
+        "audio": "audio/a8NPY0xQJ-M/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "それが一番盛り上がったとき、私たちは、",
+        "rm": "Sore ga ichiban moriagatta toki, watakushitachi wa,",
+        "en": "When it was the most exciting time, we went to the campfire.",
+        "audio": "audio/a8NPY0xQJ-M/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "キャンプファイヤーで規制を上げたわ。",
+        "rm": "Camp fire de kisei wo ageta wa.",
+        "en": "I raised the standard with Campfire.",
+        "audio": "audio/a8NPY0xQJ-M/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "事件はそんな夜だった。",
+        "rm": "Jiken wa sonna yoru datta.",
+        "en": "That was the night of the incident.",
+        "audio": "audio/a8NPY0xQJ-M/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "閣議場で火事が起きた。",
+        "rm": "Kakugijou de kaji ga okita.",
+        "en": "There was a fire at the fire station. The building...",
+        "audio": "audio/a8NPY0xQJ-M/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "建物は放水で反対してしまった。",
+        "rm": "Tatemono wa housui de hantai shite shimatta.",
+        "en": "The building collapsed due to the flood.",
+        "audio": "audio/a8NPY0xQJ-M/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "あれだけは、学生側も正当化できなかった。",
+        "rm": "Are dake wa, gakusei gawa mo seitouka dekinakatta.",
+        "en": "That's the only thing the student side wasn't able to harmonize. The student side wasn't able to harmonize.",
+        "audio": "audio/a8NPY0xQJ-M/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "学校は警察には介入させなかったけど、",
+        "rm": "Gakkou wa keisatsu ni wa kainyuu sasenakattakedo,",
+        "en": "The school didn't let the police in, but I'll tell you about it later.",
+        "audio": "audio/a8NPY0xQJ-M/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "後でこの件を問題にしたとき、反論できる生徒は一人もいなかった。",
+        "rm": "Ato de kono ken wo mondai ni shita toki, hanron dekiru seito wa hitori mo inakatta.",
+        "en": "Later, when this matter became a problem, there were no students who could oppose it. As a result...",
+        "audio": "audio/a8NPY0xQJ-M/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "結果的に、学校側が見せしめとして退学処分にしたのが、",
+        "rm": "Kekkateki ni, gakkou gawa ga miseshime to shite taigaku shobun ni shita no ga,",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "運動の名目上のリーダー、関谷さんだった。",
+        "rm": "Undou no meimokujou no leader, Sekiyasan datta.",
+        "en": "He was the leader of the sports world, Mr. Seki Tani. We were students.",
+        "audio": "audio/a8NPY0xQJ-M/seg_260.mp3"
+    },
+    {
+        "id": 261,
+        "jp": "私たち学生は、何もせずに、ただそれを見ていた。",
+        "rm": "Watakushitachi gakusei wa, nan mo sezu ni, tada sore wo mite ita.",
+        "en": "We, the students, were just watching it without doing anything. And yet...",
+        "audio": "audio/a8NPY0xQJ-M/seg_261.mp3"
+    },
+    {
+        "id": 262,
+        "jp": "それなのに、関谷さんは、最後まで穏やかだったわ。",
+        "rm": "Sore na no ni, Sekiyasan wa, saigo made odayaka datta wa.",
+        "en": "Even so, Mr. Seki-tani was calm until the end. Mr. Seki-tani...",
+        "audio": "audio/a8NPY0xQJ-M/seg_262.mp3"
+    },
+    {
+        "id": 263,
+        "jp": "関谷さんが、自ら進んで学生の盾になったのかって聞いたわね。",
+        "rm": "Sekiyasan ga, mizukara susunde gakusei no tate ni natta no ka tte kiita wa ne.",
+        "en": "Mr. Sektani, I heard that you became the student's shield by going on your own. That's enough.",
+        "audio": "audio/a8NPY0xQJ-M/seg_263.mp3"
+    },
+    {
+        "id": 264,
+        "jp": "もう、答えは分かったでしょ。",
+        "rm": "Mou, kotae wa wakattadesho.",
+        "en": "Now you know the answer, don't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_264.mp3"
+    },
+    {
+        "id": 265,
+        "jp": "それから何年か経って、なしくずしに文化祭は縮小されたわ。",
+        "rm": "Sore kara nan nen ka tatte, nashikuzushi ni bunkasai wa shukushou sareta wa.",
+        "en": "A few years later, the Nashi Kuzushini Cultural Festival was canceled. Now...",
+        "audio": "audio/a8NPY0xQJ-M/seg_265.mp3"
+    },
+    {
+        "id": 266,
+        "jp": "今では3日間ね。",
+        "rm": "Ima de wa 3 kakan ne.",
+        "en": "It's been three days.",
+        "audio": "audio/a8NPY0xQJ-M/seg_266.mp3"
+    },
+    {
+        "id": 267,
+        "jp": "話はこれで終わりよ。他には何か聞きたいことはあるかしら?",
+        "rm": "Hanashi wa kore de owari yo. hoka ni wa nan ka kikitai koto wa aru kashira?",
+        "en": "This is the end of the story. Is there anything else you want to ask? That's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_267.mp3"
+    },
+    {
+        "id": 268,
+        "jp": "それじゃあ、あの文集の表紙は、そのときのことを絵にしたんですね。",
+        "rm": "Sore jaa, ano bunshuu no hyoushi wa, sono toki no koto wo e ni shita n desu ne.",
+        "en": "So, you drew the cover of that book at that time, didn't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_268.mp3"
+    },
+    {
+        "id": 269,
+        "jp": "犬は学校側、兎は生徒、犬を道連れにした兎が関谷純。",
+        "rm": "Inu wa gakkou gawa, usagi wa seito, inu wo michizure ni shita usagi ga Sekiya Jun.",
+        "en": "The dog is on the high side, the rabbit is on the low side, and the rabbit who led the dog to the path is on the low side.",
+        "audio": "audio/a8NPY0xQJ-M/seg_269.mp3"
+    },
+    {
+        "id": 270,
+        "jp": "上校の施設の中で、閣議場だけが飛び抜けて古いのは、そのとき再建されたからですか?",
+        "rm": "Joukou no shisetsu no naka de, kakugijou dake ga tobinukete furui no wa, sono toki saiken saretakara desu ka?",
+        "en": "The reason why only the dressing room in Kamiko's facility is old is because it was rebuilt at that time.",
+        "audio": "audio/a8NPY0xQJ-M/seg_270.mp3"
+    },
+    {
+        "id": 271,
+        "jp": "そうよ。20年前に校舎の建て替えがあったとき。",
+        "rm": "Sou yo. 20 nen mae ni kousha no tatekae ga atta toki.",
+        "en": "That's right. 20 years ago, when there was a change in the building of the school building...",
+        "audio": "audio/a8NPY0xQJ-M/seg_271.mp3"
+    },
+    {
+        "id": 272,
+        "jp": "閣議場はまだ古くなかったから、そのままにされたの。",
+        "rm": "Kakugijou wa mada furuku nakattakara, sono mama ni sareta no.",
+        "en": "The dressing room wasn't old enough, so they left it as it is.",
+        "audio": "audio/a8NPY0xQJ-M/seg_272.mp3"
+    },
+    {
+        "id": 273,
+        "jp": "あの先生、先生は関谷祭って言葉を使わないんですね。",
+        "rm": "Ano sensei, sensei wa Sekiyasai tte kotoba wo tsukawanai n desu ne.",
+        "en": "Um, teacher, you don't use the word KANYASAI, do you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_273.mp3"
+    },
+    {
+        "id": 274,
+        "jp": "ひょっとして、関谷祭の関谷って字は、神山じゃなくて、関谷って書くんじゃないですか。",
+        "rm": "Hyotto shite, Sekiya matsuri no Sekiya tte ji wa, Kamiyama ja nakute, Sekiya tte kaku n ja nai desu ka.",
+        "en": "Perhaps, the character for Kanyasai, Kanya, is not Kamiyama, but Sekitari.",
+        "audio": "audio/a8NPY0xQJ-M/seg_274.mp3"
+    },
+    {
+        "id": 275,
+        "jp": "福ちゃん、どういうこと?",
+        "rm": "Fukuchan, dou iu koto?",
+        "en": "What do you mean, Fuku-chan?",
+        "audio": "audio/a8NPY0xQJ-M/seg_275.mp3"
+    },
+    {
+        "id": 276,
+        "jp": "関谷祭の由来さ。英雄を称えて関谷祭、その読みを変えて関谷祭。",
+        "rm": "Sekiya matsuri no yurai sa. eiyuu wo tataete Sekiyasai, sono yomi wo kaete Sekiya matsuri.",
+        "en": "It's the origin of the Kanyasai. The hero is called Sekitanisai. The Kanyasai changes its name. But...",
+        "audio": "audio/a8NPY0xQJ-M/seg_276.mp3"
+    },
+    {
+        "id": 277,
+        "jp": "でも、その呼び名は欺瞞だよ。関谷純は望んで英雄になったんじゃなかった。",
+        "rm": "De mo, sono yobina wa giman da yo. Sekiya Jun wa nozonde eiyuu ni natta n ja nakatta.",
+        "en": "But that nickname is a lie. Jun Sekitani didn't become a hero because he wanted to. That's why...",
+        "audio": "audio/a8NPY0xQJ-M/seg_277.mp3"
+    },
+    {
+        "id": 278,
+        "jp": "それを知ってれば、関谷祭なんて呼び方は使わないよね。",
+        "rm": "Sore wo shittereba, Sekiya matsuri nante yobikata wa tsukawanai yo ne.",
+        "en": "If you knew that, you wouldn't have used the term Kanyasai, would you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_278.mp3"
+    },
+    {
+        "id": 279,
+        "jp": "そうなんですか?",
+        "rm": "Sou na n desu ka?",
+        "en": "Is that so?",
+        "audio": "audio/a8NPY0xQJ-M/seg_279.mp3"
+    },
+    {
+        "id": 280,
+        "jp": "その呼び名は、古典部では禁句にしたの。",
+        "rm": "Sono yobina wa, koten bu de wa kinku ni shita no.",
+        "en": "Yes, that name was changed to Kinku in Kotenbu.",
+        "audio": "audio/a8NPY0xQJ-M/seg_280.mp3"
+    },
+    {
+        "id": 281,
+        "jp": "先生、おじがなぜ古典部の文集をひょうかと名付けたのか、先生はご存知ですか?",
+        "rm": "Sensei, oji ga naze koten bu no bunshuu wo hyouka to nazuketa no ka, sensei wa gozonji desu ka?",
+        "en": "Teacher, do you know why the old man named the collection of Kotenbun as Hyouka?",
+        "audio": "audio/a8NPY0xQJ-M/seg_281.mp3"
+    },
+    {
+        "id": 282,
+        "jp": "いいえ、その名前は、大学を予感した関谷さんが、珍しく無理を通して決めた名前なのよ。",
+        "rm": "Iie, sono namae wa, daigaku wo yokan shita Sekiyasan ga, mezurashiku muri wo tooshite kimeta namae na no yo.",
+        "en": "No, that name was decided by Mr. Sekitani, who predicted a college entrance exam.",
+        "audio": "audio/a8NPY0xQJ-M/seg_282.mp3"
+    },
+    {
+        "id": 283,
+        "jp": "自分にはこれくらいしかできないって言ってね。",
+        "rm": "Jibun ni wa kore kurai shika dekinai tte itte ne.",
+        "en": "Tell yourself that this is all you can do.",
+        "audio": "audio/a8NPY0xQJ-M/seg_283.mp3"
+    },
+    {
+        "id": 284,
+        "jp": "でもごめんなさいね、意味はよくわからないの。",
+        "rm": "De mo gomen nasai ne, imi wa yoku wakaranai no.",
+        "en": "But I'm sorry. I don't understand the meaning.",
+        "audio": "audio/a8NPY0xQJ-M/seg_284.mp3"
+    },
+    {
+        "id": 285,
+        "jp": "わからない?",
+        "rm": "Wakaranai?",
+        "en": "I don't know.",
+        "audio": "audio/a8NPY0xQJ-M/seg_285.mp3"
+    },
+    {
+        "id": 286,
+        "jp": "本当にわかってないのか?誰も受け取れなかったというのか?",
+        "rm": "Hontou ni wakattenai no ka? dare mo uketorenakatta to iu no ka?",
+        "en": "You really don't understand? You're saying that no one was able to take it?",
+        "audio": "audio/a8NPY0xQJ-M/seg_286.mp3"
+    },
+    {
+        "id": 287,
+        "jp": "あの、くだらないメッセージを。",
+        "rm": "Ano, kudaranai message wo.",
+        "en": "I'm the one who sent that stupid message I'm the one who sent that stupid message",
+        "audio": "audio/a8NPY0xQJ-M/seg_287.mp3"
+    },
+    {
+        "id": 288,
+        "jp": "おれき、どうしたのよ?",
+        "rm": "Ore ki, dou shita no yo?",
+        "en": "Orek, what's wrong? Don't you understand?",
+        "audio": "audio/a8NPY0xQJ-M/seg_288.mp3"
+    },
+    {
+        "id": 289,
+        "jp": "わからないのか?今の話ではっきりしただろ。",
+        "rm": "Wakaranai no ka? ima no hanashi de hakkiri shitadaro.",
+        "en": "You don't get it, do you? You just made it clear with that story, didn't you?",
+        "audio": "audio/a8NPY0xQJ-M/seg_289.mp3"
+    },
+    {
+        "id": 290,
+        "jp": "ひょうかってのはくだらないダジャレだ。",
+        "rm": "Hyouka tte no wa kudaranai dajare da.",
+        "en": "I told you. Evaluation is a stupid joke.",
+        "audio": "audio/a8NPY0xQJ-M/seg_290.mp3"
+    },
+    {
+        "id": 291,
+        "jp": "ダジャレ?",
+        "rm": "Dajare?",
+        "en": "What's that? Sekitani Jun...",
+        "audio": "audio/a8NPY0xQJ-M/seg_291.mp3"
+    },
+    {
+        "id": 292,
+        "jp": "関谷純は俺たちみたいな古典部の末絵にまで、自分の思いが伝わるようにしたんだ。",
+        "rm": "Sekiya Jun wa oretachi mitai na koten bu no sue e ni made, jibun no omoi ga tsutawaru you ni shita n da.",
+        "en": "Sekitani Jun even tried to convey his feelings to the descendants of the Koten club like us.",
+        "audio": "audio/a8NPY0xQJ-M/seg_292.mp3"
+    },
+    {
+        "id": 293,
+        "jp": "文集の名前なんてものに込めてな。",
+        "rm": "Bunshuu no namae nante mono ni komete na.",
+        "en": "Including the name of the article...",
+        "audio": "audio/a8NPY0xQJ-M/seg_293.mp3"
+    },
+    {
+        "id": 294,
+        "jp": "どういうことです?おれきさんはひょうかの意味が。",
+        "rm": "Dou iu koto desu? orekisan wa hyouka no imi ga.",
+        "en": "What do you mean? Did you understand the meaning of the evaluation? Did you really understand?",
+        "audio": "audio/a8NPY0xQJ-M/seg_294.mp3"
+    },
+    {
+        "id": 295,
+        "jp": "教えてよ、ほうたろ。",
+        "rm": "Oshiete yo, hou taro.",
+        "en": "Tell me, Hotaro.",
+        "audio": "audio/a8NPY0xQJ-M/seg_295.mp3"
+    },
+    {
+        "id": 296,
+        "jp": "ほうたろ?",
+        "rm": "Hou taro?",
+        "en": "Kotaro... The evaluation...",
+        "audio": "audio/a8NPY0xQJ-M/seg_296.mp3"
+    },
+    {
+        "id": 297,
+        "jp": "ひょうかを英語にしたらどうなる?",
+        "rm": "Hyouka wo eigo ni shitara dou naru?",
+        "en": "What will happen if you evaluate it in English?",
+        "audio": "audio/a8NPY0xQJ-M/seg_297.mp3"
+    },
+    {
+        "id": 298,
+        "jp": "それがメッセージなの?",
+        "rm": "Sore ga message na no?",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_298.mp3"
+    },
+    {
+        "id": 299,
+        "jp": "だからダジャレだと言ったろ。",
+        "rm": "Dakara dajare da to ittaro.",
+        "en": "That's why I told you it was a joke.",
+        "audio": "audio/a8NPY0xQJ-M/seg_299.mp3"
+    },
+    {
+        "id": 300,
+        "jp": "関谷純が残した、本当の言葉、これだ。",
+        "rm": "Sekiya Jun ga nokoshita, hontou no kotoba, kore da.",
+        "en": "That's right. Excuse me, everyone. Well... This is the real words that Sekitani Jun left behind.",
+        "audio": "audio/a8NPY0xQJ-M/seg_300.mp3"
+    },
+    {
+        "id": 301,
+        "jp": "私が弱かったら、くなる日が来るって、生きたまま死ぬのが怖くて。",
+        "rm": "Watakushi ga yowakattara, kunaru hi ga kuru tte, ikita mama shinu no ga kowakute.",
+        "en": "I'm sorry. I'm sorry, I'm sorry, I'm sorry. I asked the Prince what the Hyouka was all about. At that time, the Prince said to me... That's right. He told me to be strong. If I was weak... The scream... Yes, the day when I can't scream will come. If that happens, I'll stay alive. The day when I can't scream will come. I'm not afraid to die while I'm alive.",
+        "audio": "audio/a8NPY0xQJ-M/seg_301.mp3"
+    },
+    {
+        "id": 302,
+        "jp": "いや、まあ、たまたまだ。",
+        "rm": "Iya, maa, tamatama da.",
+        "en": "I was so scared that I cried. I'm so glad. I remember now. Now I can properly send you to the temple. It's all because of you, Orek. Thank you, Orek. No, it's nothing. What?",
+        "audio": "audio/a8NPY0xQJ-M/seg_302.mp3"
+    },
+    {
+        "id": 303,
+        "jp": "愛、スクリーム、私は叫ぶ。",
+        "rm": "Ai, scream, watakushi wa sakebu.",
+        "en": "Yes, by chance. Love. Scream. I will scream.",
+        "audio": "audio/a8NPY0xQJ-M/seg_303.mp3"
+    },
+    {
+        "id": 304,
+        "jp": "文集の代わりとスケジュールをざっくり作ってみたんだけど。",
+        "rm": "Bunshuu no kawari to schedule wo zakkuri tsukutte mita n dakedo.",
+        "en": "I've made a rough sketch of the schedule and the summary of the analysis. Summary of the analysis",
+        "audio": "audio/a8NPY0xQJ-M/seg_304.mp3"
+    },
+    {
+        "id": 305,
+        "jp": "代わりってこう書くんですね。",
+        "rm": "Kawari tte kou kaku n desu ne.",
+        "en": "This is how you write a dialogue! Amazing, Mayaka-san!",
+        "audio": "audio/a8NPY0xQJ-M/seg_305.mp3"
+    },
+    {
+        "id": 306,
+        "jp": "すごいです、まやかさん。",
+        "rm": "Sugoi desu, Maya kasan.",
+        "en": "That's amazing, Mayaka-san! Y-You think so?",
+        "audio": "audio/a8NPY0xQJ-M/seg_306.mp3"
+    },
+    {
+        "id": 307,
+        "jp": "そう?",
+        "rm": "Sou?",
+        "en": "I-Is that so? But...",
+        "audio": "audio/a8NPY0xQJ-M/seg_307.mp3"
+    },
+    {
+        "id": 308,
+        "jp": "でも、どこでこんなことを覚えたんですか?",
+        "rm": "De mo, doko de konna koto wo oboeta n desu ka?",
+        "en": "But, where did you learn this? Well, that's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_308.mp3"
+    },
+    {
+        "id": 309,
+        "jp": "それはまあいいじゃん。",
+        "rm": "Sore wa maa ii jan.",
+        "en": "Well, that's fine. Right?",
+        "audio": "audio/a8NPY0xQJ-M/seg_309.mp3"
+    },
+    {
+        "id": 310,
+        "jp": "なあ、この優しき英雄事件、45年前の隠された真相とかいう特集記事なんだが。",
+        "rm": "Naa, kono Yuu shiki eiyuu jiken, 45 nen mae no kakusareta shinsou to ka iu tokushuu kiji na n daga.",
+        "en": "Hey, this is a special article called the hidden truth of this gentle hero incident 45 years ago. What?",
+        "audio": "audio/a8NPY0xQJ-M/seg_310.mp3"
+    },
+    {
+        "id": 311,
+        "jp": "なに?",
+        "rm": "Nani?",
+        "en": "What?",
+        "audio": "audio/a8NPY0xQJ-M/seg_311.mp3"
+    },
+    {
+        "id": 312,
+        "jp": "なぜ俺が執筆担当なんだ?",
+        "rm": "Naze ore ga shippitsu tantou na n da?",
+        "en": "Why do I have to be the one in charge? I'm the one in charge!",
+        "audio": "audio/a8NPY0xQJ-M/seg_312.mp3"
+    },
+    {
+        "id": 313,
+        "jp": "おれきが解いた謎なんだから、おれきが書くのが筋でしょ?",
+        "rm": "Oreki ga toita nazo na n dakara, oreki ga kaku no ga suji desho?",
+        "en": "It's a mystery that Oreki solved, so it must be Suji who wrote it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_313.mp3"
+    },
+    {
+        "id": 314,
+        "jp": "一番ページ数が多い。",
+        "rm": "Ichiban page suu ga ooi.",
+        "en": "There are a lot of pages. That's right.",
+        "audio": "audio/a8NPY0xQJ-M/seg_314.mp3"
+    },
+    {
+        "id": 315,
+        "jp": "そりゃそうだよ。なにしろ目玉記事なんだからね。",
+        "rm": "Sorya sou da yo. nanishiro medama kiji na n dakara ne.",
+        "en": "That's right. After all, it's an eye-opening article. Are you okay?",
+        "audio": "audio/a8NPY0xQJ-M/seg_315.mp3"
+    },
+    {
+        "id": 316,
+        "jp": "大丈夫ですか、おれきさん。大変そうなら私が書いてみますけど。",
+        "rm": "Daijoubu desu ka, orekisan. taihen sou nara watakushi ga kaite mimasukedo.",
+        "en": "Are you okay, Oreki-san? If you're having a hard time, I'll draw it for you.",
+        "audio": "audio/a8NPY0xQJ-M/seg_316.mp3"
+    },
+    {
+        "id": 317,
+        "jp": "お、それは。",
+        "rm": "O, sore wa.",
+        "en": "Oh, that's... No!",
+        "audio": "audio/a8NPY0xQJ-M/seg_317.mp3"
+    },
+    {
+        "id": 318,
+        "jp": "ダメよ、ちーちゃん。こういう時ぐらいしかこいつの使い道なんてないんだから。",
+        "rm": "Dame yo, chi-chan. kou iu toki gurai shika koitsu no tsukaimichi nante nai n dakara.",
+        "en": "That's... Don't do it, Chii-chan! This is the only way to use this thing!",
+        "audio": "audio/a8NPY0xQJ-M/seg_318.mp3"
+    },
+    {
+        "id": 319,
+        "jp": "そうそう、こき使ってあげないとね。",
+        "rm": "Sousou, kokitsukatte agenaito ne.",
+        "en": "That's right. I'll have to buy you some coquette.",
+        "audio": "audio/a8NPY0xQJ-M/seg_319.mp3"
+    },
+    {
+        "id": 320,
+        "jp": "マンク言ってないで、おれきはちゃんと構成考えといたよね。",
+        "rm": "Manku ittenaide, oreki wa chanto kousei kangaetoita yo ne.",
+        "en": "Don't complain, just think about your personality.",
+        "audio": "audio/a8NPY0xQJ-M/seg_320.mp3"
+    },
+    {
+        "id": 321,
+        "jp": "それより、ふくちゃんの担当するコラム…。",
+        "rm": "Sore yori, Fukuchan no tantou suru column....",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_321.mp3"
+    },
+    {
+        "id": 322,
+        "jp": "でも意外でした。",
+        "rm": "De mo igai deshita.",
+        "en": "",
+        "audio": "audio/a8NPY0xQJ-M/seg_322.mp3"
+    },
+    {
+        "id": 323,
+        "jp": "なにが?",
+        "rm": "Nani ga?",
+        "en": "What is it?",
+        "audio": "audio/a8NPY0xQJ-M/seg_323.mp3"
+    },
+    {
+        "id": 324,
+        "jp": "文集の記事です。結局引き受けてくれましたよね。",
+        "rm": "Bunshuu no kiji desu. kekkyoku hikiukete kuremashita yo ne.",
+        "en": "It's an article in the paper. In the end, you accepted it, didn't you? I did.",
+        "audio": "audio/a8NPY0xQJ-M/seg_324.mp3"
+    },
+    {
+        "id": 325,
+        "jp": "引き受けたというより、逃げ切れなかっただけだ。",
+        "rm": "Hikiuketa to iu yori, nige kirenakatta dake da.",
+        "en": "I just couldn't run away rather than say I took it.",
+        "audio": "audio/a8NPY0xQJ-M/seg_325.mp3"
+    },
+    {
+        "id": 326,
+        "jp": "関谷順への賜けくらいにはなるか。",
+        "rm": "Sekiya jun e no tamamono ke kurai ni wa naru ka.",
+        "en": "Well, I guess that's about it for Sekitani Jun.",
+        "audio": "audio/a8NPY0xQJ-M/seg_326.mp3"
+    },
+    {
+        "id": 327,
+        "jp": "それより、意外といえば。",
+        "rm": "Sore yori, igai to ieba.",
+        "en": "More importantly...",
+        "audio": "audio/a8NPY0xQJ-M/seg_327.mp3"
+    },
+    {
+        "id": 328,
+        "jp": "はい?",
+        "rm": "Hai?",
+        "en": "Say that again. What? Ma-",
+        "audio": "audio/a8NPY0xQJ-M/seg_328.mp3"
+    },
+    {
+        "id": 329,
+        "jp": "前、サトシと茨にも協力を求めたらどうかと言っただろう。",
+        "rm": "Mae, Satoshi to ubara ni mo kyouryoku wo motometara dou ka to ittadarou.",
+        "en": "Didn't I tell you to ask for help from Satoshi and Iwara?",
+        "audio": "audio/a8NPY0xQJ-M/seg_329.mp3"
+    },
+    {
+        "id": 330,
+        "jp": "あ、最初は絞ってたのに、どうして急にその気になったんだ?",
+        "rm": "A, saisho wa shibotteta no ni, dou shite kyuu ni sono ki ni natta n da?",
+        "en": "Why did you suddenly want to do that? Ah, that's because... At that time, Orekki-san said it, didn't he? The mystery of the prince...",
+        "audio": "audio/a8NPY0xQJ-M/seg_330.mp3"
+    },
+    {
+        "id": 331,
+        "jp": "おじの謎が解けなくても、いつかは事故になっていくのかもと。",
+        "rm": "Oji no nazo ga tokenakute mo, itsu ka wa jiko ni natte iku no ka mo to.",
+        "en": "Even if you can't solve the riddle, one day you might be able to solve it. That's for sure.",
+        "audio": "audio/a8NPY0xQJ-M/seg_331.mp3"
+    },
+    {
+        "id": 332,
+        "jp": "確かに、十年後の私は気にしないのかもしれません。",
+        "rm": "Tashika ni, juu nengo no watakushi wa ki ni shinai no ka mo shiremasen.",
+        "en": "It's true that I might not care about myself 10 years from now, but right now...",
+        "audio": "audio/a8NPY0xQJ-M/seg_332.mp3"
+    },
+    {
+        "id": 333,
+        "jp": "でも、今感じた私の気持ち。",
+        "rm": "De mo, konkanjita watakushi no kimochi.",
+        "en": "That's how I feel right now. That's...",
+        "audio": "audio/a8NPY0xQJ-M/seg_333.mp3"
+    },
+    {
+        "id": 334,
+        "jp": "それが、将来どうでも良くなってるかもなんて。",
+        "rm": "Sore ga, shourai dou de mo yoku natteru ka mo nan te.",
+        "en": "I don't know if it's going to get any better in the future... Right now...",
+        "audio": "audio/a8NPY0xQJ-M/seg_334.mp3"
+    },
+    {
+        "id": 335,
+        "jp": "今は、思いたくないんです。",
+        "rm": "Ima wa, omoitaku nai n desu.",
+        "en": "I don't want to think about it right now. The reason I'm alive...",
+        "audio": "audio/a8NPY0xQJ-M/seg_335.mp3"
+    },
+    {
+        "id": 336,
+        "jp": "私が生きてるのは、今なんです。",
+        "rm": "Watakushi ga ikiteru no wa, ima na n desu.",
+        "en": "The reason I'm still alive is because of what I've been through so far.",
+        "audio": "audio/a8NPY0xQJ-M/seg_336.mp3"
+    },
+    {
+        "id": 337,
+        "jp": "だから、だ、よくわからないんです。",
+        "rm": "Dakara, da, yoku wakaranai n desu.",
+        "en": "That's why... I'm sorry. I still don't understand.",
+        "audio": "audio/a8NPY0xQJ-M/seg_337.mp3"
+    },
+    {
+        "id": 338,
+        "jp": "いいさ、俺も同じだし。",
+        "rm": "Ii sa, ore mo onaji dashi.",
+        "en": "It doesn't matter. I'm the same, after all. Well...",
+        "audio": "audio/a8NPY0xQJ-M/seg_338.mp3"
+    },
+    {
+        "id": 339,
+        "jp": "まあ、とにかくお疲れ。",
+        "rm": "Maa, tonikaku otsukare.",
+        "en": "Well, have a good day. Yes.",
+        "audio": "audio/a8NPY0xQJ-M/seg_339.mp3"
+    },
+    {
+        "id": 340,
+        "jp": "はい、では。",
+        "rm": "Hai, de wa.",
+        "en": "Okay. Bye. I'm going to the bathroom.",
+        "audio": "audio/a8NPY0xQJ-M/seg_340.mp3"
+    },
+    {
+        "id": 341,
+        "jp": "俺木智恵殿、聞きたいことがあって手紙を送る。",
+        "rm": "Ore ki chieden, kikitai koto ga atte tegami wo okuru.",
+        "en": "Mr. Oreki Tomoe, I have something to ask you, so I'm sending you a letter. My sister is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_341.mp3"
+    },
+    {
+        "id": 342,
+        "jp": "姉貴は古典部のことをどこまで知っていたのか。",
+        "rm": "Aneki wa koten bu no koto wo doko made shitte ita no ka.",
+        "en": "How much did she know about Kotembu? What did she mean by that?",
+        "audio": "audio/a8NPY0xQJ-M/seg_342.mp3"
+    },
+    {
+        "id": 343,
+        "jp": "どういうつもりで、俺を古典部に入らせたのか。",
+        "rm": "Dou iu tsumori de, ore wo koten bu ni hairaseta no ka.",
+        "en": "What did you intend to do to make me join the Kotenbu? If you're my big sister, then I'll be your big sister.",
+        "audio": "audio/a8NPY0xQJ-M/seg_343.mp3"
+    },
+    {
+        "id": 344,
+        "jp": "姉貴なら俺のスタイルを知っているだろう。",
+        "rm": "Aneki nara ore no style wo shitte irudarou.",
+        "en": "If you're an older sister, you know my style, don't you? That's right, Shou-",
+        "audio": "audio/a8NPY0xQJ-M/seg_344.mp3"
+    },
+    {
+        "id": 345,
+        "jp": "そう、昭恵根だ。",
+        "rm": "Sou, Akie ne da.",
+        "en": "Yes, it's the Shou-Ene. You have to enter the Kotenbu.",
+        "audio": "audio/a8NPY0xQJ-M/seg_345.mp3"
+    },
+    {
+        "id": 346,
+        "jp": "古典部に入らなければ、このスタイルを見つめ直すことさえしなかった。",
+        "rm": "Koten bu ni hairanakereba, kono style wo mitsume naosu koto sae shinakatta.",
+        "en": "If I hadn't joined the Kotenbu, I wouldn't have been able to look at this style. My big sister...",
+        "audio": "audio/a8NPY0xQJ-M/seg_346.mp3"
+    },
+    {
+        "id": 347,
+        "jp": "姉貴は、俺が古典部へ入ることで、そういう揺さぶりを受けることを予想していたのか?",
+        "rm": "Aneki wa, ore ga koten bu e hairu koto de, sou iu yusaburi wo ukeru koto wo yosou shite ita no ka?",
+        "en": "Did you expect me to be shaken like that by me entering the Kotenbue? And...",
+        "audio": "audio/a8NPY0xQJ-M/seg_347.mp3"
+    },
+    {
+        "id": 348,
+        "jp": "そして、評価。",
+        "rm": "Soshite, hyouka.",
+        "en": "And the evaluation of that bu-",
+        "audio": "audio/a8NPY0xQJ-M/seg_348.mp3"
+    },
+    {
+        "id": 349,
+        "jp": "あの文書を通して、関谷淳の事件を知って以来。",
+        "rm": "Ano bunsho wo tooshite, Sekiya Atsushi no jiken wo shitte irai.",
+        "en": "Ever since I learned about Sekitani Jun's case through that article, well...",
+        "audio": "audio/a8NPY0xQJ-M/seg_349.mp3"
+    },
+    {
+        "id": 350,
+        "jp": "まあ、自分のこのスタイルも悪くないと思うようになった。",
+        "rm": "Maa, jibun no kono style mo waruku nai to omou you ni natta.",
+        "en": "Well, I don't think my own style is bad either. No, I mean...",
+        "audio": "audio/a8NPY0xQJ-M/seg_350.mp3"
+    },
+    {
+        "id": 351,
+        "jp": "あ、あくまで相対的な話だな。",
+        "rm": "A, akumade soutaiteki na hanashi da na.",
+        "en": "Well, no. It's just a relative story, though.",
+        "audio": "audio/a8NPY0xQJ-M/seg_351.mp3"
+    },
+    {
+        "id": 352,
+        "jp": "しかし、これではまるで姉貴は…。",
+        "rm": "Shikashi, kore de wa marude aneki wa....",
+        "en": "But now, it's as if my big sister is...",
+        "audio": "audio/a8NPY0xQJ-M/seg_352.mp3"
+    },
+    {
+        "id": 353,
+        "jp": "まさかね。",
+        "rm": "Masaka ne.",
+        "en": "Today? No way...",
+        "audio": "audio/a8NPY0xQJ-M/seg_353.mp3"
+    },
+    {
+        "id": 354,
+        "jp": "ここまで書いたのは、すべて近況報告だと思ってくれ。",
+        "rm": "Koko made kaita no wa, subete kinkyou houkoku da to omotte kure.",
+        "en": "That's right. All that I've written so far, think of it as an emergency report.",
+        "audio": "audio/a8NPY0xQJ-M/seg_354.mp3"
+    },
+    {
+        "id": 355,
+        "jp": "いい旅を。",
+        "rm": "Ii tabi wo.",
+        "en": "Have a good trip.",
+        "audio": "audio/a8NPY0xQJ-M/seg_355.mp3"
+    },
+    {
+        "id": 356,
+        "jp": "アドバイス、ありがとう。",
+        "rm": "Advice, arigatou.",
+        "en": "Thank you for your advice.",
+        "audio": "audio/a8NPY0xQJ-M/seg_356.mp3"
+    },
+    {
+        "id": 357,
+        "jp": "お礼企を。",
+        "rm": "Orei takurami wo.",
+        "en": "Thank you. I'm going.",
+        "audio": "audio/a8NPY0xQJ-M/seg_357.mp3"
+    }
+]
