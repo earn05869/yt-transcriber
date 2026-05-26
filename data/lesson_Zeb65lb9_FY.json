@@ -1,0 +1,2263 @@
+[
+    {
+        "id": 1,
+        "jp": "振りそうだな",
+        "rm": "Furi sou da na",
+        "en": "It looks like it's going to rain.",
+        "audio": "audio/Zeb65lb9_FY/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "待ってー",
+        "rm": "Matte-",
+        "en": "Wait!",
+        "audio": "audio/Zeb65lb9_FY/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "これ",
+        "rm": "Kore",
+        "en": "I'm sorry! We met again, didn't we? Yeah, yeah. Here.",
+        "audio": "audio/Zeb65lb9_FY/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "返さなくていいよ",
+        "rm": "Kaesanakute ii yo",
+        "en": "Oh, I really can't get rid of it! I swear I'll pay you back! You don't have to pay me back.",
+        "audio": "audio/Zeb65lb9_FY/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "これは返すけど",
+        "rm": "Kore wa kaesukedo",
+        "en": "It's fine. I'll return this to you, though.",
+        "audio": "audio/Zeb65lb9_FY/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "じゃあ",
+        "rm": "Jaa",
+        "en": "I'll return it to you. I completely forgot about it. Thank you very much. Well then, be careful.",
+        "audio": "audio/Zeb65lb9_FY/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "気をつけて",
+        "rm": "Ki wo tsukete",
+        "en": "Well then, be careful. Th-That's...! The General's secret hole! It's wonderful! It's real! Wait a minute!",
+        "audio": "audio/Zeb65lb9_FY/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "ちょっと待った",
+        "rm": "Chotto matta",
+        "en": "Wait a minute!",
+        "audio": "audio/Zeb65lb9_FY/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "あれは手水口と言って",
+        "rm": "Are wa chouzu kuchi to itte",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "別に抜け穴とかじゃないから",
+        "rm": "Betsu ni nukeana to ka ja naikara",
+        "en": "I mean, it's not like I'm a pushover or anything like that.",
+        "audio": "audio/Zeb65lb9_FY/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "だって城から抜け出すんですよ",
+        "rm": "Da tte shiro kara nukedasu n desu yo",
+        "en": "But the Rainbow Shogun goes through there and gets out of the castle.",
+        "audio": "audio/Zeb65lb9_FY/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "レインボー将軍",
+        "rm": "Rainbow shougun",
+        "en": "I'm going to get out of here! Rainbow...",
+        "audio": "audio/Zeb65lb9_FY/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "もちろんご存知ですよね",
+        "rm": "Mochiron gozonji desu yo ne",
+        "en": "Rainbow Shogun? Of course, you know that, don't you?",
+        "audio": "audio/Zeb65lb9_FY/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "レインボー将軍",
+        "rm": "Rainbow shougun",
+        "en": "Of course, you know that, don't you? Um... Ah! Game over!",
+        "audio": "audio/Zeb65lb9_FY/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "レインボー将軍とは",
+        "rm": "Rainbow shougun to wa",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "江戸幕府将軍",
+        "rm": "Edo bakufu shougun",
+        "en": "General Tokugawa Nijimune of the Edo Bacchus...",
+        "audio": "audio/Zeb65lb9_FY/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "徳川にじむねが",
+        "rm": "Tokugawa nijimunega",
+        "en": "Tokugawa Nijimune has committed a heinous crime against Edo.",
+        "audio": "audio/Zeb65lb9_FY/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "江戸にはびこる悪を切る",
+        "rm": "Edo ni habikoru aku wo kiru",
+        "en": "Ignore music, outros, and channel promos.",
+        "audio": "audio/Zeb65lb9_FY/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "夜直しアクション時代劇である",
+        "rm": "Yachoku shi action jidai geki de aru",
+        "en": "It's an action-themed play.",
+        "audio": "audio/Zeb65lb9_FY/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "虹の色を一つ",
+        "rm": "Niji no iro wo hitotsu",
+        "en": "Translate only what is spoken.",
+        "audio": "audio/Zeb65lb9_FY/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "言ってみろ",
+        "rm": "Itte miro",
+        "en": "Say one thing",
+        "audio": "audio/Zeb65lb9_FY/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "あ、赤",
+        "rm": "A, aka",
+        "en": "Ah, red... The color of rainbow...",
+        "audio": "audio/Zeb65lb9_FY/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "虹の色は虹色だ",
+        "rm": "Niji no iro wa nijiiro da",
+        "en": "The color of the rainbow is rainbow color! Se-",
+        "audio": "audio/Zeb65lb9_FY/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "聖杯",
+        "rm": "Seihai",
+        "en": "Seibai!",
+        "audio": "audio/Zeb65lb9_FY/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "いつの心は",
+        "rm": "Itsu no kokoro wa",
+        "en": "Ignore music, outros, and channel promos. Ignore music, outros, and channel promos. Ignore music, outros, and channel promos.",
+        "audio": "audio/Zeb65lb9_FY/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "虹色に",
+        "rm": "Nijiiro ni",
+        "en": "This is Nijiro-ni! Nijiro-ni! That's what they say at the end! Yeah, you're right.",
+        "audio": "audio/Zeb65lb9_FY/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "氷でさっきから",
+        "rm": "Koori de sakki kara",
+        "en": "It's the same as before, Rainbow Shogun...",
+        "audio": "audio/Zeb65lb9_FY/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "レインボー将軍は知ってるけど",
+        "rm": "Rainbow shougun wa shitterukedo",
+        "en": "I know about the Rainbow Shogun, but...",
+        "audio": "audio/Zeb65lb9_FY/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "日本で大人気な",
+        "rm": "Nippon de daininki na",
+        "en": "It's so popular in Japan, isn't it? I guess so...",
+        "audio": "audio/Zeb65lb9_FY/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "そうかな",
+        "rm": "Sou ka na",
+        "en": "I wonder if that's the case... Well then! Wait a minute!",
+        "audio": "audio/Zeb65lb9_FY/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "ちょっと待て",
+        "rm": "Chotto mate",
+        "en": "W-Wait a minute! That's a fictional...",
+        "audio": "audio/Zeb65lb9_FY/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "あれはフィクションだから",
+        "rm": "Are wa fiction dakara",
+        "en": "That's fiction, so if you go in here, you won't be able to use it.",
+        "audio": "audio/Zeb65lb9_FY/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "ここ入ったら捕まるんだ",
+        "rm": "Koko haittara tsukamaru n da",
+        "en": "Once you get in here, you'll get caught! I can't do it? I don't know.",
+        "audio": "audio/Zeb65lb9_FY/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "分かってくれたか",
+        "rm": "Wakatte kureta ka",
+        "en": "You finally understood. But...",
+        "audio": "audio/Zeb65lb9_FY/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "でも、せっかく",
+        "rm": "De mo, sekkaku",
+        "en": "But, since I've come to a place I've been longing for...",
+        "audio": "audio/Zeb65lb9_FY/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "憧れの場所に来られたのだから",
+        "rm": "Akogare no basho ni korareta no dakara",
+        "en": "I will engrave it in my heart because I have come to the place I longed for so long.",
+        "audio": "audio/Zeb65lb9_FY/seg_36.mp3"
+    },
+    {
+        "id": 37,
+        "jp": "心に刻みます",
+        "rm": "Kokoro ni kizamimasu",
+        "en": "I'll engrave it in my heart!",
+        "audio": "audio/Zeb65lb9_FY/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "まあ、とにかく",
+        "rm": "Maa, tonikaku",
+        "en": "Well, anyway, be careful.",
+        "audio": "audio/Zeb65lb9_FY/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "気をつけて",
+        "rm": "Ki wo tsukete",
+        "en": "Help me.",
+        "audio": "audio/Zeb65lb9_FY/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "おいで",
+        "rm": "Oide",
+        "en": "I'm sorry. Come here. The wind is...",
+        "audio": "audio/Zeb65lb9_FY/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "風邪ひいちゃうよ",
+        "rm": "Kaze hiichau yo",
+        "en": "I'm going to catch a cold. With this...",
+        "audio": "audio/Zeb65lb9_FY/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "これで大丈夫",
+        "rm": "Kore de daijoubu",
+        "en": "It's okay now.",
+        "audio": "audio/Zeb65lb9_FY/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "どこに行くんだ",
+        "rm": "Doko ni iku n da",
+        "en": "Meow! I-It's okay! I-It's okay! Where are you going? Huh?",
+        "audio": "audio/Zeb65lb9_FY/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "送るから",
+        "rm": "Okurukara",
+        "en": "Huh? I'll send it to you.",
+        "audio": "audio/Zeb65lb9_FY/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "銀座だと思います",
+        "rm": "Ginza da to omoimasu",
+        "en": "I think it's near here.",
+        "audio": "audio/Zeb65lb9_FY/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "思いますって",
+        "rm": "Omoimasu tte",
+        "en": "I think so, too. You think so?",
+        "audio": "audio/Zeb65lb9_FY/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "それが",
+        "rm": "Sore ga",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "連れに全部任せていたので",
+        "rm": "Tsure ni zenbu makasete ita no de",
+        "en": "Ah, I left everything to Tsureni.",
+        "audio": "audio/Zeb65lb9_FY/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "ダメですね",
+        "rm": "Dame desu ne",
+        "en": "It's no good, isn't it?",
+        "audio": "audio/Zeb65lb9_FY/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "こんなことじゃ",
+        "rm": "Konna koto ja",
+        "en": "I can't do this.",
+        "audio": "audio/Zeb65lb9_FY/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "どう見ても",
+        "rm": "Dou mite mo",
+        "en": "It's okay, it's okay, it's okay, it's okay, it's okay.",
+        "audio": "audio/Zeb65lb9_FY/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "大丈夫じゃないだろ",
+        "rm": "Daijoubu ja naidaro",
+        "en": "No matter how you look at it, it doesn't look like you're going to be okay.",
+        "audio": "audio/Zeb65lb9_FY/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "行こう",
+        "rm": "Ikou",
+        "en": "Let's go to my grandfather's house.",
+        "audio": "audio/Zeb65lb9_FY/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "うちのじっちゃんの店すぐそこだから",
+        "rm": "Uchi no jicchan no mise sugu soko dakara",
+        "en": "My grandpa's shop is right there.",
+        "audio": "audio/Zeb65lb9_FY/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "でも",
+        "rm": "De mo",
+        "en": "Huh? But... Just like this.",
+        "audio": "audio/Zeb65lb9_FY/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "このままほっとけないだろ",
+        "rm": "Kono mama hottokenaidaro",
+        "en": "I won't let you go like this, will I?",
+        "audio": "audio/Zeb65lb9_FY/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "このまま",
+        "rm": "Kono mama",
+        "en": "I won't let you go like this.",
+        "audio": "audio/Zeb65lb9_FY/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "放っておくわけにはいかのであろう",
+        "rm": "Houtte oku wake ni wa ika no de arou",
+        "en": "You can't just leave it like that, my friend.",
+        "audio": "audio/Zeb65lb9_FY/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "親切は",
+        "rm": "Shinsetsu wa",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "黙って受け取るのも礼儀だぞ",
+        "rm": "Damatte uketoru no mo reigi da zo",
+        "en": "It's also polite to wait and accept it.",
+        "audio": "audio/Zeb65lb9_FY/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "将軍",
+        "rm": "Shougun",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "違います",
+        "rm": "Chigaimasu",
+        "en": "Thank you very much! My heart is always rainbow-colored!",
+        "audio": "audio/Zeb65lb9_FY/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "いつも心は虹色に",
+        "rm": "Itsu mo kokoro wa nijiiro ni",
+        "en": "The story continues in rainbow colors.",
+        "audio": "audio/Zeb65lb9_FY/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "続く",
+        "rm": "Tsuzuku",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "ご覧のスポンサーの提供で",
+        "rm": "Goran no sponsor no teikyou de",
+        "en": "This video was brought to you by the sponsor of this program. See you later!",
+        "audio": "audio/Zeb65lb9_FY/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "お待たせしました",
+        "rm": "Omatase shimashita",
+        "en": "Thank you for waiting!",
+        "audio": "audio/Zeb65lb9_FY/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "ただいま",
+        "rm": "Tadaima",
+        "en": "I'm home.",
+        "audio": "audio/Zeb65lb9_FY/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "お兄ちゃん遅い",
+        "rm": "Oanichan osoi",
+        "en": "Ah, Onii-chan, you're late! You're late!",
+        "audio": "audio/Zeb65lb9_FY/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "遅刻だよ",
+        "rm": "Chikoku da yo",
+        "en": "It's late. You're going to be late. Welcome back.",
+        "audio": "audio/Zeb65lb9_FY/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "遅れるのにちゃんと連絡してって",
+        "rm": "Okureru no ni chanto renraku shitette",
+        "en": "Bye, Erii. If you can't hide it, call me.",
+        "audio": "audio/Zeb65lb9_FY/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "前も言ったじゃん",
+        "rm": "Mae mo itta jan",
+        "en": "I told you to get in touch with me, didn't I?",
+        "audio": "audio/Zeb65lb9_FY/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "いや",
+        "rm": "Iya",
+        "en": "It started raining all of a sudden.",
+        "audio": "audio/Zeb65lb9_FY/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "急に雨来たから",
+        "rm": "Kyuu ni ame kitakara",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "なんのためにスマホ持ってんの",
+        "rm": "Nan no tame ni sumaho motten no",
+        "en": "Why do you have a smartphone?",
+        "audio": "audio/Zeb65lb9_FY/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "悪い入って",
+        "rm": "Warui haitte",
+        "en": "Sorry, I'm going in. Who's there?",
+        "audio": "audio/Zeb65lb9_FY/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "誰何かの女",
+        "rm": "Dare nan ka no onna",
+        "en": "Who? What? Your girlfriend? No.",
+        "audio": "audio/Zeb65lb9_FY/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "違うじっちゃん",
+        "rm": "Chigau jicchan",
+        "en": "That's not it. Grandpa, are you hungry?",
+        "audio": "audio/Zeb65lb9_FY/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "腹減ってるみたいだから",
+        "rm": "Hara hetteru mitai dakara",
+        "en": "Hey, it looks like you're hungry, so why don't you eat something?",
+        "audio": "audio/Zeb65lb9_FY/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "何か食べさせてくれる",
+        "rm": "Nan ka tabesasete kureru",
+        "en": "Do you want me to feed you something? Y-Yeah...",
+        "audio": "audio/Zeb65lb9_FY/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "君は",
+        "rm": "Kimi wa",
+        "en": "Y-Yeah, what about you? I'm starting...",
+        "audio": "audio/Zeb65lb9_FY/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "初めまして",
+        "rm": "Hajimemashite",
+        "en": "Nice to meet you, I'm Teresa...",
+        "audio": "audio/Zeb65lb9_FY/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "テレサ・ドゥー",
+        "rm": "Teresa/Duu",
+        "en": "I'm... I'm Teresa Wagner",
+        "audio": "audio/Zeb65lb9_FY/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "フォードナーです",
+        "rm": "Four donor desu",
+        "en": "This is Mr. Wazna. What a beautiful person... Welcome to the Tadakohite! I am...",
+        "audio": "audio/Zeb65lb9_FY/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "私はただゆいです",
+        "rm": "Watakushi wa tada yui desu",
+        "en": "I'm Tadai Yui! So, actually...",
+        "audio": "audio/Zeb65lb9_FY/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "じっちゃんとにゃんこびっくと",
+        "rm": "Jicchan to nyanko bik ku to",
+        "en": "So, Grandpa and Kitty Victor...",
+        "audio": "audio/Zeb65lb9_FY/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "お兄ちゃん",
+        "rm": "Oanichan",
+        "en": "It's a comic book and a big brother!",
+        "audio": "audio/Zeb65lb9_FY/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "で知ってるよね",
+        "rm": "De shitteru yo ne",
+        "en": "You know that, don't you?",
+        "audio": "audio/Zeb65lb9_FY/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Yes, Yui-san.",
+        "audio": "audio/Zeb65lb9_FY/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "ゆいさんじっちゃんさん",
+        "rm": "Yuisan jicchansan",
+        "en": "Yui-san, Jichan-san, Nyankovic-san, and...",
+        "audio": "audio/Zeb65lb9_FY/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "にゃんこびっくさんと",
+        "rm": "Nyan kobikkusa n to",
+        "en": "Ancobic-san and Onii-chan-san",
+        "audio": "audio/Zeb65lb9_FY/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "お兄ちゃんさん",
+        "rm": "Oanichansan",
+        "en": "Onii-chan-san! I'm just Mitsuyoshi.",
+        "audio": "audio/Zeb65lb9_FY/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "ただみつよしです",
+        "rm": "Tada mitsu yoshi desu",
+        "en": "I'm Mitsuyoshi. Just Mitsuyoshi-san.",
+        "audio": "audio/Zeb65lb9_FY/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "ただみつよしさん",
+        "rm": "Tada miTsuyoshisan",
+        "en": "Mitsuyoshi-san",
+        "audio": "audio/Zeb65lb9_FY/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "そのままじゃ風邪ひくよ",
+        "rm": "Sono mama ja kaze hiku yo",
+        "en": "You'll catch a cold if you stay like that, Yui.",
+        "audio": "audio/Zeb65lb9_FY/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "ゆい何か着替えを",
+        "rm": "Yui nan ka kigae wo",
+        "en": "Yui, lend me your clothes.",
+        "audio": "audio/Zeb65lb9_FY/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "貸してあげなさい",
+        "rm": "Kashite age nasai",
+        "en": "I'll leave it to you. Yes! Everyone, I can't let you go! I'll never forget this favor! I knew it. I can't let my brother have a girlfriend.",
+        "audio": "audio/Zeb65lb9_FY/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "ちょっとできるわけないか",
+        "rm": "Chotto dekiru wake nai ka",
+        "en": "There's no way I can date her. I'm going to wash my clothes.",
+        "audio": "audio/Zeb65lb9_FY/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "洋服洗濯するね",
+        "rm": "Youfuku sentaku suru ne",
+        "en": "I'm going to wash my clothes. Thank you very much. Can I borrow your phone? Sure, go ahead. Hello? I'm glad we're connected. Thank you very much.",
+        "audio": "audio/Zeb65lb9_FY/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "ありがとうございました",
+        "rm": "Arigatou gozaimashita",
+        "en": "Thank you very much.",
+        "audio": "audio/Zeb65lb9_FY/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "珍しいね",
+        "rm": "Mezurashii ne",
+        "en": "I'm sorry. It's so good. It's rare to see people like you.",
+        "audio": "audio/Zeb65lb9_FY/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "人見知りなにゃんこびっくが",
+        "rm": "Hito mishiri na nyanko bik Kuga",
+        "en": "Ignore music, outros, and channel promos.",
+        "audio": "audio/Zeb65lb9_FY/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "自分から近づくなんて",
+        "rm": "Jibun kara chikazuku nante",
+        "en": "I can't believe you're getting close to me. Is that so?",
+        "audio": "audio/Zeb65lb9_FY/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "そうにゃんこびっくは",
+        "rm": "Sou nyanko bik ku wa",
+        "en": "Is that so? Meow! Nyankovic likes beautiful girls...",
+        "audio": "audio/Zeb65lb9_FY/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "美人さんが好きなんだよね",
+        "rm": "Bijinsan ga suki na n da yo ne",
+        "en": "You like me, don't you?",
+        "audio": "audio/Zeb65lb9_FY/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "ちーすみつよし",
+        "rm": "Chi- Sumi Tsuyoshi",
+        "en": "Cheese Mitsuyoshi The usual super",
+        "audio": "audio/Zeb65lb9_FY/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "いつものちょーだい",
+        "rm": "Itsu mo no choodai",
+        "en": "Give me the usual!",
+        "audio": "audio/Zeb65lb9_FY/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "いらっしゃいカール君",
+        "rm": "Irasshai Karlkun",
+        "en": "Welcome, Kaoru.",
+        "audio": "audio/Zeb65lb9_FY/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "もっと普通に入ってこれないのか",
+        "rm": "Motto futsuu ni haitte korenai no ka",
+        "en": "Can't you just come in more normally?",
+        "audio": "audio/Zeb65lb9_FY/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "何やっても俺の魅力があふれてちゃってさ",
+        "rm": "Nan yatte mo ore no miryoku ga afurete chatte sa",
+        "en": "My charm overflows no matter what I do",
+        "audio": "audio/Zeb65lb9_FY/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "スペシャルコーヒーゼリーひとつと",
+        "rm": "Special coffee jelly hitotsu to",
+        "en": "If you have any questions or other problems, please post them in the comments.",
+        "audio": "audio/Zeb65lb9_FY/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "ブレンドひとつ",
+        "rm": "Blend hitotsu",
+        "en": "One coffee jelly and one blend.",
+        "audio": "audio/Zeb65lb9_FY/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "はいよ",
+        "rm": "Hai yo",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "にゃんこびっく",
+        "rm": "Nyanko bik ku",
+        "en": "Nyankebi Ghoul!",
+        "audio": "audio/Zeb65lb9_FY/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "今日の戦慄のにゃんこびっく",
+        "rm": "Kyou no senritsu no nyanko bik ku",
+        "en": "Uwaaaaaaah! Ah, that was close! That was today's Nyankees...",
+        "audio": "audio/Zeb65lb9_FY/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "ブログ更新だね",
+        "rm": "Blog koushin da ne",
+        "en": "It's time to update the NyanCovic blog from the day before yesterday!",
+        "audio": "audio/Zeb65lb9_FY/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "戦慄のにゃんこびっく",
+        "rm": "Senritsu no nyanko bik ku",
+        "en": "That's right. Nyankepick from the day before yesterday?",
+        "audio": "audio/Zeb65lb9_FY/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "これだよ",
+        "rm": "Kore da yo",
+        "en": "Japanese Copic? This is it!",
+        "audio": "audio/Zeb65lb9_FY/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "おさんなのですね",
+        "rm": "Osan na no desu ne",
+        "en": "I'm glad to hear that. I'm glad to hear that. Oh, you're a fighting samurai cat. Yeah.",
+        "audio": "audio/Zeb65lb9_FY/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "なに",
+        "rm": "Nani",
+        "en": "What?",
+        "audio": "audio/Zeb65lb9_FY/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "誰誰",
+        "rm": "Dare dare",
+        "en": "What? Who is it? Who is it? This blonde mademoiselle...",
+        "audio": "audio/Zeb65lb9_FY/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "この金髪マドマーゼルちゃんは",
+        "rm": "Kono kinpatsu madomaazeruchan wa",
+        "en": "This blonde Mademoiselle is...",
+        "audio": "audio/Zeb65lb9_FY/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "おはつにお目にかかります",
+        "rm": "OHatsu ni ome ni kakarimasu",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "だよね",
+        "rm": "Da yo ne",
+        "en": "It will take a long time, right?",
+        "audio": "audio/Zeb65lb9_FY/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "なにかっこつけてんだ",
+        "rm": "Nani kakko tsukete n da",
+        "en": "What are you trying to look cool for?",
+        "audio": "audio/Zeb65lb9_FY/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "お客さんだよお兄ちゃんの",
+        "rm": "Okyakusan da yo oanichan no",
+        "en": "I'm your customer, Onii-chan.",
+        "audio": "audio/Zeb65lb9_FY/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "みつよしの",
+        "rm": "Mitsu yoshi no",
+        "en": "I'm your big brother. M-M-Mitsuyoshi's...",
+        "audio": "audio/Zeb65lb9_FY/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "彼女",
+        "rm": "Kanojo",
+        "en": "Girl? Girl? Seriously?",
+        "audio": "audio/Zeb65lb9_FY/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "まじで嘘だろ",
+        "rm": "Maji de uso daro",
+        "en": "Really? You're kidding, right? I didn't hear anything!",
+        "audio": "audio/Zeb65lb9_FY/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "俺聞いてないよ",
+        "rm": "Ore kiitenai yo",
+        "en": "I didn't hear you! No, you didn't!",
+        "audio": "audio/Zeb65lb9_FY/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "ちげえよ",
+        "rm": "Chigee yo",
+        "en": "Get out of here! Is this blonde real?",
+        "audio": "audio/Zeb65lb9_FY/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "この金髪本物",
+        "rm": "Kono kinpatsu honmono",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "おいいい順位",
+        "rm": "Oi ii jun'i",
+        "en": "Hey, Lee Joon-hee!",
+        "audio": "audio/Zeb65lb9_FY/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "ペレサ",
+        "rm": "Perretsa",
+        "en": "Pell-san!",
+        "audio": "audio/Zeb65lb9_FY/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "離れて",
+        "rm": "Hanarete",
+        "en": "Get out of my way! Alex!",
+        "audio": "audio/Zeb65lb9_FY/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "アレクサンドラマグリッドと申します",
+        "rm": "Arekusandoramaguriddo to moushimasu",
+        "en": "My name is Alexandra Magritte.",
+        "audio": "audio/Zeb65lb9_FY/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "まことに申し訳ありません",
+        "rm": "Makoto ni moushiwake arimasen",
+        "en": "I'm sorry. I'm truly sorry.",
+        "audio": "audio/Zeb65lb9_FY/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "てっきりテレサが",
+        "rm": "Tekkiri Teresa ga",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "襲われているとばかり",
+        "rm": "Osowarete iru to bakari",
+        "en": "It's just that Teresa is being attacked.",
+        "audio": "audio/Zeb65lb9_FY/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "アレクこういうときは",
+        "rm": "Areku kou iu toki wa",
+        "en": "Ah! Alex, in times like this, you should...",
+        "audio": "audio/Zeb65lb9_FY/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "土下座ですよ",
+        "rm": "Do geza desu yo",
+        "en": "When you do that, it's a thorn! A thorn?",
+        "audio": "audio/Zeb65lb9_FY/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "土下座",
+        "rm": "Do geza",
+        "en": "Mr. Shougei, I understand.",
+        "audio": "audio/Zeb65lb9_FY/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "わかりました",
+        "rm": "Wakarimashita",
+        "en": "Hehehehehehe Ah, it's already da-",
+        "audio": "audio/Zeb65lb9_FY/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "もう大丈夫ですから",
+        "rm": "Mou daijoubu desukara",
+        "en": "I'm fine now. You're f-f-fine-",
+        "audio": "audio/Zeb65lb9_FY/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "大丈夫じゃねえよ",
+        "rm": "Daijoubu ja nee yo",
+        "en": "It's not okay! Mitsuyoshi, what are you...",
+        "audio": "audio/Zeb65lb9_FY/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "みつよしなんなのこの人",
+        "rm": "Mitsuyo shinan na no kono hito",
+        "en": "Mitsuyoshi, what's wrong with this guy? He's so scary!",
+        "audio": "audio/Zeb65lb9_FY/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "すんげえ怖いんですけど",
+        "rm": "Sungee kowai n desukedo",
+        "en": "I'm so scared! You're the one who's to blame.",
+        "audio": "audio/Zeb65lb9_FY/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "悪いのはお前だろ",
+        "rm": "Warui no wa omae daro",
+        "en": "You're the one who's to blame, aren't you? What?! Why?!",
+        "audio": "audio/Zeb65lb9_FY/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "なんで",
+        "rm": "Nan de",
+        "en": "Why? I'm really sorry.",
+        "audio": "audio/Zeb65lb9_FY/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "本当にごめんなさい",
+        "rm": "Hontou ni gomen nasai",
+        "en": "I'm really sorry, Mr. Ijuin.",
+        "audio": "audio/Zeb65lb9_FY/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "いいのいいの",
+        "rm": "Ii no ii no",
+        "en": "Ah, that's good, that's good! Teresa-chan is worried about...",
+        "audio": "audio/Zeb65lb9_FY/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "ペレサちゃんが心配してくれたら",
+        "rm": "Peresachan ga shinpai shite kuretara",
+        "en": "If you're worried about me, what's the big deal?",
+        "audio": "audio/Zeb65lb9_FY/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "なんのその",
+        "rm": "Nan no sono",
+        "en": "That's the way to do it.",
+        "audio": "audio/Zeb65lb9_FY/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "だよ",
+        "rm": "Da yo",
+        "en": "Ah! Ah! Ah! It hurts!",
+        "audio": "audio/Zeb65lb9_FY/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "痛いよ",
+        "rm": "Itai yo",
+        "en": "I'm going to cry, I'm going to cry!",
+        "audio": "audio/Zeb65lb9_FY/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "泣いちゃうよ",
+        "rm": "Naichau yo",
+        "en": "She's crying...",
+        "audio": "audio/Zeb65lb9_FY/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "じゃあ東京駅の",
+        "rm": "Jaa Tokyo eki no",
+        "en": "Huh? So, how do I get to Tokyo Station?",
+        "audio": "audio/Zeb65lb9_FY/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "乗り換えではぐれちゃったんだ",
+        "rm": "Norikae de wa gurechatta n da",
+        "en": "Translation of spoken Japanese dialogue from anime or TV.",
+        "audio": "audio/Zeb65lb9_FY/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "あれほど一人で行かないでと",
+        "rm": "Are hodo hitori de ikanaide to",
+        "en": "I want to tell you not to go there alone.",
+        "audio": "audio/Zeb65lb9_FY/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "言っておいたのに",
+        "rm": "Itte oita no ni",
+        "en": "I told you not to do that. I'm sorry.",
+        "audio": "audio/Zeb65lb9_FY/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "ごめんなさい",
+        "rm": "Gomen nasai",
+        "en": "I'm sorry, I got on the subway...",
+        "audio": "audio/Zeb65lb9_FY/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "地下鉄に乗った後",
+        "rm": "Chikatetsu ni notta ato",
+        "en": "After I got on the subway, I realized that Alex wasn't there.",
+        "audio": "audio/Zeb65lb9_FY/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "アレクがいないって気づいたんだけど",
+        "rm": "Areku ga inai tte kizuita n dakedo",
+        "en": "I realized I didn't have a friend, but I didn't want to go back.",
+        "audio": "audio/Zeb65lb9_FY/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "戻りたくてもお金もなかったの",
+        "rm": "Modoritakute mo okane mo nakatta no",
+        "en": "I wanted to go back, but I didn't have any money.",
+        "audio": "audio/Zeb65lb9_FY/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "でも後ろが見えたから",
+        "rm": "De mo ushiro ga mietakara",
+        "en": "I'm sorry. But...",
+        "audio": "audio/Zeb65lb9_FY/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "です",
+        "rm": "Desu",
+        "en": "But I could see the castle, so...",
+        "audio": "audio/Zeb65lb9_FY/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "しかし",
+        "rm": "Shikashi",
+        "en": "I-I just... Humans are the ones who make mistakes!",
+        "audio": "audio/Zeb65lb9_FY/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "犯した過ちは",
+        "rm": "Okashita ayamachi wa",
+        "en": "But, what is this strange mistake?",
+        "audio": "audio/Zeb65lb9_FY/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "人生という旅の中で",
+        "rm": "Jinsei to iu tabi no naka de",
+        "en": "The mistakes you made are part of the journey of life.",
+        "audio": "audio/Zeb65lb9_FY/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "ひとつの豊かさになるのです",
+        "rm": "Hitotsu no yutakasa ni naru no desu",
+        "en": "In a journey called life, there is only one way to be rich!",
+        "audio": "audio/Zeb65lb9_FY/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "おー",
+        "rm": "Oo",
+        "en": "It will become one's wealth!",
+        "audio": "audio/Zeb65lb9_FY/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "ひまわり急行恋する事件簿の",
+        "rm": "Himawari kyuukou koi suru jikenbo no",
+        "en": "If you have any questions or other problems, please post them in the comments.",
+        "audio": "audio/Zeb65lb9_FY/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "山村ぽあろうよしかの言葉ですよ",
+        "rm": "Sansonpo arou yoshi ka no kotoba desu yo",
+        "en": "An incident that makes you fall in love with Himawari Kyuko!",
+        "audio": "audio/Zeb65lb9_FY/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "恋する事件簿",
+        "rm": "Koi suru jikenbo",
+        "en": "YAMAMURA APUARO",
+        "audio": "audio/Zeb65lb9_FY/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "読みます",
+        "rm": "Yomimasu",
+        "en": "Those are Yoshiko's words! I love you...",
+        "audio": "audio/Zeb65lb9_FY/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "おかししますよ",
+        "rm": "Okashi shimasu yo",
+        "en": "I'll read the love story book. I'll read it!",
+        "audio": "audio/Zeb65lb9_FY/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "どうも",
+        "rm": "Dou mo",
+        "en": "Do you want to read it? I'll lend it to you.",
+        "audio": "audio/Zeb65lb9_FY/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "ていうか二人とも",
+        "rm": "Te iu ka futari to mo",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "日本語すっごい上手ですよね",
+        "rm": "Nippon go suggoi jouzu desu yo ne",
+        "en": "I mean, both of you are really good at Japanese.",
+        "audio": "audio/Zeb65lb9_FY/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "レインボー将軍を見て",
+        "rm": "Rainbow shougun wo mite",
+        "en": "But you're really good at Japanese, aren't you?",
+        "audio": "audio/Zeb65lb9_FY/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "覚えたんです",
+        "rm": "Oboeta n desu",
+        "en": "I remember seeing the Rainbow Shogun!",
+        "audio": "audio/Zeb65lb9_FY/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "えぇ",
+        "rm": "E",
+        "en": "That's how I remembered it.",
+        "audio": "audio/Zeb65lb9_FY/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "おじいちゃんもレインボー将軍",
+        "rm": "Ojiichan mo rainbow shougun",
+        "en": "I love you too, Rainbow Shogun!",
+        "audio": "audio/Zeb65lb9_FY/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "大好きだよね",
+        "rm": "Daisuki da yo ne",
+        "en": "You love Shogun Shinbo, don't you? Ah, I knew it!",
+        "audio": "audio/Zeb65lb9_FY/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "やはりこちらでも人気なんですね",
+        "rm": "Yahari kochira de mo ninki na n desu ne",
+        "en": "I knew it, this one is popular too!",
+        "audio": "audio/Zeb65lb9_FY/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "夕方再放送やってるよ",
+        "rm": "Yuugata saihousou yatteru yo",
+        "en": "I'm doing a rerun in the evening.",
+        "audio": "audio/Zeb65lb9_FY/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "みつよし",
+        "rm": "Mitsu yoshi",
+        "en": "That's what I'm doing.",
+        "audio": "audio/Zeb65lb9_FY/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "レインボー将軍って海外で放送してんの",
+        "rm": "Rainbow shougun tte kaigai de housou shiten no",
+        "en": "Is Rainbow Shogun airing overseas?",
+        "audio": "audio/Zeb65lb9_FY/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "さあ",
+        "rm": "Saa",
+        "en": "Are you delusional?",
+        "audio": "audio/Zeb65lb9_FY/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "てかテレサちゃんってさ",
+        "rm": "Te ka Teresachan tte sa",
+        "en": "Oh, by the way, Teresa-chan...",
+        "audio": "audio/Zeb65lb9_FY/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "どこの国の人なの",
+        "rm": "Doko no kuni no hito na no",
+        "en": "Where are you from?",
+        "audio": "audio/Zeb65lb9_FY/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "ラルゼンブルクですよ",
+        "rm": "Raruzenburuku desu yo",
+        "en": "This is Ralzendrug.",
+        "audio": "audio/Zeb65lb9_FY/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "えぇ",
+        "rm": "E",
+        "en": "It's the land of Yamamura Poirot and Yoshiko! Teral Semburu...",
+        "audio": "audio/Zeb65lb9_FY/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "ってラルゼンブルクってどこよ",
+        "rm": "Tte raruzenburuku tte doko yo",
+        "en": "Where did you get the arsenic?",
+        "audio": "audio/Zeb65lb9_FY/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "ヨーロッパにある小さな国で",
+        "rm": "Europa ni aru chiisana kuni de",
+        "en": "In a small country in Europe.",
+        "audio": "audio/Zeb65lb9_FY/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "緑と渓谷が",
+        "rm": "Midori to keikoku ga",
+        "en": "In such a small country, the greenery and the landscape are beautiful.",
+        "audio": "audio/Zeb65lb9_FY/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "美しい国なんだよ",
+        "rm": "Utsukushii kuni na n da yo",
+        "en": "It's a beautiful country, isn't it?",
+        "audio": "audio/Zeb65lb9_FY/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "なんかいいな",
+        "rm": "Nan ka ii na",
+        "en": "If you have any questions or other problems, please post them in the comments.",
+        "audio": "audio/Zeb65lb9_FY/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "行ってみたいな",
+        "rm": "Itte mitai na",
+        "en": "I want to go there! Don't you think, Mitsuyoshi?",
+        "audio": "audio/Zeb65lb9_FY/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "なぁみつよし",
+        "rm": "Na mitsu yoshi",
+        "en": "Isn't that right, Mitsuyoshi? Yeah, yeah...",
+        "audio": "audio/Zeb65lb9_FY/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "あそっか",
+        "rm": "A sok ka",
+        "en": "Oh, I see. You're a high school student.",
+        "audio": "audio/Zeb65lb9_FY/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "お前高所恐怖症だもんな",
+        "rm": "Omae kousho kyoufushou da mon na",
+        "en": "You're afraid of school, aren't you? That's why I...",
+        "audio": "audio/Zeb65lb9_FY/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "だからお兄ちゃん",
+        "rm": "Dakara oanichan",
+        "en": "That's why I'm scared of planes too, Onii-chan!",
+        "audio": "audio/Zeb65lb9_FY/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "飛行機も怖いんだよ",
+        "rm": "Hikou ki mo kowai n da yo",
+        "en": "I'm scared too, you know? I'm not scared at all.",
+        "audio": "audio/Zeb65lb9_FY/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "怖いわけじゃない",
+        "rm": "Kowai wake ja nai",
+        "en": "It's not that I don't like it. I just don't want to ride it. Same here.",
+        "audio": "audio/Zeb65lb9_FY/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "乗りたくないだけだ",
+        "rm": "Noritaku nai dake da",
+        "en": "It's the same!",
+        "audio": "audio/Zeb65lb9_FY/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "おかしいよね",
+        "rm": "Okashii yo ne",
+        "en": "That's weird, isn't it?",
+        "audio": "audio/Zeb65lb9_FY/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "ねえテレサちゃん",
+        "rm": "Nee Teresachan",
+        "en": "Right? Right, Teresa-chan?",
+        "audio": "audio/Zeb65lb9_FY/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "そろそろ置いとまおう",
+        "rm": "Sorosoro oito ma ou",
+        "en": "I'll be leaving soon.",
+        "audio": "audio/Zeb65lb9_FY/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "いずれ改めて",
+        "rm": "Izure aratamete",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "お礼に伺います",
+        "rm": "Orei ni ukagaimasu",
+        "en": "Once again, thank you for your help. We can't help you.",
+        "audio": "audio/Zeb65lb9_FY/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "皆様は片付けない",
+        "rm": "Minasama wa katazukenai",
+        "en": "I won't let you get away with this.",
+        "audio": "audio/Zeb65lb9_FY/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "受けたご恩は必ず",
+        "rm": "Uketa goon wa kanarazu",
+        "en": "I'll make sure to do that today. See you.",
+        "audio": "audio/Zeb65lb9_FY/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "では",
+        "rm": "De wa",
+        "en": "See you later. See you later!",
+        "audio": "audio/Zeb65lb9_FY/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "またね",
+        "rm": "Mata ne",
+        "en": "See you later! The beauty of a foreign country is also a good thing.",
+        "audio": "audio/Zeb65lb9_FY/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "異国の美女もいいもんだな",
+        "rm": "Ikoku no bijo mo ii mon da na",
+        "en": "Your beauty is also good.",
+        "audio": "audio/Zeb65lb9_FY/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "What? What?",
+        "audio": "audio/Zeb65lb9_FY/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "なになに",
+        "rm": "Naninani",
+        "en": "Eh? What? What? E-Juin, you...",
+        "audio": "audio/Zeb65lb9_FY/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "いい順位お前",
+        "rm": "Ii jun'i omae",
+        "en": "Hey, you're making a fool out of me.",
+        "audio": "audio/Zeb65lb9_FY/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "What!? What the hell is this!?",
+        "audio": "audio/Zeb65lb9_FY/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "なんじゃこりゃ",
+        "rm": "Nan ja korya",
+        "en": "What the hell is this? Ginza Ichi-",
+        "audio": "audio/Zeb65lb9_FY/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "銀座市のイケメがこんな顔になったら",
+        "rm": "Ginza shi no ikeme ga konna kao ni nattara",
+        "en": "The most handsome guy in Ginza would look like this!",
+        "audio": "audio/Zeb65lb9_FY/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "女の子たちが",
+        "rm": "Onnanokotachi ga",
+        "en": "If you make that face, the girls will cry!",
+        "audio": "audio/Zeb65lb9_FY/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "泣いちゃうだのか",
+        "rm": "Naichauda no ka",
+        "en": "Did you just say that? That's not true!",
+        "audio": "audio/Zeb65lb9_FY/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "そんなことないよ",
+        "rm": "Sonna koto nai yo",
+        "en": "That's not true! You're just like a girl's fandom, you're so cute!",
+        "audio": "audio/Zeb65lb9_FY/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "はとめパンダみたいでかわいいもん",
+        "rm": "Wa tome panda mitai de kawaii mon",
+        "en": "It's so cute, it looks like a panda. What? Really?",
+        "audio": "audio/Zeb65lb9_FY/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "え?まじで?いける?",
+        "rm": "E? maji de? ikeru?",
+        "en": "Really? Can you do it? Can you do it, Aza?",
+        "audio": "audio/Zeb65lb9_FY/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "アザいける?",
+        "rm": "Aza ikeru?",
+        "en": "Can you do it? Yeah, I can do it, I can do it. Can you do it?",
+        "audio": "audio/Zeb65lb9_FY/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "いけるいける",
+        "rm": "Ikeru ikeru",
+        "en": "Can you do it?",
+        "audio": "audio/Zeb65lb9_FY/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "どうしてこんなに人が",
+        "rm": "Dou shite konna ni hito ga",
+        "en": "Why are there so many people?",
+        "audio": "audio/Zeb65lb9_FY/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "多いのでしょうか",
+        "rm": "Ooi no deshou ka",
+        "en": "I wonder if there are a lot of people. At the end of Narsenburg...",
+        "audio": "audio/Zeb65lb9_FY/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "ラルゼンブルクの祭りの日より多いですよ",
+        "rm": "Raruzenburuku no matsuri no hi yori ooi desu yo",
+        "en": "It's a lot more than the day of the Alsenburg Festival.",
+        "audio": "audio/Zeb65lb9_FY/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "はぁ",
+        "rm": "Ha",
+        "en": "What?",
+        "audio": "audio/Zeb65lb9_FY/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "将軍のお城もそうだったわ",
+        "rm": "Shougun no oshiro mo sou datta wa",
+        "en": "The Shogun's castle was like that, too.",
+        "audio": "audio/Zeb65lb9_FY/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "雨にも降られて",
+        "rm": "Ame ni mo furarete",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "多田さんに助けていただかなかったら",
+        "rm": "Tadasan ni tasukete itadakanakattara",
+        "en": "If you hadn't helped Mr. Tada...",
+        "audio": "audio/Zeb65lb9_FY/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "アレクトも会えなかったかもね",
+        "rm": "Are Kuto mo aenakatta ka mo ne",
+        "en": "If I hadn't met Alex, I wouldn't have been able to meet him.",
+        "audio": "audio/Zeb65lb9_FY/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "会えなかったらどうするつもりだったんですか",
+        "rm": "Aenakattara dou suru tsumori datta n desu ka",
+        "en": "What were you going to do if you couldn't see me?",
+        "audio": "audio/Zeb65lb9_FY/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "テレサ様",
+        "rm": "Teresasama",
+        "en": "Teresa-sama. Yes?",
+        "audio": "audio/Zeb65lb9_FY/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "しっかりなさってください",
+        "rm": "Shikkari nasatte kudasai",
+        "en": "Yes, ma'am. Please do your best.",
+        "audio": "audio/Zeb65lb9_FY/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "あなたは",
+        "rm": "Anata wa",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "もっと自覚を持ってください",
+        "rm": "Motto jikaku wo motte kudasai",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Please have more self-awareness. Yes.",
+        "audio": "audio/Zeb65lb9_FY/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "気をつけます",
+        "rm": "Ki wo tsukemasu",
+        "en": "Okay, I'll be careful.",
+        "audio": "audio/Zeb65lb9_FY/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "聞いてますか?",
+        "rm": "Kiitemasu ka?",
+        "en": "Are you listening?",
+        "audio": "audio/Zeb65lb9_FY/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "おかしいですね",
+        "rm": "Okashii desu ne",
+        "en": "Are you ready? Yes! That's weird.",
+        "audio": "audio/Zeb65lb9_FY/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "このあたりのはずなんですね",
+        "rm": "Kono atari no hazu na n desu ne",
+        "en": "That's strange. It's supposed to be around here.",
+        "audio": "audio/Zeb65lb9_FY/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "ここさっき通った道じゃない?",
+        "rm": "Koko sakki kayotta michi ja nai?",
+        "en": "It's supposed to be around here. This place...",
+        "audio": "audio/Zeb65lb9_FY/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "それってレーチャルが書いてくれた地図?",
+        "rm": "Sore tte reecharu ga kaite kureta chizu?",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "The map Rachel wrote for me? Yes.",
+        "audio": "audio/Zeb65lb9_FY/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "難しいのね",
+        "rm": "Muzukashii no ne",
+        "en": "It's difficult.",
+        "audio": "audio/Zeb65lb9_FY/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "道吉",
+        "rm": "Dou kichi",
+        "en": "Don't worry about it. Mitsuyoshi!",
+        "audio": "audio/Zeb65lb9_FY/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "次の写真コンクール",
+        "rm": "Tsugi no shashin concours",
+        "en": "Mitsuyoshi, the next picture is a competition.",
+        "audio": "audio/Zeb65lb9_FY/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "テーマ何にした?",
+        "rm": "Theme nan ni shita?",
+        "en": "What is the theme of the new competition?",
+        "audio": "audio/Zeb65lb9_FY/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "まだ決めてない",
+        "rm": "Mada kimetenai",
+        "en": "I haven't decided yet. I don't...",
+        "audio": "audio/Zeb65lb9_FY/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "俺はやっぱ俺だな",
+        "rm": "Ore wa yappa ore da na",
+        "en": "After all, I am me.",
+        "audio": "audio/Zeb65lb9_FY/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "お前",
+        "rm": "Omae",
+        "en": "It's me. You... Every day, you're the only one...",
+        "audio": "audio/Zeb65lb9_FY/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "毎日自分ばっかり撮ってて",
+        "rm": "Mainichi jibun bakkari tottete",
+        "en": "I'm shooting myself every day, and it's not boring at all.",
+        "audio": "audio/Zeb65lb9_FY/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "つまんなくないか?",
+        "rm": "Tsuman naku nai ka?",
+        "en": "Isn't it boring? Not at all!",
+        "audio": "audio/Zeb65lb9_FY/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "全然",
+        "rm": "Zenzen",
+        "en": "My theme is too deep...",
+        "audio": "audio/Zeb65lb9_FY/seg_260.mp3"
+    },
+    {
+        "id": 261,
+        "jp": "俺ってテーマが深すぎて",
+        "rm": "Ore tte theme ga fuka sugite",
+        "en": "I can't express it that easily because it's too long.",
+        "audio": "audio/Zeb65lb9_FY/seg_261.mp3"
+    },
+    {
+        "id": 262,
+        "jp": "そう簡単に表現しきれないんだもん",
+        "rm": "Sou kantan ni hyougen shi kirenai n da mon",
+        "en": "I can't get over you. Well, today...",
+        "audio": "audio/Zeb65lb9_FY/seg_262.mp3"
+    },
+    {
+        "id": 263,
+        "jp": "まあ今日はアザもあるから",
+        "rm": "Maa kyou wa aza mo arukara",
+        "en": "Well, it might be interesting since there's a trap today.",
+        "audio": "audio/Zeb65lb9_FY/seg_263.mp3"
+    },
+    {
+        "id": 264,
+        "jp": "面白いかもな",
+        "rm": "Omoshiroi ka mo na",
+        "en": "This might be interesting. What's this?",
+        "audio": "audio/Zeb65lb9_FY/seg_264.mp3"
+    },
+    {
+        "id": 265,
+        "jp": "なあこれ",
+        "rm": "Naa kore",
+        "en": "Does this look like Teresa-chan?",
+        "audio": "audio/Zeb65lb9_FY/seg_265.mp3"
+    },
+    {
+        "id": 266,
+        "jp": "テレサちゃんに似てるね",
+        "rm": "Teresachan ni niteru ne",
+        "en": "Doesn't he look like him? It's him.",
+        "audio": "audio/Zeb65lb9_FY/seg_266.mp3"
+    },
+    {
+        "id": 267,
+        "jp": "本人だ",
+        "rm": "Honnin da",
+        "en": "It's him. What? Ah!",
+        "audio": "audio/Zeb65lb9_FY/seg_267.mp3"
+    },
+    {
+        "id": 268,
+        "jp": "あ!",
+        "rm": "A!",
+        "en": "Ah! Ah! It happened again!",
+        "audio": "audio/Zeb65lb9_FY/seg_268.mp3"
+    },
+    {
+        "id": 269,
+        "jp": "うわー偶然また会えるなんて",
+        "rm": "Uwaa guuzen mata aeru nante",
+        "en": "We're so lucky to meet each other again by chance!",
+        "audio": "audio/Zeb65lb9_FY/seg_269.mp3"
+    },
+    {
+        "id": 270,
+        "jp": "俺たちマジ運命の赤い糸で",
+        "rm": "Oretachi maji unmei no akai ito de",
+        "en": "I feel like I'm being tied up by a red thread of destiny!",
+        "audio": "audio/Zeb65lb9_FY/seg_270.mp3"
+    },
+    {
+        "id": 271,
+        "jp": "くれてたりしてー",
+        "rm": "Kurete tari shite-",
+        "en": "I don't want to be sucked in!",
+        "audio": "audio/Zeb65lb9_FY/seg_271.mp3"
+    },
+    {
+        "id": 272,
+        "jp": "なんてね",
+        "rm": "Nante ne",
+        "en": "I'm sorry. I'm sorry. I want to go here. I want to go here.",
+        "audio": "audio/Zeb65lb9_FY/seg_272.mp3"
+    },
+    {
+        "id": 273,
+        "jp": "くれて地図?",
+        "rm": "Kurete chizu?",
+        "en": "This is a map?",
+        "audio": "audio/Zeb65lb9_FY/seg_273.mp3"
+    },
+    {
+        "id": 274,
+        "jp": "グランドパレス銀座って",
+        "rm": "Grand palace Ginza tte",
+        "en": "It says Grand Palace Ginza",
+        "audio": "audio/Zeb65lb9_FY/seg_274.mp3"
+    },
+    {
+        "id": 275,
+        "jp": "書いてあるのでおそらく",
+        "rm": "Kaite aru no de osoraku",
+        "en": "I think it's a palace because it says it's a palace.",
+        "audio": "audio/Zeb65lb9_FY/seg_275.mp3"
+    },
+    {
+        "id": 276,
+        "jp": "宮殿だと思うのですが",
+        "rm": "Kyuuden da to omou no desuga",
+        "en": "I think it's a power outage. Power outage?",
+        "audio": "audio/Zeb65lb9_FY/seg_276.mp3"
+    },
+    {
+        "id": 277,
+        "jp": "宮殿?",
+        "rm": "Kyuuden?",
+        "en": "Palace? Yes. So that's where you're...",
+        "audio": "audio/Zeb65lb9_FY/seg_277.mp3"
+    },
+    {
+        "id": 278,
+        "jp": "そこがテレサちゃんたちの",
+        "rm": "Soko ga Teresachantachi no",
+        "en": "Is that where Teresa-chan and the others are staying?",
+        "audio": "audio/Zeb65lb9_FY/seg_278.mp3"
+    },
+    {
+        "id": 279,
+        "jp": "泊まるところ?",
+        "rm": "Tomaru tokoro?",
+        "en": "Are you going to stay here? Yes. Really?",
+        "audio": "audio/Zeb65lb9_FY/seg_279.mp3"
+    },
+    {
+        "id": 280,
+        "jp": "マジか",
+        "rm": "Maji ka",
+        "en": "Are you serious? Do you know her?",
+        "audio": "audio/Zeb65lb9_FY/seg_280.mp3"
+    },
+    {
+        "id": 281,
+        "jp": "ご存知なのですか?",
+        "rm": "Gozonji na no desu ka?",
+        "en": "You know, that is...",
+        "audio": "audio/Zeb65lb9_FY/seg_281.mp3"
+    },
+    {
+        "id": 282,
+        "jp": "ご存知です",
+        "rm": "Gozonji desu",
+        "en": "That's...",
+        "audio": "audio/Zeb65lb9_FY/seg_282.mp3"
+    },
+    {
+        "id": 283,
+        "jp": "それは",
+        "rm": "Sore wa",
+        "en": "Yup. It's here.",
+        "audio": "audio/Zeb65lb9_FY/seg_283.mp3"
+    },
+    {
+        "id": 284,
+        "jp": "ここです",
+        "rm": "Koko desu",
+        "en": "It's not like that! It's written on it, right?",
+        "audio": "audio/Zeb65lb9_FY/seg_284.mp3"
+    },
+    {
+        "id": 285,
+        "jp": "そんなまさか",
+        "rm": "Sonna masaka",
+        "en": "No way... could it be that this place is...",
+        "audio": "audio/Zeb65lb9_FY/seg_285.mp3"
+    },
+    {
+        "id": 286,
+        "jp": "ここがグランドパレス",
+        "rm": "Koko ga grand palace",
+        "en": "This is... Grand Palace...",
+        "audio": "audio/Zeb65lb9_FY/seg_286.mp3"
+    },
+    {
+        "id": 287,
+        "jp": "私は気に入りましたよ",
+        "rm": "Watakushi wa ki ni hairimashita yo",
+        "en": "Fufu Alec I like you Gra-",
+        "audio": "audio/Zeb65lb9_FY/seg_287.mp3"
+    },
+    {
+        "id": 288,
+        "jp": "グランドパレス銀座",
+        "rm": "Grand palace Ginza",
+        "en": "That's right. Grand Palace Ginza. Terus...",
+        "audio": "audio/Zeb65lb9_FY/seg_288.mp3"
+    },
+    {
+        "id": 289,
+        "jp": "テレサしかし",
+        "rm": "Teresa shikashi",
+        "en": "Teresa, but...",
+        "audio": "audio/Zeb65lb9_FY/seg_289.mp3"
+    },
+    {
+        "id": 290,
+        "jp": "お隣には美味しい",
+        "rm": "Otonari ni wa oishii",
+        "en": "However, there is a delicious coffee shop next door.",
+        "audio": "audio/Zeb65lb9_FY/seg_290.mp3"
+    },
+    {
+        "id": 291,
+        "jp": "コーヒー店もありますし",
+        "rm": "Coffeeten mo arimasushi",
+        "en": "There is also a delicious coffee shop, isn't it nice?",
+        "audio": "audio/Zeb65lb9_FY/seg_291.mp3"
+    },
+    {
+        "id": 292,
+        "jp": "いいじゃないですか",
+        "rm": "Iija nai desu ka",
+        "en": "Isn't that great? Huh? Yeah, yeah.",
+        "audio": "audio/Zeb65lb9_FY/seg_292.mp3"
+    },
+    {
+        "id": 293,
+        "jp": "そうそう",
+        "rm": "Sousou",
+        "en": "Yeah, yeah, that's right! Come over to drink anytime!",
+        "audio": "audio/Zeb65lb9_FY/seg_293.mp3"
+    },
+    {
+        "id": 294,
+        "jp": "いつでも飲みにおいでよ",
+        "rm": "Itsu de mo nomi ni oideyo",
+        "en": "Come over anytime to have a drink! Just at the coffee shop!",
+        "audio": "audio/Zeb65lb9_FY/seg_294.mp3"
+    },
+    {
+        "id": 295,
+        "jp": "ただコーヒー店に",
+        "rm": "Tada coffeeten ni",
+        "en": "I'm usually at the coffee shop, you know?",
+        "audio": "audio/Zeb65lb9_FY/seg_295.mp3"
+    },
+    {
+        "id": 296,
+        "jp": "俺も大体いるからさ",
+        "rm": "Ore mo daitai irukara sa",
+        "en": "Because I'm here?",
+        "audio": "audio/Zeb65lb9_FY/seg_296.mp3"
+    },
+    {
+        "id": 297,
+        "jp": "ありがとうございます",
+        "rm": "Arigatou gozaimasu",
+        "en": "Ah, no, just once in a while, you know. Thank you very much.",
+        "audio": "audio/Zeb65lb9_FY/seg_297.mp3"
+    },
+    {
+        "id": 298,
+        "jp": "今日は何から何まで",
+        "rm": "Kyou wa nan kara nan made",
+        "en": "Today, I'm going to show you a variety of things.",
+        "audio": "audio/Zeb65lb9_FY/seg_298.mp3"
+    },
+    {
+        "id": 299,
+        "jp": "いろいろと助けていただきまして",
+        "rm": "Iroiro to tasukete itadakimashite",
+        "en": "Thank you for helping me so much until now, I'm really...",
+        "audio": "audio/Zeb65lb9_FY/seg_299.mp3"
+    },
+    {
+        "id": 300,
+        "jp": "本当に片付けない",
+        "rm": "Hontou ni katazukenai",
+        "en": "I really can't do anything about it.",
+        "audio": "audio/Zeb65lb9_FY/seg_300.mp3"
+    },
+    {
+        "id": 301,
+        "jp": "これからも",
+        "rm": "Kore kara mo",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_301.mp3"
+    },
+    {
+        "id": 302,
+        "jp": "お隣の良しみで",
+        "rm": "Otonari no yoshi mi de",
+        "en": "Let's get along with each other with our neighbor Yoshimi.",
+        "audio": "audio/Zeb65lb9_FY/seg_302.mp3"
+    },
+    {
+        "id": 303,
+        "jp": "仲良くしようね",
+        "rm": "Nakayoku shiyou ne",
+        "en": "You're not an adult, are you?",
+        "audio": "audio/Zeb65lb9_FY/seg_303.mp3"
+    },
+    {
+        "id": 304,
+        "jp": "お前はお隣じゃないだろ",
+        "rm": "Omae wa otonari ja naidaro",
+        "en": "I'm not the only one, am I? Fufufu, I'm counting on you!",
+        "audio": "audio/Zeb65lb9_FY/seg_304.mp3"
+    },
+    {
+        "id": 305,
+        "jp": "よろしくお願いします",
+        "rm": "Yoroshiku onegai shimasu",
+        "en": "I'm looking forward to working with you. Oh, this is it. Meow.",
+        "audio": "audio/Zeb65lb9_FY/seg_305.mp3"
+    },
+    {
+        "id": 306,
+        "jp": "よく撮れてるか",
+        "rm": "Yoku toreteru ka",
+        "en": "You're good at filming, aren't you?",
+        "audio": "audio/Zeb65lb9_FY/seg_306.mp3"
+    },
+    {
+        "id": 307,
+        "jp": "どこかで見たことある気がしたけど",
+        "rm": "Doko ka de mita koto aru ki ga shitakedo",
+        "en": "I feel like I've seen this somewhere before.",
+        "audio": "audio/Zeb65lb9_FY/seg_307.mp3"
+    },
+    {
+        "id": 308,
+        "jp": "にゃんこびっく",
+        "rm": "Nyanko bik ku",
+        "en": "I thought so, but... Nyangovic.",
+        "audio": "audio/Zeb65lb9_FY/seg_308.mp3"
+    },
+    {
+        "id": 309,
+        "jp": "お前と同じ緑色だな",
+        "rm": "Omae to onaji midoriiro da na",
+        "en": "Nyangovic, it's the same green color as you.",
+        "audio": "audio/Zeb65lb9_FY/seg_309.mp3"
+    },
+    {
+        "id": 310,
+        "jp": "北極星ですよ",
+        "rm": "Hokkyoku hoshi desu yo",
+        "en": "It's the same green color as the other one.",
+        "audio": "audio/Zeb65lb9_FY/seg_310.mp3"
+    },
+    {
+        "id": 311,
+        "jp": "アレク",
+        "rm": "Areku",
+        "en": "You're a Bokkyokusei, Ari-kun.",
+        "audio": "audio/Zeb65lb9_FY/seg_311.mp3"
+    },
+    {
+        "id": 312,
+        "jp": "こんな明るい東京の",
+        "rm": "Konna akarui Tokyo no",
+        "en": "Hm? In such a bright Tokyo...",
+        "audio": "audio/Zeb65lb9_FY/seg_312.mp3"
+    },
+    {
+        "id": 313,
+        "jp": "空でも星が見えるのですね",
+        "rm": "Sora de mo hoshi ga mieru no desu ne",
+        "en": "Even in the bright Tokyo sky, I can see the stars.",
+        "audio": "audio/Zeb65lb9_FY/seg_313.mp3"
+    },
+    {
+        "id": 314,
+        "jp": "いつでも私たちを",
+        "rm": "Itsu de mo watakushitachi wo",
+        "en": "I can see the stars. I can see the stars.",
+        "audio": "audio/Zeb65lb9_FY/seg_314.mp3"
+    },
+    {
+        "id": 315,
+        "jp": "導いてくれる",
+        "rm": "Michibiite kureru",
+        "en": "You'll always be there for us.",
+        "audio": "audio/Zeb65lb9_FY/seg_315.mp3"
+    },
+    {
+        "id": 316,
+        "jp": "幸運の印です",
+        "rm": "Kouun no shirushi desu",
+        "en": "It's a sign of good luck.",
+        "audio": "audio/Zeb65lb9_FY/seg_316.mp3"
+    },
+    {
+        "id": 317,
+        "jp": "そうですね",
+        "rm": "Sou desu ne",
+        "en": "That's right.",
+        "audio": "audio/Zeb65lb9_FY/seg_317.mp3"
+    },
+    {
+        "id": 318,
+        "jp": "予想外なことだらけの",
+        "rm": "Yosougai na kotodarake no",
+        "en": "",
+        "audio": "audio/Zeb65lb9_FY/seg_318.mp3"
+    },
+    {
+        "id": 319,
+        "jp": "幕開けになりましたが",
+        "rm": "Makuake ni narimashitaga",
+        "en": "It's a lot of work, but...",
+        "audio": "audio/Zeb65lb9_FY/seg_319.mp3"
+    },
+    {
+        "id": 320,
+        "jp": "いつも心は虹色に",
+        "rm": "Itsu mo kokoro wa nijiiro ni",
+        "en": "My heart will always be rainbow-colored!",
+        "audio": "audio/Zeb65lb9_FY/seg_320.mp3"
+    },
+    {
+        "id": 321,
+        "jp": "ですよ",
+        "rm": "Desu yo",
+        "en": "Your heart will be rainbow-colored. The rainbow of admiration.",
+        "audio": "audio/Zeb65lb9_FY/seg_321.mp3"
+    },
+    {
+        "id": 322,
+        "jp": "憧れの日本は",
+        "rm": "Akogare no Nippon wa",
+        "en": "I'm sure you'll have a lot of fun in your long-awaited Japan.",
+        "audio": "audio/Zeb65lb9_FY/seg_322.mp3"
+    },
+    {
+        "id": 323,
+        "jp": "きっと楽しいことがいっぱいです",
+        "rm": "Kitto tanoshii koto ga ippai desu",
+        "en": "I'm sure there are a lot of fun things to do!",
+        "audio": "audio/Zeb65lb9_FY/seg_323.mp3"
+    }
+]
