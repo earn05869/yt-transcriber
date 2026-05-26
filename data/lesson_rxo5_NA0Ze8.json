@@ -1,0 +1,2921 @@
+[
+    {
+        "id": 1,
+        "jp": "ワグナさん、マグリットさん",
+        "rm": "Wagunasan, Magrittesan",
+        "en": "Wagnus-san, Magritte-san.",
+        "audio": "audio/rxo5_NA0Ze8/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "はい、えっと…",
+        "rm": "Hai, et to...",
+        "en": "Yes, um...",
+        "audio": "audio/rxo5_NA0Ze8/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "委員長の長谷川です",
+        "rm": "Iinchou no Hasegawa desu",
+        "en": "I'm the chairman of the committee, Hasegawa.",
+        "audio": "audio/rxo5_NA0Ze8/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "委員長の長谷川さん",
+        "rm": "Iinchou no Hasegawasan",
+        "en": "Director Hasegawa-san!",
+        "audio": "audio/rxo5_NA0Ze8/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "お二人は何の部活に入るか決めました?",
+        "rm": "Ofutari wa nan no bukatsu ni hairu ka kimemashita?",
+        "en": "Have you decided what club you want to join?",
+        "audio": "audio/rxo5_NA0Ze8/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "部活?あ、いえ",
+        "rm": "Bukatsu? a, ie",
+        "en": "A club? Oh, no...",
+        "audio": "audio/rxo5_NA0Ze8/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "もしよければ、これから見学しに行きませんか?",
+        "rm": "Moshi yokereba, kore kara kengaku shi ni ikimasen ka?",
+        "en": "If you don't mind, would you like to go sightseeing with me?",
+        "audio": "audio/rxo5_NA0Ze8/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "結構です、入るつもりはないので",
+        "rm": "Kekkou desu, hairu tsumori wa nai no de",
+        "en": "It's fine. I don't plan on joining.",
+        "audio": "audio/rxo5_NA0Ze8/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "そうなの?アレック",
+        "rm": "Sou na no? Arekku",
+        "en": "Is that so, Ari-kun?",
+        "audio": "audio/rxo5_NA0Ze8/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "そうなんですよ、テレサ",
+        "rm": "Sou na n desu yo, Teresa",
+        "en": "That's right, Teresa.",
+        "audio": "audio/rxo5_NA0Ze8/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "でも、うちの学校では高速で",
+        "rm": "De mo, uchi no gakkou de wa kousoku de",
+        "en": "But in my school...",
+        "audio": "audio/rxo5_NA0Ze8/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "全員どこかの部活に属さなければいけない決まりですけど",
+        "rm": "Zen'in doko ka no bukatsu ni zokusanakereba ikenai kimari desukedo",
+        "en": "It's a rule that everyone has to belong to some club under the law.",
+        "audio": "audio/rxo5_NA0Ze8/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "わかりました",
+        "rm": "Wakarimashita",
+        "en": "I understand.",
+        "audio": "audio/rxo5_NA0Ze8/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "よろしくお願いします",
+        "rm": "Yoroshiku onegai shimasu",
+        "en": "Hasegawa-san, I'm counting on you!",
+        "audio": "audio/rxo5_NA0Ze8/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "では",
+        "rm": "De wa",
+        "en": "Let's go.",
+        "audio": "audio/rxo5_NA0Ze8/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "演劇、美術、いろんな部活があるのね",
+        "rm": "Engeki, bijutsu, ironna bukatsu ga aru no ne",
+        "en": "Ballet, basketball, softball, swimming, theater, art, there are various clubs!",
+        "audio": "audio/rxo5_NA0Ze8/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "ダンスや吹奏楽とかどうですか?",
+        "rm": "Dance ya suisougaku to ka dou desu ka?",
+        "en": "What do you think about dancing and water music?",
+        "audio": "audio/rxo5_NA0Ze8/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "そうね、でもせっかく日本に来たんだから",
+        "rm": "Sou ne, de mo sekkaku Nippon ni kita n dakara",
+        "en": "Yeah, but since we're in Japan...",
+        "audio": "audio/rxo5_NA0Ze8/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "何か新しいことに挑戦してみたいわ",
+        "rm": "Nan ka atarashii koto ni chousen shite mitai wa",
+        "en": "I'd like to try something new!",
+        "audio": "audio/rxo5_NA0Ze8/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "サムライ?",
+        "rm": "Samurai?",
+        "en": "Samurai?",
+        "audio": "audio/rxo5_NA0Ze8/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "ピン先輩、今年の目標は?",
+        "rm": "Pin senpai, kotoshi no mokuhyou wa?",
+        "en": "Pin-senpai, what's your goal for this year?",
+        "audio": "audio/rxo5_NA0Ze8/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "もちろん、コンクール入賞を目指す",
+        "rm": "Mochiron, concours nyuushou wo mezasu",
+        "en": "Of course, I'll aim to win the competition.",
+        "audio": "audio/rxo5_NA0Ze8/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "それが、我ら戦う社進部の目標だ!",
+        "rm": "Sore ga, warera tatakau Shashin bu no mokuhyou da!",
+        "en": "That is the goal of our fighting division!",
+        "audio": "audio/rxo5_NA0Ze8/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "はい、コンクール入賞",
+        "rm": "Hai, concours nyuushou",
+        "en": "Here, please enter the competition.",
+        "audio": "audio/rxo5_NA0Ze8/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "それより、部員増やすとかの方がよくないっすか?",
+        "rm": "Sore yori, buin fuyasu to ka no hou ga yoku naissu ka?",
+        "en": "I think it's better to increase the number of members than to increase the number of members.",
+        "audio": "audio/rxo5_NA0Ze8/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "心配するな",
+        "rm": "Shinpai suru na",
+        "en": "Don't worry.",
+        "audio": "audio/rxo5_NA0Ze8/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "コンクールにセッセセッセと応募して",
+        "rm": "Concours ni sessesesse to oubo shite",
+        "en": "I will do my best in the competition",
+        "audio": "audio/rxo5_NA0Ze8/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "何かしらの賞を取れば",
+        "rm": "Nan kashira no shou wo toreba",
+        "en": "And then, if you win some kind of prize...",
+        "audio": "audio/rxo5_NA0Ze8/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "入部希望者であふれかえるだろう",
+        "rm": "Nyuubu kibousha de afurekaerudarou",
+        "en": "I'm sure I'll be overflowing with new-comers!",
+        "audio": "audio/rxo5_NA0Ze8/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "よって!",
+        "rm": "Yotte!",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "5月は春、7月は夢",
+        "rm": "5 tsuki wa haru, 7 tsuki wa yume",
+        "en": "May is spring, July is...",
+        "audio": "audio/rxo5_NA0Ze8/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "9月は星をテーマに",
+        "rm": "9 tsuki wa hoshi wo theme ni",
+        "en": "January is a dream, September is the theme of the stars.",
+        "audio": "audio/rxo5_NA0Ze8/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "ジャンジャン取りまくるのだ!",
+        "rm": "Janjan tori makuru no da!",
+        "en": "JAN JAN TORIMA KURUMA!",
+        "audio": "audio/rxo5_NA0Ze8/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "だってよ、三瀬",
+        "rm": "Da tte yo, Sanze",
+        "en": "That's right, Mitsuyoshi.",
+        "audio": "audio/rxo5_NA0Ze8/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "ああ、春、夢、星、春ね",
+        "rm": "Aa, haru, yume, hoshi, haru ne",
+        "en": "Yeah, I want a spring dream. Spring n-",
+        "audio": "audio/rxo5_NA0Ze8/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "いいか、諸君",
+        "rm": "Ii ka, shokun",
+        "en": "Do you understand, Master?",
+        "audio": "audio/rxo5_NA0Ze8/seg_36.mp3"
+    },
+    {
+        "id": 37,
+        "jp": "失礼します",
+        "rm": "Shitsurei shimasu",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "春といえば、ヌードだ!",
+        "rm": "Haru to ieba, nude da!",
+        "en": "Speaking of which, it's NUDE!",
+        "audio": "audio/rxo5_NA0Ze8/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "太鼓、母なる海から生命は生まれた",
+        "rm": "Taiko, haha naru umi kara seimei wa umareta",
+        "en": "Taiko, life has been born from the sea of mothers!",
+        "audio": "audio/rxo5_NA0Ze8/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "女性は命の象徴である",
+        "rm": "Josei wa inochi no shouchou de aru",
+        "en": "Women are the symbol of life!",
+        "audio": "audio/rxo5_NA0Ze8/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "諸君など命のきらめきを感じるべきではない",
+        "rm": "Shokun nado inochi no kirameki wo kanjirubekide wa nai",
+        "en": "All of you should feel the sparkle of life!",
+        "audio": "audio/rxo5_NA0Ze8/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "ピ、ピ、ピンセンパイ",
+        "rm": "Pi, pi, pin senpai",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "女体とは芸術である",
+        "rm": "Jotai to wa geijutsu de aru",
+        "en": "The Nioh team is art!",
+        "audio": "audio/rxo5_NA0Ze8/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "雇用なくめでて何が悪い!",
+        "rm": "Koyou naku medete nan ga warui!",
+        "en": "What's wrong with being happy all the time?",
+        "audio": "audio/rxo5_NA0Ze8/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "うん",
+        "rm": "Un",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "全入生の二人を見学に連れてきたんだけど",
+        "rm": "Zennyuusei no futari wo kengaku ni tsurete kita n dakedo",
+        "en": "I brought the two transfer students here for a visit, but...",
+        "audio": "audio/rxo5_NA0Ze8/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "次行きましょう",
+        "rm": "Tsugi ikimashou",
+        "en": "Let's go to the next one.",
+        "audio": "audio/rxo5_NA0Ze8/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "待って、待って、待って!",
+        "rm": "Matte, matte, matte!",
+        "en": "Wait, wait, wait!",
+        "audio": "audio/rxo5_NA0Ze8/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "ナイス・ト・ミーチュー",
+        "rm": "Nice/to/miichuu",
+        "en": "Nice to meet you.",
+        "audio": "audio/rxo5_NA0Ze8/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "写真部部長3年の",
+        "rm": "Shashin bu buchou 3 nen no",
+        "en": "I've been the director of the photography department for three years.",
+        "audio": "audio/rxo5_NA0Ze8/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "杉本はじめです",
+        "rm": "Sugimoto Hajime desu",
+        "en": "I'm Hajime Sugimoto.",
+        "audio": "audio/rxo5_NA0Ze8/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "以後お見知り置きを",
+        "rm": "Igo omishiri oki wo",
+        "en": "I'll be waiting for you.",
+        "audio": "audio/rxo5_NA0Ze8/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "通称、ピンセンパイです",
+        "rm": "Tsuushou, pin senpai desu",
+        "en": "His name is Pin-senpai.",
+        "audio": "audio/rxo5_NA0Ze8/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "はじめまして、ピンセンパイさん",
+        "rm": "Hajimemashite, Pinsenpaisan",
+        "en": "I'm Pin-senpai. Nice to meet you, Pin-senpai.",
+        "audio": "audio/rxo5_NA0Ze8/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "テレサ・ワーグナーです",
+        "rm": "Teresa/Wagner desu",
+        "en": "Senpai-san, tell the Wagner that...",
+        "audio": "audio/rxo5_NA0Ze8/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "アレクサンドラ・マグリットです",
+        "rm": "Arekusandora/Magritte desu",
+        "en": "It's Alexander Magritte.",
+        "audio": "audio/rxo5_NA0Ze8/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "どうぞ",
+        "rm": "Douzo",
+        "en": "Here you go.",
+        "audio": "audio/rxo5_NA0Ze8/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "何ですか?",
+        "rm": "Nan desu ka?",
+        "en": "What is it?",
+        "audio": "audio/rxo5_NA0Ze8/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "あ、それは?",
+        "rm": "A, sore wa?",
+        "en": "W-Well, that's...",
+        "audio": "audio/rxo5_NA0Ze8/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "ひなに触れるなど100年早い!",
+        "rm": "Hina ni fureru nado 100 nen hayai!",
+        "en": "It's 100 years too early for you to touch me!",
+        "audio": "audio/rxo5_NA0Ze8/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "すみません!",
+        "rm": "Sumimasen!",
+        "en": "I'm sorry! Hey! Why are you-",
+        "audio": "audio/rxo5_NA0Ze8/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "ちょっと!",
+        "rm": "Chotto!",
+        "en": "Oh, what's this all of a sudden?",
+        "audio": "audio/rxo5_NA0Ze8/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "何ですか、突然!",
+        "rm": "Nan desu ka, totsuzen!",
+        "en": "All of a sudden!",
+        "audio": "audio/rxo5_NA0Ze8/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "ごめんね、テレサちゃん",
+        "rm": "Gomen ne, Teresachan",
+        "en": "I-I'm sorry, Teru-",
+        "audio": "audio/rxo5_NA0Ze8/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "本当、そこにあるの全部",
+        "rm": "Hontou, soko ni aru no zenbu",
+        "en": "Hey, Teresa-chan, it's true! Everything over there is Pi-",
+        "audio": "audio/rxo5_NA0Ze8/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "ピンセンパイが大好きなグラビアアイドルのお宝でさ",
+        "rm": "Pin senpai ga daisuki na gravure idol no otakara de sa",
+        "en": "Pin-senpai's favorite, Gravure Idol's treasure!",
+        "audio": "audio/rxo5_NA0Ze8/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "大好きなグラビアアイドル?",
+        "rm": "Daisuki na gravure idol?",
+        "en": "What do you think? My favorite Gravure idol...",
+        "audio": "audio/rxo5_NA0Ze8/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "グラビアアイドルとはその",
+        "rm": "Gravure idol to wa sono",
+        "en": "What? How can you say I'm a Gravure idol?",
+        "audio": "audio/rxo5_NA0Ze8/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "説明しよう",
+        "rm": "Setsumei shiyou",
+        "en": "... Let me explain.",
+        "audio": "audio/rxo5_NA0Ze8/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "グラビアアイドルとは",
+        "rm": "Gravure idol to wa",
+        "en": "Gravier Idol Tour!",
+        "audio": "audio/rxo5_NA0Ze8/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "雑誌のグラビアページや写真集のモデルとして活躍し",
+        "rm": "Zasshi no gravure page ya shashinshuu no model to shite katsuyaku shi",
+        "en": "The Gravia page of the magazine plays a role as a model for the photo collection.",
+        "audio": "audio/rxo5_NA0Ze8/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "自分らしく可愛らしさを表現する女性アイドルのことである",
+        "rm": "Jibunrashiku kawairashisa wo hyougen suru josei idol no koto de aru",
+        "en": "It's about a female idol who expresses her own cuteness.",
+        "audio": "audio/rxo5_NA0Ze8/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "はい!",
+        "rm": "Hai!",
+        "en": "Yes, ma'am!",
+        "audio": "audio/rxo5_NA0Ze8/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "その中でもひなは",
+        "rm": "Sono naka de mo hina wa",
+        "en": "Even in this world, Hishino is...",
+        "audio": "audio/rxo5_NA0Ze8/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "日本を代表するトップオブトップな存在なのだ!",
+        "rm": "Nippon wo daihyou suru top of top na sonzai na no da!",
+        "en": "You are the top of the top who represents Japan!",
+        "audio": "audio/rxo5_NA0Ze8/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "トップオブトップな存在",
+        "rm": "Top of top na sonzai",
+        "en": "A top-of-the-top existence...",
+        "audio": "audio/rxo5_NA0Ze8/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "まあ、間違っちゃいないか",
+        "rm": "Maa, machigaccha inai ka",
+        "en": "... Ah! So basically this person is the Rainbow Shogun of the Gravure Idol Club! Eh? Well, you might be right...",
+        "audio": "audio/rxo5_NA0Ze8/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "そうとは知らず、大変!",
+        "rm": "Sou to wa shirazu, taihen!",
+        "en": "I don't know if that's the case, but...",
+        "audio": "audio/rxo5_NA0Ze8/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "うん",
+        "rm": "Un",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "なかなか聞き分けの良いナイスカールではないか",
+        "rm": "Nakanaka kikiwake no yoi nice curl de wa nai ka",
+        "en": "Isn't she a nice girl that's easy to listen to?",
+        "audio": "audio/rxo5_NA0Ze8/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "はあ",
+        "rm": "Haa",
+        "en": "Oh, no.",
+        "audio": "audio/rxo5_NA0Ze8/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "いや、僕もいきなり大声を出して失礼した",
+        "rm": "Iya, boku mo ikinari oogoe wo dashite shitsurei shita",
+        "en": "No, I'm sorry for being so loud all of a sudden.",
+        "audio": "audio/rxo5_NA0Ze8/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "我が戦う写真部へようこそ",
+        "rm": "Waga tatakau shashin bu e you koso",
+        "en": "Welcome to the photography club we're fighting for.",
+        "audio": "audio/rxo5_NA0Ze8/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "二人を熱烈に歓迎しよう",
+        "rm": "Futari wo netsuretsu ni kangei shiyou",
+        "en": "Let us welcome you warmly.",
+        "audio": "audio/rxo5_NA0Ze8/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "この二人を部員にすれば",
+        "rm": "Kono futari wo buin ni sureba",
+        "en": "If I turn these two into subordinates, I'll be able to...",
+        "audio": "audio/rxo5_NA0Ze8/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "武器も増格し",
+        "rm": "Buki mo zou kaku shi",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "ヌードモデルを頼む予算も燃出できるかもしれんしな",
+        "rm": "Nude model wo tanomu yosan mo Nende dekiru ka mo shirenshi na",
+        "en": "I might be able to make up for the cost of buying a nude model.",
+        "audio": "audio/rxo5_NA0Ze8/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "全部聞こえてるわよ、はじめちゃん",
+        "rm": "Zenbu kikoeteru wa yo, hajimechan",
+        "en": "I can hear everything, Hajime-chan.",
+        "audio": "audio/rxo5_NA0Ze8/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "やはり行きましょう",
+        "rm": "Yahari ikimashou",
+        "en": "I knew it. Let's go.",
+        "audio": "audio/rxo5_NA0Ze8/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "ここはうさん臭い匂いがプンプンしてます",
+        "rm": "Koko wa usankusai nioi ga punpun shitemasu",
+        "en": "This place smells like an umbrella.",
+        "audio": "audio/rxo5_NA0Ze8/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "ねえ、行っちゃうの?",
+        "rm": "Nee, icchau no?",
+        "en": "What? You're leaving?",
+        "audio": "audio/rxo5_NA0Ze8/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "素敵な写真",
+        "rm": "Suteki na shashin",
+        "en": "What a beautiful picture!",
+        "audio": "audio/rxo5_NA0Ze8/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "でしょでしょ",
+        "rm": "Deshodesho",
+        "en": "Isn't that right?",
+        "audio": "audio/rxo5_NA0Ze8/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "全部俺たちが撮った写真なんだよ",
+        "rm": "Zenbu oretachi ga totta shashin na n da yo",
+        "en": "These are all the photos we took!",
+        "audio": "audio/rxo5_NA0Ze8/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "な、みつよし",
+        "rm": "Na, mitsu yoshi",
+        "en": "Right, Mitsuyoshi? Yeah.",
+        "audio": "audio/rxo5_NA0Ze8/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Yeah.",
+        "audio": "audio/rxo5_NA0Ze8/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "この超かっこいい俺が俺ので",
+        "rm": "Kono choukakko ii ore ga ore no de",
+        "en": "This super cool me is my day",
+        "audio": "audio/rxo5_NA0Ze8/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "こっちがみつよし",
+        "rm": "Kotchi ga mitsu yoshi",
+        "en": "This is Mitsuyoshi.",
+        "audio": "audio/rxo5_NA0Ze8/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "素敵ですね",
+        "rm": "Suteki desu ne",
+        "en": "It's wonderful, isn't it? This is the pincer.",
+        "audio": "audio/rxo5_NA0Ze8/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "これがピン先輩",
+        "rm": "Kore ga pin senpai",
+        "en": "This is Pin-senpai! Ehh?",
+        "audio": "audio/rxo5_NA0Ze8/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "あと、これが委員長のね",
+        "rm": "Ato, kore ga iinchou no ne",
+        "en": "Huh? Also, this is the director's...",
+        "audio": "audio/rxo5_NA0Ze8/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "委員長?",
+        "rm": "Iinchou?",
+        "en": "Ah, Director?",
+        "audio": "audio/rxo5_NA0Ze8/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "長谷川さん、あなたも部員なのですか?",
+        "rm": "Hasegawasan, anata mo buin na no desu ka?",
+        "en": "Hasegawa-san, are you also a member of the club?",
+        "audio": "audio/rxo5_NA0Ze8/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "部員が足りないと敗部になるからと頼まれて",
+        "rm": "Buin ga tarinai to make bu ni narukara to tanomarete",
+        "en": "If we don't have enough members, we'll be disbanded, that's why we're being asked to do this.",
+        "audio": "audio/rxo5_NA0Ze8/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "仕方なく",
+        "rm": "Shikatanaku",
+        "en": "It can't be helped...",
+        "audio": "audio/rxo5_NA0Ze8/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "僕も仕方なく頼んだだけだ",
+        "rm": "Boku mo shikatanaku tanonda dake da",
+        "en": "I had no choice but to ask for it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "な、なに?",
+        "rm": "Na, nani?",
+        "en": "What? That girl...",
+        "audio": "audio/rxo5_NA0Ze8/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "その言い方",
+        "rm": "Sono iikata",
+        "en": "That's the way to say it...",
+        "audio": "audio/rxo5_NA0Ze8/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "事実を伝えたまでだ",
+        "rm": "Jijitsu wo tsutaeta made da",
+        "en": "Until I tell you the truth.",
+        "audio": "audio/rxo5_NA0Ze8/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "お二人は仲が悪いのですか?",
+        "rm": "Ofutari wa naka ga warui no desu ka?",
+        "en": "You two don't get along...",
+        "audio": "audio/rxo5_NA0Ze8/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "大丈夫、大丈夫",
+        "rm": "Daijoubu, daijoubu",
+        "en": "Are you two not getting along?",
+        "audio": "audio/rxo5_NA0Ze8/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "いつもあんな感じだから",
+        "rm": "Itsu mo anna kanji dakara",
+        "en": "It's okay. It's always like that.",
+        "audio": "audio/rxo5_NA0Ze8/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "ああ、この前の写真だ",
+        "rm": "Aa, kono mae no shashin da",
+        "en": "Yeah, just like this.",
+        "audio": "audio/rxo5_NA0Ze8/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Let's take a picture. Yes!",
+        "audio": "audio/rxo5_NA0Ze8/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "撮られる方が多かったから",
+        "rm": "Torareru hou ga ookattakara",
+        "en": "Yes! Hey, Are-kun! I want to take a picture like this too! What? I've never taken a picture like this before...",
+        "audio": "audio/rxo5_NA0Ze8/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "せっかくのチャンスだし",
+        "rm": "Sekkaku no chance dashi",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "私も挑戦してみたいの",
+        "rm": "Watakushi mo chousen shite mitai no",
+        "en": "I'll challenge it too!",
+        "audio": "audio/rxo5_NA0Ze8/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "しかし",
+        "rm": "Shikashi",
+        "en": "I want to try it! But...",
+        "audio": "audio/rxo5_NA0Ze8/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "まずは体験入部という手もありますよ",
+        "rm": "Mazu wa taiken nyuubu to iu te mo arimasu yo",
+        "en": "First of all, I'd like to introduce you to the experience department.",
+        "audio": "audio/rxo5_NA0Ze8/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "体験入部?",
+        "rm": "Taiken nyuubu?",
+        "en": "This video is a derivative work of the Touhou Project.",
+        "audio": "audio/rxo5_NA0Ze8/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "そうだよ",
+        "rm": "Sou da yo",
+        "en": "Oh, that's right!",
+        "audio": "audio/rxo5_NA0Ze8/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "いいじゃん",
+        "rm": "Ii jan",
+        "en": "That's right!",
+        "audio": "audio/rxo5_NA0Ze8/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "せっかく写真に興味持ったんだら",
+        "rm": "Sekkaku shashin ni kyoumi motta n dara",
+        "en": "That's good! I'm interested in the photo!",
+        "audio": "audio/rxo5_NA0Ze8/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "体験入部",
+        "rm": "Taiken nyuubu",
+        "en": "If you enjoyed this video, please give it a thumbs up!",
+        "audio": "audio/rxo5_NA0Ze8/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "ねえ、みつよし",
+        "rm": "Nee, mitsu yoshi",
+        "en": "Experience Newb! Right, Mutsuyoshi? Yeah.",
+        "audio": "audio/rxo5_NA0Ze8/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Let's go, Mitsuyoshi! Yeah.",
+        "audio": "audio/rxo5_NA0Ze8/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "ピン先輩",
+        "rm": "Pin senpai",
+        "en": "Yeah. Pin-senpai!",
+        "audio": "audio/rxo5_NA0Ze8/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "そうだな",
+        "rm": "Sou da na",
+        "en": "That's right.",
+        "audio": "audio/rxo5_NA0Ze8/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "どうだよかったら",
+        "rm": "Dou da yokattara",
+        "en": "What do you think?",
+        "audio": "audio/rxo5_NA0Ze8/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "一日体験してみるかい?",
+        "rm": "Ichi nichi taiken shite miru ka i?",
+        "en": "If you want, you can experience it for a day.",
+        "audio": "audio/rxo5_NA0Ze8/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Are you ready? Yes!",
+        "audio": "audio/rxo5_NA0Ze8/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "アレック、お願い",
+        "rm": "Arekku, onegai",
+        "en": "Alex, please!",
+        "audio": "audio/rxo5_NA0Ze8/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "では",
+        "rm": "De wa",
+        "en": "Ah... Sigh... Well then, let's go to bed.",
+        "audio": "audio/rxo5_NA0Ze8/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "お試しさせていただいてから",
+        "rm": "Otameshi sasete itadaite kara",
+        "en": "Well then, I'll let you try it out first.",
+        "audio": "audio/rxo5_NA0Ze8/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "よく考えましょう",
+        "rm": "Yoku kangaemashou",
+        "en": "Let's think about it after you hear it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "アレック、ありがとう",
+        "rm": "Arekku, arigatou",
+        "en": "Ah! Thank you, Ale-kun!",
+        "audio": "audio/rxo5_NA0Ze8/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "キャメラの歴史は非常に古い",
+        "rm": "Camera no rekishi wa hijou ni furui",
+        "en": "The camera's history is very...",
+        "audio": "audio/rxo5_NA0Ze8/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "紀元前に壁に穴が開いただけの暗い部屋から始まった",
+        "rm": "Kigen mae ni kabe ni ana ga hiraita dake no kurai heya kara hajimatta",
+        "en": "It started from a dark room with a hole in the wall just before dawn.",
+        "audio": "audio/rxo5_NA0Ze8/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "そこからば",
+        "rm": "Soko karaba",
+        "en": "What?! What the hell?!",
+        "audio": "audio/rxo5_NA0Ze8/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "そして1839年",
+        "rm": "Soshite 1839 nen",
+        "en": "And then, in 1839...",
+        "audio": "audio/rxo5_NA0Ze8/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "次行こう、みつよし",
+        "rm": "Tsugi ikou, mitsu yoshi",
+        "en": "Let's go to the next one, Mitsuyoshi!",
+        "audio": "audio/rxo5_NA0Ze8/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "カメラを扱うにあたって覚えておくことは",
+        "rm": "Camera wo atsukau ni atatte oboete oku koto wa",
+        "en": "I'll keep this in mind when it comes to handling cameras.",
+        "audio": "audio/rxo5_NA0Ze8/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "F値、シャッター速度、ISO感度、あとホワイトバランスです",
+        "rm": "Fchi, shutter sokudo, ISO kando, ato white balance desu",
+        "en": "F-channel, shutter speed, ISO sensitivity, and white balance.",
+        "audio": "audio/rxo5_NA0Ze8/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "それいきなり難しすぎね",
+        "rm": "Sore ikinari muzukashisugi ne",
+        "en": "That was way too difficult!",
+        "audio": "audio/rxo5_NA0Ze8/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "そうか",
+        "rm": "Sou ka",
+        "en": "Is that so?",
+        "audio": "audio/rxo5_NA0Ze8/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "細けいことは置いといて",
+        "rm": "Hoso keiko to wa oitoite",
+        "en": "Is that so? Leave the details to me!",
+        "audio": "audio/rxo5_NA0Ze8/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "まずは楽しくジャンジャン撮ろうぜ",
+        "rm": "Mazu wa tanoshiku janjan torou ze",
+        "en": "First, let's have fun and take a picture!",
+        "audio": "audio/rxo5_NA0Ze8/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "だったら",
+        "rm": "Dattara",
+        "en": "If that's the case...",
+        "audio": "audio/rxo5_NA0Ze8/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "アレがいいんじゃないですか?",
+        "rm": "Are ga ii n ja nai desu ka?",
+        "en": "I think that's a good idea.",
+        "audio": "audio/rxo5_NA0Ze8/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "うん",
+        "rm": "Un",
+        "en": "Huh?",
+        "audio": "audio/rxo5_NA0Ze8/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "君たちには我が部からキャメラを貸し与えよう",
+        "rm": "Kimitachi ni wa waga bu kara camera wo kashiataeyou",
+        "en": "I'll hand over the camera to you from my club.",
+        "audio": "audio/rxo5_NA0Ze8/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "ありがとうございます",
+        "rm": "Arigatou gozaimasu",
+        "en": "Thank you very much!",
+        "audio": "audio/rxo5_NA0Ze8/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "ということで",
+        "rm": "To iu koto de",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "諸君",
+        "rm": "Shokun",
+        "en": "And with that, everyone!",
+        "audio": "audio/rxo5_NA0Ze8/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "これから写真部伝統の",
+        "rm": "Kore kara shashin bu dentou no",
+        "en": "Everyone, from now on, the Shashin Bu Tentou...",
+        "audio": "audio/rxo5_NA0Ze8/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "アレを実施する",
+        "rm": "Are wo jisshi suru",
+        "en": "I will carry out the tradition of the Shashin Buu!",
+        "audio": "audio/rxo5_NA0Ze8/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "アレ?",
+        "rm": "Are?",
+        "en": "I'm going to kill you! What?",
+        "audio": "audio/rxo5_NA0Ze8/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "移住員さんは人気者なのですね",
+        "rm": "Ijuuinsan wa ninkisha na no desu ne",
+        "en": "Ijuin-san is a popular person, isn't she?",
+        "audio": "audio/rxo5_NA0Ze8/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "分かっちゃった?",
+        "rm": "Wakacchatta?",
+        "en": "Did you get it?",
+        "audio": "audio/rxo5_NA0Ze8/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "タデ食う虫も好き好き",
+        "rm": "Ta de kuu mushi mo sukizuki",
+        "en": "Did you get it? Even the insects that eat the seeds don't like it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "俺好き嫌いないぜ",
+        "rm": "Ore sukikirai nai ze",
+        "en": "What? I don't hate you!",
+        "audio": "audio/rxo5_NA0Ze8/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "タダ、山下県を呼んでくれ",
+        "rm": "Tada, Yamashita ken wo yonde kure",
+        "en": "I'm just going to call Yamashita-ken.",
+        "audio": "audio/rxo5_NA0Ze8/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "分かりました",
+        "rm": "Wakarimashita",
+        "en": "Call the police. Understood.",
+        "audio": "audio/rxo5_NA0Ze8/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "タダ先輩、呼びました?",
+        "rm": "Tada senpai, yobimashita?",
+        "en": "Taro-senpai, did you call me?",
+        "audio": "audio/rxo5_NA0Ze8/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "呼んだ",
+        "rm": "Yonda",
+        "en": "Did you call me? I did.",
+        "audio": "audio/rxo5_NA0Ze8/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "紹介しよう",
+        "rm": "Shoukai shiyou",
+        "en": "I called you. Let me introduce you.",
+        "audio": "audio/rxo5_NA0Ze8/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "こいつも写真部の部員で、新人の",
+        "rm": "Koitsu mo shashin bu no buin de, shinjin no",
+        "en": "Let me introduce him. He's also a member of the photography department.",
+        "audio": "audio/rxo5_NA0Ze8/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "山下健太郎、一年です",
+        "rm": "Yamashita Kentarou, ichi nen desu",
+        "en": "A newcomer? Yamashita Kentaro, one year...",
+        "audio": "audio/rxo5_NA0Ze8/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "どぼん",
+        "rm": "Dobon",
+        "en": "It's been a year!",
+        "audio": "audio/rxo5_NA0Ze8/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "初めまして",
+        "rm": "Hajimemashite",
+        "en": "Hello! Hello. Nice to meet you.",
+        "audio": "audio/rxo5_NA0Ze8/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "どこにいてもタダの指笛には必ず反応する",
+        "rm": "Doko ni ite mo tada no yubibue ni wa kanarazu hannou suru",
+        "en": "It's nice to meet you. Wherever you are, you'll always be able to react to a simple whistle.",
+        "audio": "audio/rxo5_NA0Ze8/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "ついたあだ名は山下健",
+        "rm": "Tsuita adana wa Yamashita Ken",
+        "en": "I will definitely react to it. My nickname is Yamashita-",
+        "audio": "audio/rxo5_NA0Ze8/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "というか呼ばれる前に来とうけよ、部活",
+        "rm": "To iu ka yobareru mae ni ki to ukeyo, bukatsu",
+        "en": "My name is Yamashita Ken. Or rather, come before I call you, club member.",
+        "audio": "audio/rxo5_NA0Ze8/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "いやー、今日はポカポカ陽気だから",
+        "rm": "Iyaa, kyou wa pokapoka youki dakara",
+        "en": "Good luck with your club activities.",
+        "audio": "audio/rxo5_NA0Ze8/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "うっかり庭で昼にしてました",
+        "rm": "Ukkari niwa de hiru ni shitemashita",
+        "en": "Today, I'm in a warm place, so I took a break in the garden.",
+        "audio": "audio/rxo5_NA0Ze8/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "よく寝た",
+        "rm": "Yoku neta",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "本当に犬みたいですね",
+        "rm": "Hontou ni inu mitai desu ne",
+        "en": "I want to sleep. She really looks like a dog.",
+        "audio": "audio/rxo5_NA0Ze8/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "みんなとっても面白い人たちです",
+        "rm": "Minna tottemo omoshiroi hitotachi desu",
+        "en": "I want to see it too. They're all very interesting people.",
+        "audio": "audio/rxo5_NA0Ze8/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "面白いというか",
+        "rm": "Omoshiroi to iu ka",
+        "en": "They are very interesting people. Not interesting, but...",
+        "audio": "audio/rxo5_NA0Ze8/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "すみません、あなたが謝ることでは",
+        "rm": "Sumimasen, anata ga ayamaru koto de wa",
+        "en": "It's rather interesting. I'm sorry. You don't have to apologize.",
+        "audio": "audio/rxo5_NA0Ze8/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "では、全員揃ったので始めるぞ",
+        "rm": "De wa, zen'in sorotta no de hajimeru zo",
+        "en": "If you apologize... Well then, since everyone's here, let's get started.",
+        "audio": "audio/rxo5_NA0Ze8/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "いい写真撮ったら勝ちよ",
+        "rm": "Ii shashin tottara kachi yo",
+        "en": "Let's get started! If you take a good picture, you win!",
+        "audio": "audio/rxo5_NA0Ze8/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "チーム対抗撮影バトル",
+        "rm": "Team taikou satsuei battle",
+        "en": "If you win the first round, you win! Team Taiko Zatsuei Battle!",
+        "audio": "audio/rxo5_NA0Ze8/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "え、なんですか?",
+        "rm": "E, nan desu ka?",
+        "en": "Wow! Huh? What is it?",
+        "audio": "audio/rxo5_NA0Ze8/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "写真技術の向上と部員の結束を高めることを目的とした",
+        "rm": "Shashin gijutsu no koujou to buin no kessoku wo takameru koto wo mokuteki to shita",
+        "en": "What is it? The purpose is to improve the improvement of photography technology and improve the unity of the members.",
+        "audio": "audio/rxo5_NA0Ze8/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "写真部伝統行事だ",
+        "rm": "Shashin bu dentou gyouji da",
+        "en": "It is a traditional business of the photography department that aims to improve the quality of the video.",
+        "audio": "audio/rxo5_NA0Ze8/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "制限時間は1時間",
+        "rm": "Seigen jikan wa 1 jikan",
+        "en": "It's a traditional business in the headquarters. The time limit is one hour.",
+        "audio": "audio/rxo5_NA0Ze8/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "AとB、2チームに分かれ",
+        "rm": "A to B, 2 team ni wakare",
+        "en": "The time limit is one hour. A and B.",
+        "audio": "audio/rxo5_NA0Ze8/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "15分かける4セットで相手チームの誰かを写真に撮る",
+        "rm": "15 fun kakeru 4 set de aite team no dare ka wo shashin ni toru",
+        "en": "A and B, split into two teams, and in a 15-minute 4-set, take a picture of the other team's partner.",
+        "audio": "audio/rxo5_NA0Ze8/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "最後に全員で品評会を実施",
+        "rm": "Saigo ni zen'in de hinpyou kai wo jisshi",
+        "en": "I'm going to take a picture of everyone. At the end, everyone...",
+        "audio": "audio/rxo5_NA0Ze8/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "いい写真を撮ったチームの勝利となる",
+        "rm": "Ii shashin wo totta team no shouri to naru",
+        "en": "In the end, everyone held a draw, and the winner of the team with the best picture was...",
+        "audio": "audio/rxo5_NA0Ze8/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "ただし、ボケた写真はダメ",
+        "rm": "Tadashi, boketa shashin wa dame",
+        "en": "It will be the victory of the team that took the picture. However, you can't take a picture that is stupid.",
+        "audio": "audio/rxo5_NA0Ze8/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "見切れ写真もアウト",
+        "rm": "Mikire shashin mo out",
+        "en": "You can't take a picture that's lost. You can't take a picture that's lost.",
+        "audio": "audio/rxo5_NA0Ze8/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "相手チームに触ることも禁止",
+        "rm": "Aite team ni sawaru koto mo kinshi",
+        "en": "You're not allowed to touch your opponent's team even if you see a picture of a cut.",
+        "audio": "audio/rxo5_NA0Ze8/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "正々堂々戦うことが絶対条件だ",
+        "rm": "Seisei doudou tatakau koto ga zettai jouken da",
+        "en": "You're not allowed to fight outside either. Fight fair and square!",
+        "audio": "audio/rxo5_NA0Ze8/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "はい、承知しました",
+        "rm": "Hai, shouchi shimashita",
+        "en": "It is an absolute condition to fight! Yes! I understand.",
+        "audio": "audio/rxo5_NA0Ze8/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "そしてチーム分けはこれで",
+        "rm": "Soshite team wake wa kore de",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "結果、Aチームが俺と山下と",
+        "rm": "Kekka, A team ga ore to Yamashita to",
+        "en": "And that's the end of the team split. Bye!",
+        "audio": "audio/rxo5_NA0Ze8/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "私です",
+        "rm": "Watakushi desu",
+        "en": "The result is...",
+        "audio": "audio/rxo5_NA0Ze8/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "Bチームがピン先輩と委員長、移住員と",
+        "rm": "B team ga pin senpai to iinchou, ijuuin to",
+        "en": "Or rather, if Team A is me and Yamashita... It's me! ...and Team B is...",
+        "audio": "audio/rxo5_NA0Ze8/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "アレックさん",
+        "rm": "Arekkusan",
+        "en": "Team B will be in charge of the meeting with Pin-senpai.",
+        "audio": "audio/rxo5_NA0Ze8/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "あれ?3対4ってなんか数的にこっちが不利なんじゃ",
+        "rm": "Are?3 tai 4 tte nan ka kazuteki ni kotchi ga furi na n ja",
+        "en": "Alex-san... Huh? What's 3 and 4?",
+        "audio": "audio/rxo5_NA0Ze8/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "人数が少ないチームは撮る枚数も減るが",
+        "rm": "Ninzuu ga sukunai team wa toru maisuu mo heruga",
+        "en": "3 vs. 4 is a disadvantage in terms of numbers, isn't it?",
+        "audio": "audio/rxo5_NA0Ze8/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "取られる枚数も減る",
+        "rm": "Torareru maisuu mo heru",
+        "en": "Ignore what is spoken.",
+        "audio": "audio/rxo5_NA0Ze8/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "どちらが不利とは一概には言えない",
+        "rm": "Dochira ga furi to wa ichigai ni wa ienai",
+        "en": "The number of times you take a picture is also reduced, but the number of times you take a picture is also reduced.",
+        "audio": "audio/rxo5_NA0Ze8/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "さすが先輩、了解っす!",
+        "rm": "Sasuga senpai, ryoukai ssu!",
+        "en": "The number of times you get caught is also reduced, so it doesn't matter which one is a foul.",
+        "audio": "audio/rxo5_NA0Ze8/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "じゃ、3時半になったらゲーム開始でいいですか",
+        "rm": "Ja, 3 ji han ni nattara game kaishi de ii desu ka",
+        "en": "I can't say for sure that this is a disadvantage. As you wish, senpai! Roger!",
+        "audio": "audio/rxo5_NA0Ze8/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "あぁ、先攻はただ立ち、Aチームで",
+        "rm": "A, senkou wa tada tachi, A team de",
+        "en": "Understood! Well then, when it's 3.30, let's start the game.",
+        "audio": "audio/rxo5_NA0Ze8/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "よし、僕たちは逃げるぞ",
+        "rm": "Yoshi, bokutachi wa nigeru zo",
+        "en": "Well then, shall we start the game? Yeah, the first move is Tadatachi",
+        "audio": "audio/rxo5_NA0Ze8/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "ラージュア!",
+        "rm": "Raajua!",
+        "en": "The first is Tadatachi, A-Team.",
+        "audio": "audio/rxo5_NA0Ze8/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "よし、行くぞ!",
+        "rm": "Yoshi, iku zo!",
+        "en": "Team A. All right. We're going to run away...",
+        "audio": "audio/rxo5_NA0Ze8/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "はい!",
+        "rm": "Hai!",
+        "en": "We're going to run away, Raja!",
+        "audio": "audio/rxo5_NA0Ze8/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "了解っす",
+        "rm": "Ryoukai ssu",
+        "en": "Roger!",
+        "audio": "audio/rxo5_NA0Ze8/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "最初は隠れてる奴らを見つけることから始まる",
+        "rm": "Saisho wa kakureteru yatsura wo mitsukeru koto kara hajimaru",
+        "en": "Alright, let's go! Yes! Roger!",
+        "audio": "audio/rxo5_NA0Ze8/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "Bチームはまとまっているとは限らない",
+        "rm": "B team wa matomatte iru to wa kagiranai",
+        "en": "Let's go! First, we need to find the guys who are hiding.",
+        "audio": "audio/rxo5_NA0Ze8/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "遭遇したら一瞬だ、構えておけよ",
+        "rm": "Souguu shitara isshun da, kamaete okeyo",
+        "en": "Let's start by finding the B team. I didn't think the B team was all together.",
+        "audio": "audio/rxo5_NA0Ze8/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "はい!",
+        "rm": "Hai!",
+        "en": "Team B isn't the only one that's in sync.",
+        "audio": "audio/rxo5_NA0Ze8/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "相遇したら一瞬だ 構えておけよ",
+        "rm": "Aiguushitara isshun da kamaete okeyo",
+        "en": "I don't doubt it. If we run into each other, it'll be over in a flash. Keep your guard up.",
+        "audio": "audio/rxo5_NA0Ze8/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Keep that in mind. Yes, sir!",
+        "audio": "audio/rxo5_NA0Ze8/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "アレクさんの匂いがします",
+        "rm": "Arekusan no nioi ga shimasu",
+        "en": "Yes? I can smell Alec-san.",
+        "audio": "audio/rxo5_NA0Ze8/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "ほんとです",
+        "rm": "Honto desu",
+        "en": "I'll take care of it. Really?",
+        "audio": "audio/rxo5_NA0Ze8/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "もらった!",
+        "rm": "Moratta!",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "なに?",
+        "rm": "Nani?",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "すげえ! なに今の素早さ? 忍者すか?",
+        "rm": "Sugee! nani ima no subayasa? ninja su ka?",
+        "en": "What? Amazing! What was that speed? Are you a ninja?",
+        "audio": "audio/rxo5_NA0Ze8/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "だめだ なんだかわからない",
+        "rm": "Dame da nan da ka wakaranai",
+        "en": "It's no good. I don't know what's going on.",
+        "audio": "audio/rxo5_NA0Ze8/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "さすがアレク クノイチみたいです",
+        "rm": "Sasuga Areku kunoichi mitai desu",
+        "en": "I don't know what it is. As expected of you, Riku! You're like Kunoichi!",
+        "audio": "audio/rxo5_NA0Ze8/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "どっちの味方なんすか?",
+        "rm": "Dotchi no mikata na n su ka?",
+        "en": "It looks like we're on the same page. Which side are you on?",
+        "audio": "audio/rxo5_NA0Ze8/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "残り5分だ",
+        "rm": "Nokori 5 fun da",
+        "en": "5 minutes left.",
+        "audio": "audio/rxo5_NA0Ze8/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "ただ先輩 自分に考えがあるんで任せてください",
+        "rm": "Tada senpai jibun ni kangae ga aru n de makasete kudasai",
+        "en": "Only five minutes left. Tadase-senpai, I have an idea, so leave it to me.",
+        "audio": "audio/rxo5_NA0Ze8/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "おそらくBチームはそろそろ合流するはずです",
+        "rm": "Osoraku B team wa sorosoro gouryuu suru hazu desu",
+        "en": "Please leave it to me. I think Team B is about to...",
+        "audio": "audio/rxo5_NA0Ze8/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "なるほど 合流場所で待ち伏せすれば",
+        "rm": "Naruhodo gouryuu basho de machibuse sureba",
+        "en": "We should be able to meet soon. I see. Meet...",
+        "audio": "audio/rxo5_NA0Ze8/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "その通りっす",
+        "rm": "Sono toori ssu",
+        "en": "I'll be waiting for you at the meeting place.",
+        "audio": "audio/rxo5_NA0Ze8/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "でもどこに?",
+        "rm": "De mo doko ni?",
+        "en": "If you have a meeting at a meeting place, that's right. But where is it?",
+        "audio": "audio/rxo5_NA0Ze8/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "もし僕たちが合流場所を決めるとしたら?",
+        "rm": "Moshi bokutachi ga gouryuu basho wo kimeru to shitara?",
+        "en": "But where is it? If we decide where to meet...",
+        "audio": "audio/rxo5_NA0Ze8/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "やはり中庭だったか",
+        "rm": "Yahari nakaniwa datta ka",
+        "en": "What if we decide on a meeting place? I knew it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "確かに ここなら逃げやすくて見つかりにくいです",
+        "rm": "Tashika ni koko nara nigeyasukute mitsukarinikui desu",
+        "en": "So it was the courtyard after all. That's right. If we're here, we should be able to escape.",
+        "audio": "audio/rxo5_NA0Ze8/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "誰だ?",
+        "rm": "Dare da?",
+        "en": "lol lol lol lol lol lol lol",
+        "audio": "audio/rxo5_NA0Ze8/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "誰だ?",
+        "rm": "Dare da?",
+        "en": "Who is this?",
+        "audio": "audio/rxo5_NA0Ze8/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "こんなところにコンビニ限定のレアひなうちは置いた奴は",
+        "rm": "Konna tokoro ni convenience gentei no rare hina uchi wa oita yatsu wa",
+        "en": "Who put a rare Hina Uchiwa in a place like this?!",
+        "audio": "audio/rxo5_NA0Ze8/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "けしからん",
+        "rm": "Keshikaran",
+        "en": "I won't erase it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "僕でーす",
+        "rm": "Boku deesu",
+        "en": "It's me!",
+        "audio": "audio/rxo5_NA0Ze8/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "しまった 罠か",
+        "rm": "Shimatta wana ka",
+        "en": "It's me! Oh no! It's a trap!",
+        "audio": "audio/rxo5_NA0Ze8/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "あっ あそこにひなが",
+        "rm": "Aa asoko ni hina ga",
+        "en": "Is that a trap? Oh, there's Hina over there! What?",
+        "audio": "audio/rxo5_NA0Ze8/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "なに? どこだ?",
+        "rm": "Nani? doko da?",
+        "en": "Hinaga! What? Where are you going?",
+        "audio": "audio/rxo5_NA0Ze8/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "やめろ 今はそれどころではない",
+        "rm": "Yamero ima wa sore dokoro de wa nai",
+        "en": "Stop it! This isn't the time for that!",
+        "audio": "audio/rxo5_NA0Ze8/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "どこだ? ひなはどこにいるんだ?",
+        "rm": "Doko da? hina wa doko ni iru n da?",
+        "en": "Where are you? Where are you now? I...",
+        "audio": "audio/rxo5_NA0Ze8/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "俺のひなは",
+        "rm": "Ore no hina wa",
+        "en": "Don't kill me, my Hina!",
+        "audio": "audio/rxo5_NA0Ze8/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "馬鹿じゃないの アジメちゃん",
+        "rm": "Baka ja nai no ajimechan",
+        "en": "You're an idiot, Hajime-chan.",
+        "audio": "audio/rxo5_NA0Ze8/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "よし 交代だ",
+        "rm": "Yoshi koutai da",
+        "en": "Alright, it's time to switch!",
+        "audio": "audio/rxo5_NA0Ze8/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "逃げろ 山下",
+        "rm": "Nigero Yamashita",
+        "en": "Run, Mr. Yamashita!",
+        "audio": "audio/rxo5_NA0Ze8/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "うぇーい",
+        "rm": "Eei",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "待て 山下君",
+        "rm": "Mate Yamashitakun",
+        "en": "Wait, Yamashita-kun!",
+        "audio": "audio/rxo5_NA0Ze8/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "ひなはどこだ?",
+        "rm": "Hina wa doko da?",
+        "en": "Where the hell are you guys?",
+        "audio": "audio/rxo5_NA0Ze8/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "よっしゃ 行くぜ",
+        "rm": "Yossha iku ze",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "俺がペイン先輩の仇をとってやれ",
+        "rm": "Ore ga Pein senpai no ada wo totte yare",
+        "en": "I'll avenge you, Pain-senpai!",
+        "audio": "audio/rxo5_NA0Ze8/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "待て 無情な奴",
+        "rm": "Mate mujou na yatsu",
+        "en": "Wait! Chief!",
+        "audio": "audio/rxo5_NA0Ze8/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "待てません",
+        "rm": "Matemasen",
+        "en": "I won't wait for you!",
+        "audio": "audio/rxo5_NA0Ze8/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "シャッターチャンス",
+        "rm": "Shutter chance",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "やったー",
+        "rm": "Yattaa",
+        "en": "It's now! You're fucked!",
+        "audio": "audio/rxo5_NA0Ze8/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "すいません",
+        "rm": "Suimasen",
+        "en": "I'm sorry!",
+        "audio": "audio/rxo5_NA0Ze8/seg_260.mp3"
+    },
+    {
+        "id": 261,
+        "jp": "山下",
+        "rm": "Yamashita",
+        "en": "Yamauchi-san!",
+        "audio": "audio/rxo5_NA0Ze8/seg_261.mp3"
+    },
+    {
+        "id": 262,
+        "jp": "こっちだ",
+        "rm": "Kotchi da",
+        "en": "This way!",
+        "audio": "audio/rxo5_NA0Ze8/seg_262.mp3"
+    },
+    {
+        "id": 263,
+        "jp": "先輩",
+        "rm": "Senpai",
+        "en": "Kotsuna! Senpai!",
+        "audio": "audio/rxo5_NA0Ze8/seg_263.mp3"
+    },
+    {
+        "id": 264,
+        "jp": "くそ",
+        "rm": "Kuso",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_264.mp3"
+    },
+    {
+        "id": 265,
+        "jp": "どう? 取れた?",
+        "rm": "Dou? toreta?",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_265.mp3"
+    },
+    {
+        "id": 266,
+        "jp": "いや 逃げられた",
+        "rm": "Iya nigerareta",
+        "en": "What do you think?",
+        "audio": "audio/rxo5_NA0Ze8/seg_266.mp3"
+    },
+    {
+        "id": 267,
+        "jp": "三人は",
+        "rm": "Sannin wa",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_267.mp3"
+    },
+    {
+        "id": 268,
+        "jp": "二階の渡り廊下にいます",
+        "rm": "Ni kai no watari rouka ni imasu",
+        "en": "What about the three of you?",
+        "audio": "audio/rxo5_NA0Ze8/seg_268.mp3"
+    },
+    {
+        "id": 269,
+        "jp": "なに?",
+        "rm": "Nani?",
+        "en": "What about the three of you?",
+        "audio": "audio/rxo5_NA0Ze8/seg_269.mp3"
+    },
+    {
+        "id": 270,
+        "jp": "姉さん 何者?",
+        "rm": "Anesan nanimono?",
+        "en": "The three of you will be... ...on the second floor.",
+        "audio": "audio/rxo5_NA0Ze8/seg_270.mp3"
+    },
+    {
+        "id": 271,
+        "jp": "行くぞ",
+        "rm": "Iku zo",
+        "en": "I'm in the corridor on the second floor. What?!",
+        "audio": "audio/rxo5_NA0Ze8/seg_271.mp3"
+    },
+    {
+        "id": 272,
+        "jp": "ついてきてください",
+        "rm": "Tsuite kite kudasai",
+        "en": "Sister, who are you? Let's go!",
+        "audio": "audio/rxo5_NA0Ze8/seg_272.mp3"
+    },
+    {
+        "id": 273,
+        "jp": "ついてきまーす",
+        "rm": "Tsuite ki maa su",
+        "en": "Let's go!",
+        "audio": "audio/rxo5_NA0Ze8/seg_273.mp3"
+    },
+    {
+        "id": 274,
+        "jp": "なに?",
+        "rm": "Nani?",
+        "en": "I'm gonna follow you!",
+        "audio": "audio/rxo5_NA0Ze8/seg_274.mp3"
+    },
+    {
+        "id": 275,
+        "jp": "オレ君",
+        "rm": "Ore kimi",
+        "en": "Let's go!",
+        "audio": "audio/rxo5_NA0Ze8/seg_275.mp3"
+    },
+    {
+        "id": 276,
+        "jp": "いたぞ",
+        "rm": "Ita zo",
+        "en": "Master!",
+        "audio": "audio/rxo5_NA0Ze8/seg_276.mp3"
+    },
+    {
+        "id": 277,
+        "jp": "ここであったが100連目",
+        "rm": "Koko de attaga 100 renme",
+        "en": "What!? What!? Yoroku!",
+        "audio": "audio/rxo5_NA0Ze8/seg_277.mp3"
+    },
+    {
+        "id": 278,
+        "jp": "こっちは",
+        "rm": "Kotchi wa",
+        "en": "There he is!",
+        "audio": "audio/rxo5_NA0Ze8/seg_278.mp3"
+    },
+    {
+        "id": 279,
+        "jp": "もらった",
+        "rm": "Moratta",
+        "en": "Shut up!",
+        "audio": "audio/rxo5_NA0Ze8/seg_279.mp3"
+    },
+    {
+        "id": 280,
+        "jp": "まじか",
+        "rm": "Majika",
+        "en": "Let's get out of here! It's over there! Nice! There's nowhere to run!",
+        "audio": "audio/rxo5_NA0Ze8/seg_280.mp3"
+    },
+    {
+        "id": 281,
+        "jp": "取らないで",
+        "rm": "Toranaide",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_281.mp3"
+    },
+    {
+        "id": 282,
+        "jp": "やめて",
+        "rm": "Yamete",
+        "en": "Hahaha, Murata!",
+        "audio": "audio/rxo5_NA0Ze8/seg_282.mp3"
+    },
+    {
+        "id": 283,
+        "jp": "何してんだ",
+        "rm": "Nan shite n da",
+        "en": "I got it! Seriously?",
+        "audio": "audio/rxo5_NA0Ze8/seg_283.mp3"
+    },
+    {
+        "id": 284,
+        "jp": "テレサ様",
+        "rm": "Teresasama",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_284.mp3"
+    },
+    {
+        "id": 285,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_285.mp3"
+    },
+    {
+        "id": 286,
+        "jp": "靴ひもが",
+        "rm": "Kutsuhimo ga",
+        "en": "Teresa-sama!",
+        "audio": "audio/rxo5_NA0Ze8/seg_286.mp3"
+    },
+    {
+        "id": 287,
+        "jp": "ほどけちゃった",
+        "rm": "Hodokechatta",
+        "en": "Ah, my shoelaces!",
+        "audio": "audio/rxo5_NA0Ze8/seg_287.mp3"
+    },
+    {
+        "id": 288,
+        "jp": "ロンキー",
+        "rm": "Ron key",
+        "en": "I untied it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_288.mp3"
+    },
+    {
+        "id": 289,
+        "jp": "行きますよ",
+        "rm": "Ikimasu yo",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_289.mp3"
+    },
+    {
+        "id": 290,
+        "jp": "姉さん",
+        "rm": "Anesan",
+        "en": "Let's go!",
+        "audio": "audio/rxo5_NA0Ze8/seg_290.mp3"
+    },
+    {
+        "id": 291,
+        "jp": "靴ひもないっすよね",
+        "rm": "Kutsuhimo naissu yo ne",
+        "en": "Thank you, Are-kun! Sis, your shoes...",
+        "audio": "audio/rxo5_NA0Ze8/seg_291.mp3"
+    },
+    {
+        "id": 292,
+        "jp": "結び終わりました",
+        "rm": "Musubi owarimashita",
+        "en": "You don't have any shoelaces, do you?",
+        "audio": "audio/rxo5_NA0Ze8/seg_292.mp3"
+    },
+    {
+        "id": 293,
+        "jp": "行きますよ",
+        "rm": "Ikimasu yo",
+        "en": "It's a good thing, isn't it?",
+        "audio": "audio/rxo5_NA0Ze8/seg_293.mp3"
+    },
+    {
+        "id": 294,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "The connection is over. Let's go.",
+        "audio": "audio/rxo5_NA0Ze8/seg_294.mp3"
+    },
+    {
+        "id": 295,
+        "jp": "エラひも?",
+        "rm": "Era himo?",
+        "en": "I'm going.",
+        "audio": "audio/rxo5_NA0Ze8/seg_295.mp3"
+    },
+    {
+        "id": 296,
+        "jp": "二階に分かれましょう",
+        "rm": "Ni kai ni wakaremashou",
+        "en": "What? Elahimo?",
+        "audio": "audio/rxo5_NA0Ze8/seg_296.mp3"
+    },
+    {
+        "id": 297,
+        "jp": "了解",
+        "rm": "Ryoukai",
+        "en": "Ignore music, outros, and channel promos.",
+        "audio": "audio/rxo5_NA0Ze8/seg_297.mp3"
+    },
+    {
+        "id": 298,
+        "jp": "逃げ切れば勝てる",
+        "rm": "Nige kireba kateru",
+        "en": "One more time! Brother, wait for me!",
+        "audio": "audio/rxo5_NA0Ze8/seg_298.mp3"
+    },
+    {
+        "id": 299,
+        "jp": "大丈夫かい?",
+        "rm": "Daijoubu ka i?",
+        "en": "Hahaha! If I run away, I can win!",
+        "audio": "audio/rxo5_NA0Ze8/seg_299.mp3"
+    },
+    {
+        "id": 300,
+        "jp": "カメラは収集した",
+        "rm": "Camera wa shuushuu shita",
+        "en": "Huh? Yeah! Are you all right?",
+        "audio": "audio/rxo5_NA0Ze8/seg_300.mp3"
+    },
+    {
+        "id": 301,
+        "jp": "失調だぞ",
+        "rm": "Shitchou da zo",
+        "en": "I-I-I'm fine! This is bad! I'll go get some clothes right away! Hajime-chan...",
+        "audio": "audio/rxo5_NA0Ze8/seg_301.mp3"
+    },
+    {
+        "id": 302,
+        "jp": "先生との戦い",
+        "rm": "Sensei to no tatakai",
+        "en": "Ha ha ha! The cameras are out of order!",
+        "audio": "audio/rxo5_NA0Ze8/seg_302.mp3"
+    },
+    {
+        "id": 303,
+        "jp": "あれ?",
+        "rm": "Are?",
+        "en": "I did it!",
+        "audio": "audio/rxo5_NA0Ze8/seg_303.mp3"
+    },
+    {
+        "id": 304,
+        "jp": "取れません",
+        "rm": "Toremasen",
+        "en": "Ah! That's not it! That's not it!",
+        "audio": "audio/rxo5_NA0Ze8/seg_304.mp3"
+    },
+    {
+        "id": 305,
+        "jp": "どれ?",
+        "rm": "Dore?",
+        "en": "This is my job! I will fight with all my might!",
+        "audio": "audio/rxo5_NA0Ze8/seg_305.mp3"
+    },
+    {
+        "id": 306,
+        "jp": "ムービーになってるんだ",
+        "rm": "Movie ni natteru n da",
+        "en": "Let's fight fair and square! Huh? You can take it off?",
+        "audio": "audio/rxo5_NA0Ze8/seg_306.mp3"
+    },
+    {
+        "id": 307,
+        "jp": "スイッチ押して",
+        "rm": "Switch oshite",
+        "en": "Huh? I can't take it off.",
+        "audio": "audio/rxo5_NA0Ze8/seg_307.mp3"
+    },
+    {
+        "id": 308,
+        "jp": "モードを切り替えて",
+        "rm": "Mode wo kirikaete",
+        "en": "Which one?",
+        "audio": "audio/rxo5_NA0Ze8/seg_308.mp3"
+    },
+    {
+        "id": 309,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Which one? It's a movie.",
+        "audio": "audio/rxo5_NA0Ze8/seg_309.mp3"
+    },
+    {
+        "id": 310,
+        "jp": "おい",
+        "rm": "Oi",
+        "en": "It's a movie.",
+        "audio": "audio/rxo5_NA0Ze8/seg_310.mp3"
+    },
+    {
+        "id": 311,
+        "jp": "今のうちに",
+        "rm": "Ima no uchi ni",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_311.mp3"
+    },
+    {
+        "id": 312,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Press the switch to switch modes.",
+        "audio": "audio/rxo5_NA0Ze8/seg_312.mp3"
+    },
+    {
+        "id": 313,
+        "jp": "チーズ",
+        "rm": "Cheese",
+        "en": "Change the mode. Okay.",
+        "audio": "audio/rxo5_NA0Ze8/seg_313.mp3"
+    },
+    {
+        "id": 314,
+        "jp": "はじめちゃん",
+        "rm": "Hajimechan",
+        "en": "Hey, while you're at it...",
+        "audio": "audio/rxo5_NA0Ze8/seg_314.mp3"
+    },
+    {
+        "id": 315,
+        "jp": "何してるの",
+        "rm": "Nan shiteru no",
+        "en": "In the meantime... Here, cheese!",
+        "audio": "audio/rxo5_NA0Ze8/seg_315.mp3"
+    },
+    {
+        "id": 316,
+        "jp": "いただきました",
+        "rm": "Itadakimashita",
+        "en": "Okay, cheese!",
+        "audio": "audio/rxo5_NA0Ze8/seg_316.mp3"
+    },
+    {
+        "id": 317,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Cheese! Hajime-chan...",
+        "audio": "audio/rxo5_NA0Ze8/seg_317.mp3"
+    },
+    {
+        "id": 318,
+        "jp": "やばい",
+        "rm": "Yabai",
+        "en": "Hajime-chan, what are you...",
+        "audio": "audio/rxo5_NA0Ze8/seg_318.mp3"
+    },
+    {
+        "id": 319,
+        "jp": "行きますよ",
+        "rm": "Ikimasu yo",
+        "en": "What are you doing?",
+        "audio": "audio/rxo5_NA0Ze8/seg_319.mp3"
+    },
+    {
+        "id": 320,
+        "jp": "お待たせ",
+        "rm": "Omatase",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_320.mp3"
+    },
+    {
+        "id": 321,
+        "jp": "こら",
+        "rm": "Kora",
+        "en": "AHHHHHHH, SHIT!",
+        "audio": "audio/rxo5_NA0Ze8/seg_321.mp3"
+    },
+    {
+        "id": 322,
+        "jp": "タオル",
+        "rm": "Towel",
+        "en": "Damn it!",
+        "audio": "audio/rxo5_NA0Ze8/seg_322.mp3"
+    },
+    {
+        "id": 323,
+        "jp": "姉さん",
+        "rm": "Anesan",
+        "en": "I was pissed!",
+        "audio": "audio/rxo5_NA0Ze8/seg_323.mp3"
+    },
+    {
+        "id": 324,
+        "jp": "今取ったよね",
+        "rm": "Ima totta yo ne",
+        "en": "It was a piece, huh?",
+        "audio": "audio/rxo5_NA0Ze8/seg_324.mp3"
+    },
+    {
+        "id": 325,
+        "jp": "ええ",
+        "rm": "Ee",
+        "en": "Gaaaaaaaaaaah!!",
+        "audio": "audio/rxo5_NA0Ze8/seg_325.mp3"
+    },
+    {
+        "id": 326,
+        "jp": "やった",
+        "rm": "Yatta",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_326.mp3"
+    },
+    {
+        "id": 327,
+        "jp": "本当?",
+        "rm": "Hontou?",
+        "en": "What are you laughing at?",
+        "audio": "audio/rxo5_NA0Ze8/seg_327.mp3"
+    },
+    {
+        "id": 328,
+        "jp": "やった",
+        "rm": "Yatta",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_328.mp3"
+    },
+    {
+        "id": 329,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_329.mp3"
+    },
+    {
+        "id": 330,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_330.mp3"
+    },
+    {
+        "id": 331,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_331.mp3"
+    },
+    {
+        "id": 332,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_332.mp3"
+    },
+    {
+        "id": 333,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_333.mp3"
+    },
+    {
+        "id": 334,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_334.mp3"
+    },
+    {
+        "id": 335,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_335.mp3"
+    },
+    {
+        "id": 336,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_336.mp3"
+    },
+    {
+        "id": 337,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_337.mp3"
+    },
+    {
+        "id": 338,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "I'm going!",
+        "audio": "audio/rxo5_NA0Ze8/seg_338.mp3"
+    },
+    {
+        "id": 339,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_339.mp3"
+    },
+    {
+        "id": 340,
+        "jp": "あかん",
+        "rm": "A kan",
+        "en": "I've been waiting for you! You scared me!",
+        "audio": "audio/rxo5_NA0Ze8/seg_340.mp3"
+    },
+    {
+        "id": 341,
+        "jp": "お待たせ",
+        "rm": "Omatase",
+        "en": "You son of a bitch!",
+        "audio": "audio/rxo5_NA0Ze8/seg_341.mp3"
+    },
+    {
+        "id": 342,
+        "jp": "こら",
+        "rm": "Kora",
+        "en": "Stop! Taoru...",
+        "audio": "audio/rxo5_NA0Ze8/seg_342.mp3"
+    },
+    {
+        "id": 343,
+        "jp": "タオル",
+        "rm": "Towel",
+        "en": "Taoru... sister, you just took it, didn't you?",
+        "audio": "audio/rxo5_NA0Ze8/seg_343.mp3"
+    },
+    {
+        "id": 344,
+        "jp": "姉さん",
+        "rm": "Anesan",
+        "en": "You just took it, didn't you? Yeah",
+        "audio": "audio/rxo5_NA0Ze8/seg_344.mp3"
+    },
+    {
+        "id": 345,
+        "jp": "今取ったよね",
+        "rm": "Ima totta yo ne",
+        "en": "Right? Yeah.",
+        "audio": "audio/rxo5_NA0Ze8/seg_345.mp3"
+    },
+    {
+        "id": 346,
+        "jp": "やったー!俺たちの勝利間違いなしだなー!",
+        "rm": "Yattaa! oretachi no shouri machigai nashi da naa!",
+        "en": "We did it! We won without a doubt!",
+        "audio": "audio/rxo5_NA0Ze8/seg_346.mp3"
+    },
+    {
+        "id": 347,
+        "jp": "アーレックス!",
+        "rm": "Aa Rex!",
+        "en": "Alex, get out of my way!",
+        "audio": "audio/rxo5_NA0Ze8/seg_347.mp3"
+    },
+    {
+        "id": 348,
+        "jp": "最終選考に残った4枚のうち、厳正な審査の結果",
+        "rm": "Saishuu senkou ni nokotta 4mai no uchi, gensei na shinsa no kekka",
+        "en": "Out of the 4 cards remaining in the final battle, the final score is... 1.",
+        "audio": "audio/rxo5_NA0Ze8/seg_348.mp3"
+    },
+    {
+        "id": 349,
+        "jp": "一番に選ばれたのは、これだ!",
+        "rm": "Ichi ban ni erabareta no wa, kore da!",
+        "en": "This is the one that was chosen as number one!",
+        "audio": "audio/rxo5_NA0Ze8/seg_349.mp3"
+    },
+    {
+        "id": 350,
+        "jp": "すごい!",
+        "rm": "Sugoi!",
+        "en": "Amazing! You did it, sis!",
+        "audio": "audio/rxo5_NA0Ze8/seg_350.mp3"
+    },
+    {
+        "id": 351,
+        "jp": "姉さんやった!",
+        "rm": "Anesan yatta!",
+        "en": "I did it, sis! Result.",
+        "audio": "audio/rxo5_NA0Ze8/seg_351.mp3"
+    },
+    {
+        "id": 352,
+        "jp": "結果、我らBチームが勝利した",
+        "rm": "Kekka, warera B team ga shouri shita",
+        "en": "As a result, Team B won. Yay!",
+        "audio": "audio/rxo5_NA0Ze8/seg_352.mp3"
+    },
+    {
+        "id": 353,
+        "jp": "別に私は…",
+        "rm": "Betsu ni watakushi wa...",
+        "en": "I didn't mean to...",
+        "audio": "audio/rxo5_NA0Ze8/seg_353.mp3"
+    },
+    {
+        "id": 354,
+        "jp": "負けちゃったっすねー、ただ先輩",
+        "rm": "Makechattassu nee, tada senpai",
+        "en": "You lost, Tadase-senpai. Yeah.",
+        "audio": "audio/rxo5_NA0Ze8/seg_354.mp3"
+    },
+    {
+        "id": 355,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Bye! Ah... What a shame!",
+        "audio": "audio/rxo5_NA0Ze8/seg_355.mp3"
+    },
+    {
+        "id": 356,
+        "jp": "残念です!",
+        "rm": "Zannen desu!",
+        "en": "That's too bad!",
+        "audio": "audio/rxo5_NA0Ze8/seg_356.mp3"
+    },
+    {
+        "id": 357,
+        "jp": "こうして、我々写真部の戦いは、日々続いていくのだ!",
+        "rm": "Kou shite, wareware shashin bu no tatakai wa, hibi tsuzuite iku no da!",
+        "en": "This is how we, the photography department, continue to fight day after day!",
+        "audio": "audio/rxo5_NA0Ze8/seg_357.mp3"
+    },
+    {
+        "id": 358,
+        "jp": "て、かっこよく言ってるけど",
+        "rm": "Te, kakko yoku itterukedo",
+        "en": "I'm saying it in a cool way, but...",
+        "audio": "audio/rxo5_NA0Ze8/seg_358.mp3"
+    },
+    {
+        "id": 359,
+        "jp": "自分がヌードになるとは思いませんでしたよ",
+        "rm": "Jibun ga nude ni naru to wa omoimasendeshita yo",
+        "en": "but I didn't think I'd become a noodle.",
+        "audio": "audio/rxo5_NA0Ze8/seg_359.mp3"
+    },
+    {
+        "id": 360,
+        "jp": "お、面白すぎるっしょ!",
+        "rm": "O, omoshiro sugirussho!",
+        "en": "Isn't it too funny? Shut up!",
+        "audio": "audio/rxo5_NA0Ze8/seg_360.mp3"
+    },
+    {
+        "id": 361,
+        "jp": "黙れ!",
+        "rm": "Damare!",
+        "en": "Shut up!",
+        "audio": "audio/rxo5_NA0Ze8/seg_361.mp3"
+    },
+    {
+        "id": 362,
+        "jp": "どうでした?写真部は",
+        "rm": "Dou deshita? shashin bu wa",
+        "en": "What did you think of the photography club? It was a lot of fun!",
+        "audio": "audio/rxo5_NA0Ze8/seg_362.mp3"
+    },
+    {
+        "id": 363,
+        "jp": "とっても楽しかったです!",
+        "rm": "Tottemo tanoshikatta desu!",
+        "en": "It was a lot of fun!",
+        "audio": "audio/rxo5_NA0Ze8/seg_363.mp3"
+    },
+    {
+        "id": 364,
+        "jp": "写真ももっと上手くなりたいです!",
+        "rm": "Shashin mo motto umaku naritai desu!",
+        "en": "I want to be better at photography too! That means...",
+        "audio": "audio/rxo5_NA0Ze8/seg_364.mp3"
+    },
+    {
+        "id": 365,
+        "jp": "ってことは、テレサちゃんは写真部に入ります!",
+        "rm": "Tte koto wa, Teresachan wa shashin bu ni hairimasu!",
+        "en": "That means I'm going to put Teresa-chan in the photo book!",
+        "audio": "audio/rxo5_NA0Ze8/seg_365.mp3"
+    },
+    {
+        "id": 366,
+        "jp": "よっしゃー!",
+        "rm": "Yosshaa!",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_366.mp3"
+    },
+    {
+        "id": 367,
+        "jp": "よろしくっす、テレサさん",
+        "rm": "Yoroshiku ssu, Teresasan",
+        "en": "Yeah. I'm counting on you, Teresa-san!",
+        "audio": "audio/rxo5_NA0Ze8/seg_367.mp3"
+    },
+    {
+        "id": 368,
+        "jp": "はい!",
+        "rm": "Hai!",
+        "en": "Misa-san! Yes!",
+        "audio": "audio/rxo5_NA0Ze8/seg_368.mp3"
+    },
+    {
+        "id": 369,
+        "jp": "アルク?",
+        "rm": "Aruku?",
+        "en": "Orya-kun?",
+        "audio": "audio/rxo5_NA0Ze8/seg_369.mp3"
+    },
+    {
+        "id": 370,
+        "jp": "だから、よく考えてから結論を出しましょうと言ったのに",
+        "rm": "Dakara, yoku kangaete kara ketsuron wo dashimashou to itta no ni",
+        "en": "That's why I told you to come up with a conclusion after you've thought it through.",
+        "audio": "audio/rxo5_NA0Ze8/seg_370.mp3"
+    },
+    {
+        "id": 371,
+        "jp": "もっとも、あなたが挑戦すると言った時点で",
+        "rm": "Mottomo, anata ga chousen suru to itta jiten de",
+        "en": "Even so, when you said you'd challenge me...",
+        "audio": "audio/rxo5_NA0Ze8/seg_371.mp3"
+    },
+    {
+        "id": 372,
+        "jp": "こうなるだろうと予測はしていました",
+        "rm": "Kou narudarou to yosoku wa shite imashita",
+        "en": "When I said that, I had predicted that this would happen. Jaa-",
+        "audio": "audio/rxo5_NA0Ze8/seg_372.mp3"
+    },
+    {
+        "id": 373,
+        "jp": "じゃあ!",
+        "rm": "Jaa!",
+        "en": "See you later!",
+        "audio": "audio/rxo5_NA0Ze8/seg_373.mp3"
+    },
+    {
+        "id": 374,
+        "jp": "仕方ありません、私も入ります",
+        "rm": "Shikata arimasen, watakushi mo hairimasu",
+        "en": "Well, it can't be helped. I'll join you.",
+        "audio": "audio/rxo5_NA0Ze8/seg_374.mp3"
+    },
+    {
+        "id": 375,
+        "jp": "やったー!",
+        "rm": "Yattaa!",
+        "en": "I'm going in now. I did it!",
+        "audio": "audio/rxo5_NA0Ze8/seg_375.mp3"
+    },
+    {
+        "id": 376,
+        "jp": "よっしゃ!",
+        "rm": "Yossha!",
+        "en": "I did it!",
+        "audio": "audio/rxo5_NA0Ze8/seg_376.mp3"
+    },
+    {
+        "id": 377,
+        "jp": "じゃあ、三つよしんちでテレサちゃんたちの入部祝いしようぜ!",
+        "rm": "Jaa, mittsu yoshin chi de Teresachantachi no nyuubu iwai shiyou ze!",
+        "en": "LOL Alright! Let's go to Mitsuyoshi's house!",
+        "audio": "audio/rxo5_NA0Ze8/seg_377.mp3"
+    },
+    {
+        "id": 378,
+        "jp": "じゃあ、私はこれで",
+        "rm": "Jaa, watakushi wa kore de",
+        "en": "Let's celebrate!",
+        "audio": "audio/rxo5_NA0Ze8/seg_378.mp3"
+    },
+    {
+        "id": 379,
+        "jp": "何言ってる?",
+        "rm": "Nan itteru?",
+        "en": "Well then, I'll take my leave.",
+        "audio": "audio/rxo5_NA0Ze8/seg_379.mp3"
+    },
+    {
+        "id": 380,
+        "jp": "仕方なくと言っても、お前も写真部の一員だろ?",
+        "rm": "Shikatanaku to itte mo, omae mo shashin bu no ichiin daro?",
+        "en": "What are you talking about? Even if you say it can't be helped...",
+        "audio": "audio/rxo5_NA0Ze8/seg_380.mp3"
+    },
+    {
+        "id": 381,
+        "jp": "行くぞ",
+        "rm": "Iku zo",
+        "en": "Even if you say so, you're also a member of the photography department.",
+        "audio": "audio/rxo5_NA0Ze8/seg_381.mp3"
+    },
+    {
+        "id": 382,
+        "jp": "テッチャン!",
+        "rm": "Tetchan!",
+        "en": "You're also a member of the photography club, aren't you?",
+        "audio": "audio/rxo5_NA0Ze8/seg_382.mp3"
+    },
+    {
+        "id": 383,
+        "jp": "ただいま",
+        "rm": "Tadaima",
+        "en": "Let's go.",
+        "audio": "audio/rxo5_NA0Ze8/seg_383.mp3"
+    },
+    {
+        "id": 384,
+        "jp": "お帰り",
+        "rm": "Okaeri",
+        "en": "Let's go.",
+        "audio": "audio/rxo5_NA0Ze8/seg_384.mp3"
+    },
+    {
+        "id": 385,
+        "jp": "どうも",
+        "rm": "Dou mo",
+        "en": "I'm home.",
+        "audio": "audio/rxo5_NA0Ze8/seg_385.mp3"
+    },
+    {
+        "id": 386,
+        "jp": "お邪魔します",
+        "rm": "Ojama shimasu",
+        "en": "I'm home. Welcome home!",
+        "audio": "audio/rxo5_NA0Ze8/seg_386.mp3"
+    },
+    {
+        "id": 387,
+        "jp": "いらっしゃい",
+        "rm": "Irasshai",
+        "en": "Welcome back! Thank you.",
+        "audio": "audio/rxo5_NA0Ze8/seg_387.mp3"
+    },
+    {
+        "id": 388,
+        "jp": "あ、アルクさん、テレサさん!",
+        "rm": "A, Arukusan, Teresasan!",
+        "en": "Thank you for coming. You're welcome.",
+        "audio": "audio/rxo5_NA0Ze8/seg_388.mp3"
+    },
+    {
+        "id": 389,
+        "jp": "こんにちは",
+        "rm": "Konnichiha",
+        "en": "Ah, Alex!",
+        "audio": "audio/rxo5_NA0Ze8/seg_389.mp3"
+    },
+    {
+        "id": 390,
+        "jp": "こんにちは",
+        "rm": "Konnichiha",
+        "en": "Ah, Alex-san, Teruto-san!",
+        "audio": "audio/rxo5_NA0Ze8/seg_390.mp3"
+    },
+    {
+        "id": 391,
+        "jp": "ジャーッス!",
+        "rm": "Jaas su!",
+        "en": "Hello, Delta-san!",
+        "audio": "audio/rxo5_NA0Ze8/seg_391.mp3"
+    },
+    {
+        "id": 392,
+        "jp": "ヤマシタ先輩!",
+        "rm": "Yamashita senpai!",
+        "en": "Hello there. See ya!",
+        "audio": "audio/rxo5_NA0Ze8/seg_392.mp3"
+    },
+    {
+        "id": 393,
+        "jp": "ヤッス",
+        "rm": "Ya ssu",
+        "en": "I'm so happy! I'm so happy!",
+        "audio": "audio/rxo5_NA0Ze8/seg_393.mp3"
+    },
+    {
+        "id": 394,
+        "jp": "会いたかったよ",
+        "rm": "Aitakatta yo",
+        "en": "Senpai! Yes!",
+        "audio": "audio/rxo5_NA0Ze8/seg_394.mp3"
+    },
+    {
+        "id": 395,
+        "jp": "ヤマシタケニョウ、なぜそうなると分かっていて構うんだ",
+        "rm": "Yamashitakenyou, naze sou naruto wakatte ite kamau n da",
+        "en": "I wanted to see you. Kenyou Yamashita, why did you do that?",
+        "audio": "audio/rxo5_NA0Ze8/seg_395.mp3"
+    },
+    {
+        "id": 396,
+        "jp": "痛ててててて",
+        "rm": "Itatetetetete",
+        "en": "Why do you think that's gonna happen?",
+        "audio": "audio/rxo5_NA0Ze8/seg_396.mp3"
+    },
+    {
+        "id": 397,
+        "jp": "ごめんなさい、ヤマシタ先輩",
+        "rm": "Gomen nasai, Yamashita senpai",
+        "en": "I knew it would happen, so I didn't care.",
+        "audio": "audio/rxo5_NA0Ze8/seg_397.mp3"
+    },
+    {
+        "id": 398,
+        "jp": "大丈夫ですか?",
+        "rm": "Daijoubu desu ka?",
+        "en": "I'm sorry, Yamashita-",
+        "audio": "audio/rxo5_NA0Ze8/seg_398.mp3"
+    },
+    {
+        "id": 399,
+        "jp": "ニャンコビッグは、ちょっとも仲良くなってくれないよね",
+        "rm": "Nyankobiggu wa, chotto mo nakayoku natte kurenai yo ne",
+        "en": "Are you okay? Yeah... Nyan-ko-bi-",
+        "audio": "audio/rxo5_NA0Ze8/seg_399.mp3"
+    },
+    {
+        "id": 400,
+        "jp": "ニャンコビッグは、ちょっとも仲良くなってくれないよね",
+        "rm": "Nyankobiggu wa, chotto mo nakayoku natte kurenai yo ne",
+        "en": "Nyankovic won't get along with me at all, will he?",
+        "audio": "audio/rxo5_NA0Ze8/seg_400.mp3"
+    },
+    {
+        "id": 401,
+        "jp": "けど、いつかきっと、そのお腹に顔を埋めてスリスリしちゃうぞ",
+        "rm": "Kedo, itsu ka kitto, sono onaka ni kao wo umete surisuri shichau zo",
+        "en": "But one day, I'm sure I'll put my face in that belly and rub it!",
+        "audio": "audio/rxo5_NA0Ze8/seg_401.mp3"
+    },
+    {
+        "id": 402,
+        "jp": "片付けない",
+        "rm": "Katazukenai",
+        "en": "Uwaaah! Tada-san, I can't do it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_402.mp3"
+    },
+    {
+        "id": 403,
+        "jp": "さんづけとかいらないよ",
+        "rm": "San zuke to ka iranai yo",
+        "en": "I don't feel like it. I don't need a sandwich or anything.",
+        "audio": "audio/rxo5_NA0Ze8/seg_403.mp3"
+    },
+    {
+        "id": 404,
+        "jp": "じゃあ、ただくん?",
+        "rm": "Jaa, tadakun?",
+        "en": "Then, shall we get going?",
+        "audio": "audio/rxo5_NA0Ze8/seg_404.mp3"
+    },
+    {
+        "id": 405,
+        "jp": "まあ",
+        "rm": "Maa",
+        "en": "Tadakun? Well...",
+        "audio": "audio/rxo5_NA0Ze8/seg_405.mp3"
+    },
+    {
+        "id": 406,
+        "jp": "私のことも、皆さんテレサと呼んでください",
+        "rm": "Watakushi no koto mo, minasan Teresa to yonde kudasai",
+        "en": "Please call me Teresa, too!",
+        "audio": "audio/rxo5_NA0Ze8/seg_406.mp3"
+    },
+    {
+        "id": 407,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Sorry! Ah, okay!",
+        "audio": "audio/rxo5_NA0Ze8/seg_407.mp3"
+    },
+    {
+        "id": 408,
+        "jp": "OK!",
+        "rm": "OK!",
+        "en": "Yeah. Okay!",
+        "audio": "audio/rxo5_NA0Ze8/seg_408.mp3"
+    },
+    {
+        "id": 409,
+        "jp": "ね、アレク",
+        "rm": "Ne, Areku",
+        "en": "Okay? Right, Alex?",
+        "audio": "audio/rxo5_NA0Ze8/seg_409.mp3"
+    },
+    {
+        "id": 410,
+        "jp": "いや、アレク姉さん",
+        "rm": "Iya, Areku anesan",
+        "en": "Whoa! Oh my god! What's that?",
+        "audio": "audio/rxo5_NA0Ze8/seg_410.mp3"
+    },
+    {
+        "id": 411,
+        "jp": "アレクでいいですよ",
+        "rm": "Areku de ii desu yo",
+        "en": "Alex is fine with it.",
+        "audio": "audio/rxo5_NA0Ze8/seg_411.mp3"
+    },
+    {
+        "id": 412,
+        "jp": "では、二人を迎えた我が戦う写真部の全投縮して、乾杯!",
+        "rm": "De wa, futari wo mukaeta waga tatakau shashin bu no zennage chizimi shite, kanpai!",
+        "en": "",
+        "audio": "audio/rxo5_NA0Ze8/seg_412.mp3"
+    },
+    {
+        "id": 413,
+        "jp": "乾杯!",
+        "rm": "Kanpai!",
+        "en": "KANPAI! KAN-",
+        "audio": "audio/rxo5_NA0Ze8/seg_413.mp3"
+    },
+    {
+        "id": 414,
+        "jp": "かわいいって、ただの石ですけど",
+        "rm": "Kawaii tte, tada no ishi desukedo",
+        "en": "Yes!",
+        "audio": "audio/rxo5_NA0Ze8/seg_414.mp3"
+    },
+    {
+        "id": 415,
+        "jp": "丸くてツルツルしてて、大福みたいじゃない?",
+        "rm": "Marukute tsurutsuru shitete, daifuku mitai ja nai?",
+        "en": "It's just a stone, but it's round, it's slippery, and it looks like a typhoon.",
+        "audio": "audio/rxo5_NA0Ze8/seg_415.mp3"
+    },
+    {
+        "id": 416,
+        "jp": "次回、第3話、それ好きだな",
+        "rm": "Jikai, dai3 hanashi, sore suki da na",
+        "en": "Don't you think I look like Daifuku? Next time, Episode 3",
+        "audio": "audio/rxo5_NA0Ze8/seg_416.mp3"
+    },
+    {
+        "id": 417,
+        "jp": "どうぞお楽しみに!",
+        "rm": "Douzo otanoshimi ni!",
+        "en": "Sanwa, you like that, don't you? Please sing-",
+        "audio": "audio/rxo5_NA0Ze8/seg_417.mp3"
+    }
+]
