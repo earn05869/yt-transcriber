@@ -1,0 +1,1878 @@
+[
+    {
+        "id": 1,
+        "jp": "ああ、まあ平気そうだけど",
+        "rm": "Aa, maa heiki sou dakedo",
+        "en": "What about you? Yeah, well, I think I'm fine.",
+        "audio": "audio/jSLtw3451Yg/seg_1.mp3"
+    },
+    {
+        "id": 2,
+        "jp": "俺としたことが、少々体がなまっていたようだ",
+        "rm": "Ore to shita koto ga, shoushou karada ga namatte ita you da",
+        "en": "It seems that my body was a little lazy.",
+        "audio": "audio/jSLtw3451Yg/seg_2.mp3"
+    },
+    {
+        "id": 3,
+        "jp": "いてててて",
+        "rm": "Itetetete",
+        "en": "It seems so. Ouch, ouch, ouch.",
+        "audio": "audio/jSLtw3451Yg/seg_3.mp3"
+    },
+    {
+        "id": 4,
+        "jp": "大丈夫?どこか痛い?",
+        "rm": "Daijoubu? doko ka itai?",
+        "en": "Are you okay? Are you hurt?",
+        "audio": "audio/jSLtw3451Yg/seg_4.mp3"
+    },
+    {
+        "id": 5,
+        "jp": "これくらい平気だ",
+        "rm": "Kore kurai heiki da",
+        "en": "I'm fine with this much.",
+        "audio": "audio/jSLtw3451Yg/seg_5.mp3"
+    },
+    {
+        "id": 6,
+        "jp": "足も平気そうですね",
+        "rm": "Ashi mo heiki sou desu ne",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_6.mp3"
+    },
+    {
+        "id": 7,
+        "jp": "やめろ!",
+        "rm": "Yamero!",
+        "en": "That's right. Hey, stop it!",
+        "audio": "audio/jSLtw3451Yg/seg_7.mp3"
+    },
+    {
+        "id": 8,
+        "jp": "着地も問題なし",
+        "rm": "Chakuchi mo mondai nashi",
+        "en": "There is no problem with landing.",
+        "audio": "audio/jSLtw3451Yg/seg_8.mp3"
+    },
+    {
+        "id": 9,
+        "jp": "当たり前だ",
+        "rm": "Atarimae da",
+        "en": "No problem. Of course.",
+        "audio": "audio/jSLtw3451Yg/seg_9.mp3"
+    },
+    {
+        "id": 10,
+        "jp": "よかった!",
+        "rm": "Yokatta!",
+        "en": "I'm so glad!",
+        "audio": "audio/jSLtw3451Yg/seg_10.mp3"
+    },
+    {
+        "id": 11,
+        "jp": "出かけてる",
+        "rm": "Dekaketeru",
+        "en": "I did it! Where's Grandpa? He's out.",
+        "audio": "audio/jSLtw3451Yg/seg_11.mp3"
+    },
+    {
+        "id": 12,
+        "jp": "では、ただくん一人でお店を?",
+        "rm": "De wa, tada kun hitori de omise wo?",
+        "en": "I'm going out. Then, let's go to the store by yourself. On a Saturday morning...",
+        "audio": "audio/jSLtw3451Yg/seg_12.mp3"
+    },
+    {
+        "id": 13,
+        "jp": "土曜の午前中は比較的落ち着いてるし",
+        "rm": "Doyou no gozenchuu wa hikakuteki ochitsuiterushi",
+        "en": "In the morning of Saturday, it's relatively calm.",
+        "audio": "audio/jSLtw3451Yg/seg_13.mp3"
+    },
+    {
+        "id": 14,
+        "jp": "午後にはじっちゃも戻るから",
+        "rm": "Gogo ni wa jic cha mo modorukara",
+        "en": "I wonder if my grandpa will be back in the afternoon.",
+        "audio": "audio/jSLtw3451Yg/seg_14.mp3"
+    },
+    {
+        "id": 15,
+        "jp": "そうですね",
+        "rm": "Sou desu ne",
+        "en": "Wow, that's amazing, Ari-kun! You're right.",
+        "audio": "audio/jSLtw3451Yg/seg_15.mp3"
+    },
+    {
+        "id": 16,
+        "jp": "そうだ、道吉はすごい男だ",
+        "rm": "Sou da, dou kichi wa sugoi otoko da",
+        "en": "That's right. Michiyoshi is an amazing man.",
+        "audio": "audio/jSLtw3451Yg/seg_16.mp3"
+    },
+    {
+        "id": 17,
+        "jp": "小さい頃から店を手伝い",
+        "rm": "Chiisai koro kara mise wo tetsudai",
+        "en": "I've been helping the store since I was a kid, making coffee...",
+        "audio": "audio/jSLtw3451Yg/seg_17.mp3"
+    },
+    {
+        "id": 18,
+        "jp": "コーヒー名人の肖像にまさるとも劣らぬコーヒーを入れ",
+        "rm": "Coffee meijin no shouzou ni masaru to mo otoranu coffee wo ire",
+        "en": "Put in a coffee that's not inferior to the coffee art of the coffee master.",
+        "audio": "audio/jSLtw3451Yg/seg_18.mp3"
+    },
+    {
+        "id": 19,
+        "jp": "ユイの面倒を見ながら弁学に急しみ",
+        "rm": "Yui no mendou wo minagara bengaku ni kyuu shimi",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_19.mp3"
+    },
+    {
+        "id": 20,
+        "jp": "カメラマンを目指し日々努力している",
+        "rm": "Cameraman wo mezashi hibi doryoku shite iru",
+        "en": "I'm working hard every day to become a cameraman.",
+        "audio": "audio/jSLtw3451Yg/seg_20.mp3"
+    },
+    {
+        "id": 21,
+        "jp": "それも、俺が見守ってるおかげだろ?",
+        "rm": "Sore mo, ore ga mimamotteru okage daro?",
+        "en": "That's also because I'm watching over you, right?",
+        "audio": "audio/jSLtw3451Yg/seg_21.mp3"
+    },
+    {
+        "id": 22,
+        "jp": "ニャンコビッグ、そろそろ開店時間だ",
+        "rm": "Nyanko big, sorosoro kaiten jikan da",
+        "en": "Nyanco Big, it's time to open the store.",
+        "audio": "audio/jSLtw3451Yg/seg_22.mp3"
+    },
+    {
+        "id": 23,
+        "jp": "札、ひっくり返して",
+        "rm": "Satsu, hikkurikaeshite",
+        "en": "It's time to go home. Turn the cards over.",
+        "audio": "audio/jSLtw3451Yg/seg_23.mp3"
+    },
+    {
+        "id": 24,
+        "jp": "やるわけないだろ?",
+        "rm": "Yaru wake naidaro?",
+        "en": "What? Mr. Nyarkovic, can you do that? There's no way I'd do it.",
+        "audio": "audio/jSLtw3451Yg/seg_24.mp3"
+    },
+    {
+        "id": 25,
+        "jp": "とりあえず言い続けたらいつかやるかもしれないから",
+        "rm": "Toriaezu ii tsuzuketara itsu ka yaru ka mo shirenaikara",
+        "en": "For now, if you keep saying it, I might do it one day.",
+        "audio": "audio/jSLtw3451Yg/seg_25.mp3"
+    },
+    {
+        "id": 26,
+        "jp": "猫の手も借りたいですか?",
+        "rm": "Neko no te mo karitai desu ka?",
+        "en": "Do you want to borrow the cat's hand? Can I borrow it?",
+        "audio": "audio/jSLtw3451Yg/seg_26.mp3"
+    },
+    {
+        "id": 27,
+        "jp": "借りられるんなら、な",
+        "rm": "Karirareru n nara, na",
+        "en": "If you can lend it to me... I refuse.",
+        "audio": "audio/jSLtw3451Yg/seg_27.mp3"
+    },
+    {
+        "id": 28,
+        "jp": "断る",
+        "rm": "Kotowaru",
+        "en": "Right? I refuse. Ah! Bye!",
+        "audio": "audio/jSLtw3451Yg/seg_28.mp3"
+    },
+    {
+        "id": 29,
+        "jp": "じゃあ代わりに、私にお手伝いさせてください",
+        "rm": "Jaa kawari ni, watakushi ni otetsudai sasete kudasai",
+        "en": "Then, instead, let me help you! Eh?",
+        "audio": "audio/jSLtw3451Yg/seg_29.mp3"
+    },
+    {
+        "id": 30,
+        "jp": "テレサ、アレック!",
+        "rm": "Teresa, Arekku!",
+        "en": "Huh? Teresa! Alex!",
+        "audio": "audio/jSLtw3451Yg/seg_30.mp3"
+    },
+    {
+        "id": 31,
+        "jp": "何事も経験です",
+        "rm": "Nanigoto mo keiken desu",
+        "en": "It's nothing! It's just an experience!",
+        "audio": "audio/jSLtw3451Yg/seg_31.mp3"
+    },
+    {
+        "id": 32,
+        "jp": "ご迷惑でなければ、一緒にお手伝いさせてください",
+        "rm": "Gomeiwaku de nakereba, issho ni otetsudai sasete kudasai",
+        "en": "If you don't mind, I'd like to help you.",
+        "audio": "audio/jSLtw3451Yg/seg_32.mp3"
+    },
+    {
+        "id": 33,
+        "jp": "助かるけど",
+        "rm": "Tasukarukedo",
+        "en": "I'll help you, but...",
+        "audio": "audio/jSLtw3451Yg/seg_33.mp3"
+    },
+    {
+        "id": 34,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Opening and closing I'm opening. Nice to meet you. Okay. Welcome! Cheers!",
+        "audio": "audio/jSLtw3451Yg/seg_34.mp3"
+    },
+    {
+        "id": 35,
+        "jp": "水吉!モーニングといつもの頂戴!",
+        "rm": "Mizuyoshi! morning to itsu mo no choudai!",
+        "en": "Yes, Mitsuyoshi! Give me the morning and the usual!",
+        "audio": "audio/jSLtw3451Yg/seg_35.mp3"
+    },
+    {
+        "id": 36,
+        "jp": "モーニングとスペシャルコーヒーゼリーとブレンド一つ",
+        "rm": "Morning to special coffee jelly to blend hitotsu",
+        "en": "One morning and one special coffee jelly blend.",
+        "audio": "audio/jSLtw3451Yg/seg_36.mp3"
+    },
+    {
+        "id": 37,
+        "jp": "はい!",
+        "rm": "Hai!",
+        "en": "One last thing. Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_37.mp3"
+    },
+    {
+        "id": 38,
+        "jp": "あれ、テレサちゃんとアレックじゃん!",
+        "rm": "Are, Teresachan to Arekku jan!",
+        "en": "Yes! Huh? You're going with Teresa-chan!",
+        "audio": "audio/jSLtw3451Yg/seg_38.mp3"
+    },
+    {
+        "id": 39,
+        "jp": "どうしたの?",
+        "rm": "Dou shita no?",
+        "en": "What's wrong?",
+        "audio": "audio/jSLtw3451Yg/seg_39.mp3"
+    },
+    {
+        "id": 40,
+        "jp": "お手伝いなんです",
+        "rm": "Otetsudai na n desu",
+        "en": "What's the matter? I'm here to help. Are you serious?",
+        "audio": "audio/jSLtw3451Yg/seg_40.mp3"
+    },
+    {
+        "id": 41,
+        "jp": "まじで?",
+        "rm": "Maji de?",
+        "en": "Are you serious?",
+        "audio": "audio/jSLtw3451Yg/seg_41.mp3"
+    },
+    {
+        "id": 42,
+        "jp": "よ、ニャンコビッグ",
+        "rm": "Yo, nyanko big",
+        "en": "Yo! Nyanke Big! Let's do it again today!",
+        "audio": "audio/jSLtw3451Yg/seg_42.mp3"
+    },
+    {
+        "id": 43,
+        "jp": "今日もやるか?",
+        "rm": "Kyou mo yaru ka?",
+        "en": "Shall we do it again today? Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_43.mp3"
+    },
+    {
+        "id": 44,
+        "jp": "はい、この",
+        "rm": "Hai, kono",
+        "en": "Do you want to do it too?",
+        "audio": "audio/jSLtw3451Yg/seg_44.mp3"
+    },
+    {
+        "id": 45,
+        "jp": "先日のニャンコビッグ、更新",
+        "rm": "Senjitsu no nyanko big, koushin",
+        "en": "Previous Nyankovic update",
+        "audio": "audio/jSLtw3451Yg/seg_45.mp3"
+    },
+    {
+        "id": 46,
+        "jp": "ったく",
+        "rm": "Ttaku",
+        "en": "Koushin... Geez... How many times do I have to tell you...",
+        "audio": "audio/jSLtw3451Yg/seg_46.mp3"
+    },
+    {
+        "id": 47,
+        "jp": "こんだけ付き合い長いのに、なんで打ち解けてくんだよ",
+        "rm": "Kon dake tsukiai nagai no ni, nan de uchitoketeku n da yo",
+        "en": "Even though we've known each other for so long, why did you break up with him?",
+        "audio": "audio/jSLtw3451Yg/seg_47.mp3"
+    },
+    {
+        "id": 48,
+        "jp": "このイラつく男は異住院カオル",
+        "rm": "Kono iratsuku otoko wa ijuuin Kaoru",
+        "en": "This annoying man is a prostitute, Kaoru.",
+        "audio": "audio/jSLtw3451Yg/seg_48.mp3"
+    },
+    {
+        "id": 49,
+        "jp": "水吉の幼なじみで、いつも店に入り浸っている",
+        "rm": "Mizuyoshi no osananajimi de, itsu mo mise ni iribitatte iru",
+        "en": "I don't think it's going to change, but I wonder if it's going to change.",
+        "audio": "audio/jSLtw3451Yg/seg_49.mp3"
+    },
+    {
+        "id": 50,
+        "jp": "近所の新店料亭のボンボンだ",
+        "rm": "Kinjo no shinmise ryoutei no bonbon da",
+        "en": "I'm the boss of a local restaurant.",
+        "audio": "audio/jSLtw3451Yg/seg_50.mp3"
+    },
+    {
+        "id": 51,
+        "jp": "いらっしゃいませ",
+        "rm": "Irasshaimase",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_51.mp3"
+    },
+    {
+        "id": 52,
+        "jp": "いらっしゃいませ",
+        "rm": "Irasshaimase",
+        "en": "Thank you very much! That guy...",
+        "audio": "audio/jSLtw3451Yg/seg_52.mp3"
+    },
+    {
+        "id": 53,
+        "jp": "奴は常連客の一人",
+        "rm": "Yatsu wa jouren kyaku no hitori",
+        "en": "He's one of our regular customers.",
+        "audio": "audio/jSLtw3451Yg/seg_53.mp3"
+    },
+    {
+        "id": 54,
+        "jp": "あの顔付きは殺し屋に違いない",
+        "rm": "Ano kaotsuki wa koroshiya ni chigai nai",
+        "en": "He must be a killer with that face.",
+        "audio": "audio/jSLtw3451Yg/seg_54.mp3"
+    },
+    {
+        "id": 55,
+        "jp": "虹の色を一つ",
+        "rm": "Niji no iro wo hitotsu",
+        "en": "Wow! It's the Rainbow Shogun! The Rainbow Shogun. One rainbow.",
+        "audio": "audio/jSLtw3451Yg/seg_55.mp3"
+    },
+    {
+        "id": 56,
+        "jp": "行ってみろ",
+        "rm": "Itte miro",
+        "en": "Ignore music, outros, and channel promos.",
+        "audio": "audio/jSLtw3451Yg/seg_56.mp3"
+    },
+    {
+        "id": 57,
+        "jp": "虹の色は虹色だ",
+        "rm": "Niji no iro wa nijiiro da",
+        "en": "The rainbow's color is rainbow color.",
+        "audio": "audio/jSLtw3451Yg/seg_57.mp3"
+    },
+    {
+        "id": 58,
+        "jp": "せいまい!",
+        "rm": "Seimai!",
+        "en": "It's rainbow-colored, Senpai!",
+        "audio": "audio/jSLtw3451Yg/seg_58.mp3"
+    },
+    {
+        "id": 59,
+        "jp": "いつも心は虹色に",
+        "rm": "Itsu mo kokoro wa nijiiro ni",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_59.mp3"
+    },
+    {
+        "id": 60,
+        "jp": "続く",
+        "rm": "Tsuzuku",
+        "en": "To be continued",
+        "audio": "audio/jSLtw3451Yg/seg_60.mp3"
+    },
+    {
+        "id": 61,
+        "jp": "いつも心は虹色に",
+        "rm": "Itsu mo kokoro wa nijiiro ni",
+        "en": "《Nijiro》 《Ikuno Kokoro wa Nijiro ni》",
+        "audio": "audio/jSLtw3451Yg/seg_61.mp3"
+    },
+    {
+        "id": 62,
+        "jp": "虹色に",
+        "rm": "Nijiiro ni",
+        "en": "Nijihiro-ni! Oh, welcome! Hello!",
+        "audio": "audio/jSLtw3451Yg/seg_62.mp3"
+    },
+    {
+        "id": 63,
+        "jp": "こんにちは、いいかな?",
+        "rm": "Konnichiha, ii ka na?",
+        "en": "Good afternoon. May I come in? Y-Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_63.mp3"
+    },
+    {
+        "id": 64,
+        "jp": "ここでいい?",
+        "rm": "Koko de ii?",
+        "en": "Can I sit here?",
+        "audio": "audio/jSLtw3451Yg/seg_64.mp3"
+    },
+    {
+        "id": 65,
+        "jp": "この老夫婦は",
+        "rm": "Kono roufuufu wa",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_65.mp3"
+    },
+    {
+        "id": 66,
+        "jp": "俺が出会った10年前から",
+        "rm": "Ore ga deatta 10 nen mae kara",
+        "en": "10 years ago when I first met you",
+        "audio": "audio/jSLtw3451Yg/seg_66.mp3"
+    },
+    {
+        "id": 67,
+        "jp": "老夫婦だった",
+        "rm": "Roufuufu datta",
+        "en": "It was a long time ago.",
+        "audio": "audio/jSLtw3451Yg/seg_67.mp3"
+    },
+    {
+        "id": 68,
+        "jp": "卵サンドとカッパサンドと",
+        "rm": "Tamago sandwich to capa sandwich to",
+        "en": "We're here to help you! Egg sandwich, kappa sandwich, and a blend of...",
+        "audio": "audio/jSLtw3451Yg/seg_68.mp3"
+    },
+    {
+        "id": 69,
+        "jp": "ブレンド2つ、いいですか?",
+        "rm": "Blend 2tsu, ii desu ka?",
+        "en": "Can I have two of these blends? Sure.",
+        "audio": "audio/jSLtw3451Yg/seg_69.mp3"
+    },
+    {
+        "id": 70,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Ah... Please...",
+        "audio": "audio/jSLtw3451Yg/seg_70.mp3"
+    },
+    {
+        "id": 71,
+        "jp": "お願いします",
+        "rm": "Onegai shimasu",
+        "en": "Please. Yes, ma'am!",
+        "audio": "audio/jSLtw3451Yg/seg_71.mp3"
+    },
+    {
+        "id": 72,
+        "jp": "あの頃、思い出すわね",
+        "rm": "Ano koro, omoidasu wa ne",
+        "en": "It reminds me of those days.",
+        "audio": "audio/jSLtw3451Yg/seg_72.mp3"
+    },
+    {
+        "id": 73,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "It reminds you, doesn't it?",
+        "audio": "audio/jSLtw3451Yg/seg_73.mp3"
+    },
+    {
+        "id": 74,
+        "jp": "ブレンド2つです",
+        "rm": "Blend 2tsu desu",
+        "en": "And two blends!",
+        "audio": "audio/jSLtw3451Yg/seg_74.mp3"
+    },
+    {
+        "id": 75,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Tadakun, what is kappa sand?",
+        "audio": "audio/jSLtw3451Yg/seg_75.mp3"
+    },
+    {
+        "id": 76,
+        "jp": "何ですか?",
+        "rm": "Nan desu ka?",
+        "en": "What is it?",
+        "audio": "audio/jSLtw3451Yg/seg_76.mp3"
+    },
+    {
+        "id": 77,
+        "jp": "きゅうりのサンドイッチだ",
+        "rm": "Kyuuri no sandwich da",
+        "en": "It's cucumber sandwich.",
+        "audio": "audio/jSLtw3451Yg/seg_77.mp3"
+    },
+    {
+        "id": 78,
+        "jp": "ちがみに、カッパってのは日本の妖怪の名前でね",
+        "rm": "Chi ga mi ni, kappa tte no wa Nippon no youkai no namae de ne",
+        "en": "By the way, kappa is the name of a Japanese youkai, you know? Youkai?",
+        "audio": "audio/jSLtw3451Yg/seg_78.mp3"
+    },
+    {
+        "id": 79,
+        "jp": "妖怪ですか?",
+        "rm": "Youkai desu ka?",
+        "en": "Are you a youkai?",
+        "audio": "audio/jSLtw3451Yg/seg_79.mp3"
+    },
+    {
+        "id": 80,
+        "jp": "きゅうりと何の関係が?",
+        "rm": "Kyuuri to nan no kankei ga?",
+        "en": "What does it have to do with cucumbers? Eh?",
+        "audio": "audio/jSLtw3451Yg/seg_80.mp3"
+    },
+    {
+        "id": 81,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "What? Why did you say that?",
+        "audio": "audio/jSLtw3451Yg/seg_81.mp3"
+    },
+    {
+        "id": 82,
+        "jp": "あ、なんで?三瀬よし",
+        "rm": "A, nan de? Mise Yoshi",
+        "en": "Oh, why, Mitsuyoshi? Kappa is a cucumber.",
+        "audio": "audio/jSLtw3451Yg/seg_82.mp3"
+    },
+    {
+        "id": 83,
+        "jp": "カッパはきゅうりが好きだから",
+        "rm": "Kappa wa kyuuri ga suki dakara",
+        "en": "I like cucumbers, so... Seriously?!",
+        "audio": "audio/jSLtw3451Yg/seg_83.mp3"
+    },
+    {
+        "id": 84,
+        "jp": "マジか!",
+        "rm": "Maji ka!",
+        "en": "Are you serious!? I didn't know that.",
+        "audio": "audio/jSLtw3451Yg/seg_84.mp3"
+    },
+    {
+        "id": 85,
+        "jp": "知らなかったんですか",
+        "rm": "Shiranakatta n desu ka",
+        "en": "You didn't know? I-I'm s-sorry!",
+        "audio": "audio/jSLtw3451Yg/seg_85.mp3"
+    },
+    {
+        "id": 86,
+        "jp": "す、すみません",
+        "rm": "Su, sumimasen",
+        "en": "I'm sorry! Okay!",
+        "audio": "audio/jSLtw3451Yg/seg_86.mp3"
+    },
+    {
+        "id": 87,
+        "jp": "はーい",
+        "rm": "Haai",
+        "en": "Yes! Um, do you want an ice cafe?",
+        "audio": "audio/jSLtw3451Yg/seg_87.mp3"
+    },
+    {
+        "id": 88,
+        "jp": "えっと、アイスカフェオレを",
+        "rm": "Etto, ice cafe au lait wo",
+        "en": "Um, I'd like an iced cafe au lait. I-I'd like one, too.",
+        "audio": "audio/jSLtw3451Yg/seg_88.mp3"
+    },
+    {
+        "id": 89,
+        "jp": "ぼ、僕も同じもの",
+        "rm": "Bo, boku mo onaji mono",
+        "en": "Y-Yes, I'm the same. Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_89.mp3"
+    },
+    {
+        "id": 90,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_90.mp3"
+    },
+    {
+        "id": 91,
+        "jp": "アイスカフェオレ2つ、少々お待ちください",
+        "rm": "Ice cafe au lait 2tsu, shoushou omachi kudasai",
+        "en": "Two iced cafe au lait, please wait a moment, miss!",
+        "audio": "audio/jSLtw3451Yg/seg_91.mp3"
+    },
+    {
+        "id": 92,
+        "jp": "この坊やが女を連れてきたのは初めてだ",
+        "rm": "Kono bouya ga onna wo tsurete kita no wa hajimete da",
+        "en": "This is the first time this boy has brought a woman.",
+        "audio": "audio/jSLtw3451Yg/seg_92.mp3"
+    },
+    {
+        "id": 93,
+        "jp": "あ、あの",
+        "rm": "A, ano",
+        "en": "U-Um... Yes?",
+        "audio": "audio/jSLtw3451Yg/seg_93.mp3"
+    },
+    {
+        "id": 94,
+        "jp": "男と女は8秒目が合えば恋に落ちると聞く",
+        "rm": "Otoko to onna wa 8 byoume ga aeba koi ni ochiru to kiku",
+        "en": "It is said that a man and a woman fall in love when they meet for the first time in 8 seconds.",
+        "audio": "audio/jSLtw3451Yg/seg_94.mp3"
+    },
+    {
+        "id": 95,
+        "jp": "三瀬よし、ピンセンパイが午後の撮影会大丈夫かって",
+        "rm": "Sanze yoshi, pin senpai ga gogo no satsuei kai daijoubu ka tte",
+        "en": "Mitsuyoshi, is it okay for Pin-senpai to go to the afternoon shoot?",
+        "audio": "audio/jSLtw3451Yg/seg_95.mp3"
+    },
+    {
+        "id": 96,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "Are you okay? Yeah.",
+        "audio": "audio/jSLtw3451Yg/seg_96.mp3"
+    },
+    {
+        "id": 97,
+        "jp": "テネサちゃんとアレックは?",
+        "rm": "Tenesachan to Arekku wa?",
+        "en": "Yeah. Where's Teresa-chan and Alex?",
+        "audio": "audio/jSLtw3451Yg/seg_97.mp3"
+    },
+    {
+        "id": 98,
+        "jp": "もちろんです",
+        "rm": "Mochiron desu",
+        "en": "What about me? Of course!",
+        "audio": "audio/jSLtw3451Yg/seg_98.mp3"
+    },
+    {
+        "id": 99,
+        "jp": "落ちたな",
+        "rm": "Ochita na",
+        "en": "You fell, didn't you?",
+        "audio": "audio/jSLtw3451Yg/seg_99.mp3"
+    },
+    {
+        "id": 100,
+        "jp": "ありがとうございました",
+        "rm": "Arigatou gozaimashita",
+        "en": "Thank you very much.",
+        "audio": "audio/jSLtw3451Yg/seg_100.mp3"
+    },
+    {
+        "id": 101,
+        "jp": "お疲れ",
+        "rm": "Otsukare",
+        "en": "Good work! Thank you.",
+        "audio": "audio/jSLtw3451Yg/seg_101.mp3"
+    },
+    {
+        "id": 102,
+        "jp": "ありがとう二人とも、助かった",
+        "rm": "Arigatou futaritomo, tasukatta",
+        "en": "Thank you, you two. You saved me.",
+        "audio": "audio/jSLtw3451Yg/seg_102.mp3"
+    },
+    {
+        "id": 103,
+        "jp": "コーヒー入れるよ、少し休憩しよう",
+        "rm": "Coffee ireru yo, sukoshi kyuukei shiyou",
+        "en": "All right. I'll make you some coffee. Let's take a break.",
+        "audio": "audio/jSLtw3451Yg/seg_103.mp3"
+    },
+    {
+        "id": 104,
+        "jp": "はーい",
+        "rm": "Haai",
+        "en": "Let's take a break. Okay!",
+        "audio": "audio/jSLtw3451Yg/seg_104.mp3"
+    },
+    {
+        "id": 105,
+        "jp": "何にする?",
+        "rm": "Nan ni suru?",
+        "en": "What are you going to do?",
+        "audio": "audio/jSLtw3451Yg/seg_105.mp3"
+    },
+    {
+        "id": 106,
+        "jp": "濃いのが好きとか香りがいいのとか",
+        "rm": "Koi no ga suki to ka kaori ga ii no to ka",
+        "en": "What do you want to do? Do you like something strong, or do you like something fragrant?",
+        "audio": "audio/jSLtw3451Yg/seg_106.mp3"
+    },
+    {
+        "id": 107,
+        "jp": "リクエストしてくれれば",
+        "rm": "Request shite kurereba",
+        "en": "If you have any requests, please leave them in the comment section below.",
+        "audio": "audio/jSLtw3451Yg/seg_107.mp3"
+    },
+    {
+        "id": 108,
+        "jp": "テレサ",
+        "rm": "Teresa",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_108.mp3"
+    },
+    {
+        "id": 109,
+        "jp": "何それ",
+        "rm": "Nan sore",
+        "en": "Oh, that's right. I was holding this. What's that?",
+        "audio": "audio/jSLtw3451Yg/seg_109.mp3"
+    },
+    {
+        "id": 110,
+        "jp": "ホットチョコレートスプーンです",
+        "rm": "Hot chocolate spoon desu",
+        "en": "What's that? It's a hot chocolate spoon.",
+        "audio": "audio/jSLtw3451Yg/seg_110.mp3"
+    },
+    {
+        "id": 111,
+        "jp": "温めたミルクやコーヒーに入れると",
+        "rm": "Atatameta milk ya coffee ni ireru to",
+        "en": "If you put it in hot milk or coffee...",
+        "audio": "audio/jSLtw3451Yg/seg_111.mp3"
+    },
+    {
+        "id": 112,
+        "jp": "チョコレートドリンクとして楽しめるんです",
+        "rm": "Chocolate drink to shite tanoshimeru n desu",
+        "en": "If you put it in coffee, you can enjoy it as a chocolate drink.",
+        "audio": "audio/jSLtw3451Yg/seg_112.mp3"
+    },
+    {
+        "id": 113,
+        "jp": "コーヒーにチョコ?",
+        "rm": "Coffee ni chocolate?",
+        "en": "This video is a work of fiction. This video is a work of fiction.",
+        "audio": "audio/jSLtw3451Yg/seg_113.mp3"
+    },
+    {
+        "id": 114,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Coffee and chocolate? Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_114.mp3"
+    },
+    {
+        "id": 115,
+        "jp": "ラルセンブルクではよく飲まれているんですよ",
+        "rm": "Rarusenburuku de wa yoku nomarete iru n desu yo",
+        "en": "Really? Yes! It's often drunk in Larsenbrook.",
+        "audio": "audio/jSLtw3451Yg/seg_115.mp3"
+    },
+    {
+        "id": 116,
+        "jp": "皆さんにも楽しんでいただけたらと思って",
+        "rm": "Minasan ni mo tanoshinde itadaketara to omotte",
+        "en": "It is often drunk. I hope everyone enjoys it.",
+        "audio": "audio/jSLtw3451Yg/seg_116.mp3"
+    },
+    {
+        "id": 117,
+        "jp": "うまそうじゃん、いいねいいね",
+        "rm": "Uma sou jan, ii ne ii ne",
+        "en": "I thought I'd lose. Wow, you look delicious! That's great!",
+        "audio": "audio/jSLtw3451Yg/seg_117.mp3"
+    },
+    {
+        "id": 118,
+        "jp": "三瀬よし、俺もおかわりちょーだい",
+        "rm": "Sanze yoshi, ore mo okawari choodai",
+        "en": "Nice, nice! Mitsuyoshi, give me a favor too!",
+        "audio": "audio/jSLtw3451Yg/seg_118.mp3"
+    },
+    {
+        "id": 119,
+        "jp": "じゃあ、チョコに合いそうなやつで",
+        "rm": "Jaa, chocolate ni ai sou na yatsu de",
+        "en": "Translate only what is spoken.",
+        "audio": "audio/jSLtw3451Yg/seg_119.mp3"
+    },
+    {
+        "id": 120,
+        "jp": "おう",
+        "rm": "Ou",
+        "en": "I'm the kind of guy that would go well with chocolate.",
+        "audio": "audio/jSLtw3451Yg/seg_120.mp3"
+    },
+    {
+        "id": 121,
+        "jp": "お願いします",
+        "rm": "Onegai shimasu",
+        "en": "Yeah! Thank you!",
+        "audio": "audio/jSLtw3451Yg/seg_121.mp3"
+    },
+    {
+        "id": 122,
+        "jp": "起きたのニャンコビックさん",
+        "rm": "Okita no nyanko Bikkusan",
+        "en": "Meow Did you wake up, Nyankovic-san?",
+        "audio": "audio/jSLtw3451Yg/seg_122.mp3"
+    },
+    {
+        "id": 123,
+        "jp": "昼飯はまだだぞ",
+        "rm": "Chuuhan wa mada da zo",
+        "en": "Isn't that right, Nyankovic-san? You haven't had lunch yet?",
+        "audio": "audio/jSLtw3451Yg/seg_123.mp3"
+    },
+    {
+        "id": 124,
+        "jp": "お前、朝食ったばっかだろ",
+        "rm": "Omae, asa kutta bakka daro",
+        "en": "You haven't had lunch yet? You just had breakfast, haven't you?",
+        "audio": "audio/jSLtw3451Yg/seg_124.mp3"
+    },
+    {
+        "id": 125,
+        "jp": "チョコか",
+        "rm": "Chocolate ka",
+        "en": "Hmm, chocolate?",
+        "audio": "audio/jSLtw3451Yg/seg_125.mp3"
+    },
+    {
+        "id": 126,
+        "jp": "甘いものなどに興味はない",
+        "rm": "Amai mono nado ni kyoumi wa nai",
+        "en": "Chocolate? I'm not interested in sweets.",
+        "audio": "audio/jSLtw3451Yg/seg_126.mp3"
+    },
+    {
+        "id": 127,
+        "jp": "好きなカップ選んで",
+        "rm": "Suki na cup erande",
+        "en": "Choose the cup you like.",
+        "audio": "audio/jSLtw3451Yg/seg_127.mp3"
+    },
+    {
+        "id": 128,
+        "jp": "じゃあ、虹色のカップで",
+        "rm": "Jaa, nijiiro no cup de",
+        "en": "Choose the cup you like. Then, I'll go with the rainbow-colored cup!",
+        "audio": "audio/jSLtw3451Yg/seg_128.mp3"
+    },
+    {
+        "id": 129,
+        "jp": "一番左を",
+        "rm": "Ichiban hidari wo",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_129.mp3"
+    },
+    {
+        "id": 130,
+        "jp": "おお、花柄",
+        "rm": "Oo, hanagara",
+        "en": "To the far left. Oh, a flower pattern!",
+        "audio": "audio/jSLtw3451Yg/seg_130.mp3"
+    },
+    {
+        "id": 131,
+        "jp": "意外だけど、アレックに似合うじゃん",
+        "rm": "Igai dakedo, Arekku ni niau jan",
+        "en": "It's surprising, but it looks good on you, doesn't it?",
+        "audio": "audio/jSLtw3451Yg/seg_131.mp3"
+    },
+    {
+        "id": 132,
+        "jp": "覆っておいてください",
+        "rm": "Ootte oite kudasai",
+        "en": "Doesn't it look good on you, Tadeu? Please leave me alone.",
+        "audio": "audio/jSLtw3451Yg/seg_132.mp3"
+    },
+    {
+        "id": 133,
+        "jp": "何、何、何読んでんの",
+        "rm": "Nan, nan, nan yonden no",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/jSLtw3451Yg/seg_133.mp3"
+    },
+    {
+        "id": 134,
+        "jp": "何読んでんの",
+        "rm": "Nan yonden no",
+        "en": "What are you talking about?",
+        "audio": "audio/jSLtw3451Yg/seg_134.mp3"
+    },
+    {
+        "id": 135,
+        "jp": "教えてよ、一緒に読もうよ",
+        "rm": "Oshiete yo, issho ni yomou yo",
+        "en": "Tell me! Let's read it together!",
+        "audio": "audio/jSLtw3451Yg/seg_135.mp3"
+    },
+    {
+        "id": 136,
+        "jp": "って、隠さなくたっていいじゃん",
+        "rm": "Tte, kakusanakutatte ii jan",
+        "en": "You don't have to hide it!",
+        "audio": "audio/jSLtw3451Yg/seg_136.mp3"
+    },
+    {
+        "id": 137,
+        "jp": "何の本か教えてくれたっていいじゃん",
+        "rm": "Nan no hon ka oshiete kureta tte ii jan",
+        "en": "It doesn't matter what books you teach me!",
+        "audio": "audio/jSLtw3451Yg/seg_137.mp3"
+    },
+    {
+        "id": 138,
+        "jp": "黙らないと、黙らせますよ",
+        "rm": "Damaranaito, damarasemasu yo",
+        "en": "If you don't shut up, I'll shut you up.",
+        "audio": "audio/jSLtw3451Yg/seg_138.mp3"
+    },
+    {
+        "id": 139,
+        "jp": "黙ります",
+        "rm": "Damarimasu",
+        "en": "I'll do my best!",
+        "audio": "audio/jSLtw3451Yg/seg_139.mp3"
+    },
+    {
+        "id": 140,
+        "jp": "どうぞ",
+        "rm": "Douzo",
+        "en": "Here you go.",
+        "audio": "audio/jSLtw3451Yg/seg_140.mp3"
+    },
+    {
+        "id": 141,
+        "jp": "いただきます",
+        "rm": "Itadakimasu",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_141.mp3"
+    },
+    {
+        "id": 142,
+        "jp": "いただき、って、どうすんの?",
+        "rm": "Itadaki, tte, dou sun no?",
+        "en": "T-Thank you for the food! W-What are you going to do?",
+        "audio": "audio/jSLtw3451Yg/seg_142.mp3"
+    },
+    {
+        "id": 143,
+        "jp": "これを、こうやって混ぜるんですよ",
+        "rm": "Kore wo, kou yatte mazeru n desu yo",
+        "en": "I'm going to mix this like this.",
+        "audio": "audio/jSLtw3451Yg/seg_143.mp3"
+    },
+    {
+        "id": 144,
+        "jp": "ああ、甘い香りがしてきた",
+        "rm": "Aa, amai kaori ga shite kita",
+        "en": "Wow, it smells so sweet!",
+        "audio": "audio/jSLtw3451Yg/seg_144.mp3"
+    },
+    {
+        "id": 145,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "I did it! Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_145.mp3"
+    },
+    {
+        "id": 146,
+        "jp": "じゃ、俺はホワイトチョコにしよっかな",
+        "rm": "Ja, ore wa white chocolate ni shiyok ka na",
+        "en": "Okay! Then, I'll go with the white chocolate one.",
+        "audio": "audio/jSLtw3451Yg/seg_146.mp3"
+    },
+    {
+        "id": 147,
+        "jp": "アレックは?",
+        "rm": "Arekku wa?",
+        "en": "See you later. Bye.",
+        "audio": "audio/jSLtw3451Yg/seg_147.mp3"
+    },
+    {
+        "id": 148,
+        "jp": "では、ストロベリーで",
+        "rm": "De wa, strawberry de",
+        "en": "Well then, let's have some strawberries. Straw-",
+        "audio": "audio/jSLtw3451Yg/seg_148.mp3"
+    },
+    {
+        "id": 149,
+        "jp": "ストローベリー",
+        "rm": "Straw berry",
+        "en": "STRAWBERRY!",
+        "audio": "audio/jSLtw3451Yg/seg_149.mp3"
+    },
+    {
+        "id": 150,
+        "jp": "甘いのはちょっと",
+        "rm": "Amai no wa chotto",
+        "en": "Yeah. How about you, Tada-kun? It's a little sweet.",
+        "audio": "audio/jSLtw3451Yg/seg_150.mp3"
+    },
+    {
+        "id": 151,
+        "jp": "そんなに甘くないですよ",
+        "rm": "Sonna ni amaku nai desu yo",
+        "en": "It's not that sweet!",
+        "audio": "audio/jSLtw3451Yg/seg_151.mp3"
+    },
+    {
+        "id": 152,
+        "jp": "やっぱアレック、可愛いよね",
+        "rm": "Yappa Arekku, kawaii yo ne",
+        "en": "As I thought, Riku's face is cute, isn't it?",
+        "audio": "audio/jSLtw3451Yg/seg_152.mp3"
+    },
+    {
+        "id": 153,
+        "jp": "本当に殴りますよ",
+        "rm": "Hontou ni nagurimasu yo",
+        "en": "I'm really going to hit you.",
+        "audio": "audio/jSLtw3451Yg/seg_153.mp3"
+    },
+    {
+        "id": 154,
+        "jp": "なんで",
+        "rm": "Nan de",
+        "en": "Why?!",
+        "audio": "audio/jSLtw3451Yg/seg_154.mp3"
+    },
+    {
+        "id": 155,
+        "jp": "いける",
+        "rm": "Ikeru",
+        "en": "I can do it.",
+        "audio": "audio/jSLtw3451Yg/seg_155.mp3"
+    },
+    {
+        "id": 156,
+        "jp": "じゃあ、俺も",
+        "rm": "Jaa, ore mo",
+        "en": "Then, I'll do it too.",
+        "audio": "audio/jSLtw3451Yg/seg_156.mp3"
+    },
+    {
+        "id": 157,
+        "jp": "おすすめある?",
+        "rm": "Osusume aru?",
+        "en": "Do you have any recommendations?",
+        "audio": "audio/jSLtw3451Yg/seg_157.mp3"
+    },
+    {
+        "id": 158,
+        "jp": "結構すぐ溶けるもんなんだな",
+        "rm": "Kekkou sugu tokeru mon na n da na",
+        "en": "Oh, that's right. How about some dark chocolate? Yeah. Oh, it melts pretty quickly.",
+        "audio": "audio/jSLtw3451Yg/seg_158.mp3"
+    },
+    {
+        "id": 159,
+        "jp": "やば、これめっちゃうめえ",
+        "rm": "Yaba, kore metcha umee",
+        "en": "I'm sorry, I'm sorry. I'm sorry, I'm sorry. Oh my god, this is so good!",
+        "audio": "audio/jSLtw3451Yg/seg_159.mp3"
+    },
+    {
+        "id": 160,
+        "jp": "どうしました?",
+        "rm": "Dou shimashita?",
+        "en": "What's wrong?",
+        "audio": "audio/jSLtw3451Yg/seg_160.mp3"
+    },
+    {
+        "id": 161,
+        "jp": "お嬢さん",
+        "rm": "Ojousan",
+        "en": "Ojou-san...",
+        "audio": "audio/jSLtw3451Yg/seg_161.mp3"
+    },
+    {
+        "id": 162,
+        "jp": "甘いコーヒーは、お好きですか?",
+        "rm": "Amai coffee wa, osuki desu ka?",
+        "en": "Do you like sweet coffee?",
+        "audio": "audio/jSLtw3451Yg/seg_162.mp3"
+    },
+    {
+        "id": 163,
+        "jp": "ヤンコビッグ",
+        "rm": "Yanko big",
+        "en": "Yankovic!",
+        "audio": "audio/jSLtw3451Yg/seg_163.mp3"
+    },
+    {
+        "id": 164,
+        "jp": "ただいま、お散歩かい?",
+        "rm": "Tadaima, osanpo ka i?",
+        "en": "I'm home. Want to take a walk?",
+        "audio": "audio/jSLtw3451Yg/seg_164.mp3"
+    },
+    {
+        "id": 165,
+        "jp": "ちょうど、散歩ではない、パトロールだ",
+        "rm": "Choudo, sanpo de wa nai, patrol da",
+        "en": "Let's go for a walk. Good boy. It's not a walk. It's a patrol.",
+        "audio": "audio/jSLtw3451Yg/seg_165.mp3"
+    },
+    {
+        "id": 166,
+        "jp": "そうか、パトロールかい",
+        "rm": "Sou ka, patrol ka i",
+        "en": "It's a patrol. I see, it's a patrol.",
+        "audio": "audio/jSLtw3451Yg/seg_166.mp3"
+    },
+    {
+        "id": 167,
+        "jp": "なに",
+        "rm": "Nani",
+        "en": "Oh, it's a patrol car. What!?",
+        "audio": "audio/jSLtw3451Yg/seg_167.mp3"
+    },
+    {
+        "id": 168,
+        "jp": "あまり、遠く行くんじゃないよ",
+        "rm": "Amari, tooku iku n ja nai yo",
+        "en": "What!? Don't go too far.",
+        "audio": "audio/jSLtw3451Yg/seg_168.mp3"
+    },
+    {
+        "id": 169,
+        "jp": "気をつけて",
+        "rm": "Ki wo tsukete",
+        "en": "It's not like that. Be careful.",
+        "audio": "audio/jSLtw3451Yg/seg_169.mp3"
+    },
+    {
+        "id": 170,
+        "jp": "オーサルペシ、章像",
+        "rm": "Oosarupeshi, shou zou",
+        "en": "Osorubishi Shouzou",
+        "audio": "audio/jSLtw3451Yg/seg_170.mp3"
+    },
+    {
+        "id": 171,
+        "jp": "ミイコちゃん、お出かけかい?",
+        "rm": "Miikochan, odekake ka i?",
+        "en": "Thank you for your viewing.",
+        "audio": "audio/jSLtw3451Yg/seg_171.mp3"
+    },
+    {
+        "id": 172,
+        "jp": "ミイコちゃん、今日も元気そうね",
+        "rm": "Miikochan, kyou mo genki sou ne",
+        "en": "Miko-chan, you seem to be in a good mood today, too.",
+        "audio": "audio/jSLtw3451Yg/seg_172.mp3"
+    },
+    {
+        "id": 173,
+        "jp": "信号を守るんだよ、ミイコちゃん",
+        "rm": "Shingou wo mamoru n da yo, miikochan",
+        "en": "You're right. Protect the signal, Miko-chan.",
+        "audio": "audio/jSLtw3451Yg/seg_173.mp3"
+    },
+    {
+        "id": 174,
+        "jp": "なぜミイコと呼ばれるのか",
+        "rm": "Naze miiko to yobareru no ka",
+        "en": "Why am I called Miko?",
+        "audio": "audio/jSLtw3451Yg/seg_174.mp3"
+    },
+    {
+        "id": 175,
+        "jp": "俺には開目わからない",
+        "rm": "Ore ni wa kaimoku wakaranai",
+        "en": "I don't know what you're talking about.",
+        "audio": "audio/jSLtw3451Yg/seg_175.mp3"
+    },
+    {
+        "id": 176,
+        "jp": "街は今日も異常なし",
+        "rm": "Machi wa kyou mo ijou nashi",
+        "en": "I don't know. The city is still the same today.",
+        "audio": "audio/jSLtw3451Yg/seg_176.mp3"
+    },
+    {
+        "id": 177,
+        "jp": "ああ",
+        "rm": "Aa",
+        "en": "To Be Continued... Fin-senpai! Oh!",
+        "audio": "audio/jSLtw3451Yg/seg_177.mp3"
+    },
+    {
+        "id": 178,
+        "jp": "いいか、諸君",
+        "rm": "Ii ka, shokun",
+        "en": "Do you hear me, everyone?",
+        "audio": "audio/jSLtw3451Yg/seg_178.mp3"
+    },
+    {
+        "id": 179,
+        "jp": "春のコンクールの締め切りは来週だ",
+        "rm": "Haru no concours no shimekiri wa raishuu da",
+        "en": "Listen up, everyone! The final round of the Spring Competition is next week!",
+        "audio": "audio/jSLtw3451Yg/seg_179.mp3"
+    },
+    {
+        "id": 180,
+        "jp": "今日がラストと思って、全員取りまくるぞ",
+        "rm": "Kyou ga last to omotte, zen'in tori makuru zo",
+        "en": "It's the last week! I think today is the last, so I'm going to get everyone! Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_180.mp3"
+    },
+    {
+        "id": 181,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Let's go!",
+        "audio": "audio/jSLtw3451Yg/seg_181.mp3"
+    },
+    {
+        "id": 182,
+        "jp": "俺は春がテーマだと言ったはずなんだ",
+        "rm": "Ore wa haru ga theme da to itta hazu na n da",
+        "en": "I told you spring is the theme, didn't I?",
+        "audio": "audio/jSLtw3451Yg/seg_182.mp3"
+    },
+    {
+        "id": 183,
+        "jp": "空取りまーす",
+        "rm": "Sora tori maa su",
+        "en": "This is my first time doing this. I'm going to take the sky!",
+        "audio": "audio/jSLtw3451Yg/seg_183.mp3"
+    },
+    {
+        "id": 184,
+        "jp": "やましたけ、お前寝る気だろ",
+        "rm": "Yamashita ke, omae neruge daro",
+        "en": "Shut up! Are you going to sleep?",
+        "audio": "audio/jSLtw3451Yg/seg_184.mp3"
+    },
+    {
+        "id": 185,
+        "jp": "本当に綺麗ですね",
+        "rm": "Hontou ni kirei desu ne",
+        "en": "It's really beautiful, isn't it?",
+        "audio": "audio/jSLtw3451Yg/seg_185.mp3"
+    },
+    {
+        "id": 186,
+        "jp": "お二人はここは初めてですか?",
+        "rm": "Ofutari wa koko wa hajimete desu ka?",
+        "en": "Is this your first time here?",
+        "audio": "audio/jSLtw3451Yg/seg_186.mp3"
+    },
+    {
+        "id": 187,
+        "jp": "はい、なんだか霊法将軍が出てきて…",
+        "rm": "Hai, nan da ka rei hou shougun ga dete kite...",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_187.mp3"
+    },
+    {
+        "id": 188,
+        "jp": "そうですかね",
+        "rm": "Sou desu ka ne",
+        "en": "It looks like the Imperial Army is about to come out! Is that so?",
+        "audio": "audio/jSLtw3451Yg/seg_188.mp3"
+    },
+    {
+        "id": 189,
+        "jp": "テルサちゃん",
+        "rm": "Terusachan",
+        "en": "It's Telsa!",
+        "audio": "audio/jSLtw3451Yg/seg_189.mp3"
+    },
+    {
+        "id": 190,
+        "jp": "ここ、カッパが出るんだぜ",
+        "rm": "Koko, kappa ga deru n da ze",
+        "en": "Sa-chan, there's a kappa coming out of here.",
+        "audio": "audio/jSLtw3451Yg/seg_190.mp3"
+    },
+    {
+        "id": 191,
+        "jp": "だから気をつけて",
+        "rm": "Dakara ki wo tsukete",
+        "en": "What? That kappa? That's right. So be careful.",
+        "audio": "audio/jSLtw3451Yg/seg_191.mp3"
+    },
+    {
+        "id": 192,
+        "jp": "あそこには絶対、近づいたらダメだよ",
+        "rm": "Asoko ni wa zettai, chikazuitara dame da yo",
+        "en": "So be careful. Don't get too close to them.",
+        "audio": "audio/jSLtw3451Yg/seg_192.mp3"
+    },
+    {
+        "id": 193,
+        "jp": "そうなんですか",
+        "rm": "Sou na n desu ka",
+        "en": "You can't get caught! Is that so?",
+        "audio": "audio/jSLtw3451Yg/seg_193.mp3"
+    },
+    {
+        "id": 194,
+        "jp": "カッパなんて、いるわけないだろ",
+        "rm": "Kappa nante, iru wake naidaro",
+        "en": "Kappa, you say? There's no way there's a Kappa.",
+        "audio": "audio/jSLtw3451Yg/seg_194.mp3"
+    },
+    {
+        "id": 195,
+        "jp": "なことないから",
+        "rm": "Na koto naikara",
+        "en": "I don't think so. I said I don't think so!",
+        "audio": "audio/jSLtw3451Yg/seg_195.mp3"
+    },
+    {
+        "id": 196,
+        "jp": "ミツヨシと俺が初めて会ったとき、いただろ",
+        "rm": "Mi Tsuyoshi to ore ga hajimete atta toki, ita daro",
+        "en": "You were there when I first met Mitsuyoshi, weren't you?",
+        "audio": "audio/jSLtw3451Yg/seg_196.mp3"
+    },
+    {
+        "id": 197,
+        "jp": "カッパが?",
+        "rm": "Kappa ga?",
+        "en": "I told you! Kappa?",
+        "audio": "audio/jSLtw3451Yg/seg_197.mp3"
+    },
+    {
+        "id": 198,
+        "jp": "あれは6歳の頃",
+        "rm": "Are wa 6sai no koro",
+        "en": "That was when I was 6 years old.",
+        "audio": "audio/jSLtw3451Yg/seg_198.mp3"
+    },
+    {
+        "id": 199,
+        "jp": "俺は、ラジコンボートに夢中だった",
+        "rm": "Ore wa, rajikon boat ni muchuu datta",
+        "en": "That was when I was 6 years old. I was so into the radio.",
+        "audio": "audio/jSLtw3451Yg/seg_199.mp3"
+    },
+    {
+        "id": 200,
+        "jp": "いないって",
+        "rm": "Inai tte",
+        "en": "I was really into it. I'm not here.",
+        "audio": "audio/jSLtw3451Yg/seg_200.mp3"
+    },
+    {
+        "id": 201,
+        "jp": "なんかにつかまれた",
+        "rm": "Nan ka ni tsukamareta",
+        "en": "I feel like I'm being held...",
+        "audio": "audio/jSLtw3451Yg/seg_201.mp3"
+    },
+    {
+        "id": 202,
+        "jp": "カオルくん、大丈夫?",
+        "rm": "Kaorukun, daijoubu?",
+        "en": "If I get caught... What? Kaoru-kun, are you okay?",
+        "audio": "audio/jSLtw3451Yg/seg_202.mp3"
+    },
+    {
+        "id": 203,
+        "jp": "落ち着け",
+        "rm": "Ochitsuke",
+        "en": "It's a kappa! A kappa?! Kaoru-kun will be killed by a kappa! What?! Run! Wait! Don't leave me! Help me! Huh? K-Kappa... Will be... Killed... Calm down... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa... Kappa...",
+        "audio": "audio/jSLtw3451Yg/seg_203.mp3"
+    },
+    {
+        "id": 204,
+        "jp": "カッパなんていない",
+        "rm": "Kappa nante inai",
+        "en": "There's no Kappa",
+        "audio": "audio/jSLtw3451Yg/seg_204.mp3"
+    },
+    {
+        "id": 205,
+        "jp": "ほら",
+        "rm": "Hora",
+        "en": "See?",
+        "audio": "audio/jSLtw3451Yg/seg_205.mp3"
+    },
+    {
+        "id": 206,
+        "jp": "超かっこいいっす",
+        "rm": "Choukakko iissu",
+        "en": "To be continued... Amazing! It's super cool!",
+        "audio": "audio/jSLtw3451Yg/seg_206.mp3"
+    },
+    {
+        "id": 207,
+        "jp": "マジ感動、やっべー",
+        "rm": "Maji kandou, yab be-",
+        "en": "This is great! I'm so impressed!",
+        "audio": "audio/jSLtw3451Yg/seg_207.mp3"
+    },
+    {
+        "id": 208,
+        "jp": "だろ?",
+        "rm": "Daro?",
+        "en": "It's hot!",
+        "audio": "audio/jSLtw3451Yg/seg_208.mp3"
+    },
+    {
+        "id": 209,
+        "jp": "いや、いい住院先輩はかっこ悪いっす",
+        "rm": "Iya, ii juuin senpai wa kakko waruissu",
+        "en": "I mean, Ijuin-senpai is so cool.",
+        "audio": "audio/jSLtw3451Yg/seg_209.mp3"
+    },
+    {
+        "id": 210,
+        "jp": "なんでだよ",
+        "rm": "Nan de da yo",
+        "en": "You're so uncool. Why?!",
+        "audio": "audio/jSLtw3451Yg/seg_210.mp3"
+    },
+    {
+        "id": 211,
+        "jp": "お前、いつもバカだと思っていたけど",
+        "rm": "Omae, itsu mo baka da to omotte itakedo",
+        "en": "Why?! Mitsuyoshi and I are in the same show! You always think I'm an idiot!",
+        "audio": "audio/jSLtw3451Yg/seg_211.mp3"
+    },
+    {
+        "id": 212,
+        "jp": "その頃からバカだったんだな",
+        "rm": "Sono koro kara baka datta n da na",
+        "en": "I thought I was stupid, but I've been stupid since then",
+        "audio": "audio/jSLtw3451Yg/seg_212.mp3"
+    },
+    {
+        "id": 213,
+        "jp": "はじめちゃん、本当のこと言ったら",
+        "rm": "Hajimechan, hontou no koto ittara",
+        "en": "You've been an idiot since you were a kid. Hajime-chan, tell me the truth.",
+        "audio": "audio/jSLtw3451Yg/seg_213.mp3"
+    },
+    {
+        "id": 214,
+        "jp": "なんだよ、マジ怖かったんだからな",
+        "rm": "Nan da yo, maji kowakatta n dakara na",
+        "en": "If you tell me the truth... What? I was really scared!",
+        "audio": "audio/jSLtw3451Yg/seg_214.mp3"
+    },
+    {
+        "id": 215,
+        "jp": "テレサ",
+        "rm": "Teresa",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_215.mp3"
+    },
+    {
+        "id": 216,
+        "jp": "はい、テレサ",
+        "rm": "Hai, Teresa",
+        "en": "Teresa? Yes, Teresa?",
+        "audio": "audio/jSLtw3451Yg/seg_216.mp3"
+    },
+    {
+        "id": 217,
+        "jp": "どうした?",
+        "rm": "Dou shita?",
+        "en": "Thank you, Are-kun! Wait! Perusa! Perusa-sama! Please think more about your position and act! Are-kun... What's wrong?",
+        "audio": "audio/jSLtw3451Yg/seg_217.mp3"
+    },
+    {
+        "id": 218,
+        "jp": "あ、いえ",
+        "rm": "A, ie",
+        "en": "What's wrong? Oh, it's nothing.",
+        "audio": "audio/jSLtw3451Yg/seg_218.mp3"
+    },
+    {
+        "id": 219,
+        "jp": "私も昔、アレくんに助けてもらったことがあって",
+        "rm": "Watakushi mo mukashi, arekun ni tasukete moratta koto ga atte",
+        "en": "Oh, no. I was once saved by you, Alec.",
+        "audio": "audio/jSLtw3451Yg/seg_219.mp3"
+    },
+    {
+        "id": 220,
+        "jp": "そんなこと、ありましたっけ?",
+        "rm": "Sonna koto, arimashita kke?",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_220.mp3"
+    },
+    {
+        "id": 221,
+        "jp": "ありましたよ",
+        "rm": "Arimashita yo",
+        "en": "Did I say that? I did!",
+        "audio": "audio/jSLtw3451Yg/seg_221.mp3"
+    },
+    {
+        "id": 222,
+        "jp": "てそこ、休憩終わり",
+        "rm": "Te soko, kyuukei owari",
+        "en": "Yes, I did. Then, that's it! Break time is over!",
+        "audio": "audio/jSLtw3451Yg/seg_222.mp3"
+    },
+    {
+        "id": 223,
+        "jp": "じゃんじゃん撮るぞ",
+        "rm": "Janjan toru zo",
+        "en": "The break is over! Let's take a break!",
+        "audio": "audio/jSLtw3451Yg/seg_223.mp3"
+    },
+    {
+        "id": 224,
+        "jp": "はい",
+        "rm": "Hai",
+        "en": "Let's go! Yes, sir.",
+        "audio": "audio/jSLtw3451Yg/seg_224.mp3"
+    },
+    {
+        "id": 225,
+        "jp": "ただ、そろそろ帰るぞ",
+        "rm": "Tada, sorosoro kaeru zo",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_225.mp3"
+    },
+    {
+        "id": 226,
+        "jp": "すみません",
+        "rm": "Sumimasen",
+        "en": "I'm sorry.",
+        "audio": "audio/jSLtw3451Yg/seg_226.mp3"
+    },
+    {
+        "id": 227,
+        "jp": "俺、まだ撮っていきたいんで",
+        "rm": "Ore, mada totte ikitai n de",
+        "en": "I'm sorry, but I still want to take a picture of you.",
+        "audio": "audio/jSLtw3451Yg/seg_227.mp3"
+    },
+    {
+        "id": 228,
+        "jp": "先に帰っててもらえますか",
+        "rm": "Saki ni kaettete moraemasu ka",
+        "en": "I want to take a picture with you, so can you go home first?",
+        "audio": "audio/jSLtw3451Yg/seg_228.mp3"
+    },
+    {
+        "id": 229,
+        "jp": "了解",
+        "rm": "Ryoukai",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_229.mp3"
+    },
+    {
+        "id": 230,
+        "jp": "ただくんって本当に写真が好きなんですね",
+        "rm": "Tadakun tte hontou ni shashin ga suki na n desu ne",
+        "en": "Tadakun, you really like photos, don't you?",
+        "audio": "audio/jSLtw3451Yg/seg_230.mp3"
+    },
+    {
+        "id": 231,
+        "jp": "先輩のお父さんは有名なカメラマンだったんすよ",
+        "rm": "Senpai no ochichisan wa yuumei na cameraman datta n su yo",
+        "en": "His father was a famous cameraman.",
+        "audio": "audio/jSLtw3451Yg/seg_231.mp3"
+    },
+    {
+        "id": 232,
+        "jp": "だから先輩もカメラマン、目指してるんです",
+        "rm": "Dakara senpai mo cameraman, mezashiteru n desu",
+        "en": "That's why Senpai is also aiming to become a cameraman.",
+        "audio": "audio/jSLtw3451Yg/seg_232.mp3"
+    },
+    {
+        "id": 233,
+        "jp": "夢のために一生懸命頑張る先輩を",
+        "rm": "Yume no tame ni isshou kenmei ganbaru senpai wo",
+        "en": "I'm aiming for it. I'll do my best for my dream.",
+        "audio": "audio/jSLtw3451Yg/seg_233.mp3"
+    },
+    {
+        "id": 234,
+        "jp": "俺、尊敬してるっす",
+        "rm": "Ore, sonkei shiterussu",
+        "en": "I respect the seniors who work hard for their dreams.",
+        "audio": "audio/jSLtw3451Yg/seg_234.mp3"
+    },
+    {
+        "id": 235,
+        "jp": "前踊りした子よ、ね",
+        "rm": "Mae odori shita ko yo, ne",
+        "en": "I respect you.",
+        "audio": "audio/jSLtw3451Yg/seg_235.mp3"
+    },
+    {
+        "id": 236,
+        "jp": "あ、チェリーじゃん",
+        "rm": "A, cherry jan",
+        "en": "I'll be back soon.",
+        "audio": "audio/jSLtw3451Yg/seg_236.mp3"
+    },
+    {
+        "id": 237,
+        "jp": "チェリーちゃんって言うんだ",
+        "rm": "Cherrychan tte iu n da",
+        "en": "Oh, it's Cherry! Cherry-chan is...",
+        "audio": "audio/jSLtw3451Yg/seg_237.mp3"
+    },
+    {
+        "id": 238,
+        "jp": "山下くん、知ってるんですか?",
+        "rm": "Yamashitakun, shitteru n desu ka?",
+        "en": "My name is Cherry-chan. Yamashita-kun.",
+        "audio": "audio/jSLtw3451Yg/seg_238.mp3"
+    },
+    {
+        "id": 239,
+        "jp": "うんっす、近所の美容院の猫なんですよ",
+        "rm": "Un ssu, kinjo no biyouin no neko na n desu yo",
+        "en": "Yamashita-kun, do you know him? Yes. He's from the nearby salon.",
+        "audio": "audio/jSLtw3451Yg/seg_239.mp3"
+    },
+    {
+        "id": 240,
+        "jp": "チェリー、なんて素敵な名前なんだ",
+        "rm": "Cherry, nante suteki na namae na n da",
+        "en": "I'm a cat. Cherry... What a wonderful cat!",
+        "audio": "audio/jSLtw3451Yg/seg_240.mp3"
+    },
+    {
+        "id": 241,
+        "jp": "男と女は8秒目が合えば恋に落ちると聞く",
+        "rm": "Otoko to onna wa 8 byoume ga aeba koi ni ochiru to kiku",
+        "en": "What's your name?",
+        "audio": "audio/jSLtw3451Yg/seg_241.mp3"
+    },
+    {
+        "id": 242,
+        "jp": "だが俺は落ちない、恋などしない、俺は",
+        "rm": "Daga ore wa ochinai, koi nado shinai, ore wa",
+        "en": "I heard that you fall in love, but I don't fall in love.",
+        "audio": "audio/jSLtw3451Yg/seg_242.mp3"
+    },
+    {
+        "id": 243,
+        "jp": "とりあえず息はしているな",
+        "rm": "Toriaezu iki wa shite iru na",
+        "en": "Jelly-chan! That's... It's Nyankovic! This is bad! Nyankovic! Are you okay?",
+        "audio": "audio/jSLtw3451Yg/seg_243.mp3"
+    },
+    {
+        "id": 244,
+        "jp": "よかった",
+        "rm": "Yokatta",
+        "en": "Yeah, I think it's good for now",
+        "audio": "audio/jSLtw3451Yg/seg_244.mp3"
+    },
+    {
+        "id": 245,
+        "jp": "あれじゃ、にゃんこスモールっすね",
+        "rm": "Are ja, nyanko small ssu ne",
+        "en": "You're still breathing, aren't you? I'm glad. See you later.",
+        "audio": "audio/jSLtw3451Yg/seg_245.mp3"
+    },
+    {
+        "id": 246,
+        "jp": "うまいな、山下くん",
+        "rm": "Umai na, Yamashitakun",
+        "en": "It's really small, isn't it?",
+        "audio": "audio/jSLtw3451Yg/seg_246.mp3"
+    },
+    {
+        "id": 247,
+        "jp": "山下くんは",
+        "rm": "Yamashitakun wa",
+        "en": "Hahaha, you're good at this!",
+        "audio": "audio/jSLtw3451Yg/seg_247.mp3"
+    },
+    {
+        "id": 248,
+        "jp": "女は",
+        "rm": "Onna wa",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_248.mp3"
+    },
+    {
+        "id": 249,
+        "jp": "にゃんこビッグさんも大丈夫?",
+        "rm": "Nyanko bigsan mo daijoubu?",
+        "en": "Ah! Hm? A man and a woman...",
+        "audio": "audio/jSLtw3451Yg/seg_249.mp3"
+    },
+    {
+        "id": 250,
+        "jp": "優しいお嬢さん、礼を言う",
+        "rm": "Yasashii ojousan, rei wo yuu",
+        "en": "Are you okay, Mr. Copic? You're a kind lady.",
+        "audio": "audio/jSLtw3451Yg/seg_250.mp3"
+    },
+    {
+        "id": 251,
+        "jp": "俺は大丈夫だ",
+        "rm": "Ore wa daijoubu da",
+        "en": "Father, I thank you. Who am I?",
+        "audio": "audio/jSLtw3451Yg/seg_251.mp3"
+    },
+    {
+        "id": 252,
+        "jp": "だが、心は悔しい",
+        "rm": "Daga, kokoro wa kuyashii",
+        "en": "I'm fine. But...",
+        "audio": "audio/jSLtw3451Yg/seg_252.mp3"
+    },
+    {
+        "id": 253,
+        "jp": "なぜなら、恋に落ちてしまったからだ",
+        "rm": "Naze nara, koi ni ochite shimattakara da",
+        "en": "My heart is in pain, because I fell in love with you.",
+        "audio": "audio/jSLtw3451Yg/seg_253.mp3"
+    },
+    {
+        "id": 254,
+        "jp": "何やってんだ、お前",
+        "rm": "Nan yatte n da, omae",
+        "en": "It's because I've fallen in love. What are you doing?",
+        "audio": "audio/jSLtw3451Yg/seg_254.mp3"
+    },
+    {
+        "id": 255,
+        "jp": "今日飛び過ぎだぞ",
+        "rm": "Kyou tobisugi da zo",
+        "en": "What the hell are you doing? Are you going to skip school today?",
+        "audio": "audio/jSLtw3451Yg/seg_255.mp3"
+    },
+    {
+        "id": 256,
+        "jp": "恋とは、痛みを伴う者である",
+        "rm": "Koi to wa, itami wo tomonau mono de aru",
+        "en": "Ignore music, outros, and channel promos.",
+        "audio": "audio/jSLtw3451Yg/seg_256.mp3"
+    },
+    {
+        "id": 257,
+        "jp": "親父さん、おふくろさん",
+        "rm": "Oyajisan, ofukurosan",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_257.mp3"
+    },
+    {
+        "id": 258,
+        "jp": "俺は道吉に拾ってもらった恩義があった",
+        "rm": "Ore wa dou kichi ni hirotte moratta ongi ga atta",
+        "en": "I'm sorry, mother. I'm the one who was picked up by Mitsuyoshi.",
+        "audio": "audio/jSLtw3451Yg/seg_258.mp3"
+    },
+    {
+        "id": 259,
+        "jp": "だからこれまで全力で見守ってきた",
+        "rm": "Dakara kore made zenryoku de mimamotte kita",
+        "en": "",
+        "audio": "audio/jSLtw3451Yg/seg_259.mp3"
+    },
+    {
+        "id": 260,
+        "jp": "だが、今日からは難しい",
+        "rm": "Daga, kyou kara wa muzukashii",
+        "en": "I've been watching you from the bottom of my heart. But from now on...",
+        "audio": "audio/jSLtw3451Yg/seg_260.mp3"
+    },
+    {
+        "id": 261,
+        "jp": "なぜなら",
+        "rm": "Naze nara",
+        "en": "But it's going to be difficult from now on.",
+        "audio": "audio/jSLtw3451Yg/seg_261.mp3"
+    },
+    {
+        "id": 262,
+        "jp": "ジェリーちゃーん",
+        "rm": "Jerrychaan",
+        "en": "It's difficult. Because...",
+        "audio": "audio/jSLtw3451Yg/seg_262.mp3"
+    },
+    {
+        "id": 263,
+        "jp": "カッパの意味が違います",
+        "rm": "Kappa no imi ga chigaimasu",
+        "en": "Jerry-chan!",
+        "audio": "audio/jSLtw3451Yg/seg_263.mp3"
+    },
+    {
+        "id": 264,
+        "jp": "厚生の命名法にバイエル符号というのがあって",
+        "rm": "Kousei no meimei hou ni Bayer fugou to iu no ga atte",
+        "en": "Ahahaha!",
+        "audio": "audio/jSLtw3451Yg/seg_264.mp3"
+    },
+    {
+        "id": 265,
+        "jp": "カッパは星の東急を表すものですよ",
+        "rm": "Kappa wa hoshi no Toukyuu wo arawasu mono desu yo",
+        "en": "There is a common name for it, the Vial Fugoh, and Kappa is a star.",
+        "audio": "audio/jSLtw3451Yg/seg_265.mp3"
+    },
+    {
+        "id": 266,
+        "jp": "聞いてます?",
+        "rm": "Kiitemasu?",
+        "en": "This is a sign of the rise of the stars.",
+        "audio": "audio/jSLtw3451Yg/seg_266.mp3"
+    },
+    {
+        "id": 267,
+        "jp": "うん、カッパが住んでるんでしょ",
+        "rm": "Un, kappa ga sunderu n desho",
+        "en": "Are you listening? Yes!",
+        "audio": "audio/jSLtw3451Yg/seg_267.mp3"
+    },
+    {
+        "id": 268,
+        "jp": "え?",
+        "rm": "E?",
+        "en": "You live in Kappa, right?",
+        "audio": "audio/jSLtw3451Yg/seg_268.mp3"
+    }
+]
